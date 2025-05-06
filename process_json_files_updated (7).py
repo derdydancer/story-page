@@ -177,9 +177,15 @@ for file in files:
     analysis = data['Analysis']
     
     safe_title = sanitize_title(title)
-    folder_path = os.path.join(os.getcwd(), safe_title)
     
-    # Create folder if it doesn't exist
+    # Create stories directory if it doesn't exist
+    stories_dir = os.path.join(os.getcwd(), 'stories')
+    if not os.path.exists(stories_dir):
+        os.makedirs(stories_dir)
+    
+    folder_path = os.path.join(stories_dir, safe_title)
+    
+    # Create story folder if it doesn't exist
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
     
