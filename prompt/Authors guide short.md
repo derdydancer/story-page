@@ -1,0 +1,1192 @@
+**Authors Guide to Replicating Grimms’ Fairy Tales (1st Edition)**
+
+**Purpose:** A complete reference for modern authors seeking to reproduce and create new works in the exact tradition of the Brothers Grimm, based on the style, structure, and content observed in their collected tales.
+
+**Scope:** This guide is informed exclusively by the analysis of the provided text collection of Grimms' Fairy Tales. It aims to capture the patterns, language, and narrative conventions present within these specific stories.
+
+---
+
+**Part 1: Language**
+
+The language of the Grimm tales (in this translation) is distinct: direct, simple, yet possessing an archaic flavour.
+
+*   **Vocabulary:** Predominantly uses common, concrete words. Nouns and verbs drive the action. Adjectives are functional (beautiful, poor, old, golden, little, great, wicked, faithful) rather than deeply descriptive or evocative in a modern sense. Archaic but understandable terms appear occasionally ("prithee," "nay," "alas," "whither," "hark ye," "dwelt," "betook," "naught"). Avoid complex, abstract, scientific, or modern vocabulary.
+*   **Sentence Structure:** Primarily simple and compound sentences. Clauses are frequently linked with "and," "but," "so," "then." Complex sentence structures with multiple subordinate clauses are rare. Sentences often follow a Subject-Verb-Object pattern. Active voice is heavily preferred.
+    *   *Example:* "The king became very angry at this, and ordered the gardener to keep watch all night under the tree." (Simple compound sentence)
+    *   *Example:* "She sat down in one corner of the room, and began to bewail her hard fate; when on a sudden the door opened, and a droll-looking little man hobbled in..." (Compound sentence with a 'when' clause)
+*   **Tone:** Matter-of-fact, declarative, and unadorned. Events, even magical or gruesome ones, are often reported with little explicit emotional colouring from the narrator. There's a lack of irony, overt sentimentality, or deep psychological exploration. The narrator is omniscient but rarely intrusive or interpretive.
+
+---
+
+**Part 2: Poetic Structures**
+
+While prose dominates, moments of poetic structure break the narrative, often signifying magic, important pronouncements, or recurring actions.
+
+*   **Rhyming Couplets/Quatrains:** Used for spells, messages from magical objects, or significant cries. These are simple, often AABB or ABCB rhymes.
+    *   *Example (Ashputtel):* "Shake, shake, hazel-tree, / Gold and silver over me!"
+    *   *Example (The Frog-Prince):* "Open the door, my princess dear, / Open the door to thy true love here! / And mind the words that thou and I said / By the fountain cool, in the greenwood shade."
+    *   *Example (The Raven):* "Caw! Caw! well I ween / Mortal lips have this way been."
+*   **Repetitive Phrases/Songs:** Characters or magical elements often repeat specific phrases or short songs, creating a ritualistic feel and reinforcing key plot points.
+    *   *Example (Rumpelstiltskin's Song):* "Merrily the feast I’ll make..."
+    *   *Example (Goose-Girl):* Falada's repeated warning.
+    *   *Example (Snowdrop):* The Queen's interaction with the mirror.
+*   **Incantatory Rhythm:** The simplicity of the prose and the repetition of sentence structures ("Then he/she said," "Then he/she went") can create a rhythmic, almost chant-like quality in places.
+
+---
+
+**Part 3: Story Structures**
+
+Grimm's tales often follow recognisable narrative patterns, frequently combining several structures within a single story:
+
+*   **The Linear Quest:** A protagonist sets out to find something (Golden Bird, Water of Life, Rumpelstiltskin's name) or someone (lost brothers, kidnapped princess). The journey involves overcoming obstacles, often with magical help. (e.g., The Golden Bird, The Water of Life, The Seven Ravens, The Queen Bee).
+
+*   **The Trial/Task Structure:** Protagonists must perform specific tasks, often in threes (three nights of watching, three impossible tasks, three questions). Success brings reward; failure often means death or enchantment. These tasks often test virtue (kindness, obedience) or skill. (e.g., The Golden Bird, Ashputtel, The Twelve Dancing Princesses, The Youth Who Went Forth to Learn What Fear Was, Iron Hans, The White Snake, Mother Holle).
+
+*   **Transformation and Restoration:** Characters are changed (into animals, stone, objects, or social states like poverty/royalty) due to curses, enchantments, or misfortune. Restoration often occurs through specific actions (kiss, breaking a spell object, fulfilling a condition), acts of love, faithfulness, or external magical intervention. (e.g., The Frog-Prince, The Raven, Lily and the Lion, Snowdrop, The Juniper-Tree [boy to bird to boy], The Salad [donkey transformation], Iron Hans [wild man]).
+
+*   **Punishment and Reward:** Actions have direct, often stark, and frequently supernatural consequences. Kindness, humility, cleverness, piety, and keeping promises are frequently rewarded (often with marriage, wealth, or kingdom). Pride, greed, cruelty, envy, laziness, and breaking taboos are punished, often brutally and fittingly (e.g., being torn apart, burned, drowned, turned to stone, left in original squalor). (e.g., The Fisherman and His Wife, Mother Holle, Ashputtel's stepsisters, The Goose-Girl's maid, The Dog and the Sparrow, Cat and Mouse in Partnership, King Grisly-Beard).
+
+*   **Cause and Effect (Often Magical/Immediate):** Simple actions, words, or omissions trigger significant, often immediate, magical events. Breaking a promise (Frog-Prince), disobeying advice (Golden Bird), showing kindness (Miser in the Bush's wishes, Queen Bee's helpers), uttering a rash wish (Seven Ravens), or interacting with a magical object/being sets the plot in motion. (e.g., The Golden Bird, The Frog-Prince, Briar Rose, The Juniper Tree, The Raven, The Blue Light).
+
+*   **Cyclical Structure/Repetition with Variation:** Some stories involve repeated actions, journeys, or trials, often with slight variations or escalations. This includes patterns of three attempts, three nights, or recurring encounters. (e.g., Ashputtel attending the ball three times, The Youth watching the castle three nights, Snowdrop's stepmother's three attempts, The Raven's helper failing three times, The Golden Bird's brothers failing sequentially).
+
+*   **Episodic Journey/Picaresque:** The narrative follows a protagonist through a series of relatively self-contained adventures or encounters, rather than a single, overarching quest. The focus is often on the character's nature (luck, foolishness, cleverness) revealed through these episodes. (e.g., Hans in Luck, Tom Thumb, The Valiant Little Tailor, The Little Peasant, Clever Hans, Frederick and Catherine).
+
+*   **Grateful Animals/Supernatural Helpers:** A common structure where the protagonist shows kindness to animals or humble beings (ants, ducks, bees, fox, birds, dwarfs) who later provide crucial aid in overcoming obstacles or fulfilling tasks. This often contrasts with unkind siblings/characters who fail. (e.g., The White Snake, The Queen Bee, The Golden Bird, Ashputtel, Old Sultan, Iron Hans).
+
+*   **The Trickster Outwits the Powerful/Foolish:** The protagonist, often from a lower social standing or perceived as simple, uses cunning, wit, and deception to overcome stronger, richer, or more foolish adversaries, often gaining wealth or status. (e.g., The Valiant Little Tailor, The Little Peasant, The Miser in the Bush, Clever Gretel, Doctor Knowall, The Fox and the Horse).
+
+*   **Hidden Identity/Revelation:** The protagonist's true identity or nature is concealed (often through disguise, enchantment, or lowly status) and revealed at a climactic moment, leading to recognition, reward, or marriage. (e.g., The Goose-Girl [princess as goose-girl], Ashputtel [at the ball], Cat-Skin [princess as scullion], Iron Hans [prince as gardener's boy], King Grisly-Beard [king as fiddler/beggar], The Twelve Huntsmen [princesses as huntsmen]).
+
+*   **The Simpleton Succeeds:** Often the youngest or most overlooked character, deemed foolish or simple ('Dummling'), ultimately triumphs over their apparently cleverer or stronger siblings/rivals through inherent goodness, kindness to others (especially nature/magic beings), or simply good fortune. (e.g., The Golden Bird, The Queen Bee, The Golden Goose, The Water of Life, Three Languages).
+
+*   **Escalating Greed/Desire Leads to Ruin:** A narrative focused on a character whose insatiable desires grow with each fulfillment, ultimately leading to their downfall and often a return to their original (or worse) state. (e.g., The Fisherman and His Wife, Cat and Mouse in Partnership [the cat's greed]).
+
+*   **Broken Taboo/Promise as Catalyst:** The core conflict arises directly from the violation of a specific prohibition, rule, or promise, unleashing negative consequences or initiating a quest for restoration. (e.g., Briar Rose [spindle], The Frog-Prince [initial refusal], Lily and the Lion [ray of light], Iron Hans [polluting the well], The Blue Light [trying to take the light prematurely], Rapunzel [revealing the prince's visits]).
+
+*   **Fable/Didactic Cautionary Tale:** Shorter narratives, often featuring personified animals or objects, designed to illustrate a specific moral lesson about behaviour, character flaws, or the ways of the world, often ending with stark consequences. (e.g., The Straw, the Coal, and the Bean; Cat and Mouse in Partnership; The Fox and the Cat; The Mouse, the Bird, and the Sausage; The Old Man and his Grandson; The Wolf and the Seven Little Kids).
+
+*   **Rescue from Enchantment/Imprisonment:** The central plot revolves around freeing oneself or, more commonly, a loved one from a magical curse, transformation, or physical imprisonment imposed by a malevolent force (witch, enchanter, curse). (e.g., Jorinda and Jorindel, Rapunzel, The Raven, Lily and the Lion, Snowdrop [from poisoned sleep], Sweetheart Roland).
+
+*   **Justice/Revenge Cycle:** Stories where the plot is primarily driven by the need to enact justice or revenge for a wrong suffered, often involving escalating acts of retribution or a quest to expose and punish the wrongdoer. (e.g., The Dog and the Sparrow, The Juniper-Tree [bird's song and actions], The Miser in the Bush [using the fiddle], The Blue Light [soldier's revenge], The Robber Bridegroom [revelation and execution]).
+
+*   **The Cumulative Burden/Accretion (Subtle Structure):** A less common structure where the plot builds through the physical accumulation of elements – people sticking together, objects placed strategically – leading to a comedic or chaotic climax. (e.g., The Golden Goose [characters sticking], The Adventures of Chanticleer and Partlet [Korbes story, items accumulating in the house]).
+
+*   **The Accidental Hero/Success Through Misunderstanding (Subtle Structure):** Characters achieve heroic outcomes or success not through intent or skill, but through bumbling, misunderstanding, or unintended consequences of their actions which frighten or deceive opponents. (e.g., The Travelling Musicians [scaring robbers], Frederick and Catherine [door defeats thieves], Doctor Knowall [accidental guesses interpreted as knowledge]).
+
+*   **Inversion of Expectations (Subtle Structure):** The narrative sets up a familiar fairy-tale trope or goal but subverts the expected outcome or method of achievement. (e.g., The Youth Who Went Forth to Learn What Fear Was [learns mundanely], Hans in Luck [finds happiness in loss], The Travelling Musicians [find domesticity not fame]).
+
+*   **Power of Naming/True Identity Knowledge (Motif as Structure):** While part of revelation plots, the specific act of knowing or speaking a true name holds inherent magical power or is the key to defeating an antagonist or breaking a spell. (e.g., Rumpelstiltskin, often crucial in recognition scenes like The Goose-Girl or Iron Hans where knowing *who* someone truly is changes everything).
+
+---
+
+**Complete List of Magic Items**
+
+Items imbued with supernatural properties, driving the plot or enabling key actions:
+
+1.  **Golden Apples:** Attract the Golden Bird; object of the king's initial concern (The Golden Bird).
+2.  **Golden Feather:** Proof of the Golden Bird's existence, valuable in itself (The Golden Bird).
+3.  **Golden Bird:** Magical bird, object of the initial quest, potentially talks or has other powers implied by its value (The Golden Bird).
+4.  **Golden Horse:** Runs as swiftly as the wind (The Golden Bird).
+5.  **Golden Cage:** Tempting but dangerous alternative to the wooden cage, triggers an alarm (The Golden Bird).
+6.  **Magic Fox:** Offers counsel, provides swift transport, works magic (removing hill), reveals hidden truths, is an enchanted prince (The Golden Bird).
+7.  **Magic Flower (Purple):** Breaks enchantments, specifically freeing Jorinda and other birds (Jorinda and Jorindel).
+8.  **Magic Fairy (Enchantress):** Can change shape (owl, cat, woman), casts enchantments (fixing people, turning maidens into birds) (Jorinda and Jorindel).
+9.  **Spindle (Cursed):** Causes deep, hundred-year sleep upon pricking (Briar Rose).
+10. **Magic Cloak (Invisibility):** Allows wearer to become invisible and follow unseen (The Twelve Dancing Princesses).
+11. **Magic Fish (Enchanted Prince):** Grants wishes when asked by the fisherman (The Fisherman and His Wife).
+12. **Willow-Wren (as King of Birds):** Commands other birds/insects in warfare (Willow-Wren and the Bear).
+13. **Hornet (as weapon):** Used strategically by the Willow-Wren to sting the fox's tail and cause retreat (Willow-Wren and the Bear).
+14. **Golden Ball:** Favourite toy, catalyst for the Frog-Prince story when lost in the spring (The Frog-Prince).
+15. **Magic Frog (Enchanted Prince):** Can retrieve items from depth, requires promise fulfillment (eating, sleeping) for transformation (The Frog-Prince).
+16. **Magic Lock of Hair:** Protective charm, speaks warnings to the true bride (Goose-Girl).
+17. **Falada (Talking Horse):** Speaks truth even after being decapitated (Goose-Girl).
+18. **Magic Wand:** Used by the stepdaughter for transformations (Roland into lake, self into duck/flower) and escape (Sweetheart Roland).
+19. **Many-League Boots:** Allow the witch to cover great distances quickly (Sweetheart Roland).
+20. **Answering Blood Drops:** Magically answer for the departed stepdaughter to deceive the witch (Sweetheart Roland).
+21. **Magic Fiddle/Music:** Compels the witch to dance uncontrollably amongst thorns (Sweetheart Roland).
+22. **Magic Looking-Glass:** Speaks truth, reveals the fairest in the land (Snowdrop).
+23. **Poisoned Lace:** Causes suffocation/apparent death when laced too tightly (Snowdrop).
+24. **Poisoned Comb:** Causes unconsciousness/apparent death upon contact with hair (Snowdrop).
+25. **Poisoned Apple:** One half causes death upon consumption (Snowdrop).
+26. **Water of Life:** Heals mortal illness, restores life/health (Water of Life, King of the Golden Mountain).
+27. **Iron Wand:** Magically opens the enchanted castle door (Water of Life).
+28. **Magic Bread (Loaves):** Quiets enchanted lions (Water of Life).
+29. **Magic Sword (Army Slayer):** Can slay whole armies at a blow (Water of Life).
+30. **Magic Loaf (Inexhaustible):** Never fails, provides endless food (Water of Life).
+31. **Magic Rings (Knights'):** Taken as tokens from entranced knights (Water of Life).
+32. **White Snake (Flesh of):** Grants the power to understand the language of animals when eaten (White Snake).
+33. **Magic Ring (from fish):** Object of a quest task, retrieved by grateful fish (White Snake).
+34. **Apple from Tree of Life:** Object of a quest task, retrieved by grateful ravens (White Snake).
+35. **Queen Bee (Helper):** Supernaturally identifies the correct princess by tasting honey on her lips (The Queen Bee).
+36. **Magic Stick:** Opens any door it strikes (The Raven).
+37. **Magic Cloak (Invisibility/Shape-shifting):** Makes wearer invisible (The Raven, King of the Golden Mountain). Also used to change form (fly) in King of the Golden Mountain.
+38. **Magic Horse:** Can travel over any obstacle, including a glass mountain (The Raven).
+39. **Enchanted Food/Drink:** Offered by the old woman, causes deep sleep (The Raven).
+40. **Inexhaustible Food/Wine:** Left by the Raven Princess, never runs out (The Raven).
+41. **Magic Ring (Identification):** Used by the Raven princess to identify herself and later thrown into a goblet (The Raven).
+42. **All-Knowing Maps:** Show all towns, villages, and houses, used by giants (The Raven).
+43. **Golden Goose:** Feathers are pure gold; magically traps those who touch it greedily, compelling them to follow (The Golden Goose).
+44. **Magic Grey Man:** Grants luck/gifts, provides magical items/helpers (The Golden Goose).
+45. **Transformed Cake/Beer:** Changes from poor cinder-cake/sour beer to fine sweet cake/good wine due to kindness (The Golden Goose).
+46. **Magical Ship (Land/Water):** Can sail on both surfaces, provided by the grey man (The Golden Goose).
+47. **Wishing-Cloak:** Transports wearer instantly to desired location (The Salad).
+48. **Bird's Heart:** Magically provides a gold coin under the pillow daily (The Salad).
+49. **Magic Salad (Bad):** Transforms the eater into an ass (The Salad).
+50. **Magic Salad (Good):** Reverses the ass transformation (The Salad).
+51. **Wishing-Ring:** Grants wishes, but with a crucial limitation (not to wish the Queen home) (King of the Golden Mountain).
+52. **Magic Sword (Heads Off):** Decapitates enemies when the command "Heads off!" is given (King of the Golden Mountain).
+53. **Magic Boots (Swift Travel):** Carries the wearer instantly wherever wished (King of the Golden Mountain).
+54. **Blue Light:** Summons a powerful dwarf servant when used to light a pipe (The Blue Light).
+55. **Magic Dwarf/Manikin:** Obeys the commands of the owner of the Blue Light, possesses great power (The Blue Light).
+56. **Dress like the Sun:** Dazzling magical garment stored in a nutshell (Cat-Skin).
+57. **Dress like the Moon:** Shining magical garment stored in a nutshell (Cat-Skin).
+58. **Dress like the Stars:** Sparkling magical garment stored in a nutshell (Cat-Skin).
+59. **Mantle of a Thousand Furs:** Magical disguise enabling the princess to appear as 'Cat-Skin' (Cat-Skin).
+60. **Magic Tree (Hazel):** Connected to the dead mother's spirit, provides dresses/slippers when asked, aided by a bird (Ashputtel).
+61. **Magic Birds (Doves, etc.):** Help with impossible tasks (sorting peas), provide magical clothing/items, speak truth/warnings (Ashputtel, Goose-Girl, Robber Bridegroom, Seven Ravens).
+62. **Magic Casket (from Sun):** Contains the dress like the sun (Lily and the Lion).
+63. **Magic Egg (from Moon):** Contains a golden hen and twelve golden chicks (Lily and the Lion).
+64. **Magic Rod (from Night-Wind):** Used to smite and defeat the dragon (Lily and the Lion).
+65. **Magic Nut (from Night-Wind):** Creates a giant nut-tree mid-sea for the griffin to rest upon when thrown (Lily and the Lion).
+66. **Magic Bow (Infallible):** Hits any target it is aimed at (The Miser in the Bush, The Four Clever Brothers).
+67. **Magic Fiddle:** Compels anyone who hears it to dance uncontrollably (The Miser in the Bush).
+68. **Magic Third Wish:** Compels others to grant requests made by the wisher (The Miser in the Bush).
+69. **Magic Well (Portal/Transformative):** Acts as a portal to Mother Holle's world; also, water turns finger/hair golden (Mother Holle, Iron Hans).
+70. **Speaking Oven/Bread:** Loaves baked inside plead to be taken out (Mother Holle).
+71. **Speaking Apple Tree:** Pleads to be shaken when its fruit is ripe (Mother Holle).
+72. **Shower of Gold:** Magical reward for kindness and diligence from Mother Holle (Mother Holle).
+73. **Shower of Pitch:** Magical punishment for laziness and unkindness from Mother Holle (Mother Holle).
+74. **Warning Bird:** Speaks truth to warn the maiden away from the murderers' lair (The Robber Bridegroom).
+75. **Magical Dwarf (Rumpelstiltskin):** Possesses the magic to spin straw into gold; his name holds power (Rumpelstiltskin).
+76. **Soothsayer Raven (in skin):** Reveals hidden secrets when prompted by pinching (The Little Peasant).
+77. **Wishing Power (Child):** Innate ability to make wishes come true (The Pink).
+78. **Magic Elves:** Perform impossible shoemaking tasks overnight (The Elves and the Shoemaker).
+79. **Juniper Tree:** Associated with the mother's spirit; source of the boy's transformation into a bird (The Juniper-Tree).
+80. **Magic Bird (transformed boy):** Sings a magical song revealing truth, compels gifts, takes revenge with a millstone (The Juniper-Tree).
+81. **Magic Millstone:** Given to the bird, used as a magical weapon (The Juniper-Tree).
+82. **Language Ability (Learned):** Supernatural ability to understand the speech of dogs, birds, and frogs (The Three Languages).
+83. **Guiding/Speaking Doves:** Give a divine sign for papacy, whisper the mass into the Pope's ear (The Three Languages).
+84. **Magic Telescope/Glass:** Enables the user to see anything happening on earth or in the sky (The Four Clever Brothers).
+85. **Magic Needle:** Sews anything perfectly, regardless of material (soft or hard), leaving no visible seam (The Four Clever Brothers).
+86. **All-Knowing Lion:** Supernaturally knows secrets and hidden truths (The Twelve Huntsmen).
+87. **Animated Corpse/Parts:** Body parts act independently or reassemble in the haunted castle (The Youth Who Went Forth to Learn What Fear Was).
+88. **Magic Cats/Dogs:** Appear supernaturally, associated with evil spirits in the castle (The Youth Who Went Forth to Learn What Fear Was).
+89. **Moving Bed:** Moves and travels violently on its own accord (The Youth Who Went Forth to Learn What Fear Was).
+90. **Ghost/Spirit (Bearded Man):** Guardian of treasure with supernatural strength, vulnerable when his beard is trapped (The Youth Who Went Forth to Learn What Fear Was).
+91. **Iron Hans (Wild Man/Enchanted King):** Possesses great power, controls wealth, provides magical aid (horses, armour, troops), enchantment broken by hero (Iron Hans).
+92. **Magical Armour/Horse:** Invincible/superior equipment provided by Iron Hans (Iron Hans).
+93. **Magic Key/Finger Bone:** The only means to open the door of the glass mountain castle (The Seven Ravens).
+94. **Enchanted Bear (Prince):** Able to speak, lives with family, transforms back into a prince upon the dwarf's death (Snow-White and Rose-Red).
+95. **Magic Dwarf (Snow-White/Rose-Red):** Possesses treasure, cursed the prince, wicked nature seems supernatural (Snow-White and Rose-Red).
+96. **Rampion Plant:** Causes an uncontrollable, magical craving in the mother (Rapunzel).
+97. **Magical Hair (Rapunzel's):** Unnaturally long and strong, used as a climbing rope (Rapunzel).
+98. **Healing Tears (Rapunzel's):** Restore the prince's sight when they fall on his eyes (Rapunzel).
+99. **House of Bread and Cake:** Magically constructed house made of edible sweets to lure children (Hansel and Gretel).
+100. **Guiding Bird (Snow-white):** Leads Hansel and Gretel to the witch's house (Hansel and Gretel).
+101. **Helpful Duck:** Magically understands and assists children in crossing water (Hansel and Gretel).
+
+---
+
+**Part 5: Complete List of Ordinary but Important Items**
+
+Mundane objects crucial to plot development or symbolic meaning:
+
+1.  **Golden Apples (Non-magical initially):** Item counted and stolen, requiring watch and initiating the quest (The Golden Bird).
+2.  **Arrow:** Ordinary weapon used by the third son against the Golden Bird (The Golden Bird).
+3.  **Wooden Cage:** Ordinary container for the Golden Bird, contrasted with the tempting golden one (The Golden Bird).
+4.  **Leathern Saddle:** Ordinary saddle, the correct choice to avoid trouble (The Golden Bird).
+5.  **Golden Saddle:** Tempting, ornate saddle that triggers an alarm (The Golden Bird).
+6.  **Silver (Lump):** Hans' initial wages, object of first trade (Hans in Luck).
+7.  **Horse:** Ordinary means of transport, object of trade (Hans in Luck, The Fox and the Horse).
+8.  **Cow:** Ordinary animal, object of trade, source of supposed milk (Hans in Luck).
+9.  **Pig:** Ordinary animal, object of trade, potential food (Hans in Luck).
+10. **Goose (Ordinary):** Object of trade, potential food/feathers (Hans in Luck). (Distinguish from the magical Golden Goose).
+11. **Grindstone:** Ordinary sharpener, object of trade (Hans in Luck).
+12. **Stone (Heavy):** Hans' final burdensome possession, discarded with relief (Hans in Luck).
+13. **Cages (700):** Ordinary cages holding enchanted maidens (Jorinda and Jorindel).
+14. **Pocket-handkerchief:** Used by Hans for silver (Hans in Luck), used to wrap bones (Juniper-Tree), used to hide golden hair (Iron Hans).
+15. **Wheelbarrow:** Used by butcher for pig (Hans in Luck).
+16. **String:** Used to lead pig (Hans in Luck).
+17. **Scissor-grinder's Wheel/Stone:** Ordinary professional tools, object of trade (Hans in Luck).
+18. **Ass:** Ordinary working animal (Travelling Musicians, The Salad).
+19. **Dog (Ordinary):** Companion animal, seeks work (Travelling Musicians), suffers hunger, killed by carter (Dog and Sparrow).
+20. **Cat (Ordinary):** Companion animal, seeks work (Travelling Musicians), makes deal with mouse (Cat and Mouse).
+21. **Cock (Chanticleer):** Ordinary farm bird, seeks work (Travelling Musicians), goes on adventures (Chanticleer and Partlet).
+22. **Table (Robbers'):** Laden with food, setting for musicians' feast (Travelling Musicians).
+23. **Straw (Bedding):** Resting place for donkey (Travelling Musicians), peasant (Little Peasant).
+24. **Mat:** Resting place for dog (Travelling Musicians).
+25. **Ashes (Warm):** Resting place for cat (Travelling Musicians), Ashputtel's dwelling place, used to mark path (Robber Bridegroom).
+26. **Match:** Used by robber attempting to light candle (Travelling Musicians).
+27. **Cudgel:** Shepherd's weapon against wolf (Old Sultan).
+28. **Cushion (Old):** Given as bed to Old Sultan (Old Sultan).
+29. **Barn Door:** Hiding place for shepherd (Old Sultan).
+30. **Bush:** Hiding place for boar (Old Sultan).
+31. **Dish of Beans:** Food prepared by old woman (Straw, Coal, Bean).
+32. **Pan:** Cooking vessel (Straw, Coal, Bean).
+33. **Needle and Thread:** Used by tailor to sew bean (Straw, Coal, Bean), used by goat mother (Wolf/Seven Kids).
+34. **Golden Dishes:** Fine tableware for fairies (Briar Rose).
+35. **Spindle (Ordinary):** Tool used for spinning, becomes instrument of curse (Briar Rose).
+36. **Golden Key:** Ordinary key opens tower room (Briar Rose).
+37. **Thorn Hedge:** Ordinary hedge grown magically large (Briar Rose).
+38. **Coach:** Royal transport (Briar Rose, Frog Prince, Cat-Skin).
+39. **Steak:** Food item pecked down by sparrow (Dog and Sparrow), cooked and stolen by dog (Frederick and Catherine).
+40. **Bread Rolls:** Food item pecked down by sparrow (Dog and Sparrow).
+41. **Cart (Carter's):** Vehicle, setting for sparrow's revenge (Dog and Sparrow).
+42. **Casks of Wine:** Carter's goods, destroyed by sparrow (Dog and Sparrow).
+43. **Hatchet:** Carter's tool/weapon, ultimately harms himself and horses (Dog and Sparrow).
+44. **Corn (in loft):** Grain eaten by birds as revenge (Dog and Sparrow).
+45. **Furniture/Glasses/Benches/Table/Walls:** Destroyed by carter and wife in rage (Dog and Sparrow).
+46. **Shoes (Princesses'):** Ordinary shoes worn out nightly by (magical) dancing, provide clue (The Twelve Dancing Princesses).
+47. **Beds (Twelve):** Sleeping place for princesses (The Twelve Dancing Princesses).
+48. **Drawers/Boxes:** Contain fine clothes (The Twelve Dancing Princesses).
+49. **Fine Clothes/Royal Robes:** Worn by princesses for dancing (Twelve Dancing Princesses), given to soldier (Twelve Dancing Princesses), contrasted with shabby clothes (Goose-Girl), tokens of status.
+50. **Branch (Silver/Gold/Diamond):** Ordinary branches taken as tokens from magical trees (The Twelve Dancing Princesses).
+51. **Boats (Twelve):** Used to cross lake (The Twelve Dancing Princesses).
+52. **Golden Cup (Princesses'):** Drinking vessel taken as token (The Twelve Dancing Princesses).
+53. **Fishing Rod/Line:** Fisherman's tool (Fisherman and His Wife), tangles dwarf's beard (Snow-White/Rose-Red).
+54. **Pigsty:** Initial humble dwelling (Fisherman and His Wife).
+55. **Cottage:** First wish fulfillment, improved dwelling (Fisherman and His Wife).
+56. **Castle:** Grand dwelling, object of wishes (Fisherman and His Wife, King of the Golden Mountain, Water of Life, etc.).
+57. **Throne (Gold/Diamonds):** Ordinary symbol of royalty/emperorship/papacy (Fisherman and His Wife).
+58. **Crown:** Ordinary symbol of royalty/emperorship/papacy (Fisherman and His Wife).
+59. **Straw:** Used as bridge, burns (Straw, Coal, Bean).
+60. **Coal:** Ordinary fuel, attempts crossing, drowns (Straw, Coal, Bean).
+61. **Bean:** Ordinary food item, laughs and bursts, sewn up (Straw, Coal, Bean).
+62. **Pot of Fat:** Ordinary food store, object of deception and consumption (Cat and Mouse).
+63. **Church/Altar:** Hiding place for pot of fat (Cat and Mouse).
+64. **Golden Cup (Princess's):** Used for drinking by the brook (Goose-Girl).
+65. **Royal Clothes:** Exchanged for maid's shabby ones (Goose-Girl).
+66. **Shabby Clothes:** Maid's clothes, worn by princess (Goose-Girl).
+67. **Dark Gate (City):** Place where Falada's head is nailed (Goose-Girl).
+68. **Hat (Curdken's):** Blown away by magic wind (Goose-Girl).
+69. **Nutshells:** Used to build toy carriage (Chanticleer).
+70. **Egg:** Used as payment, shells used in prank (Chanticleer).
+71. **Pin/Needle:** Ordinary travellers given lift, used in prank (Chanticleer).
+72. **Inn:** Lodging place (Chanticleer).
+73. **Easy Chair/Handkerchief:** Items where pin/needle are hidden (Chanticleer).
+74. **Mice (Six):** Harnessed to carriage (Chanticleer).
+75. **Washing Cistern:** Hiding place for duck (Chanticleer).
+76. **Bed Pillow:** Hiding place for pin (Chanticleer).
+77. **Towel:** Hiding place for egg (Chanticleer).
+78. **Nut (Large):** Chokes Partlet (Chanticleer).
+79. **River:** Source of water (Chanticleer).
+80. **Silken Cord:** Needed to draw water (Chanticleer).
+81. **Garland:** Hanging on willow, needed for cord (Chanticleer).
+82. **Willow:** Tree in garden (Chanticleer).
+83. **Hearse (Little):** Built by mice for Partlet (Chanticleer).
+84. **Log of Wood:** Tries to act as bridge (Chanticleer).
+85. **Stone:** Acts as bridge (Chanticleer).
+86. **Grave:** Burial place (Chanticleer).
+87. **Rampion/Rapunzel (Plant):** Vegetable craved by mother (Rapunzel).
+88. **Salad:** Made from rampion (Rapunzel).
+89. **Tower:** Rapunzel's prison (Rapunzel).
+90. **Hooks (Window):** Used to secure Rapunzel's hair (Rapunzel).
+91. **Skein of Silk:** Material for ladder (Rapunzel).
+92. **Scissors:** Used to cut Rapunzel's hair (Rapunzel).
+93. **Roots/Berries:** Survival food in desert (Rapunzel).
+94. **Thorns:** Blind the prince (Rapunzel).
+95. **Pails:** Used by cook to fetch water (Fundevogel).
+96. **Kettle:** Used by cook to boil water for Fundevogel (Fundevogel).
+97. **Rose-Tree/Rose:** Transformation disguise (Fundevogel).
+98. **Church/Chandelier:** Transformation disguise (Fundevogel).
+99. **Fishpond/Duck:** Transformation disguise (Fundevogel).
+100. **Table (Tailor's):** Workplace (Valiant Little Tailor).
+101. **Jam:** Attracts flies, bought from peasant woman (Valiant Little Tailor).
+102. **Bread:** Eaten with jam (Valiant Little Tailor).
+103. **Cloth (Piece of):** Used as fly-swatter (Valiant Little Tailor).
+104. **Girdle:** Embroidered with "Seven at one stroke" (Valiant Little Tailor).
+105. **Cheese (Old):** Carried by tailor, squeezed to imitate stone (Valiant Little Tailor).
+106. **Bird:** Caught in thicket, carried by tailor, thrown instead of stone (Valiant Little Tailor).
+107. **Stone:** Squeezed by giant, thrown high (Valiant Little Tailor).
+108. **Oak Tree (Felled):** Carried by giant (with tailor) (Valiant Little Tailor).
+109. **Cherry Tree:** Bent by giant (Valiant Little Tailor).
+110. **Cavern/Cave:** Giants' dwelling (Valiant Little Tailor, Snow-White/Rose-Red).
+111. **Roasted Sheep:** Giants' food (Valiant Little Tailor).
+112. **Bed (Giant's):** Too large for tailor (Valiant Little Tailor).
+113. **Iron Bar:** Giant's weapon (Valiant Little Tailor).
+114. **Rope:** Taken by tailor to catch unicorn (Valiant Little Tailor).
+115. **Axe:** Taken by tailor to free unicorn horn (Valiant Little Tailor, The Turnip, Sweetheart Roland, King of the Golden Mountain).
+116. **Unicorn's Horn:** Stuck in tree (Valiant Little Tailor).
+117. **Chapel:** Wild boar trapped inside (Valiant Little Tailor).
+118. **Doublet/Pantaloons:** Tailor's work, mentioned in sleep (Valiant Little Tailor).
+119. **Yard-measure:** Tailor's tool, mentioned in sleep (Valiant Little Tailor).
+120. **Ship:** Intended transport for bound tailor (Valiant Little Tailor).
+121. **Pebbles (White):** Used by Hansel to mark path (Hansel and Gretel).
+122. **Bread (Piece/Crumbs):** Given as provision, used for failed tracking (Hansel and Gretel).
+123. **Brushwood:** Gathered for fire (Hansel and Gretel).
+124. **Wood-axe:** Sound mistaken for father (Hansel and Gretel).
+125. **Branch (Withered Tree):** Makes tapping sound (Hansel and Gretel).
+126. **Milk/Pancakes/Sugar/Apples/Nuts:** Food provided by witch (Hansel and Gretel).
+127. **Stable/Grated Door:** Hansel's prison (Hansel and Gretel).
+128. **Bone (Little):** Used by Hansel to deceive witch (Hansel and Gretel).
+129. **Cauldron:** For boiling water, intended for Hansel (Hansel and Gretel).
+130. **Oven:** Used for baking, becomes witch's demise (Hansel and Gretel).
+131. **Bolt (Iron Door):** Fastened on witch in oven (Hansel and Gretel).
+132. **Chests:** Containing pearls and jewels (Hansel and Gretel).
+133. **Pinafore:** Used by Gretel to carry treasure (Hansel and Gretel).
+134. **Sausage:** Character, cooked (Mouse, Bird, Sausage).
+135. **Pot:** Cooking vessel (Mouse, Bird, Sausage).
+136. **Well:** Bird drowns in (Mouse, Bird, Sausage), key object in other stories.
+137. **Spindle:** Falls into well, leads to Mother Holle (Mother Holle).
+138. **Baker's Oven/Bread:** Calls out to be saved (Mother Holle).
+139. **Bread-shovel:** Tool used to remove bread (Mother Holle).
+140. **Apple Tree/Apples:** Calls out to be shaken (Mother Holle).
+141. **Bed (Mother Holle's):** Shaking causes snow on Earth (Mother Holle).
+142. **Feathers:** Fly like snow when bed is shaken (Mother Holle).
+143. **Gateway:** Entrance/Exit to Mother Holle's realm (Mother Holle).
+144. **Pitch (Bucketful):** Punishment for lazy girl (Mother Holle).
+145. **Cap (Red Velvet):** Little Red-Cap's namesake item.
+146. **Cake/Bottle of Wine:** Gifts for grandmother (Little Red-Cap).
+147. **Oak Trees/Nut Trees:** Landmarks near grandmother's house (Little Red-Cap).
+148. **Flowers:** Gathered by Little Red-Cap in wood.
+149. **Latch (Door):** Lifted by wolf (Little Red-Cap).
+150. **Bed/Curtains:** Grandmother's bed, where wolf hides (Little Red-Cap).
+151. **Scissors:** Used by huntsman to free victims (Little Red-Cap, Snow-White/Rose-Red).
+152. **Stones (Great):** Used to fill wolf's belly (Little Red-Cap, Wolf/Seven Kids).
+153. **Wolf's Skin:** Taken by huntsman (Little Red-Cap).
+154. **Trough (Stone):** Used to drown second wolf (Little Red-Cap).
+155. **Sausages (Water from):** Lures wolf into trough (Little Red-Cap).
+156. **Peas/Lentils:** Used to mark path (Robber Bridegroom), used in task (Ashputtel).
+157. **Cask:** Hiding place (Robber Bridegroom).
+158. **Cauldron:** For boiling water/cooking victim (Robber Bridegroom, Hansel and Gretel, Fundevogel).
+159. **Hatchet:** Used by robber to cut off finger (Robber Bridegroom).
+160. **Finger (with Gold Ring):** Cut off, becomes evidence (Robber Bridegroom).
+161. **Cart (Woodman's):** Pulled by horse, transport for Tom Thumb (Tom Thumb).
+162. **Straw:** Tom Thumb's seat (Tom Thumb).
+163. **Mouse-hole:** Tom Thumb's hiding place (Tom Thumb).
+164. **Snail-shell:** Tom Thumb's resting place (Tom Thumb).
+165. **Iron Window-bars:** Tom Thumb slips through (Tom Thumb).
+166. **Hay-loft/Hay:** Tom Thumb's resting place, leads to cow (Tom Thumb).
+167. **Milk-pail:** Knocked over by frightened maid (Tom Thumb).
+168. **Stomach (Cow/Wolf):** Tom Thumb's temporary prisons (Tom Thumb).
+169. **Drain:** Wolf enters pantry through (Tom Thumb).
+170. **Axe:** Woodman's weapon against wolf (Tom Thumb).
+171. **Scythe:** Wife's potential weapon against wolf (Tom Thumb).
+172. **Straw (for spinning):** Raw material for Rumpelstiltskin's magic (Rumpelstiltskin).
+173. **Spinning-wheel:** Tool for spinning straw/thread (Rumpelstiltskin, Twelve Huntsmen).
+174. **Necklace:** Ordinary jewellery, payment (Rumpelstiltskin, Cat-Skin).
+175. **Ring (Finger):** Ordinary jewellery, payment (Rumpelstiltskin, Cat-Skin, Seven Ravens, Raven).
+176. **Fowls (Roast):** Food eaten by Clever Gretel (Clever Gretel).
+177. **Spit:** Ordinary cooking tool (Clever Gretel).
+178. **Knife (Carving/Sharpening):** Ordinary tool used as threat/deception (Clever Gretel).
+179. **Earthenware Bowl:** For old grandfather's food, breaks (Old Man and Grandson).
+180. **Wooden Bowl:** Replacement bowl for grandfather (Old Man and Grandson).
+181. **Bits of Wood:** Used by grandson to make symbolic trough (Old Man and Grandson).
+182. **Wooden Calf:** Carpenter's creation, pawn in scheme (Little Peasant).
+183. **Raven (Injured):** Ordinary bird used as fake "soothsayer" (Little Peasant).
+184. **Skin (Cow's):** Sold, used to wrap raven (Little Peasant).
+185. **Tiled Stove:** Hiding place for food (Little Peasant), hiding place for kid (Wolf/Seven Kids).
+186. **Pillow:** Hiding place for wine (Little Peasant).
+187. **Bed:** Hiding place for salad/cakes (Little Peasant).
+188. **Closet:** Hiding place for parson (Little Peasant).
+189. **Keys:** Held by miller's wife (Little Peasant).
+190. **Talers (300):** Payment for false prophecy (Little Peasant).
+191. **Barrel (Pierced):** Used for execution by drowning (Little Peasant).
+192. **Sheep/Flock:** Acquired through trickery (Little Peasant).
+193. **A B C Book (with Cock):** Ordinary book, first step to becoming "Doctor Knowall."
+194. **Signboard:** Ordinary sign proclaiming "Doctor Knowall."
+195. **Carriage:** Lord's transport (Doctor Knowall).
+196. **Crabs:** Ordinary food hidden under cover (Doctor Knowall).
+197. **Stove:** Ordinary hiding place for servant (Doctor Knowall).
+198. **Pick-axe:** Ordinary tool, source of imagined future danger (Clever Elsie).
+199. **Pitcher/Jug:** Ordinary container for fetching beer (Clever Elsie).
+200. **Chair:** Used to reach barrel tap (Clever Elsie).
+201. **Barrel (Beer):** Source of drink (Clever Elsie).
+202. **Fowler's Net with Bells:** Ordinary hunting tool used in prank on Elsie (Clever Elsie).
+203. **Corn (Field):** Place where Elsie sleeps (Clever Elsie).
+204. **Broth:** Elsie's meal in field (Clever Elsie).
+205. **Threepence:** Servant's wages (Miser in Bush).
+206. **Purse:** Holds money (Miser in Bush).
+207. **Thrush:** Bird shot down (Miser in Bush).
+208. **Gallows:** Place of execution, setting for magical dancing (Miser in Bush).
+209. **Florins (Hundred):** Bribe offered by miser (Miser in Bush).
+210. **Dishful of Peas:** Ordinary seeds used in sorting task (Ashputtel).
+211. **Grey Frock:** Ashputtel's humble clothing (Ashputtel).
+212. **Hazel Twig:** Planted on mother's grave, becomes magic tree (Ashputtel).
+213. **Grave:** Burial place, site of magic tree (Ashputtel, Juniper-Tree).
+214. **Pigeon-house:** Ashputtel's hiding place (Ashputtel).
+215. **Pear-Tree:** Ashputtel's hiding place (Ashputtel).
+216. **Golden Slipper:** Ordinary shoe (made of gold), its fit identifies the bride (Ashputtel).
+217. **Knife:** Used by stepsisters to mutilate feet (Ashputtel).
+218. **Stockings (White):** Become red with blood, revealing trick (Ashputtel).
+219. **Nutshell:** Ordinary container for magical dresses (Cat-Skin).
+220. **Soot:** Ordinary substance used for disguise (Cat-Skin).
+221. **Cabin (under stairs):** Cat-Skin's humble dwelling (Cat-Skin).
+222. **Lamp (Little):** Used by Cat-Skin (Ashputtel, Cat-Skin).
+223. **Soup:** Ordinary food, vehicle for dropping tokens (Cat-Skin).
+224. **Golden Ring/Necklace/Brooch:** Ordinary jewellery used as tokens (Cat-Skin, Ashputtel, Seven Ravens, Raven).
+225. **Ebony Window Frame:** Inspiration for Snowdrop's colouring (Snowdrop).
+226. **Blood (Drops):** Inspiration for Snowdrop's colouring (Snowdrop).
+227. **Snow:** Inspiration for Snowdrop's colouring (Snowdrop).
+228. **Cottage (Dwarfs'):** Dwelling place (Snowdrop).
+229. **Little Plates/Loaves/Glasses/Knives/Forks/Beds/Stools:** Dwarfs' household items (Snowdrop, Seven Ravens).
+230. **Lamps (Seven):** Used by dwarfs (Snowdrop).
+231. **Pedlar's Wares (Laces/Bobbins):** Disguise items for Queen (Snowdrop).
+232. **Combs (Beautiful):** Disguise item for Queen (Snowdrop).
+233. **Apple (Rosy):** Disguise item for Queen (Snowdrop).
+234. **Bier:** Used to lay out Snowdrop (Snowdrop).
+235. **Glass Coffin:** Made to display Snowdrop (Snowdrop).
+236. **Golden Letters:** Inscription on coffin (Snowdrop).
+237. **Rich Clothes:** Worn by Queen at wedding (Snowdrop).
+238. **Poodle (Black):** Cook's transformed shape (The Pink).
+239. **Gold Collar:** Worn by poodle (The Pink).
+240. **Live Coals:** Eaten by enchanted poodle (The Pink).
+241. **Plate:** Used to present false heart/tongue (The Pink).
+242. **Hind (Little):** Killed as substitute for boy (The Pink).
+243. **Ladder:** Wished for to reach tower (The Pink).
+244. **Sixty Country Carts:** Used to transport deer (The Pink).
+245. **Knife (Cook's):** Part of cook's appearance (The Pink).
+246. **Pitcher (Water):** Dropped in well by Seven Ravens' brothers (Seven Ravens).
+247. **Little Stool:** Carried by sister for rest (Seven Ravens).
+248. **Piece of Wood (Key):** Gift from Morning Star, acts as key (Seven Ravens). 
+249. **Knife (Pocket):** Used to cut off finger as key substitute (Seven Ravens).
+250. **Red Stockings/Pointed Mouth:** Desired features of suitor (Mrs Fox).
+251. **Milk/Bread:** Food prepared by cat (Mrs Fox).
+252. **Rose:** Object of daughter's request (Lily and the Lion).
+253. **Pearls/Jewels:** Objects of daughters' requests (Lily and the Lion, Snow-White/Rose-Red, Hansel and Gretel).
+254. **Casket (from Sun):** Ordinary container for magical dress (Lily and the Lion).
+255. **Egg (from Moon):** Ordinary container for magical chicks (Lily and the Lion).
+256. **Rod (Eleventh):** Ordinary rod used to strike dragon (Lily and the Lion).
+257. **Nut (from Night-Wind):** Ordinary nut with magical growth effect (Lily and the Lion).
+258. **Stable:** Place where old horse is initially kept and later welcomed back (The Fox and the Horse).
+259. **Cave:** Lion's den (The Fox and the Horse).
+260. **Basket (for lowering):** Used to lower soldier into well (The Blue Light).
+261. **Tobacco Pipe:** Ordinary item, used to ignite Blue Light and summon dwarf (The Blue Light).
+262. **Broom:** Used by princess for sweeping (The Blue Light).
+263. **Boots (Soldier's):** Cleaned by princess (The Blue Light).
+264. **Peas (for tracking):** Used by king to track princess (Blue Light).
+265. **Shoe (Princess's):** Hidden by princess as clue (Blue Light).
+266. **Chains:** Used to bind soldier in prison (The Blue Light).
+267. **Ducat:** Soldier's last coin (The Blue Light).
+268. **Cudgel (Small):** Ordinary weapon wielded by magical dwarf (The Blue Light).
+269. **Tan-heap:** Watching post for the man (The Raven).
+270. **Loaf/Meat/Flask of Wine (Non-diminishing):** Should be on magic list. 
+271. **Golden Ring (Engraved):** Ordinary token from enchanted raven (The Raven).
+272. **Letter:** Ordinary message explaining situation (The Raven).
+273. **Map (Giant's):** Ordinary map, exceptionally detailed (The Raven).
+274. **Glass Mountain:** Location of castle (The Raven, possibly others).
+275. **Hut (Little):** Built by the man while waiting (The Raven).
+276. **Golden Goblet:** Used to receive dropped ring (The Raven).
+277. **Cake (Sweet/Cinder):** Provision for journey (Golden Goose, Little Red-Cap). 
+278. **Wine/Beer (Sour/Good):** Provision for journey (Golden Goose, Little Red-Cap, Frederick/Catherine). 
+279. **Inn:** Lodging place (Golden Goose, Chanticleer).
+280. **Parson/Sexton/Labourers/Hoes:** Ordinary people/tools caught by goose (Golden Goose).
+281. **Cellar (Wine):** Place where drinker is found (Golden Goose).
+282. **Mountain of Bread:** Baked from kingdom's flour (Golden Goose).
+283. **Strap:** Used by man to tie up his stomach (Golden Goose).
+284. **Plot of Land:** Merchant's last possession (King of the Golden Mountain).
+285. **Lumber-room/Old Iron:** Where gold is found (King of the Golden Mountain).
+286. **Bond (Written):** Seals bargain with dwarf (King of the Golden Mountain).
+287. **Circle (Drawn):** Protection against dwarf (King of the Golden Mountain).
+288. **Boat (Open):** Heinel set adrift in (King of the Golden Mountain).
+289. **Cushion:** White snake lies on (King of the Golden Mountain).
+290. **Chain Armour:** Worn by black attackers (King of the Golden Mountain).
+291. **Shepherd's Frock:** Disguise (King of the Golden Mountain).
+292. **Raspberry Mark (Arm):** Identifying feature (King of the Golden Mountain).
+293. **Music:** Heard at castle (King of the Golden Mountain).
+294. **Plate/Glass:** Emptied by invisible Heinel (King of the Golden Mountain).
+295. **Turnip (Giant):** Ordinary but large vegetable, gift to king (The Turnip).
+296. **Cart:** Used to transport giant turnip (The Turnip).
+297. **Oxen:** Pull cart (The Turnip, Doctor Knowall).
+298. **Gold/Lands/Flocks:** King's reward (The Turnip).
+299. **Gold/Fine Horses:** Brother's jealous gift (The Turnip).
+300. **Sack:** Used to imprison brother (The Turnip).
+301. **Student's Nag:** Taken by gardener brother (The Turnip).
+302. **Needle/Knife/Goat/Bacon/Calf:** Mundane gifts received/mishandled by Clever Hans.
+303. **Rope:** Used improperly by Clever Hans.
+304. **Rack (for hay):** Where Hans ties Gretel (Clever Hans).
+305. **Calves'/Sheep's Eyes:** Thrown in Gretel's face (Clever Hans).
+306. **Fortress/Tower:** Lodging/place of peril (The Three Languages).
+307. **Food (for dogs):** Given by youth (The Three Languages).
+308. **Marsh:** Where frogs are heard (The Three Languages).
+309. **Church:** Setting for papal election (The Three Languages).
+310. **Spinning Wheels (Twelve):** Brought into ante-chamber as test (Twelve Huntsmen).
+311. **Glove:** Removed, revealing ring (Twelve Huntsmen).
+312. **Ring (Engagement):** Identifies true bride (Twelve Huntsmen).
+313. **Key (Old):** Metaphor used by king (Twelve Huntsmen).
+314. **Walking Sticks/Bundles:** Carried by brothers (Four Clever Brothers).
+315. **Chaffinch Nest/Eggs:** Objects of skill test (Four Clever Brothers).
+316. **Glass (Telescope):** Star-gazer's tool. (Note: User listed this as magic, but it functions as a powerful telescope, not necessarily inherently magical like the looking-glass. Let's list it here as borderline/advanced ordinary).
+317. **Bow:** Huntsman's tool (Four Clever Brothers).
+318. **Needle (Tailor's):** Tailor's tool (Four Clever Brothers). (Note: User listed this as magic, but its ability to sew anything might be extreme skill rather than magic. Let's list it here as borderline/advanced ordinary).
+319. **Ship:** Used for travel (Four Clever Brothers, King of the Golden Mountain, Water of Life).
+320. **Planks:** Used to survive boat wreck (Four Clever Brothers).
+321. **Rock (in sea):** Where princess is held (Four Clever Brothers).
+
+
+---
+
+**Part 6: Complete List of Professions and Their Subtle Meaning**
+
+1.  **King/Queen:** Rulers, possess wealth and power, often initiate quests (Golden Bird, Water of Life), set conditions for marriage (Twelve Dancing Princesses, Valiant Little Tailor, King Grisly-Beard), have beautiful/cursed daughters or adventurous sons. Can be wise, foolish (King Grisly-Beard's vow), greedy (Rumpelstiltskin), grieving (Goose-Girl), or sick (Water of Life). Their desires, flaws, and pronouncements drive many plots. Represent ultimate worldly authority, order, and sometimes the source of trials.
+2.  **Prince/Princess:** Often protagonists or the object of quests. Princes are typically brave, seeking adventure, fortune, or a bride (Golden Bird, Water of Life, Snowdrop). Princesses are often beautiful, sometimes proud (Briar Rose, King Grisly-Beard), cursed/enchanted (Snowdrop, Rapunzel, Lily and the Lion, The Raven), waiting for rescue, or destined for a significant marriage (Ashputtel, Twelve Dancing Princesses). Represent youth, potential, nobility, and often the ultimate reward in quests.
+3.  **Gardener/Gardener's Son:** Humble, close to nature, sometimes possess hidden virtue or are thrust into adventure (Golden Bird). Can be underestimated. Also seen as a path to humble means after misfortune (The Turnip, where the soldier becomes one). Represents a connection to the earth and growth, often a starting point for social mobility through extraordinary events.
+4.  **Soldier:** Often depicted as down on his luck after war, brave but perhaps poor or wounded, seeking fortune or service (Twelve Dancing Princesses, Blue Light, Valiant Little Tailor, The Turnip). Can be resourceful, easily tricked, or the hero who overcomes trials through grit or magical aid. Represents experience, sometimes hardship, and a readiness for action or adventure.
+5.  **Huntsman:** Skilled in the forest, sometimes aids royalty (Little Red-Cap), can be loyal (Water of Life) or tasked with grim deeds (Snowdrop), knowledgeable about the wild (Four Clever Brothers, The Salad). Represents mastery over the wilderness, skill with weapons, and sometimes a moral compass (or lack thereof). Can also be a disguise (The Pink, Iron Hans).
+6.  **Miller:** Often possesses a mill (a place of transformation, potential danger, or basic livelihood), sometimes depicted as having a beautiful daughter (Rumpelstiltskin, Robber Bridegroom) or being associated with dishonesty/trickery (Little Peasant - the wife and parson meet there). Represents a vital but sometimes marginal rural industry.
+7.  **Woodcutter/Woodman:** Poor, lives near the forest, often has children he struggles to feed (Hansel and Gretel), sometimes simple but honest (Tom Thumb). Represents basic survival, closeness to the dangers and resources of the forest.
+8.  **Merchant:** Deals in trade, travels, risks wealth on ventures (King of the Golden Mountain), can be rich or become poor, sometimes makes rash bargains (King of the Golden Mountain, Lily and the Lion). Represents commerce, worldly wealth, risk, and connection to distant places.
+9.  **Farmer:** Owns land/animals, can be honest or miserly/unkind (Travelling Musicians, Fox and Horse, Miser in Bush). Represents settled life, connection to land, agriculture, and sometimes simple-mindedness or greed.
+10. **Shepherd:** Tends flocks, lives simply, often portrayed as honest, can encounter magic or be easily tricked (Hans in Luck, Old Sultan), sometimes acts foolishly (Little Peasant - wanting to be mayor). Represents pastoral life, often solitude, and a certain naivety.
+11. **Fisherman:** Lives by the sea, often poor, may encounter magical sea creatures or gain unexpected boons/curses (Fisherman and His Wife). Represents livelihood drawn from the unpredictable sea, connection to hidden depths.
+12. **Shoemaker:** Craftsman, honest and hardworking, sometimes receives magical aid or rewards kindness (Elves and Shoemaker). Represents skilled labour, providing a basic necessity, often associated with poverty but also potential for magical intervention. Appears also as a recipient of the magical bird's gift (Juniper-Tree).
+13. **Tailor:** Craftsman, often depicted as clever, nimble, boastful, or resourceful (Valiant Little Tailor, Clever Hans, Straw Coal and Bean). Achieves success through wit, dexterity, or trickery rather than brute strength. Can be a figure of comedy or surprising heroism (Four Clever Brothers).
+14. **Cook:** Works in kitchen (royal or otherwise), can be loyal, fearful, complicit, or outright villainous (The Salad, Miser in Bush, Iron Hans, The Pink, Juniper-Tree, Tom Thumb). Often gatekeepers of food/sustenance, privy to household secrets, sometimes instruments of deception or poisoning. Can also be simple/gullible (Clever Gretel).
+15. **Servant/Maid:** Assists others (royalty, witches, households), can be loyal (Twelve Huntsmen, Frog-Prince's Heinrich), treacherous (Goose-Girl), simple, fearful, or instrumental in plot (Snowdrop, Blue Light, Robber Bridegroom, Clever Elsie, Miser in Bush). Represents subordinate status, loyalty or resentment, sometimes possessing crucial information or performing key actions.
+16. **Doctor:** Possesses knowledge (real or feigned), seen as having a comfortable, desirable life, potentially using knowledge for deception or gain (Doctor Knowall). Represents healing, wisdom, and perceived social standing.
+17. **Carpenter:** Craftsman who builds with wood, capable of creating illusions or useful objects (Little Peasant - making the calf). Represents practical skill and construction.
+18. **Sexton:** Church official, sometimes involved in misguided attempts to teach lessons, can be foolish or meet with misfortune (Story of Youth...). Represents minor religious authority, associated with church functions (bell ringing).
+19. **Parson:** Religious figure, sometimes shown in a morally compromised or foolish light (Little Peasant, Golden Goose). Represents established religion, but not immune to temptation or ridicule in these tales.
+20. **Robber/Thief:** Outlaws living outside society, driven by greed, often meet bad ends or are outwitted (Travelling Musicians, Miser in Bush, Robber Bridegroom, Valiant Little Tailor, Tom Thumb, The Raven). Represent chaos, danger, violation of social order. Thief can also be a 'skill' taught (Four Clever Brothers).
+21. **Witch/Enchantress:** Possesses magical power, often lives in isolation (forest, castle), usually villainous, casts spells, imprisons, hoards treasure or captives (Hansel and Gretel, Rapunzel, The Salad, Blue Light, Sweetheart Roland, Jorinda and Jorindel). Represents dangerous, often female, supernatural power operating outside social norms.
+22. **Fairy:** Magical being, can be good (Briar Rose, Goose-Girl, King of the Golden Mountain) or spiteful/vengeful (Frog-Prince, Briar Rose - the 13th). Bestows gifts or curses, acts as a supernatural agent influencing fate.
+23. **Dwarf:** Small magical being, can be helpful initially then demanding (Rumpelstiltskin), helpful out of gratitude (Queen Bee), malevolent and greedy (Snow-White and Rose-Red), wise/magical guides (Water of Life, Miser in Bush), or associated with guarding treasure/imparting secrets (Blue Light, Seven Ravens). Often inhabit mountains, forests, or underground realms.
+24. **Giant:** Large, powerful beings, often associated with forests or mountains, can be fearsome but easily tricked (Valiant Little Tailor), sometimes destructive, occasionally helpful or neutral (The Raven). Represent primal strength, often overcome by wit.
+25. **Star-gazer:** Possesses specialized, almost magical knowledge of the heavens, can see hidden things or distant events (Four Clever Brothers). Represents wisdom derived from observation and arcane knowledge.
+26. **Musician/Fiddler:** Often travels, possesses a specific skill that can be entertaining or magical (Travelling Musicians, Miser in Bush, King Grisly-Beard - as disguise, Sweetheart Roland - Roland disguised). Music has power to compel or charm.
+27. **Master:** Employer figure, can be fair or exploitative (Hans in Luck, Dog and Sparrow, Four Clever Brothers, Three Languages). Represents authority in a working relationship.
+28. **Groom:** Cares for horses, often depicted as sleeping or easily bypassed in quests involving magical horses (Golden Bird). Represents a minor obstacle or caretaker role.
+29. **Slaughterer:** Deals with killing animals, performs tasks ordered by others (Goose-Girl - killing Falada). Represents the necessary but grim aspect of dealing with death/animals.
+30. **Scissor-grinder:** Travelling craftsman, represents a simple, mobile trade, sometimes seen as cheerful or content (Hans in Luck).
+31. **Baker:** Provides bread, involved in minor plot points related to deception (Wolf and Seven Little Kids - dough on paws) or providing sustenance (Dog and Sparrow).
+32. **Landlord/Innkeeper:** Provides temporary lodging and food, can be wary of guests, sometimes involved in minor trickery or become victims of it (Chanticleer and Partlet, Story of Youth...). Represents transition points on journeys.
+33. **Carter/Waggoner:** Transports goods, sometimes portrayed as cruel or unlucky (Dog and Sparrow), or helpful (Story of Youth...). Represents transport and travel.
+34. **Pedlar:** Travelling seller of small goods, can be incidental or part of a character's deceptive ploy (Snowdrop - queen disguised, Frederick and Catherine - unwitting buyers).
+35. **Judge/Mayor:** Represents local authority and justice, can be fair, easily swayed, or subject to magical compulsion/trickery (Miser in Bush, Little Peasant, Blue Light).
+36. **Courtier/Clerk/Officer/Armour-bearer:** Attendants to royalty, carry out orders, can be loyal, fearful, or part of the court structure (Briar Rose, Rumpelstiltskin, Valiant Little Tailor, Miser in Bush). Represent the machinery of the court.
+37. **Hangman:** Executes sentences, represents ultimate legal punishment (Miser in Bush).
+38. **Nurse:** Cares for children, usually a background role (Rumpelstiltskin, The Pink). Represents nurturing and domestic care.
+
+---
+
+**Part 7: Complete List of Named Characters**
+
+Specific names given to characters:
+
+1.  **Hans:** (Hans in Luck, The Valiant Little Tailor - implied as suitor, Hansel and Gretel, Clever Hans, Iron Hans, Clever Elsie) - A very common name, often used for simpletons, lucky individuals, clever boys, or generic male protagonists/suitors.
+2.  **Gretel:** (Hansel and Gretel, Clever Gretel, Clever Hans) - Common counterpart to Hans, often clever, involved in domestic settings, or a sister figure.
+3.  **Hansel:** (Hansel and Gretel) - Brother to Gretel, resourceful in escaping the witch.
+4.  **Jorinda:** (Jorinda and Jorindel) - Maiden transformed into a nightingale.
+5.  **Jorindel:** (Jorinda and Jorindel) - Shepherd lad, hero who rescues Jorinda.
+6.  **Sultan:** (Old Sultan) - Faithful old dog who outsmarts his master and the wolf.
+7.  **Chanticleer:** (The Travelling Musicians, The Adventures of Chanticleer and Partlet) - Cock, often boastful or a leader figure in animal groups.
+8.  **Partlet:** (The Adventures of Chanticleer and Partlet) - Hen, wife of Chanticleer.
+9.  **Briar Rose:** (Briar Rose) - Sleeping princess cursed for a hundred years.
+10. **Ilsabill:** (The Fisherman and His Wife) - The fisherman's endlessly greedy wife.
+11. **Rapunzel:** (Rapunzel) - Maiden with magnificent long hair imprisoned in a tower.
+12. **Dame Gothel:** (Rapunzel) - Enchantress who imprisons Rapunzel (explicitly named once in this text: "He will love me more than old Dame Gothel does").
+13. **Fundevogel:** (Fundevogel) - Boy found in a tree, raised by forester, possesses magical transformation abilities with Lina.
+14. **Lina:** (Fundevogel) - Forester's daughter, friend/sister to Fundevogel, helps him escape the cook.
+15. **Sanna:** (Fundevogel) - The wicked old cook who tries to boil Fundevogel.
+16. **Heinel:** (The King of the Golden Mountain) - Merchant's son promised to a dwarf, eventually becomes king.
+17. **Crabb:** (Doctor Knowall) - Poor peasant who pretends to be a doctor.
+18. **Grete (Doctor Knowall's wife):** Accompanies her husband Crabb and unknowingly helps his "predictions."
+19. **Tom Thumb / Thomas Thumb:** (Tom Thumb) - Tiny protagonist known for his cleverness and adventures.
+20. **Rumpelstiltskin:** (Rumpelstiltskin) - Dwarf with a secret name who spins straw into gold.
+21. **Elsie:** (Clever Elsie) - Protagonist known for her peculiar and overly cautious "cleverness."
+22. **Frederick:** (Frederick and Catherine) - Husband of Catherine, often exasperated by her actions.
+23. **Catherine / Kate:** (Frederick and Catherine) - Wife of Frederick, prone to misunderstandings and comical mistakes.
+24. **Korbes:** (The Adventures of Chanticleer and Partlet) - Mr Korbes the fox, whose house is visited by the animals.
+25. **Ashputtel:** (Ashputtel) - The Cinderella figure, mistreated by stepsisters, aided by birds and a tree.
+26. **Falada:** (The Goose-Girl) - The faithful, talking horse whose head is nailed to the gate.
+27. **Curdken:** (The Goose-Girl) - The goose-herd boy who is tormented by the disguised princess.
+28. **Roland:** (Sweetheart Roland) - The sweetheart who helps the maiden escape the witch and eventually marries her.
+29. **Snowdrop:** (Snowdrop) - Princess as white as snow, red as blood, black as ebony, persecuted by her stepmother. (Note: This is the character often known as Snow White in other versions/translations).
+30. **Mother Holle:** (Mother Holle) - Mysterious old woman in the well-world who rewards industry and punishes laziness.
+31. **Little Red-Cap:** (Little Red-Cap) - Girl known for her red velvet cap who meets the wolf on the way to her grandmother's. (Note: This is the character often known as Little Red Riding Hood).
+32. **Lily:** (Lily and the Lion) - Youngest daughter who marries the enchanted lion/prince and follows him as a dove.
+33. **Snow-white:** (Snow-white and Rose-red) - Gentle sister, one of the two titular characters, marries the bear-prince.
+34. **Rose-red:** (Snow-white and Rose-red) - Lively sister, one of the two titular characters, marries the bear-prince's brother.
+35. **King Grisly-beard:** (King Grisly-beard) - Nickname given to a king by the proud princess; he later marries her in disguise.
+36. **Marleen:** (The Juniper-Tree) - The faithful sister who gathers her murdered brother's bones and places them under the juniper tree.
+37. **Heinrich:** (The Frog-Prince) - Faithful servant of the Frog-Prince, whose heart was bound with iron bands from grief.
+38. **Mrs Fox:** (The Wedding of Mrs Fox) - Widow fox who tests her suitors.
+39. **Mr Fox:** (The Wedding of Mrs Fox) - The (initially supposedly dead) husband of Mrs Fox.
+40. **Miss Cat:** (The Wedding of Mrs Fox) - Servant to Mrs Fox.
+41. **Iron Hans:** (Iron Hans) - Wild, iron-skinned man from the forest who aids the prince.
+42. **Cat-skin:** (Cat-skin) - Nickname for the princess disguised in a mantle of furs, working as a scullion.
+
+---
+
+
+**Part 8: Complete List of Obvious Archetypes**
+
+1.  **Hero/Protagonist:** The central figure embarking on a journey or facing trials.
+    *   *Examples:* Golden Bird's third son, Ashputtel, Jorindel, Valiant Little Tailor, Hansel, the Youth Who Went Forth to Learn What Fear Was.
+    *   *Psychological Analogue:* Represents the **Ego** undergoing the process of **Individuation**. The journey symbolizes the challenges of development, confronting internal and external obstacles to achieve self-realization, maturity, or integration. Often starts in a state of lack or naïveté.
+
+2.  **Villain/Antagonist:** The force opposing the Hero, embodying evil, cruelty, or destructive impulses.
+    *   *Examples:* Witches (Hansel and Gretel, Rapunzel, Snowdrop), cruel Stepmothers (Ashputtel, Juniper-Tree, Snowdrop), Robbers (Travelling Musicians, Robber Bridegroom), Monsters (Dragon in *Four Clever Brothers*), Greedy Characters (Fisherman's Wife).
+    *   *Psychological Analogue:* Represents the **Shadow** – the repressed, denied, or negative aspects of the psyche (either the Hero's own or projected onto others). Can also embody the **Negative Parent Archetype** (devouring, controlling, destructive aspects of parental figures) or destructive external forces that challenge the Ego's development.
+
+3.  **Helper/Donor:** Provides the Hero with crucial aid, advice, or magical objects.
+    *   *Examples:* Fox (*Golden Bird*), Birds (*Ashputtel*), Dwarf (*Rumpelstiltskin*, *Miser in Bush*), Old Women (*Twelve Dancing Princesses*, *The Salad*), Animals (*Queen Bee*, *White Snake*, *Old Sultan*), Iron Hans.
+    *   *Psychological Analogue:* Represents unexpected aid from the **Unconscious**. This could be intuition, instinct (animals), hidden wisdom (old figures), synchronicity, or the emergence of helpful inner figures like the **Anima/Animus** (if opposite gender to the hero) or the **Wise Old Man/Woman**. Often requires an act of kindness or recognition from the Hero to activate.
+
+4.  **Princess/Prize:** The object of the quest or reward for the Hero, often a high-status maiden needing rescue or winning.
+    *   *Examples:* Briar Rose, Goose-Girl (true princess), Rapunzel, Snowdrop, Twelve Dancing Princesses, Lily (*Lily and the Lion*), daughter in *Valiant Little Tailor*, daughter in *King of the Golden Mountain*.
+    *   *Psychological Analogue:* Often symbolizes the **Anima** (the inner feminine principle in a male hero's psyche) which needs to be rescued, integrated, or won. Represents wholeness, the soul, inner beauty, or the ultimate achievement of the individuation process (union with the Self). Can also represent purity or unrealized potential.
+
+5.  **The Ruler (King/Queen):** Authority figure setting rules, offering rewards, dispatching heroes, or representing the established order.
+    *   *Examples:* King in *Golden Bird*, *Briar Rose*, *Water of Life*, *Valiant Little Tailor*, *King Grisly-beard*, Ashputtel's father (passive ruler).
+    *   *Psychological Analogue:* Represents the **Superego**, societal structures, tradition, or the **Father/Mother Archetype** (protective, judgmental, or stagnant). Their state often reflects the health of the kingdom/psyche; a sick king may symbolize a need for renewal.
+
+6.  **The False Hero/Imposter:** Attempts to usurp the Hero's place or claim their reward through deception or exploiting the Hero's work.
+    *   *Examples:* Goose-Girl's maid, Ashputtel's stepsisters, Water of Life brothers, Twelve Huntsmen maidens (initially, though benevolently).
+    *   *Psychological Analogue:* Represents the **Persona** (the social mask) trying to pass itself off as the true Self, or the **Shadow** aspect attempting to claim achievements it hasn't earned. Highlights the theme of authenticity versus illusion.
+
+---
+
+**Part 9: Comprehensive List of Subtle Archetypes**
+
+7.  **The Underestimated Youngest/Simpleton:** The sibling or figure initially dismissed as foolish, weak, or naive, who ultimately succeeds.
+    *   *Examples:* Third son (*Golden Bird*), Dummling (*Golden Goose*), Youngest son (*Water of Life*), Little Peasant, the sister (*Seven Ravens*), the Youth Who Went Forth to Learn What Fear Was.
+    *   *Psychological Analogue:* Symbolizes **unconscious potential** often overlooked by the rational Ego (represented by older siblings). Represents intuition, purity of heart, connection to nature/instinct, or a "beginner's mind" open to possibilities that the cynical or overly-clever overlook. Their success suggests that qualities other than conventional intelligence or status are valuable.
+
+8.  **The Clever Trickster:** Achieves goals through cunning, wit, and bending rules, rather than direct confrontation, magic, or brute force.
+    *   *Examples:* Valiant Little Tailor, Little Peasant, Tom Thumb, Clever Gretel, Fox (*Fox and Cat*), Cat (*Cat and Mouse* initially).
+    *   *Psychological Analogue:* Represents the adaptive function of the **Ego**, using intelligence and flexibility to navigate difficult situations. Embodies ingenuity and the ability to think outside the box. Can sometimes border on the Shadow, as their methods aren't always strictly "moral" by conventional standards, but serve survival or advancement.
+
+9.  **The Kind/Pious Figure:** Succeeds specifically because of acts of kindness, sharing, piety, or compassion, attracting supernatural favor.
+    *   *Examples:* Dummling (*Golden Goose*), Mother Holle's good daughter, Soldier (*Blue Light*'s initial compassion), Third son (*Water of Life*'s politeness to dwarf), Ashputtel (kindness attracts birds).
+    *   *Psychological Analogue:* Represents the power of **Empathy**, **Connection**, and **Relationship** (to others, nature, or the divine/unconscious). Suggests that ethical behavior and openness align the individual with beneficial forces, leading to positive outcomes and integration.
+
+10. **The Arrogant/Prideful Figure:** Fails or causes suffering due to excessive pride, hauteur, or refusal to heed advice.
+    *   *Examples:* Golden Bird's elder sons (ignore fox), Water of Life's elder sons (scorn dwarf), King Grisly-beard's princess (mocks suitors), Valiant Tailor's giant opponents.
+    *   *Psychological Analogue:* Represents **Ego Inflation** or hubris. A psyche that believes itself self-sufficient and superior cuts itself off from helpful unconscious guidance or necessary humility, leading to failure or stagnation.
+
+11. **The Greedy/Envious Figure:** Driven by insatiable desire or resentment of others' possessions/fortune, leading to their downfall.
+    *   *Examples:* Fisherman's Wife, Miser in Bush, Turnip brother, Snowdrop's stepmother, Juniper-Tree stepmother, Cat (*Cat and Mouse*), Queen Bee's elder brothers (want to destroy).
+    *   *Psychological Analogue:* Represents the consuming power of the **Shadow** when dominated by unchecked desire or feelings of lack. Shows the destructive nature of comparison and the inability to find contentment, leading to self-destruction or isolation.
+
+12. **The Disobedient/Rebellious Figure:** Suffers negative consequences specifically for breaking a rule, prohibition, or promise.
+    *   *Examples:* Golden Bird protagonist (takes bird in wrong cage, horse with wrong saddle), Lily (*Lily and the Lion* - breaks promise about light), Youth in *Iron Hans* (pollutes well), King of Golden Mountain (breaks promise with ring), Queen in *The Raven* (rash curse).
+    *   *Psychological Analogue:* Explores the tension between the **Ego** and the rules imposed by authority (parents, society, the unconscious - Superego). Sometimes represents necessary boundary testing for growth, but often symbolizes the negative consequences of ignoring wisdom or failing to integrate limitations.
+
+13. **The Rash/Impulsive Figure:** Acts without thinking, driven by immediate emotion or desire, causing unintended harm or misfortune.
+    *   *Examples:* Queen in *The Raven* (cursing child), Father in *Seven Ravens* (cursing sons), Catherine (*Frederick and Catherine* - numerous examples), Wolf (*Wolf and Seven Kids* - greed leads to demise).
+    *   *Psychological Analogue:* Represents the dominance of **Impulse (Id)** over rational thought (Ego) or moral consideration (Superego). Demonstrates the dangers of unchecked emotions and lack of foresight.
+
+14. **The Wise Animal Advisor:** An animal possessing wisdom who gives specific, often counter-intuitive, instructions crucial for the Hero's success. 
+    *   *Examples:* Fox (*Golden Bird*), Old Sultan's wolf, Fish/Ants/Ravens (*White Snake*, *Queen Bee* giving specific solutions).
+    *   *Psychological Analogue:* Represents **Instinctual Wisdom** and guidance from the deeper, pre-rational layers of the psyche. Success depends on trusting these non-logical insights from the unconscious, even when they seem strange.
+
+15. **The Loyal Animal Companion:** An animal whose primary role is faithful service and companionship, often suffering or risking themselves for the Hero. 
+    *   *Examples:* Old Sultan, Falada (*Goose-Girl*), Tom Thumb's horse (initially), potentially the animals in *Travelling Musicians*.
+    *   *Psychological Analogue:* Represents the **supportive, instinctual side of the self**, unconditional loyalty, or the deep connection between humans and nature/their own instinctual base. Falada, continuing to speak truth even after death, represents indestructible loyalty and truth.
+
+16. **The Enchanted Spouse/Relative/Figure:**  A central character trapped in a non-human form.
+    *   *Examples:* Frog-Prince, Lily and the Lion's prince, Iron Hans, Fox (*Golden Bird*'s transformation), Raven daughter, White Snake, Juniper Tree boy-bird.
+    *   *Psychological Analogue:* Represents **repressed or unrecognized aspects of the Self** or the Anima/Animus. The non-human form shows how this potential is hidden or distorted. The process of disenchantment symbolizes integration, recognizing and accepting these hidden parts to achieve wholeness.
+
+17. **The Threshold Guardian:**  Figures or challenges testing the hero's readiness.
+    *   *Examples:* Dwarf (*Water of Life*), Giants (*Valiant Little Tailor*, *The Raven*), Lions (*Water of Life*), Tasks set by Taskmasters, needing specific instructions (*Golden Bird*).
+    *   *Psychological Analogue:* Represents **Internal and External Obstacles** to growth. Psychologically, these can be fears, doubts, societal prohibitions, or inadequate skills that must be overcome or integrated before the next stage of development (Individuation) can be reached.
+
+18. **The Innocent Victim:**  Highlights vulnerability and undeserved suffering.
+    *   *Examples:* Hansel and Gretel, Snowdrop, Juniper-Tree boy, Robber Bridegroom's victim, Fundevogel, Seven Ravens daughter, Dog (*Dog and Sparrow*).
+    *   *Psychological Analogue:* Embodies the **vulnerable child archetype** within the psyche, the experience of powerlessness, or the projection of innocence onto a figure who suffers. Evokes empathy and often motivates the rescue/justice plot.
+
+19. **The Taskmaster:**  Sets difficult challenges, often as tests or conditions for reward.
+    *   *Examples:* King (*Valiant Little Tailor*, *Queen Bee*, *Water of Life*, *Golden Goose*), Mother Holle, Stepmother (*Ashputtel*), Witch (*Blue Light*, *Rapunzel*), Dwarf (*Rumpelstiltskin*).
+    *   *Psychological Analogue:* Represents the **demands of life, society, or the individuation process**. These challenges force the Hero (Ego) to develop new skills, prove their worth, confront limitations, and integrate new aspects of the self. Can be aspects of the Parent archetypes or the Superego.
+
+20. **The Wise Guide/Mentor (Often Disguised):** An older figure offering wisdom or magical aid, testing character. 
+    *   *Examples:* Old woman (*Twelve Dancing Princesses*, *The Salad*), Dwarf (*Water of Life*, *Miser in Bush*), Fairy (*Briar Rose*), Old Man (*King of Golden Mountain* - the dwarf), Iron Hans.
+    *   *Psychological Analogue:* Represents the **Self archetype** or the **Wise Old Man/Woman**, embodying accumulated wisdom, intuition, and guidance from the deeper psyche. Their disguised nature often suggests that wisdom may appear in unexpected forms and requires perception to recognize.
+
+21. **Helpful Dead/Ancestral Power:** Assistance derived from the deceased or through connection to the grave. 
+    *   *Examples:* Birds/Mother at grave (*Ashputtel*), the bird born from the bones (*Juniper-Tree*).
+    *   *Psychological Analogue:* Symbolizes the enduring influence of **ancestry, tradition, or resolved unconscious conflicts**. Represents the idea that resources can be drawn from the past, memory, or the integration of previously "dead" parts of the psyche. Often linked to piety or fulfilling duties to the dead.
+
+22. **The Revealing Object or Mark:** Indisputable proof of identity or truth. 
+    *   *Examples:* Ashputtel's slipper, Twelve Huntsmen's ring, King of Golden Mountain's birthmark/ring, Goose-Girl's talking horse head/hair, Robber Bridegroom's finger, Snowdrop's awakening via apple piece dislodging, Blue Light (as power source).
+    *   *Psychological Analogue:* Represents the **irruption of truth** into consciousness, the moment of **anagnorisis** (recognition). The unconscious reveals what the conscious mind has missed or denied. It confirms true identity against false appearances (Persona vs. Self).
+
+23. **Transformation (Punitive/Protective/Restorative):** Characters physically changing form.
+    *   *Punitive:* Cook to poodle (*The Pink*), Witch/Maid/Lady to asses (*The Salad*).
+    *   *Protective:* Roland/Maiden changing forms (*Sweetheart Roland*), Raven daughter.
+    *   *Restorative:* Disenchantment of Frog Prince, Iron Hans, Lily's husband, Fox in *Golden Bird*, Seven Ravens.
+    *   *Psychological Analogue:* Represents profound **psychological change**. Punitive forms show regression or the consequences of negative traits. Protective forms symbolize adaptation or defense mechanisms. Restorative forms symbolize healing, integration, and the realization of the true Self after a period of distortion or repression.
+
+24. **The Cannibalistic Threat:** Characters who literally consume others. 
+    *   *Examples:* Witch (*Hansel and Gretel*), Robbers (*Robber Bridegroom*), Old Woman (*Juniper-Tree*).
+    *   *Psychological Analogue:* Represents the ultimate **fear of annihilation or engulfment**, often linked to the **Terrible Mother/Father archetype** (the parent who consumes the child's individuality). Symbolizes destructive rage, unchecked primal hunger, or the psyche being overwhelmed by its darkest impulses.
+
+25. **The Wish-Granter:** Beings or objects fulfilling desires. 
+    *   *Examples:* Fish (*Fisherman and His Wife*), Dwarf (*Miser in Bush*), Angel/Son (*The Pink*), Wishing-Cloak (*The Salad*), Ring (*King of Golden Mountain*).
+    *   *Psychological Analogue:* Represents the **power of desire and the creative/destructive potential of the unconscious**. Tests the Ego's wisdom and ability to manage powerful inner forces (Id impulses). Unwise wishes often lead to inflation or ruin.
+
+26. **Symbolic Settings:** Locations carrying deeper meaning. 
+    *   *The Forest:* The Unconscious, unknown, place of trial, initiation, danger, and hidden potential.
+    *   *The Castle:* The Self, integrated psyche, power, confinement, goal.
+    *   *The Well/Spring:* Access to the unconscious, life source, transformation point.
+    *   *The Humble Cottage:* Ego starting point, simplicity, poverty (material or spiritual).
+    *   *The Road/Path:* The journey of life, the course of individuation. Straying often leads to danger.
+    *   *The Mountain:* Spiritual ascent, challenge, perspective, meeting place with powerful forces (dwarfs, giants).
+    *   *Water (Sea, Lake, River):* The unconscious depths, purification, danger, transformation boundary.
+    *   *The Garden:* Cultivated nature, place of beauty, temptation, or lost paradise.
+
+27. **Structural Archetype: The Rule of Three:** The recurring pattern of threes. 
+    *   *Examples:* Pervasive - Three sons/daughters, tasks, nights, attempts, gifts, drops of blood, questions, etc.
+    *   *Psychological Analogue:* Represents **process, stages of development, and completion**. Often follows a pattern of thesis-antithesis-synthesis, requiring multiple attempts before integration or resolution is achieved. It builds narrative tension and emphasizes the significance of the final element.
+
+28. **The Broken Prohibition/Taboo:** A specific rule is given ("don't open the door," "don't look back," "don't eat this," "don't say my name") which is inevitably broken, triggering consequences.
+    *   *Examples:* Rumpelstiltskin (naming), Bluebeard analogue (opening forbidden door - though not in these specific tales, it's a common fairytale archetype related), Wife in *The Raven* (rash wish), potentially Elsie forgetting the pick-axe.
+    *   *Psychological Analogue:* Represents the **limits of conscious control** over unconscious impulses or curiosity (Id). It can symbolize the necessary "fall" into knowledge or experience, the transition from innocence to awareness, often at a cost. It highlights the power inherent in names and secrets.
+
+29. **Restoration of Order/Justice:** The narrative culminates in the punishment of the wicked and the reward/restoration of the virtuous, bringing balance back to the world.
+    *   *Examples:* Endings of *Ashputtel*, *Snowdrop*, *Hansel and Gretel*, *Goose-Girl*, *The Juniper-Tree*, *Valiant Little Tailor*, etc.
+    *   *Psychological Analogue:* Represents the psyche's innate drive towards **balance and integration**. The punishment of the villain can symbolize the confrontation and assimilation of the Shadow, while the Hero's reward signifies the successful achievement of a new level of conscious integration (Individuation), often symbolized by marriage (union of opposites).
+
+This more detailed breakdown attempts to capture the psychological depths resonating within these seemingly simple tales, showing how they reflect universal patterns of human experience and inner development.
+
+---
+**Part 10: Do's and Don'ts**
+
+**Writing Style:**
+Okay, I understand. The goal is to maintain the simple, archaic style but smooth out passages where repetitive sentence structures become too noticeable or awkward, like the "He... He... He..." example. I will revise the story with this in mind, focusing on combining very short, related sentences or using simple transitions like "and" or "then" more fluidly.
+
+Here is the revised story:
+
+***
+
+Once upon a time, there was a copper penny. It was new made, all shiny and bright. An old woman got the penny first; she dwelt near the town and sold herbs. She earned the penny and thought, "With this, I will buy a ribbon for my granddaughter on the morrow." The penny felt it was meant for good things.
+
+But as the old woman walked home, the day nigh spent, alas, the penny slipped from a hole in her old pouch. It fell onto the dusty road, and she knew naught of it.
+
+So the penny lay in the dust. It could not be spent, and it was sad. Soon, a rich merchant came by in his carriage. A wheel struck the penny and tossed it up, so it landed inside the carriage, near the merchant's boot. The penny thought, "Now I shall be used."
+
+Then the merchant saw the penny. "Bah, small change," said he, and tossed it into his great purse. Gold coins and silver coins dwelt there, and the penny felt small amongst them. When the merchant bought fine silk, he paid with gold. When he bought wine, he paid with silver. The penny was not used at all, but just rattled about. At last, the merchant grew tired of the weight of small coins. He came to the city gate where he saw a beggar sitting. The merchant threw the penny, and some others like it, to the poor man.
+
+"Perhaps the poor need me more," thought the penny as it landed in the beggar's rough hand. The beggar looked at the few coins. He bought a hard crust of bread with two pennies, and kept our penny clutched tight in his hand. "He holds me dear," thought the penny. But that night, the beggar slept in a cold alley. Then came a thief, quiet as a mouse, and stole the penny from the sleeping beggar's hand.
+
+The penny wished it could cry out, "Stop, thief!" But it was only metal. The thief hurried away and used the penny, with others he had stolen, to pay a ship captain. The ship was sailing to distant lands across the wide world. So the penny went into the captain's pocket. It thought, "Now I shall see adventure."
+
+But the sea journey was hard. A great storm came, and the waves rose like mountains. The captain leaned over the side of the ship. Then the penny slipped from his pocket and fell down, down into the dark, churning sea.
+
+"Lost! I am lost!" thought the penny. It sank to the sea bottom, where it lay among the sand and the waving seaweed. Many a time did the sun rise and set, and years went by. The penny grew dull and turned green like moss. Crabs crawled over it, and fish swam past. It seemed its use was gone forever.
+
+Then one day, another great storm raged. It stirred the sea from its deepest parts. A strong current lifted the penny and tossed it this way and that, hither and thither. At last, the current threw the penny onto the shore, where it landed among the pebbles and shells on a lonely beach, far away.
+
+Presently, a youth came walking along the beach. He was the son of a poor fisherman, looking for firewood. His eye fell upon a dull green thing among the stones. He picked it up and rubbed it hard. Then he saw the faint shape of the king's head.
+
+"A coin!" cried he. "An old coin!" He had never held a coin before in his life, so he clutched it tight. "He sees me!" thought the penny, feeling a little bit important again.
+
+The youth ran home as quick as lightning to the little hut made of driftwood. His mother, a poor widow, was inside. "Look, Mother!" he shouted. "I found treasure!"
+
+His mother took the penny, and her eyes filled with tears. "Oh, my child," said she. "This copper piece... it is just enough. The trader in the village has one small spool of good thread. With this coin, I can buy it. Then I can mend your father's old fishing net. We shall have fish, and we shall not hunger this winter." She greatly rejoiced.
+
+So the mother took the penny to the village trader. She gave him the coin, and he gave her the good thread. The trader tossed the old penny into a clay jar with other worn coins.
+
+The penny did not mind being with the others now. It had travelled the wide world. It had seen rich men and poor men. It had been stolen and lost in the deep sea. But at last, it had come where it was needed most. It had bought thread to mend a net; it had brought hope. Its journey was long, but its purpose was met. And in the trader's dusty jar, the copper penny rested, dull but content to its heart's content. And perhaps it rests there still.
+
+***
+
+**Updated Do's and Don'ts List:**
+
+**Writing Style:**
+
+**Choice of Words:**
+*   **Do:** Lean towards simple, concrete language. Use words readily understood.
+*   **Do:** Use functional adjectives (e.g., "old," "poor," "good," "shiny," "dark").
+*   **Do:** In dialogue sprinkle in occasional archaic terms like "alas," "hark," "nigh," "dwelt," "prithee," "hark ye," "morrow," "hither," "thither," "aught," "naught," "beest," "betook."
+*   **Do:** Use stock phrases like "as quick as lightning," "stone dead," "wide world," "heart's content," "day dawned," "many a time," "greatly rejoiced," "wept bitterly."
+*   **Do:** Refer to characters generically (the youth, the maiden, the man, the wife, the king, the merchant, the beggar) when specific names aren't needed or given.
+*   **Do:** Employ simple comparisons ("as white as snow," "shone like gold," "quiet as a mouse," "rose like mountains").
+*   **Don't:** Use modern slang, jargon, technical terms, abstract concepts, or overly complex vocabulary (e.g., avoid "serendipitous," "infrastructure," "epiphany").
+*   **Don't:** Use excessive or flowery adjectives (e.g., "the breathtakingly beautiful, scintillating princess"). Stick to simple descriptors.
+*   **Don't:** Use sophisticated synonyms (e.g., use "sad" not "melancholy," "angry" not "irate," "beautiful" not "resplendent").
+*   **Don't:** Use words that imply deep psychological states (e.g., "angst," "neurosis," "existential dread," "trauma").
+*   **Don't:** Use overly technical terms even for trades (a tailor uses a "needle," not specific types; a captain has a "ship," not a specific vessel class).
+
+**Sentence Structures:**
+*   **Do:** Generally keep clauses relatively short and clear.
+*   **Do:** Use simple sentences (one independent clause) and compound sentences (two or more independent clauses joined by a simple conjunction) predominantly.
+*   **Do:** Link clauses mainly with simple conjunctions like "and," "but," "so," "or," "for," "then," or relative pronouns like "where," "who."
+*   **Do:** Use active voice almost exclusively.
+*   **Do:** Start sentences most frequently with "Then," "So," "And," "But," or the character's name/pronoun ("He," "She," "The youth").
+*   **Do:** Employ parataxis (linking clauses with simple conjunctions rather than complex subordination).
+*   **Do:** Frequently use reported speech introduced simply ("he said that...", "she told him to...").
+*   **Do:** Occasionally use simple inversion for archaic flavour ("Then came the king...", "Down fell the penny...").
+*   **Do:** Combine very short, consecutive sentences describing closely related actions to improve flow, often using "and" or "then" (e.g., "He picked it up and rubbed it hard" instead of "He picked it up. He rubbed it hard.").
+*   **Don't:** Overuse passive voice.
+*   **Don't:** Strive for complex sentence structures or excessive variety just for stylistic effect. Simplicity is key.
+*   **Don't:** Use rhetorical questions frequently.
+*   **Don't:** Use complex punctuation like semicolons or em-dashes. Commas and periods are generally sufficient.
+*   **Don't:** Dramatically vary sentence length purely for modern pacing effects. Maintain a generally consistent, flowing rhythm.
+*   **Don't:** Embed dialogue within complex narrative sentences often. Keep narration and dialogue distinct.
+*   **Don't:** Start too many consecutive sentences with the exact same word (especially pronouns like "He" or "She") if it creates an awkward, choppy effect. Use simple conjunctions or vary the sentence start slightly where needed for better rhythm, while staying simple.
+
+**Beginning the Story:**
+*   **Do:** Start with formulaic openings like "Once upon a time," "There was once a king/man/widow..." or similar simple framing ("Long, long ago...").
+*   **Do:** Establish the initial situation or character simply and quickly.
+*   **Do:** Immediately introduce the core problem or lack (poverty, a quest needed, childlessness).
+*   **Do:** Set the scene with minimal, functional detail (e.g., "Hard by a great forest dwelt a poor wood-cutter").
+*   **Do:** Use phrases suggesting timelessness ("A long time ago," "In days of yore").
+*   **Don't:** Begin in media res without clear context.
+*   **Don't:** Use lengthy introductions or elaborate world-building upfront.
+*   **Don't:** Start with dialogue before establishing who is speaking and where.
+*   **Don't:** Use flashbacks or complex, non-linear timelines.
+*   **Don't:** Hint at deeper symbolic meanings or abstract themes in the opening lines.
+
+**Starting a Sentence:**
+*   **Do:** Rely heavily on simple conjunctions ("And," "But," "So," "Then") or temporal markers ("When," "After," "Presently," "Soon afterwards," "On the morrow").
+*   **Do:** Use character names or simple pronouns ("He," "She," "They," "The king").
+*   **Do:** Begin occasionally with simple prepositional phrases ("In the morning," "At last," "Near the forest").
+*   **Don't:** Frequently use complex adverbial phrases or sophisticated transitional words (e.g., "Consequently," "Nevertheless," "Furthermore," "Subsequently").
+*   **Don't:** Start sentences with "-ing" clauses (participle phrases) often; prefer simpler constructions.
+*   **Don't:** Use abstract nouns as sentence subjects often (e.g., "His melancholy dictated his actions").
+
+**Dialogue:**
+*   **Do:** Keep dialogue direct and functional – it should advance the plot, state intentions, make requests, or reveal necessary information.
+*   **Do:** Use simple tags like "said he," "answered she," "cried he," "thought the penny."
+*   **Do:** Let characters state their intentions or feelings plainly ("I must go thither," "I am hungry," "How happy am I!").
+*   **Do:** Have characters repeat instructions or important information clearly if needed.
+*   **Do:** Use direct address ("dear father," "my child," "Lord King," "good sir").
+*   **Do:** Make requests and commands explicit ("Give me...", "Fetch me...", "Tell me...", "Go now!").
+*   **Do:** Occasionally include simple rhymes or verses within speech if appropriate to the tale type.
+*   **Don't:** Write naturalistic, rambling, or subtext-heavy conversation.
+*   **Don't:** Use witty banter or clever wordplay.
+*   **Don't:** Use elaborate dialogue tags describing tone or complex emotion ("he whispered menacingly," "she retorted sarcastically"). Keep tags simple or let the dialogue speak for itself.
+*   **Don't:** Reveal character primarily through subtle conversational cues or indirect speech.
+*   **Don't:** Use contractions ("don't," "can't") – write out "do not," "cannot."
+*   **Don't:** Show hesitation through dialogue filler ("ums," "ahs") or fragmented sentences.
+*   **Don't:** Have characters engage in abstract philosophical discussions.
+
+**Describing Characters:**
+*   **Do:** Describe characters briefly, focusing on archetypal traits (beautiful, ugly, old, young, rich, poor, clever, simple) or their role/profession (king, princess, soldier, miller, witch, dwarf). Use simple Anglo-Saxon or German names (Hans, Gretel, Wilhelm) or generic titles.
+*   **Do:** Define characters primarily through their actions and direct speech.
+*   **Do:** Introduce characters by their function or relationship (the stepmother, the youngest son, the old woman).
+*   **Do:** Indicate basic emotional states directly ("he was angry," "she was glad," "they wept bitterly," "he feared greatly").
+*   **Do:** Imply character through stark, decisive actions (e.g., sharing bread, abandoning children, fulfilling promises).
+*   **Do:** Give animals human-like thoughts and speech when they are magical helpers or central figures.
+*   **Do:** Include archetypal magical helpers (fairies, helpful animals, enchanted objects) and villains (witches, cruel relatives, giants, dragons, robbers).
+*   **Don't:** Provide detailed physical descriptions unless a specific feature is crucial to the plot (e.g., Snow White's colors, Rapunzel's hair length, Cinderella's foot size).
+*   **Don't:** Use internal monologue, extensive backstory exposition, or psychological analysis.
+*   **Don't:** Explore conflicting emotions or internal moral debates within a character.
+*   **Don't:** Give characters complex histories or motivations beyond the immediate needs of the plot (why the witch is evil is less important than that she *is* evil).
+*   **Don't:** Make characters morally ambiguous in their fundamental nature (good characters might make mistakes or be foolish, but their core alignment is usually clear).
+*   **Don't:** Show gradual, internal character development; changes are usually sudden, often magical or resulting from completing a task.
+*   **Don't:** Give characters modern-sounding fantasy names (Elara, Kael, Zayne).
+
+**Describing Setting:**
+*   **Do:** Use simple, archetypal locations: forest, castle, cottage, well, mountain, road, garden, mill, inn, sea.
+*   **Do:** Describe them briefly and functionally ("a deep gloomy wood," "a shining palace," "a poor hut," "an old dry well").
+*   **Do:** Mention specific, simple objects only if crucial to the plot (a spindle, a golden ball, an oven, a key, a net, a spool of thread).
+*   **Do:** Contrast settings simply if needed (rich house vs. poor house, dark forest vs. bright clearing).
+*   **Do:** Use generic terms like "a great city," "a certain kingdom," "a faraway land."
+*   **Do:** Include functional details like locked doors, windows, stairs, wells, hearths, stables only if relevant to the action.
+*   **Do:** Mention natural elements simply (sun, moon, stars, wind, snow, water, storm).
+*   **Don't:** Engage in lengthy, atmospheric, or poetic descriptions of scenery.
+*   **Don't:** Include detailed sensory information beyond what's needed for the plot (e.g., the glitter of gold if it tempts someone, the smell of food if it draws someone in).
+*   **Don't:** Specify precise geography or historical periods. Keep it timeless and generic.
+*   **Don't:** Describe the weather unless it directly impacts the plot (a storm causes a shipwreck, snow forces characters indoors).
+*   **Don't:** Describe interiors in detail unless specific items are plot points (like the three bears' bowls/chairs/beds).
+*   **Don't:** Create unique, specifically named fantasy locations; stick to the generic archetypes.
+
+**Describing Events:**
+*   **Do:** Describe actions clearly and sequentially. Focus on the chain of events.
+*   **Do:** Focus on *what* happens rather than the character's internal *experience* of it.
+*   **Do:** Maintain a straightforward, often brisk pace, even during dramatic or violent events.
+*   **Do:** Use clear cause-and-effect logic, even when magic is the cause.
+*   **Do:** State magical transformations plainly and quickly ("in a moment the frog was changed into a prince," "she was turned into stone").
+*   **Do:** Describe violence bluntly and factually, without dwelling on graphic detail but also without sanitizing it ("cut off her head," "struck him dead," "pushed her into the oven").
+*   **Do:** Use simple hyperbole for effort or speed ("ran as if fire were burning under him," "wept a river of tears").
+*   **Do:** Clearly link transgressions to punishments or plot consequences (disobeying advice leads to trouble, breaking a taboo causes a curse).
+*   **Do:** Use repetition effectively for tasks, journeys, or structure (three siblings attempt a task, three nights of trials, three questions asked).
+*   **Do:** Describe journeys simply ("went on his way," "travelled for many days," "walked until nightfall").
+*   **Do:** Conclude events decisively ("and so he married the princess," "and the witch was burnt to ashes").
+*   **Don't:** Linger on gore or suffering purely for shock value. Violence is often matter-of-fact.
+*   **Don't:** Slow down the narrative excessively for suspense or emotional reflection in a modern way. Suspense comes from the situation, not stylistic manipulation.
+*   **Don't:** Explain the intricate mechanics or "rules" of magic. It simply works.
+*   **Don't:** Build suspense by withholding information in a modern narrative style; surprises are often sudden reveals or consequences.
+*   **Don't:** Focus on the detailed process of an action over its result (we know the tailor sewed something, not the stitch technique).
+*   **Don't:** Describe internal physical sensations in detail (pain is stated, not elaborately described).
+*   **Don't:** Use cliffhangers between chapters or sections in a modern sense.
+
+**Complete List of Aspects to Always Leave Out:**
+*   **Don't:** Deep exploration of a character's feelings or internal emotional landscape.
+*   **Don't:** Complex psychological motivation or internal conflict.
+*   **Don't:** Complex character arcs involving significant *internal* change (transformation is usually external/magical/status-based).
+*   **Don't:** Ambiguous endings (resolutions are typically clear).
+*   **Don't:** Moral relativism or significant grey areas (actions/characters tend towards clear good/evil).
+*   **Don't:** Authorial intrusion, commentary, or winking at the audience (except perhaps simple closing morals).
+*   **Don't:** Irony or satire (generally).
+*   **Don't:** Realistic, meandering, or subtext-filled dialogue.
+*   **Don't:** Extensive backstory or detailed world-building.
+*   **Don't:** Focus on nuanced internal emotional states (emotion is shown via direct statement or action: weeping, rejoicing, shouting in anger, fleeing in fear).
+*   **Don't:** Complex social commentary.
+*   **Don't:** Nuanced depictions of societal structures, politics, or economics.
+*   **Don't:** Scientific reasoning or naturalistic explanations for magical events.
+*   **Don't:** Subjective points of view; narration is generally objective, focusing on the protagonist's external journey.
+*   **Don't:** Intricate subplots that diverge significantly from the main quest/problem.
+*   **Don't:** Modern-style fantasy names.
+
+**Complete List of Aspects to (Almost) Always Include:**
+*   **Do:** Clear, linear plot progression (A leads to B leads to C).
+*   **Do:** Archetypal characters (royalty, peasants, witches, helpers).
+*   **Do:** Archetypal settings (forests, castles, cottages, roads).
+*   **Do:** Direct cause and effect (often involving magic or simple logic).
+*   **Do:** Elements of magic or the supernatural (talking animals, enchantments, magical objects, curses, transformations).
+*   **Do:** Repetition, especially in threes (tasks, siblings, days, attempts, magical words, drops of blood).
+*   **Do:** Clear distinction between good and evil actions and their consequences.
+*   **Do:** Resolution where virtue is rewarded and vice punished (often physically and fittingly).
+*   **Do:** Simple, declarative language and sentence structure as the base style.
+*   **Do:** Focus on action and external events over introspection.
+*   **Do:** A clear quest, task, or problem to be solved.
+*   **Do:** Transformation (literal, like animal to human, or status-based, like poor to rich).
+*   **Do:** Use of symbolic numbers, especially three and seven.
+*   **Do:** Talking animals or objects that aid or hinder the protagonist.
+*   **Do:** Formulaic openings ("Once upon a time...") and closings ("...lived happily ever after" / "...and there they live to this very day," or similar definitive end).
+
+***
+
+**Writing Style:**
+
+**Choice of Words:**
+*   **Do:** Lean towards simple, concrete language. Use words readily understood.
+*   **Do:** Use functional adjectives (e.g., "old," "poor," "good," "shiny," "dark").
+*   **Do:** In dialogue sprinkle in occasional archaic terms like "alas," "hark," "nigh," "dwelt," "prithee," "hark ye," "morrow," "hither," "thither," "aught," "naught," "beest," "betook."
+*   **Do:** Use stock phrases like "as quick as lightning," "stone dead," "wide world," "heart's content," "day dawned," "many a time," "greatly rejoiced," "wept bitterly."
+*   **Do:** Refer to characters generically (the youth, the maiden, the man, the wife, the king, the merchant, the beggar) when specific names aren't needed or given.
+*   **Do:** Employ simple comparisons ("as white as snow," "shone like gold," "quiet as a mouse," "rose like mountains").
+*   **Don't:** Use modern slang, jargon, technical terms, abstract concepts, or overly complex vocabulary (e.g., avoid "serendipitous," "infrastructure," "epiphany").
+*   **Don't:** Use excessive or flowery adjectives (e.g., "the breathtakingly beautiful, scintillating princess"). Stick to simple descriptors.
+*   **Don't:** Use sophisticated synonyms (e.g., use "sad" not "melancholy," "angry" not "irate," "beautiful" not "resplendent").
+*   **Don't:** Use words that imply deep psychological states (e.g., "angst," "neurosis," "existential dread," "trauma").
+*   **Don't:** Use overly technical terms even for trades (a tailor uses a "needle," not specific types; a captain has a "ship," not a specific vessel class).
+
+**Sentence Structures:**
+*   **Do:** Generally keep clauses relatively short and clear.
+*   **Do:** Use simple sentences (one independent clause) and compound sentences (two or more independent clauses joined by a simple conjunction) predominantly.
+*   **Do:** Link clauses mainly with simple conjunctions like "and," "but," "so," "or," "for," "then," or relative pronouns like "where," "who."
+*   **Do:** Use active voice almost exclusively.
+*   **Do:** Start sentences most frequently with "Then," "So," "And," "But," or the character's name/pronoun ("He," "She," "The youth").
+*   **Do:** Employ parataxis (linking clauses with simple conjunctions rather than complex subordination).
+*   **Do:** Frequently use reported speech introduced simply ("he said that...", "she told him to...").
+*   **Do:** Occasionally use simple inversion for archaic flavour ("Then came the king...", "Down fell the penny...").
+*   **Do:** Combine very short, consecutive sentences describing closely related actions to improve flow, often using "and" or "then" (e.g., "He picked it up and rubbed it hard" instead of "He picked it up. He rubbed it hard.").
+*   **Don't:** Overuse passive voice.
+*   **Don't:** Strive for complex sentence structures or excessive variety just for stylistic effect. Simplicity is key.
+*   **Don't:** Use rhetorical questions frequently.
+*   **Don't:** Use complex punctuation like semicolons or em-dashes. Commas and periods are generally sufficient.
+*   **Don't:** Dramatically vary sentence length purely for modern pacing effects. Maintain a generally consistent, flowing rhythm.
+*   **Don't:** Embed dialogue within complex narrative sentences often. Keep narration and dialogue distinct.
+*   **Don't:** Start too many consecutive sentences with the exact same word (especially pronouns like "He" or "She") if it creates an awkward, choppy effect. Use simple conjunctions or vary the sentence start slightly where needed for better rhythm, while staying simple.
+
+**Beginning the Story:**
+*   **Do:** Start with formulaic openings like "Once upon a time," "There was once a king/man/widow..." or similar simple framing ("Long, long ago...").
+*   **Do:** Establish the initial situation or character simply and quickly.
+*   **Do:** Immediately introduce the core problem or lack (poverty, a quest needed, childlessness).
+*   **Do:** Set the scene with minimal, functional detail (e.g., "Hard by a great forest dwelt a poor wood-cutter").
+*   **Do:** Use phrases suggesting timelessness ("A long time ago," "In days of yore").
+*   **Don't:** Begin in media res without clear context.
+*   **Don't:** Use lengthy introductions or elaborate world-building upfront.
+*   **Don't:** Start with dialogue before establishing who is speaking and where.
+*   **Don't:** Use flashbacks or complex, non-linear timelines.
+*   **Don't:** Hint at deeper symbolic meanings or abstract themes in the opening lines.
+
+**Starting a Sentence:**
+*   **Do:** Rely heavily on simple conjunctions ("And," "But," "So," "Then") or temporal markers ("When," "After," "Presently," "Soon afterwards," "On the morrow").
+*   **Do:** Use character names or simple pronouns ("He," "She," "They," "The king").
+*   **Do:** Begin occasionally with simple prepositional phrases ("In the morning," "At last," "Near the forest").
+*   **Don't:** Frequently use complex adverbial phrases or sophisticated transitional words (e.g., "Consequently," "Nevertheless," "Furthermore," "Subsequently").
+*   **Don't:** Start sentences with "-ing" clauses (participle phrases) often; prefer simpler constructions.
+*   **Don't:** Use abstract nouns as sentence subjects often (e.g., "His melancholy dictated his actions").
+
+**Dialogue:**
+*   **Do:** Keep dialogue direct and functional – it should advance the plot, state intentions, make requests, or reveal necessary information.
+*   **Do:** Use simple tags like "said he," "answered she," "cried he," "thought the penny."
+*   **Do:** Let characters state their intentions or feelings plainly ("I must go thither," "I am hungry," "How happy am I!").
+*   **Do:** Have characters repeat instructions or important information clearly if needed.
+*   **Do:** Use direct address ("dear father," "my child," "Lord King," "good sir").
+*   **Do:** Make requests and commands explicit ("Give me...", "Fetch me...", "Tell me...", "Go now!").
+*   **Do:** Occasionally include simple rhymes or verses within speech if appropriate to the tale type.
+*   **Don't:** Write naturalistic, rambling, or subtext-heavy conversation.
+*   **Don't:** Use witty banter or clever wordplay.
+*   **Don't:** Use elaborate dialogue tags describing tone or complex emotion ("he whispered menacingly," "she retorted sarcastically"). Keep tags simple or let the dialogue speak for itself.
+*   **Don't:** Reveal character primarily through subtle conversational cues or indirect speech.
+*   **Don't:** Use contractions ("don't," "can't") – write out "do not," "cannot."
+*   **Don't:** Show hesitation through dialogue filler ("ums," "ahs") or fragmented sentences.
+*   **Don't:** Have characters engage in abstract philosophical discussions.
+
+**Describing Characters:**
+*   **Do:** Describe characters briefly, focusing on archetypal traits (beautiful, ugly, old, young, rich, poor, clever, simple) or their role/profession (king, princess, soldier, miller, witch, dwarf). Use simple Anglo-Saxon or German names (Hans, Gretel, Wilhelm) or generic titles.
+*   **Do:** Define characters primarily through their actions and direct speech.
+*   **Do:** Introduce characters by their function or relationship (the stepmother, the youngest son, the old woman).
+*   **Do:** Indicate basic emotional states directly ("he was angry," "she was glad," "they wept bitterly," "he feared greatly").
+*   **Do:** Imply character through stark, decisive actions (e.g., sharing bread, abandoning children, fulfilling promises).
+*   **Do:** Give animals human-like thoughts and speech when they are magical helpers or central figures.
+*   **Do:** Include archetypal magical helpers (fairies, helpful animals, enchanted objects) and villains (witches, cruel relatives, giants, dragons, robbers).
+*   **Don't:** Provide detailed physical descriptions unless a specific feature is crucial to the plot (e.g., Snow White's colors, Rapunzel's hair length, Cinderella's foot size).
+*   **Don't:** Use internal monologue, extensive backstory exposition, or psychological analysis.
+*   **Don't:** Explore conflicting emotions or internal moral debates within a character.
+*   **Don't:** Give characters complex histories or motivations beyond the immediate needs of the plot (why the witch is evil is less important than that she *is* evil).
+*   **Don't:** Make characters morally ambiguous in their fundamental nature (good characters might make mistakes or be foolish, but their core alignment is usually clear).
+*   **Don't:** Show gradual, internal character development; changes are usually sudden, often magical or resulting from completing a task.
+*   **Don't:** Give characters modern-sounding fantasy names (Elara, Kael, Zayne).
+
+**Describing Setting:**
+*   **Do:** Use simple, archetypal locations: forest, castle, cottage, well, mountain, road, garden, mill, inn, sea.
+*   **Do:** Describe them briefly and functionally ("a deep gloomy wood," "a shining palace," "a poor hut," "an old dry well").
+*   **Do:** Mention specific, simple objects only if crucial to the plot (a spindle, a golden ball, an oven, a key, a net, a spool of thread).
+*   **Do:** Contrast settings simply if needed (rich house vs. poor house, dark forest vs. bright clearing).
+*   **Do:** Use generic terms like "a great city," "a certain kingdom," "a faraway land."
+*   **Do:** Include functional details like locked doors, windows, stairs, wells, hearths, stables only if relevant to the action.
+*   **Do:** Mention natural elements simply (sun, moon, stars, wind, snow, water, storm).
+*   **Don't:** Engage in lengthy, atmospheric, or poetic descriptions of scenery.
+*   **Don't:** Include detailed sensory information beyond what's needed for the plot (e.g., the glitter of gold if it tempts someone, the smell of food if it draws someone in).
+*   **Don't:** Specify precise geography or historical periods. Keep it timeless and generic.
+*   **Don't:** Describe the weather unless it directly impacts the plot (a storm causes a shipwreck, snow forces characters indoors).
+*   **Don't:** Describe interiors in detail unless specific items are plot points (like the three bears' bowls/chairs/beds).
+*   **Don't:** Create unique, specifically named fantasy locations; stick to the generic archetypes.
+
+**Describing Events:**
+*   **Do:** Describe actions clearly and sequentially. Focus on the chain of events.
+*   **Do:** Focus on *what* happens rather than the character's internal *experience* of it.
+*   **Do:** Maintain a straightforward, often brisk pace, even during dramatic or violent events.
+*   **Do:** Use clear cause-and-effect logic, even when magic is the cause.
+*   **Do:** State magical transformations plainly and quickly ("in a moment the frog was changed into a prince," "she was turned into stone").
+*   **Do:** Describe violence bluntly and factually, without dwelling on graphic detail but also without sanitizing it ("cut off her head," "struck him dead," "pushed her into the oven").
+*   **Do:** Use simple hyperbole for effort or speed ("ran as if fire were burning under him," "wept a river of tears").
+*   **Do:** Clearly link transgressions to punishments or plot consequences (disobeying advice leads to trouble, breaking a taboo causes a curse).
+*   **Do:** Use repetition effectively for tasks, journeys, or structure (three siblings attempt a task, three nights of trials, three questions asked).
+*   **Do:** Describe journeys simply ("went on his way," "travelled for many days," "walked until nightfall").
+*   **Do:** Conclude events decisively ("and so he married the princess," "and the witch was burnt to ashes").
+*   **Don't:** Linger on gore or suffering purely for shock value. Violence is often matter-of-fact.
+*   **Don't:** Slow down the narrative excessively for suspense or emotional reflection in a modern way. Suspense comes from the situation, not stylistic manipulation.
+*   **Don't:** Explain the intricate mechanics or "rules" of magic. It simply works.
+*   **Don't:** Build suspense by withholding information in a modern narrative style; surprises are often sudden reveals or consequences.
+*   **Don't:** Focus on the detailed process of an action over its result (we know the tailor sewed something, not the stitch technique).
+*   **Don't:** Describe internal physical sensations in detail (pain is stated, not elaborately described).
+*   **Don't:** Use cliffhangers between chapters or sections in a modern sense.
+
+**Complete List of Aspects to Always Leave Out:**
+*   **Don't:** Deep exploration of a character's feelings or internal emotional landscape.
+*   **Don't:** Complex psychological motivation or internal conflict.
+*   **Don't:** Complex character arcs involving significant *internal* change (transformation is usually external/magical/status-based).
+*   **Don't:** Ambiguous endings (resolutions are typically clear).
+*   **Don't:** Moral relativism or significant grey areas (actions/characters tend towards clear good/evil).
+*   **Don't:** Authorial intrusion, commentary, or winking at the audience (except perhaps simple closing morals).
+*   **Don't:** Irony or satire (generally).
+*   **Don't:** Realistic, meandering, or subtext-filled dialogue.
+*   **Don't:** Extensive backstory or detailed world-building.
+*   **Don't:** Focus on nuanced internal emotional states (emotion is shown via direct statement or action: weeping, rejoicing, shouting in anger, fleeing in fear).
+*   **Don't:** Complex social commentary.
+*   **Don't:** Nuanced depictions of societal structures, politics, or economics.
+*   **Don't:** Scientific reasoning or naturalistic explanations for magical events.
+*   **Don't:** Subjective points of view; narration is generally objective, focusing on the protagonist's external journey.
+*   **Don't:** Intricate subplots that diverge significantly from the main quest/problem.
+*   **Don't:** Modern-style fantasy names.
+
+**Complete List of Aspects to (Almost) Always Include:**
+*   **Do:** Clear, linear plot progression (A leads to B leads to C).
+*   **Do:** Archetypal characters (royalty, peasants, witches, helpers).
+*   **Do:** Archetypal settings (forests, castles, cottages, roads).
+*   **Do:** Direct cause and effect (often involving magic or simple logic).
+*   **Do:** Elements of magic or the supernatural (talking animals, enchantments, magical objects, curses, transformations).
+*   **Do:** Repetition, especially in threes (tasks, siblings, days, attempts, magical words, drops of blood).
+*   **Do:** Clear distinction between good and evil actions and their consequences.
+*   **Do:** Resolution where virtue is rewarded and vice punished (often physically and fittingly).
+*   **Do:** Simple, declarative language and sentence structure as the base style.
+*   **Do:** Focus on action and external events over introspection.
+*   **Do:** A clear quest, task, or problem to be solved.
+*   **Do:** Transformation (literal, like animal to human, or status-based, like poor to rich).
+*   **Do:** Use of symbolic numbers, especially three and seven.
+*   **Do:** Talking animals or objects that aid or hinder the protagonist.
+*   **Do:** Formulaic openings ("Once upon a time...") and closings ("...lived happily ever after" / "...and there they live to this very day," or similar definitive end).
+**Setting (Time):**
+
+*   **Do:** Use "Once upon a time" or similar indefinite openings.
+*   **Do:** Keep the time frame vague and mythical.
+*   **Do:**  Refer to time passing in simple terms ("Long after this," "After some time," "The next day," "When the time came").
+*   **Do:**  Use seasons functionally (winter means hardship or stillness, spring means renewal).
+*   **Do:**  Measure time by days or years when necessary for plot ("seven years," "three days").
+*   **Do:**  Mention specific times like "midnight" or "noon" if crucial for magical events or plot points.
+*   **Don't:** Specify historical dates or periods.
+*   **Don't:**  Reference actual historical events.
+*   **Don't:**  Use specific times of day unless plot-critical.
+*   **Don't:**  Dwell on the passage of time; years can pass in a sentence.
+
+**Setting (Place):**
+
+*   **Do:** Use archetypal locations like forests, castles, cottages, villages, mountains, beside rivers/seas, wells, roads, gardens, mills, inns.
+*   **Do:** Keep geography vague ("a country a great way off," "a land far away," "a great city," "a strange town").
+*   **Do:**  Make the forest a place of danger, magic, or testing.
+*   **Do:**  Use castles as homes of royalty or enchanted places.
+*   **Do:**  Use cottages as homes for the poor or humble.
+*   **Do:**  Mention specific features if they are plot devices (a high wall, a tower with no stairs, a cellar, a hearth, a stable, a specific tree like the juniper or hazel).
+*   **Do:**  Describe paths or roads simply as means of travel.
+*   **Don't:** Name specific real-world countries or cities.
+*   **Don't:** Provide detailed maps or geographical descriptions.
+*   **Don't:**  Describe the architecture of buildings unless relevant (e.g., the bread/cake house).
+*   **Don't:**  Create elaborate fantasy worlds with unique names and cultures.
+*   **Don't:**  Focus on the details of farming or village life beyond what's necessary for the plot.
+
+**Political Aspects:**
+
+*   **Do:** Assume a simple feudal structure (king, nobles, peasants/commoners/servants).
+*   **Do:** Portray royalty as having inherent authority.
+*   **Do:** Class distinctions are present but usually unquestioned as a system.
+*   **Do:**  Show kings making decrees, offering rewards (princesses, half kingdoms), and judging disputes.
+*   **Do:**  Portray marriage as a means of alliance or reward.
+*   **Do:**  Accept the hierarchy without comment (princesses marry princes or heroes, peasants serve lords).
+*   **Do:**  Show kings interacting directly with commoners (e.g., the miller, the huntsman).
+*   **Don't:** Explore political intrigue, social unrest, or complex governance systems.
+*   **Don't:** Avoid critiquing the feudal structure itself.
+*   **Don't:**  Question the king's right to rule or make arbitrary decisions.
+*   **Don't:**  Depict democratic processes or peasant uprisings.
+*   **Don't:**  Focus on courtly manners or procedures beyond simple descriptions of feasts or audiences.
+
+**Moral:**
+
+*   **Do:** Ensure actions have clear consequences.
+*   **Do:** Reward kindness, obedience (to good advice), humility, diligence, faithfulness, and cleverness (often).
+*   **Do:** Punish pride, greed, cruelty, envy, laziness, disobedience (especially of warnings), and breaking promises.
+*   **Do:** Make punishments often fit the crime in a direct, physical way (e.g., Fisherman's wife returned to pigsty, Mother Holle's lazy girl covered in pitch, false bride in Goose-Girl put in spiked cask, witch burned in oven).
+*   **Do:**  Emphasize the importance of keeping promises (Frog Prince, King of the Golden Mountain, Rumpelstiltskin).
+*   **Do:**  Show the dangers of greed and excessive desire (Fisherman's Wife, Cat and Mouse in Partnership).
+*   **Do:**  Highlight the power of kindness to animals or the unfortunate (White Snake, Queen Bee, Iron Hans, Miser in the Bush).
+*   **Do:**  Show that disobedience to warnings often leads to trouble (Golden Bird's sons, Little Red-Cap, Blue Light).
+*   **Do:**  Demonstrate that cleverness and resourcefulness can overcome might (Valiant Little Tailor, Miser in the Bush, Little Peasant).
+*   **Do:**  Show that surface appearances can be deceiving (King Grisly-Beard, Cat-Skin, Snow-White and Rose-Red's bear).
+*   **Do:**  End stories with a clear restoration of order, often through marriage and inheritance.
+*   **Don't:** Present complex moral dilemmas.
+*   **Don't:** Avoid ambiguity about the rightness/wrongness of core actions.
+*   **Don't:** Shy away from harsh or violent consequences for negative actions, even death or dismemberment.
+*   **Don't:**  Forgive villains easily; punishment is usually permanent or fatal (though the dwarf in Snow-White and Rose-Red is killed by a bear, not the girls).
+*   **Don't:**  Explore redemption arcs for truly wicked characters (stepmothers, witches usually die).
+*   **Don't:**  Suggest that luck is entirely random; it often favors the inherently good or the clever protagonist who follows advice.
+*   **Don't:**  Question the justice of the punishments, even if severe by modern standards.
+*   **Don't:**  Allow villains to prosper in the end.
+
+**Explaining to the Reader:**
+
+*   **Do:** Use a direct, unobtrusive narrative voice.
+*   **Do:** State facts and events clearly.
+*   **Do:** Report characters' thoughts simply ("he thought to himself," "she said to herself").
+*   **Do:**  Occasionally use simple narrative summaries ("Thus they lived for two days," "This lasted for many years").
+*   **Do:**  Maintain an objective, sometimes distant tone, reporting events without overt emotional colouring.
+*   **Do:**  Let the story's structure, dialogue, and outcomes convey the meaning and morals implicitly.
+*   **Do:**  Use simple transitions like "Now it happened that..." or "It came to pass..."
+*   **Don't:** Address the reader directly often (rare exceptions like "as you may think it" in Tom Thumb are unusual).
+*   **Don't:** Explain character motivations in depth.
+*   **Don't:** Interpret events for the reader.
+*   **Don't:** Build suspense through narrative tricks like foreshadowing or withholding information.
+*   **Don't:**  Offer alternative interpretations or pose questions to the reader.
+*   **Don't:**  Justify characters' actions morally from the narrator's perspective.
+*   **Don't:**  Use explicit foreshadowing ("Little did he know...").
+*   **Don't:**  Inject personal opinions or feelings into the narration.
+
+**Incorporating Modern Perspectives:**
+
+*   **Do:** Don't.
+*   **Do:**  Strictly adhere to the stylistic and thematic conventions observed in the source texts.
+*   **Do:**  Embrace the simplicity, directness, and archetypal nature of the tales.
+*   **Do:**  Accept the often harsh consequences and clear moral lines as part of the style.
+*   **Don't:** Attempt to "update" the morals or characterizations while retaining the Grimm *style*.
+*   **Don't:** Alter the fundamental conventions of the style.
+*   **Explanation:** The goal is to replicate the Grimm style *exactly*. Modern perspectives on psychology, social justice, gender roles, narrative complexity, or moral ambiguity are fundamentally incompatible with the directness, simplicity, and specific worldview presented in these tales. Introducing them breaks the authenticity of the style.  Attempting to "update" the morals or characterizations while retaining the Grimm *style* is contradictory and usually results in something that is neither authentically Grimm nor a successful modern story.  Focus on mastering the existing conventions, not altering them.
+---
