@@ -1548,6 +1548,8 @@ The tale of \"Iron John\" (or \"Iron Hans\" as it's sometimes translated, and as
             # Write to file and print to console
             f.write(chunk.text)
             print(chunk.text, end="")
+    with open(f"prompt_code ({i}).txt", "w") as f:
+        f.write(open("prompt/prompt_text.txt").read())
 
 if __name__ == "__main__":
     generate()
