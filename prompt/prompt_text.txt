@@ -1,4 +1,12 @@
-Thank you, great work. Now I want you to write a new essay on the exact same format but as you go along you need to come up with a new original story. Let each chapter consist of 10 sentences. Write 10 chapters., so there will be 100 sentence sections in total. DO NOT COME UP WITH THE PLOT OR TITLE OR SETTING OR ANYTHING AT ALL BEFORE STARTING WRITING. You as the author need to come up with the plot "as you go" writing this. However, I want you to do one thing differently this time. for each section (sentence) start by writing the analysis/explanation/commenatary of the sentence and then write the sentence last after these (plot function, grimm style, moral implication, metaphorical/psychological meaning, sentence). So the header will just be "Sentence 1 (Authors explanation and commentary): ". This way you will "plan out" the sentence before writing it. 
+Thank you, great work. Now I want you to write a new essay on the exact same format but as you go along you need to come up with a new original story. 
+Let each chapter consist of 10 sentences. 
+Write 10 chapters, so there will be 100 sentence sections in total. 
+DO NOT COME UP WITH THE PLOT OR TITLE OR SETTING OR ANYTHING AT ALL BEFORE STARTING WRITING. 
+You as the author need to come up with the plot "as you go" writing this. 
+However, I want you to do one thing differently this time: 
+For each section (sentence) start by writing the analysis/explanation/commenatary of the sentence and then write the sentence last after these,
+(plot function, grimm style, moral implication, metaphorical/psychological meaning, sentence). 
+So the header will just be "Sentence 1 (Authors explanation and commentary): ". This way you will "plan out" the sentence before writing it. 
 
 You must also adhere to the following guidelines: 
 - Do not come up with names for characters, just call them "the king's son" or "The miller".
@@ -6,10 +14,13 @@ You must also adhere to the following guidelines:
 - Do not describe the inner state of characters (example to avoid: "her heart full of both fear and a strange resolve. "). 
 
 I also have some requirements for elements to be present in this particular story:
-- The main conflict following the same events as the movie Mean Girls. 
-- A king (character inspired by leo dicaprios plantation owner in the movie django unchained)
-- A princess (main character)
-- An unexpected but revealing plot twist, not revealed until chapter 7 (avoid deciding exactly what the secret will be until ch 7).
+- comedy
+- coming to terms with ones mortality
+- The main conflict being the arrival of a mysterious empty wagon at court every day at the same time.
+- A king (character inspired by the templar in the movie "the seventh seal")
+- A loyal hound (main character)
+- Final reward for the main character is being granted a place in heaven by God at His side, despite being an animal.
+- An unexpected but revealing plot twist, not revealed until chapter 8 (avoid deciding exactly what the secret will be until ch 8).
 
 Do not write an intruduction. Start with 
 "Chapter 1"
