@@ -3,6 +3,7 @@ import json
 import html
 import os
 import shutil
+import time
 import chardet
 
 # Function to sanitize title for filename and folder name
@@ -262,7 +263,8 @@ for file in files:
     print(f'code{file_number}.txt')
     shutil.move(file, os.path.join(processed_dir, f'code{file_number}.txt'))
     file_prompt = file.rsplit('.', 1)[0] + " (prompt used).txt"
-    shutil.move(file_prompt, os.path.join(processed_dir, f'code{file_number} (prompt used).txt'))
+    if os.path.exists(file_prompt):
+        shutil.move(file_prompt, os.path.join(processed_dir, f'code{file_number} (prompt used).txt'))
 
 
 # Generate main.html with links to all HTML files in subfolders
@@ -277,12 +279,30 @@ for root, dirs, files in os.walk(os.getcwd()):
             # Derive display title from folder name
             folder_name = os.path.basename(root)
             display_title = folder_name.replace('_', ' ')
-            html_files.append((display_title, relative_path))
+            creation_time_file = os.path.join(root, 'creation_time.txt')
+            if os.path.exists(creation_time_file):
+                with open(creation_time_file, 'r') as f:
+                    creation_date_str = f.readline().strip()
+            else:
+                creation_date = os.path.getctime(root)
+                creation_date_str = time.strftime('%Y-%m-%d', time.gmtime(creation_date))
+                with open(creation_time_file, 'w') as f:
+                    f.write(time.strftime('%Y-%m-%d'))
+            html_files.append((display_title, creation_date_str, relative_path))
 
-# Sort links alphabetically by display title
-html_files.sort(key=lambda x: x[0].lower())
-links_html = ''.join(f'<li><a href="{html.escape(path)}">{html.escape(title)}</a></li>\n' for title, path in html_files)
+# Sort links first by date and then alphabetically by display title
+html_files.sort(key=lambda x: (x[1], x[0].lower()), reverse=True)
+
+links_html = ''
+last_date = ''
+for title, date, path in html_files:
+    if date != last_date:
+        links_html += f'<h2>{date}</h2>\n'
+        last_date = date
+    mp3_file = os.path.join(os.path.dirname(path), os.path.basename(path).replace('.html', '.mp3'))
+    has_mp3 = ' 📝' if os.path.exists(mp3_file) else ''
+    links_html += f'<li><a href="{html.escape(path)}">{html.escape(title)}{has_mp3}</a></li>\n'
 
 # Write main.html
-with open('main.html', 'w') as f:
+with open('main.html', 'w', encoding='utf-8') as f:
     f.write(main_html_template.format(links_html=links_html))
