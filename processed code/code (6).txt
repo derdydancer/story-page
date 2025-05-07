@@ -1,0 +1,919 @@
+{
+  "Analysis": [
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Classic opening 'There lived once,' introduces a humble protagonist (widow's son) and a simple setting (edge of a wood). Establishes poverty/lack, a common starting point. Simple language.",
+      "Metaphorical/Psychological Meaning": "The widow represents lack or incompleteness (missing masculine principle). Her son is the nascent Ego, living at the edge of the known world (wood edge), bordering the unconscious. Poverty signifies a lack of psychic resources or integration at the start.",
+      "Moral Implication": "Sets a baseline of hardship, suggesting the need for change or intervention. Humility of origins.",
+      "Plot Function": "Establishes the protagonist and his initial state of lack and humble circumstances.",
+      "Sentence": "There lived once a poor widow at the edge of a dark wood, and she had but one son.",
+      "Sentence Number": 1
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Focuses on action and survival ('gathered sticks'). Simple sentence structure. 'Every day' shows routine and hardship. Concrete nouns ('sticks,' 'fire').",
+      "Metaphorical/Psychological Meaning": "The Ego's current function is basic survival, gathering meager resources (sticks=small energies) from the edge of the unconscious (wood) for basic sustenance (fire=consciousness/warmth). A repetitive, limited existence.",
+      "Moral Implication": "Highlights the diligence required for survival in poverty.",
+      "Plot Function": "Describes the son's daily routine and reinforces their poverty.",
+      "Sentence": "The son gathered sticks in the wood every day, that they might have a fire.",
+      "Sentence Number": 2
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Introduces a change in routine ('One day'). Uses 'deeper than he was wont' to signal venturing beyond the familiar. Simple description of action.",
+      "Metaphorical/Psychological Meaning": "The Ego ventures further into the Unconscious (deeper in the wood) than usual, breaking the routine. This often precedes a significant encounter or discovery.",
+      "Moral Implication": "Suggests that deviating from the path, perhaps driven by need or curiosity, can lead to new experiences.",
+      "Plot Function": "Initiates the inciting incident by having the son go further into the wood than usual.",
+      "Sentence": "One day he went deeper into the wood than he was wont.",
+      "Sentence Number": 3
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Introduces a mysterious figure ('an old man'). Simple description ('sat upon a stone,' 'long white beard'). Actions are simple ('looked kindly'). Archaic phrasing 'never before seen'.",
+      "Metaphorical/Psychological Meaning": "Encounter with an archetypal figure in the Unconscious - the Wise Old Man. His stillness (sitting) and appearance (white beard) suggest wisdom and timelessness. His kind look offers potential help or guidance.",
+      "Moral Implication": "The unknown depths hold unexpected encounters, potentially benevolent ones.",
+      "Plot Function": "Introduces a potential helper or figure of significance.",
+      "Sentence": "There he saw an old man with a long white beard, whom he had never before seen, sitting upon a stone, and the man looked kindly upon him.",
+      "Sentence Number": 4
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Direct speech, simple question. Focuses on the boy's action ('gathering sticks'). Polite address ('child').",
+      "Metaphorical/Psychological Meaning": "The Wise Old Man archetype engages the Ego, inquiring about its current, limited task (gathering sticks=focus on mundane survival).",
+      "Moral Implication": "Initiation of interaction, questioning the current state.",
+      "Plot Function": "The old man initiates dialogue, focusing on the boy's task.",
+      "Sentence": "The old man said, 'Child, why do you gather sticks so far from your home?'",
+      "Sentence Number": 5
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Direct reply explaining the situation. States poverty simply ('My mother and I are poor'). Explains the need ('need wood for our fire'). Simple language, respectful tone implied.",
+      "Metaphorical/Psychological Meaning": "The Ego explains its limited state (poverty=lack of psychic resources) and its focus on basic conscious needs (fire=warmth, awareness) to the Wise Old Man.",
+      "Moral Implication": "Honesty about one's condition.",
+      "Plot Function": "The boy explains his motivation and circumstances.",
+      "Sentence": "'My mother and I are poor,' answered the boy, 'and we need wood for our fire, but near the cottage there is little left.'",
+      "Sentence Number": 6
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Action by the old man. Gives a gift ('a small, smooth stone'). Simple instruction ('Take this'). Promise of effect ('never want for fire'). Introduces a potentially magical object (though its nature is mundane).",
+      "Metaphorical/Psychological Meaning": "The Wise Old Man (Self/Unconscious wisdom) provides the Ego with a seemingly simple tool (stone) that holds transformative potential, promising to meet the basic need (fire=consciousness) endlessly. It represents a lasting inner resource.",
+      "Moral Implication": "Help can come in humble forms. Kindness rewarded with a boon.",
+      "Plot Function": "The old man gives the boy a gift with a specific, helpful property.",
+      "Sentence": "The old man nodded, and gave the boy a small, smooth stone, saying, 'Take this, and as long as it is on your hearth, you shall never want for fire.'",
+      "Sentence Number": 7
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Boy's reaction and action. Simple thanks ('thanked the man'). Action ('ran home'). Emotional state shown by action ('heart full of wonder' implied by speed/focus, though not stated).",
+      "Metaphorical/Psychological Meaning": "The Ego accepts the gift from the Unconscious and eagerly returns to the conscious world (home) to implement it.",
+      "Moral Implication": "Gratitude for gifts received. Eagerness to test the boon.",
+      "Plot Function": "The boy accepts the gift and returns home.",
+      "Sentence": "The boy thanked the man and ran home as fast as his legs could carry him.",
+      "Sentence Number": 8
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Action of placing the object. Simple description ('placed the stone'). Location ('upon the cold hearth').",
+      "Metaphorical/Psychological Meaning": "The Ego places the gift/resource from the Unconscious (stone) into the center of the conscious home (hearth), the place needing warmth/energy.",
+      "Moral Implication": "Following instructions, applying the boon.",
+      "Plot Function": "The boy uses the gift as instructed.",
+      "Sentence": "He reached the cottage and placed the stone upon the cold hearth.",
+      "Sentence Number": 9
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Describes the magical effect. Immediate result ('at once'). Vivid description ('bright flame leaped up'). Sensory detail ('warmth filled the room'). Confirms the old man's promise.",
+      "Metaphorical/Psychological Meaning": "The resource from the Unconscious immediately provides the needed psychic energy (fire, warmth) in the conscious realm. The basic lack is met effortlessly through the connection to the deeper source.",
+      "Moral Implication": "Promises kept by the magical helper. The power of the gift is confirmed.",
+      "Plot Function": "The magical object works as promised, solving the initial problem of lack of fire.",
+      "Sentence": "At once a bright flame leaped up from the stone, and warmth filled the little room as never before.",
+      "Sentence Number": 10
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Describes the ongoing state. Simple time passing ('lived for some time'). State of being ('comfort and warmth'). Connects back to the gift ('thanks to the stone').",
+      "Metaphorical/Psychological Meaning": "The Ego and the Mother Principle (widow) experience a period of stability and psychic comfort, sustained by the connection to the unconscious resource (stone). Basic needs are met.",
+      "Moral Implication": "Blessings enjoyed. The positive effect of the boon continues.",
+      "Plot Function": "Shows the positive consequences of the gift over time.",
+      "Sentence": "The widow and her son lived for some time in comfort and warmth, thanks to the burning stone.",
+      "Sentence Number": 11
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Introduces external change ('But then word came'). Vague source ('through the land'). Describes a new power ('highest judge'). Uses descriptive titles rather than names. Implies authority and severity ('black robes', 'hard judgments').",
+      "Metaphorical/Psychological Meaning": "A new, powerful force emerges in the collective consciousness ('the land'). The 'highest judge' in 'black robes' represents a rigid, severe, perhaps shadowy aspect of the Superego or collective authority, focused on judgment and potentially suppression.",
+      "Moral Implication": "Times change, external forces can disrupt personal peace. Introduction of a potentially antagonistic force.",
+      "Plot Function": "Introduces a new, powerful authority figure and hints at a changing atmosphere in the land.",
+      "Sentence": "But then word came through the land of the highest judge in his black robes, who passed hard judgments upon all.",
+      "Sentence Number": 12
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Describes the judge's actions. Simple verbs ('travelled,' 'set up court'). Location ('market town'). Atmosphere ('great fear fell').",
+      "Metaphorical/Psychological Meaning": "The severe Superego figure (judge) asserts its authority broadly ('travelled the land'), establishing centers of control ('set up court') in public spaces (market town). Its presence instills fear in the collective consciousness.",
+      "Moral Implication": "The arrival of harsh authority brings fear.",
+      "Plot Function": "Shows the judge's expanding influence and the fear he inspires.",
+      "Sentence": "This judge travelled the land and set up his court in the market town nearby, and great fear fell upon the people.",
+      "Sentence Number": 13
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Introduces another significant event. Vague timing ('About this time'). Extraordinary event ('a bright light was seen'). Location ('in the hills'). Simple description.",
+      "Metaphorical/Psychological Meaning": "Simultaneous with the rise of the severe judge (Shadow Superego), a numinous event occurs (bright light=manifestation of the Self or divine) in the liminal space between wilderness and civilization (hills).",
+      "Moral Implication": "Signs and wonders appear, perhaps in opposition to or contrast with the harsh authority.",
+      "Plot Function": "Introduces a mysterious, possibly supernatural event occurring concurrently with the judge's arrival.",
+      "Sentence": "About this time, a bright light was seen at night in the hills beyond the dark wood.",
+      "Sentence Number": 14
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Describes the source of the light. Introduces another mysterious figure ('a traveler'). Description focuses on effect ('face shone,' 'kindness in his eyes'). Actions ('walked down,' 'spoke gently'). Contrasts with the judge.",
+      "Metaphorical/Psychological Meaning": "A figure embodying the Self or divine grace ('traveler' whose 'face shone') descends from the numinous realm (hills) into the collective consciousness. Kindness and gentleness contrast sharply with the judge's severity.",
+      "Moral Implication": "A benevolent power appears, contrasting with the fearful authority.",
+      "Plot Function": "Introduces a second powerful figure, seemingly benevolent and connected to the light.",
+      "Sentence": "From this light, a traveler came walking down into the villages, whose face shone, and who had great kindness in his eyes, and spoke gently to all he met.",
+      "Sentence Number": 15
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Describes the traveler's actions. Simple verbs ('healed the sick,' 'comforted the sorrowful'). Focuses on benevolent deeds. Uses stock phrases ('touch of his hand').",
+      "Metaphorical/Psychological Meaning": "The Self/Divine figure actively brings healing and comfort, restoring wholeness and alleviating suffering within the collective consciousness, acting directly counter to the fear spread by the judge.",
+      "Moral Implication": "Good deeds and compassion demonstrated by the traveler.",
+      "Plot Function": "Shows the traveler performing benevolent acts, establishing his character.",
+      "Sentence": "He healed the sick with the touch of his hand and comforted the sorrowful.",
+      "Sentence Number": 16
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Reports speech/rumor. 'It was whispered' creates atmosphere of secrecy/awe. Attributing divine origin ('sent from heaven,' 'an angel'). Simple terms.",
+      "Metaphorical/Psychological Meaning": "The collective consciousness senses the numinous quality of the traveler, speculating about his divine origin (Self, archetype of God). This recognition happens implicitly ('whispered').",
+      "Moral Implication": "People recognize goodness and power, attributing it to a higher source.",
+      "Plot Function": "Builds the traveler's mystique and perceived power.",
+      "Sentence": "It was whispered among the folk that he was surely sent from heaven, or perhaps was an angel.",
+      "Sentence Number": 17
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Juxtaposes the two figures. Contrasting descriptions ('gentle traveler,' 'stern judge'). Describes their paths ('paths crossed'). Location ('market square'). Sets up confrontation.",
+      "Metaphorical/Psychological Meaning": "The embodiment of the benevolent Self (traveler) and the severe Shadow Superego (judge) are destined to meet in the public square (center of collective life). A confrontation between these opposing psychic forces is inevitable.",
+      "Moral Implication": "Forces of kindness and severity are set on a collision course.",
+      "Plot Function": "Creates narrative tension by bringing the two powerful figures into the same space, foreshadowing conflict.",
+      "Sentence": "Now it happened that the gentle traveler and the stern judge came both to the market town, and their paths crossed in the main square.",
+      "Sentence Number": 18
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Describes the judge's reaction. Simple action ('stopped'). Direct speech ('Who are you?'). Tone of challenge/authority ('spoke sharply').",
+      "Metaphorical/Psychological Meaning": "The severe Superego (judge) confronts the Self figure (traveler), demanding identification and challenging its presence/authority. The sharpness indicates hostility or suspicion.",
+      "Moral Implication": "Harsh authority challenges unrecognized benevolence.",
+      "Plot Function": "The judge initiates the confrontation, challenging the traveler.",
+      "Sentence": "The judge in his black robes stopped, and looked hard at the traveler, and spoke sharply, saying, 'Who are you that walks here doing such works?'",
+      "Sentence Number": 19
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Traveler's reply. Simple statement ('I am a friend to all'). Action ('smiled gently'). Contrast in demeanor ('judge scowled').",
+      "Metaphorical/Psychological Meaning": "The Self figure responds with universal benevolence ('friend to all') and gentleness, which is met with negativity (scowl) by the rigid Superego, highlighting their fundamental opposition.",
+      "Moral Implication": "Gentleness meets harshness. The traveler's simple claim contrasts with the judge's suspicion.",
+      "Plot Function": "The traveler responds peacefully, but the judge's reaction confirms the conflict.",
+      "Sentence": "'I am a friend to all,' answered the traveler, and smiled gently, but the judge only scowled the more.",
+      "Sentence Number": 20
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Judge's action based on suspicion. Uses 'dark look' to imply malice without inner state. Accusation ('stirring up the people,' 'false works'). Direct command ('Seize him!'). Archetypal 'guards' introduced.",
+      "Metaphorical/Psychological Meaning": "The rigid Superego (judge) perceives the Self's healing influence ('works') as disruptive ('stirring up') and illegitimate ('false'). It commands its enforcing aspects (guards=defense mechanisms, rigid thoughts) to suppress the Self figure.",
+      "Moral Implication": "Authority misinterprets good deeds as subversion. Power used to suppress perceived threats.",
+      "Plot Function": "The judge accuses the traveler and orders his arrest, escalating the conflict.",
+      "Sentence": "The judge gave his guards a dark look and said, 'This man is stirring up the people with false works; seize him!'",
+      "Sentence Number": 21
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Describes the guards' action. Simple verbs ('stepped forward,' 'laid hands'). Emphasizes the traveler's non-resistance ('did not resist').",
+      "Metaphorical/Psychological Meaning": "The defense mechanisms (guards) move to suppress the Self figure (traveler), who allows the capture, suggesting a voluntary submission or acceptance of this phase of the process.",
+      "Moral Implication": "Innocence or higher purpose does not resist worldly force. Submission to unjust authority.",
+      "Plot Function": "The traveler is arrested without resistance.",
+      "Sentence": "The guards stepped forward at once and laid rough hands upon the traveler, but he did not resist them.",
+      "Sentence Number": 22
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Location of imprisonment. Specific but archetypal ('dark cellar'). Setting ('beneath the court house'). Atmosphere ('cold stone walls,' 'no light').",
+      "Metaphorical/Psychological Meaning": "The Self figure is confined deep within the structure of the rigid authority (cellar beneath court house=the unconscious foundations of the Superego), a place of darkness and repression.",
+      "Moral Implication": "Goodness imprisoned by harsh judgment. Confinement in darkness.",
+      "Plot Function": "Describes the place of the traveler's imprisonment.",
+      "Sentence": "They led him away and cast him into a dark cellar beneath the court house, which had cold stone walls and no light at all.",
+      "Sentence Number": 23
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Judge's decree. Public announcement ('proclaimed'). Nature of decree ('forbidden'). Object ('speak the traveler's name'). Consequence ('pain of punishment'). High stakes.",
+      "Metaphorical/Psychological Meaning": "The Superego (judge) attempts to erase the memory and influence of the Self figure by forbidding even the mention of his existence (name). This is an attempt at total repression, enforced by threat (punishment).",
+      "Moral Implication": "Attempt to control thought and memory through fear. Suppression of the benevolent figure's influence.",
+      "Plot Function": "The judge attempts to suppress the traveler's memory and influence.",
+      "Sentence": "Then the judge proclaimed that it was forbidden for any man to speak the traveler's name, on pain of punishment.",
+      "Sentence Number": 24
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Effect on the people. Describes emotion simply ('people were afraid'). Action ('spoke only in whispers'). Reference to past good deeds ('works of kindness').",
+      "Metaphorical/Psychological Meaning": "Fear of the Superego's judgment forces the collective consciousness (people) into silence and secrecy regarding the imprisoned Self figure, though the memory of its positive influence (kindness) persists.",
+      "Moral Implication": "Fear leads to silence, but memory of goodness remains.",
+      "Plot Function": "Shows the effectiveness of the judge's decree in silencing the populace.",
+      "Sentence": "The people were afraid, and spoke only in whispers of the traveler and his works of kindness.",
+      "Sentence Number": 25
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Shift back to the protagonist. Action ('heard the news'). Typical information spread ('as news travels'). Emotional response implied by action ('grew troubled').",
+      "Metaphorical/Psychological Meaning": "The nascent Ego (boy), living with his connection to the unconscious boon (stone), becomes aware of the conflict in the outer world – the suppression of the Self (traveler) by the harsh Superego (judge). This troubles him.",
+      "Moral Implication": "Even those seemingly removed are affected by larger events. Concern for the fate of the benevolent figure.",
+      "Plot Function": "Connects the protagonist to the main conflict; he learns about the traveler's imprisonment.",
+      "Sentence": "Now the widow's son, in his cottage by the wood, heard the news of what had passed in the town, as news travels, and he grew troubled.",
+      "Sentence Number": 26
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Protagonist reflects on past encounter. Connects traveler to the helper figure ('thought of the old man'). Uses simile ('eyes were alike'). Creates a link based on inner quality ('kindness').",
+      "Metaphorical/Psychological Meaning": "The Ego intuits a connection between the imprisoned Self figure (traveler) and the Wise Old Man archetype encountered in the unconscious (wood). The link is perceived through the shared quality of benevolence/kindness, suggesting they stem from the same deep source.",
+      "Moral Implication": "Recognizing inherent goodness across different manifestations. Intuitive connection.",
+      "Plot Function": "The boy suspects a connection between the traveler and the old man who helped him.",
+      "Sentence": "He thought of the old man in the wood who had given him the stone, and it seemed to him that the traveler's eyes were alike in their kindness.",
+      "Sentence Number": 27
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Protagonist's decision. Simple declaration of intent ('I must go'). Purpose ('see if this is true'). Action requires journey ('journey to the town').",
+      "Metaphorical/Psychological Meaning": "The Ego feels compelled ('must go') to investigate the fate of the imprisoned Self figure, driven by the suspected connection to his own benefactor from the unconscious. This marks the beginning of a quest.",
+      "Moral Implication": "Acting on conviction or intuition. Seeking truth. Willingness to journey into the place of danger (town with judge).",
+      "Plot Function": "The boy decides to travel to the town to investigate, initiating his active involvement.",
+      "Sentence": "He said to himself, 'I must go to the town and see if this is true.'",
+      "Sentence Number": 28
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Action of preparation and departure. Simple actions ('told his mother,' 'set out'). Time marker ('next morning'). Focus on the journey.",
+      "Metaphorical/Psychological Meaning": "The Ego informs the Mother principle (perhaps representing his current state or home base) and embarks on the journey towards the center of conflict and authority (town).",
+      "Moral Implication": "Taking action after decision. Informing loved ones.",
+      "Plot Function": "The boy begins his journey to the town.",
+      "Sentence": "He told his mother he was going to seek work, and the next morning set out upon the road.",
+      "Sentence Number": 29
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Arrival at destination. Simple description ('reached the town'). Atmosphere ('air of fear'). Contrast ('market square was busy'). Implies underlying tension.",
+      "Metaphorical/Psychological Meaning": "The Ego arrives in the center of collective consciousness (town), observing the surface activity (busy market) overlaid with the repressed fear caused by the dominant Superego (judge).",
+      "Moral Implication": "Life goes on under oppression, but fear lingers.",
+      "Plot Function": "The boy arrives in the town and observes the atmosphere.",
+      "Sentence": "When he reached the town, he found an air of fear hanging over it, though the market square was busy.",
+      "Sentence Number": 30
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Protagonist seeks information indirectly. Action ('lingered'). Location ('near the court house'). Method ('listening'). Avoiding direct questions due to fear/decree.",
+      "Metaphorical/Psychological Meaning": "The Ego cautiously approaches the seat of the repressive authority (court house) and tries to gather information passively (listening) from the periphery, respecting the atmosphere of fear.",
+      "Moral Implication": "Prudence in dangerous circumstances. Seeking information subtly.",
+      "Plot Function": "The boy begins his investigation cautiously.",
+      "Sentence": "The boy lingered near the court house, listening to the talk of the townsfolk.",
+      "Sentence Number": 31
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Reports overheard conversation. Uses 'whispers' again. Confirms the traveler's location ('still in the cellar'). Mentions the guards ('guards at the door').",
+      "Metaphorical/Psychological Meaning": "Through fragmented conscious awareness (whispers), the Ego confirms the continued repression of the Self figure (traveler in cellar) and the presence of active defenses (guards).",
+      "Moral Implication": "Confirmation of the traveler's fate and the ongoing suppression.",
+      "Plot Function": "The boy confirms the traveler is imprisoned and guarded.",
+      "Sentence": "He heard whispers that the kind traveler was still locked in the cellar, and that guards stood always at the door.",
+      "Sentence Number": 32
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Protagonist forms a plan. Simple thought process ('thought to himself'). Goal ('must find a way'). Target ('reach that cellar'). Implies determination.",
+      "Metaphorical/Psychological Meaning": "The Ego, having confirmed the situation, forms the intention to penetrate the repressive structure and reach the imprisoned Self figure. A quest objective is formed.",
+      "Moral Implication": "Determination to act despite the danger. Seeking to connect with the imprisoned good.",
+      "Plot Function": "The boy decides he must try to reach the traveler.",
+      "Sentence": "The boy thought to himself, 'Somehow I must find a way to reach that cellar.'",
+      "Sentence Number": 33
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Protagonist seeks opportunity through mundane means. Action ('looked for work'). Specific location ('near the court house'). Opportunity ('carrying water'). Shows resourcefulness.",
+      "Metaphorical/Psychological Meaning": "The Ego seeks a way to infiltrate the structure of authority through humble service (work), specifically tasks that grant access (carrying water near the court house). Using a mundane Persona for a hidden purpose.",
+      "Moral Implication": "Using practical means to approach a difficult goal. Humility as a tool.",
+      "Plot Function": "The boy seeks work near the courthouse as a way to get closer.",
+      "Sentence": "He looked for work nearby, and soon found a man who needed help carrying water to the guards of the court house.",
+      "Sentence Number": 34
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Protagonist takes the job. Simple agreement ('agreed at once'). Purpose ('hoping for a chance'). Focus on the goal.",
+      "Metaphorical/Psychological Meaning": "The Ego accepts the menial task, seeing it as an opportunity ('chance') to move closer to the goal of reaching the repressed Self.",
+      "Moral Implication": "Seizing opportunities, even humble ones. Patience and strategy.",
+      "Plot Function": "The boy takes a job that gives him access to the courthouse guards.",
+      "Sentence": "The boy agreed at once, hoping for a chance to see the cellar door.",
+      "Sentence Number": 35
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Describes the work. Simple actions ('carried heavy buckets'). Repetition ('back and forth'). Observation ('saw the guards'). Specific detail ('stout wooden door').",
+      "Metaphorical/Psychological Meaning": "Through diligent effort in his mundane role (carrying water), the Ego observes the defenses (guards) and the entry point (door) to the place of repression (cellar).",
+      "Moral Implication": "Hard work provides opportunities for observation. Learning the layout.",
+      "Plot Function": "While working, the boy observes the guards and the cellar door.",
+      "Sentence": "He carried heavy buckets back and forth, and saw the guards standing before a stout wooden door at the side of the building.",
+      "Sentence Number": 36
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Describes the guards' state. Simple observation ('seemed weary,' 'paid little heed'). Implies laxness or opportunity.",
+      "Metaphorical/Psychological Meaning": "The Ego observes that the conscious defenses (guards) are perhaps becoming complacent or inattentive ('weary,' 'paid little heed'), suggesting a potential opening or vulnerability in the repressive structure.",
+      "Moral Implication": "Even strict guards can become complacent. Opportunity arises from inattention.",
+      "Plot Function": "The boy notices the guards seem inattentive, suggesting a possible opportunity.",
+      "Sentence": "The guards seemed weary from the heat and paid little heed to the water carrier.",
+      "Sentence Number": 37
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Protagonist's action. Waiting ('waited until dusk'). Condition ('one guard left'). Quick action ('darted quickly'). Target ('to the door'). Shows initiative and courage.",
+      "Metaphorical/Psychological Meaning": "The Ego waits for the opportune moment (dusk=twilight consciousness, guard leaving=defense lowered) and takes decisive action ('darted quickly') to approach the threshold of repression (door).",
+      "Moral Implication": "Patience combined with quick action when opportunity arises. Boldness.",
+      "Plot Function": "The boy sees an opportunity when one guard leaves and approaches the door.",
+      "Sentence": "He waited until dusk when one guard left for a moment, and then he darted quickly to the door.",
+      "Sentence Number": 38
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Describes the door. Simple details ('heavy iron key,' 'in the lock'). State ('was not turned'). Implies oversight or fate.",
+      "Metaphorical/Psychological Meaning": "The Ego finds the means of access (key=solution, insight) already present and unlocked. This suggests that the way into the repressed area is sometimes surprisingly accessible, perhaps due to unconscious readiness or a lapse in conscious control.",
+      "Moral Implication": "Unexpected luck or providence aids the determined. Security is not perfect.",
+      "Plot Function": "The boy discovers the key is in the lock and unturned.",
+      "Sentence": "He saw a heavy iron key was left in the lock, and the lock was not turned.",
+      "Sentence Number": 39
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Protagonist's action. Simple verbs ('turned the key,' 'opened the door,' 'slipped inside'). Sound detail ('without a sound'). Emphasizes stealth.",
+      "Metaphorical/Psychological Meaning": "The Ego uses the available means (key) to gain entry into the repressed domain (cellar) silently and unnoticed, bypassing the remaining conscious defenses.",
+      "Moral Implication": "Taking the opportunity decisively and stealthily.",
+      "Plot Function": "The boy successfully unlocks the door and enters the cellar.",
+      "Sentence": "With trembling hands, he turned the key, opened the heavy door just enough, and slipped inside without a sound.",
+      "Sentence Number": 40
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Describes the setting inside. Sensory details ('pitch dark,' 'cold,' 'damp'). Contrast ('faint light'). Source ('from the traveler'). Establishes atmosphere.",
+      "Metaphorical/Psychological Meaning": "Inside the place of repression (cellar), the Ego experiences darkness and cold (negativity, lack of consciousness). However, a faint light emanates from the imprisoned Self figure (traveler), signifying its enduring, albeit dimmed, numinosity.",
+      "Moral Implication": "Even in the darkest imprisonment, goodness emits light.",
+      "Plot Function": "Sets the scene inside the cellar, highlighting the darkness and the traveler's faint light.",
+      "Sentence": "It was pitch dark within, and cold and damp, but in the far corner, he saw a faint light.",
+      "Sentence Number": 41
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Describes the traveler's state. Simple description ('sat on the floor'). Condition ('chains on his wrists'). Focus on the light ('light shone from him').",
+      "Metaphorical/Psychological Meaning": "The Self figure (traveler) is bound (chains=repressive forces) but still emanates its own light, suggesting its inherent power cannot be fully extinguished by the Superego's control.",
+      "Moral Implication": "Innocence chained, yet still radiating inner light.",
+      "Plot Function": "Shows the traveler physically bound but still possessing his inner light.",
+      "Sentence": "The light shone from the traveler himself, who sat on the floor with heavy chains on his wrists.",
+      "Sentence Number": 42
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Traveler's perception. Action ('looked up'). Recognition ('knew the boy'). Simple statement.",
+      "Metaphorical/Psychological Meaning": "The imprisoned Self figure recognizes the Ego, suggesting an underlying connection or that the Self is aware of the Ego's efforts on its behalf.",
+      "Moral Implication": "Recognition even in darkness and captivity.",
+      "Plot Function": "The traveler recognizes the boy.",
+      "Sentence": "The traveler looked up as the boy entered, and it seemed he knew the boy at once.",
+      "Sentence Number": 43
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Traveler's speech. Question ('Why have you come?'). Warning ('place of danger'). Shows concern for the boy.",
+      "Metaphorical/Psychological Meaning": "The Self figure questions the Ego's presence in this dangerous place of repression, showing concern for the Ego's safety when confronting these dark aspects.",
+      "Moral Implication": "Concern for others even in one's own suffering.",
+      "Plot Function": "The traveler warns the boy about the danger.",
+      "Sentence": "'Child,' he whispered, his voice gentle still, 'why have you come to this place of danger?'",
+      "Sentence Number": 44
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Boy's reply. Expresses motivation ('to help you'). Mentions the connection ('like the old man'). Action ('looked at the chains'). Purpose ('how to set you free').",
+      "Metaphorical/Psychological Meaning": "The Ego states its intention: to liberate the Self figure, motivated by the perceived connection to the original benefactor (Wise Old Man). It assesses the means of repression (chains) seeking a way to undo them.",
+      "Moral Implication": "Courage and loyalty. Desire to free the good. Seeking practical solutions.",
+      "Plot Function": "The boy states his intention to free the traveler and examines the chains.",
+      "Sentence": "'I came to help you,' said the boy, 'for your eyes are like the old man's in the wood, and I looked at the chains, wondering how to set you free.'",
+      "Sentence Number": 45
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Traveler's response. Warning ('cannot break these'). Statement of nature ('not of earthly make'). Instruction ('Do not try'). Focus shifts ('listen').",
+      "Metaphorical/Psychological Meaning": "The Self figure states that the bonds of repression (chains) cannot be broken by ordinary conscious effort (earthly make), possibly implying they are psychic or archetypal forces. It redirects the Ego's focus from action to listening (receptivity).",
+      "Moral Implication": "Some bonds cannot be broken by force. Need for wisdom or a different approach. Importance of listening.",
+      "Plot Function": "The traveler explains the chains are unbreakable by normal means and tells the boy to listen.",
+      "Sentence": "'You cannot break these chains, for they are not of earthly make,' the traveler said softly, 'Do not try, but listen closely.'",
+      "Sentence Number": 46
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Traveler gives instructions. Specific object ('stone'). Location ('your hearth'). Action required ('bring it'). Purpose ('touch the locks'). Provides a specific, magical solution.",
+      "Metaphorical/Psychological Meaning": "The Self figure reveals that the key to liberation lies in the boon previously given by the Wise Old Man (stone=unconscious resource). The Ego must consciously retrieve this resource and apply it directly to the locks (points of psychic binding).",
+      "Moral Implication": "Past kindness provides the key to present problems. The solution lies in using the gifts one has already received.",
+      "Plot Function": "The traveler tells the boy that the stone from the old man can break the chains.",
+      "Sentence": "'The stone upon your hearth, given by the old man – bring it here and touch the locks of these chains.'",
+      "Sentence Number": 47
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Boy's reaction and action. Understanding ('understood'). Need for stealth ('must be quick'). Action ('nodded,' 'stole away'). Purpose ('fetch the stone').",
+      "Metaphorical/Psychological Meaning": "The Ego understands the instruction and acts quickly and stealthily to retrieve the necessary resource from his conscious dwelling (home) to apply it to the problem in the repressed unconscious (cellar).",
+      "Moral Implication": "Quick understanding and action. Necessity of stealth.",
+      "Plot Function": "The boy understands and leaves stealthily to fetch the stone.",
+      "Sentence": "The boy understood he must be quick before the guard returned; he nodded and stole away as quietly as he had come.",
+      "Sentence Number": 48
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Journey back. Simple description ('ran through the dark streets'). Destination ('cottage'). Action ('took the stone'). Feeling ('warm to the touch'). Sensory detail confirms its power.",
+      "Metaphorical/Psychological Meaning": "The Ego swiftly navigates the conscious world (dark streets=unaware populace) back to his home base, retrieves the unconscious resource (stone), noting its inherent energy (warmth).",
+      "Moral Implication": "Speed and focus on the task. The stone retains its benevolent power.",
+      "Plot Function": "The boy retrieves the stone from his cottage.",
+      "Sentence": "He ran through the dark streets back to the cottage, took the stone from the hearth (which was still warm to the touch), and hid it beneath his coat.",
+      "Sentence Number": 49
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Return journey and re-entry. Simple action ('returned'). Luck/Timing ('guard was still absent'). Action ('slipped back'). Emphasizes continued stealth and fortune.",
+      "Metaphorical/Psychological Meaning": "The Ego successfully returns to the place of repression with the needed resource, finding the conscious defenses still lowered (guard absent), allowing re-entry.",
+      "Moral Implication": "Good fortune favors the brave/determined. Successful stealth.",
+      "Plot Function": "The boy successfully returns to the cellar with the stone.",
+      "Sentence": "He returned to the court house, found the guard was still absent from the door, and slipped back into the dark cellar.",
+      "Sentence Number": 50
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Action of using the magic item. Simple verbs ('took out,' 'touched'). Target ('iron locks'). Result ('fell open'). Sound detail ('without a sound'). Emphasizes magical nature.",
+      "Metaphorical/Psychological Meaning": "The Ego applies the resource from the unconscious/Self (stone) to the points of psychic repression (locks). The bindings dissolve silently and effortlessly, indicating the power of the authentic Self's energy against repressive structures.",
+      "Moral Implication": "The right key works effortlessly. True power overcomes false bonds.",
+      "Plot Function": "The boy uses the stone, and the chains fall off the traveler.",
+      "Sentence": "He took out the warm stone and touched it to the heavy iron locks on the traveler's chains, and at once they fell open without a sound.",
+      "Sentence Number": 51
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Traveler's action. Simple verbs ('rose to his feet'). Description ('stood tall'). Effect ('light grew brighter'). Shows immediate restoration.",
+      "Metaphorical/Psychological Meaning": "Freed from repression, the Self figure (traveler) stands restored, its inherent power and radiance (light) increasing, signifying its return to potency.",
+      "Moral Implication": "Freedom restores dignity and power.",
+      "Plot Function": "The traveler is freed and his light intensifies.",
+      "Sentence": "The traveler rose to his feet, and seemed to stand tall, and the faint light about him grew brighter.",
+      "Sentence Number": 52
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Traveler's speech. Expression of gratitude ('You have done well'). Blessing/promise ('will not be forgotten'). Instruction ('must go now'). Urgency ('before the guard returns').",
+      "Metaphorical/Psychological Meaning": "The restored Self figure acknowledges the Ego's successful action and promises its significance will endure ('not forgotten'). It urges immediate departure from the place of repression before conscious defenses reactivate.",
+      "Moral Implication": "Good deeds acknowledged and remembered. Need for prudence after action.",
+      "Plot Function": "The traveler thanks the boy and urges they leave quickly.",
+      "Sentence": "'You have done well, child,' the traveler said, his voice like quiet music, 'This deed will not be forgotten. But we must go now, quickly, before the guard returns.'",
+      "Sentence Number": 53
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Action of departure. Simple actions ('led the way,' 'opened the door,' 'looked out'). Stealth ('carefully'). Setting ('street was empty').",
+      "Metaphorical/Psychological Meaning": "The Self figure now leads the Ego out of the place of repression, carefully navigating the transition back into the conscious world, finding it momentarily unguarded.",
+      "Moral Implication": "Careful escape. Taking the lead after being freed.",
+      "Plot Function": "The traveler leads the boy out of the cellar.",
+      "Sentence": "He led the way to the door, opened it carefully, and looked out into the alley; the street was empty.",
+      "Sentence Number": 54
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Further departure. Simple verbs ('stepped out,' 'hurried away'). Direction ('towards the hills'). Location ('from which he had come'). Returning to source.",
+      "Metaphorical/Psychological Meaning": "The Self figure and the Ego quickly move away from the center of repressive authority (town) towards the numinous source/higher consciousness (hills) from which the Self originally emerged.",
+      "Moral Implication": "Seeking refuge or returning to a place of power/safety.",
+      "Plot Function": "They escape the town and head towards the hills.",
+      "Sentence": "Together they stepped out and hurried away through the dark streets, turning towards the hills from which the traveler had first come.",
+      "Sentence Number": 55
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Time passing. Simple marker ('By sunrise'). Location ('edge of the dark wood'). Symbolic location near boy's home.",
+      "Metaphorical/Psychological Meaning": "As consciousness dawns (sunrise), the Self figure and the Ego reach the boundary between the ordinary world and the deep unconscious (edge of wood), near the Ego's starting point.",
+      "Moral Implication": "Reaching safety or a transition point.",
+      "Plot Function": "They reach the edge of the wood near the boy's home.",
+      "Sentence": "By sunrise, they had reached the edge of the dark wood near the boy's own cottage.",
+      "Sentence Number": 56
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Traveler's speech. Instruction ('Return to your mother'). Promise ('stone will still serve'). Assurance ('fear the judge no longer'). Blessing/farewell ('Go in peace').",
+      "Metaphorical/Psychological Meaning": "The Self figure directs the Ego back to its conscious home/Mother principle, assuring it the connection to unconscious resources (stone) remains and the threat from the repressive Superego (judge) is neutralized or irrelevant now. Offers peace.",
+      "Moral Implication": "Returning home after the quest. Assurance of continued protection and peace.",
+      "Plot Function": "The traveler tells the boy to return home, assuring him of safety and the stone's power.",
+      "Sentence": "The traveler stopped and said, 'Return now to your mother. The stone will still serve you well, and you need fear the judge no longer. Go in peace.'",
+      "Sentence Number": 57
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Traveler's action. Simple verb ('turned'). Direction ('towards the wood'). Disappearance ('was lost to sight'). Mysterious exit.",
+      "Metaphorical/Psychological Meaning": "The Self figure withdraws back into the depths of the Unconscious (wood), its immediate task with the Ego completed. Its appearances and disappearances retain mystery.",
+      "Moral Implication": "The helper departs once the immediate need is met.",
+      "Plot Function": "The traveler disappears back into the wood.",
+      "Sentence": "Then he turned, and strode into the deep wood, and in a moment was lost to sight among the trees.",
+      "Sentence Number": 58
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Boy's action. Simple verbs ('watched him go,' 'went to the cottage'). Reunion ('mother rejoiced'). Implied relief.",
+      "Metaphorical/Psychological Meaning": "The Ego observes the withdrawal of the Self figure, then returns to its conscious home base, where the Mother principle welcomes its return, signifying restoration to the familiar conscious state after the perilous journey.",
+      "Moral Implication": "Safe return home. Joy of reunion.",
+      "Plot Function": "The boy returns home to his mother.",
+      "Sentence": "The boy watched him go, then went to the cottage where his mother rejoiced to see him safe.",
+      "Sentence Number": 59
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Describes subsequent events. Confirmation ('stone still burned'). News from town ('judge had vanished'). Consequence ('fear was lifted'). Resolution of the conflict.",
+      "Metaphorical/Psychological Meaning": "The Ego finds its connection to unconscious resources (stone) intact. News arrives that the repressive Superego (judge) has disappeared from the collective consciousness, its power broken (likely due to the freeing of the Self), lifting the collective fear.",
+      "Moral Implication": "Good triumphs, oppressive force vanishes. Peace restored.",
+      "Plot Function": "Confirms the stone still works and reveals the judge has vanished, resolving the main conflict.",
+      "Sentence": "He found the stone still burned brightly on the hearth, and soon word came from the town that the highest judge had vanished as suddenly as he had come, and the fear was lifted from the land.",
+      "Sentence Number": 60
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Time passing ('years went by'). Protagonist's state ('lived peacefully'). Relationship ('with his mother'). Resource ('stone warmed them'). Shows a period of quiet stability.",
+      "Metaphorical/Psychological Meaning": "A period of latency and quiet integration follows the dramatic events. The Ego lives in harmony with the Mother principle, sustained by the steady energy from the unconscious resource (stone).",
+      "Moral Implication": "Peace and contentment follow the resolution of conflict.",
+      "Plot Function": "Establishes a period of peace and passing time after the main adventure.",
+      "Sentence": "So the years went by, and the widow's son lived peacefully with his mother, and the stone warmed their hearth.",
+      "Sentence Number": 61
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Protagonist's development. Change ('grew into a man'). Description ('tall and strong'). Character trait ('quiet').",
+      "Metaphorical/Psychological Meaning": "The Ego matures during the period of peace, developing strength and a quiet disposition, suggesting inner integration and thoughtfulness resulting from past experiences.",
+      "Moral Implication": "Growth and maturation occur over time.",
+      "Plot Function": "Shows the protagonist maturing into adulthood.",
+      "Sentence": "The boy grew into a man, tall and strong, but quiet in his ways.",
+      "Sentence Number": 62
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Recalling past events. Action ('often thought'). Subject ('old man,' 'traveler'). Question ('were they one?'). Maintaining the mystery.",
+      "Metaphorical/Psychological Meaning": "The mature Ego reflects on the key encounters with the unconscious figures (Wise Old Man, Self figure), pondering their connection and the nature of the forces he interacted with. The mystery remains a source of contemplation.",
+      "Moral Implication": "Remembering past help and mysteries. Contemplating deeper meanings.",
+      "Plot Function": "The protagonist reflects on the past mysterious events.",
+      "Sentence": "He often thought of the old man in the wood, and of the traveler in the cellar, and wondered if they were one and the same.",
+      "Sentence Number": 63
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Change in circumstances. Event ('mother grew old'). State ('fell ill'). Introduction of a new problem.",
+      "Metaphorical/Psychological Meaning": "The Mother principle (representing the original state, home base, perhaps physical life) weakens with time, introducing a new challenge related to mortality or decline.",
+      "Moral Implication": "Natural cycle of life includes aging and illness. New challenges arise.",
+      "Plot Function": "Introduces a new problem: the mother's illness.",
+      "Sentence": "Then it happened that his mother grew old and fell ill.",
+      "Sentence Number": 64
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Nature of illness. Description ('no physic could cure'). Source ('wise woman said'). Cause ('deep sorrow'). Adds a layer of non-physical cause.",
+      "Metaphorical/Psychological Meaning": "The illness is not merely physical but stems from a deeper psychic cause (sorrow), suggesting a soul-sickness that requires more than ordinary remedies (physic). The 'wise woman' represents intuitive folk wisdom.",
+      "Moral Implication": "Some ills are beyond physical cure. Sorrow can cause deep sickness.",
+      "Plot Function": "Defines the illness as serious and potentially non-physical in origin.",
+      "Sentence": "No physic could cure her, and a wise woman of the village said it was a sickness born of deep sorrow.",
+      "Sentence Number": 65
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Protagonist's action. Verb ('asked'). Subject ('his mother'). Question ('source of sorrow'). Seeking understanding.",
+      "Metaphorical/Psychological Meaning": "The Ego seeks to understand the root cause of the Mother principle's decline, asking directly about the hidden psychic wound (sorrow).",
+      "Moral Implication": "Importance of understanding the root cause of suffering. Direct communication.",
+      "Plot Function": "The son asks his mother about the cause of her sorrow.",
+      "Sentence": "Her son asked his mother what sorrow weighed upon her heart.",
+      "Sentence Number": 66
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Mother's revelation. Hesitation ('long time silent'). Confession ('One thing'). Subject ('your father'). Reveals previously unknown element.",
+      "Metaphorical/Psychological Meaning": "The Mother principle reveals a long-held secret concerning the Father principle, suggesting the root of her sorrow (and perhaps the family's initial lack) relates to this missing element.",
+      "Moral Implication": "Revealing long-held secrets. The pain associated with the past.",
+      "Plot Function": "The mother begins to reveal a secret about the protagonist's father.",
+      "Sentence": "She was silent for a long time, then said, 'One thing I have never told you, concerning your father.'",
+      "Sentence Number": 67
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Description of father. Role ('huntsman'). Character ('good and brave'). Fate ('went into the wood'). Consequence ('never returned'). Standard fairy tale disappearance.",
+      "Metaphorical/Psychological Meaning": "The Father principle (huntsman=one who engages the unconscious) was good but disappeared into the Unconscious (wood), leaving the Mother principle incomplete and sorrowful. This echoes the start of 'Iron John'.",
+      "Moral Implication": "Loss of a loved one as a source of enduring sorrow.",
+      "Plot Function": "Explains the father's profession and disappearance, a common motif.",
+      "Sentence": "'Your father was a huntsman in the king's service, good and brave, but one day he went into the dark wood and never returned.'",
+      "Sentence Number": 68
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Further details of disappearance. Timing ('Before you were born'). Rumor/Belief ('taken by strange magic'). Source ('some said'). Adds layer of mystery.",
+      "Metaphorical/Psychological Meaning": "The disappearance occurred before the Ego's conscious emergence (birth). It's attributed to mysterious unconscious forces ('strange magic'), suggesting an overwhelming encounter with the depths from which he didn't return.",
+      "Moral Implication": "The unknown dangers of the deep woods/unconscious. Unresolved mysteries cause pain.",
+      "Plot Function": "Adds detail and mystery to the father's disappearance.",
+      "Sentence": "'This was before you were born, and some said he was taken by strange magic deep within the trees.'",
+      "Sentence Number": 69
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Mother's feeling. Emotion ('sorrow has remained'). Connection ('image is ever before me'). Explains the enduring nature of her illness's cause.",
+      "Metaphorical/Psychological Meaning": "The Mother principle's sorrow stems from the unresolved loss of the Father principle, whose image remains present in her psyche, preventing healing or completion.",
+      "Moral Implication": "Grief can be a lifelong burden if unresolved.",
+      "Plot Function": "Explicitly links the mother's sorrow and illness to the father's loss.",
+      "Sentence": "'My sorrow for him has remained always in my heart, and his image is ever before me,' she finished, weeping softly.",
+      "Sentence Number": 70
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Protagonist's reaction. Understanding ('understood'). Decision ('I will go'). Purpose ('seek my father'). Motivation ('find peace for my mother'). Quest formulation.",
+      "Metaphorical/Psychological Meaning": "The Ego understands the root cause is the missing Father principle. He decides to undertake a quest into the Unconscious (wood) to find this missing part, motivated by the desire to heal the Mother principle (original state/home). This is a quest for paternal roots and psychic integration.",
+      "Moral Implication": "Filial duty. Seeking to heal family sorrow. Embarking on a quest for answers/resolution.",
+      "Plot Function": "The son decides to seek his lost father in the wood to heal his mother.",
+      "Sentence": "Then the son understood the source of her illness, and he said, 'Mother, weep no more, for I will go into the wood and seek my father, or learn his fate, that your heart may find peace.'",
+      "Sentence Number": 71
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Preparation for journey. Action ('made ready'). Time ('next dawn'). Symbolic object ('took the warming stone'). Bringing the boon on the new quest.",
+      "Metaphorical/Psychological Meaning": "The Ego prepares for the deep dive into the Unconscious. Taking the stone signifies bringing the established connection to the Self's energy/resource along on this new, more personal quest for the Father principle.",
+      "Moral Implication": "Taking necessary resources on a quest. Purposeful preparation.",
+      "Plot Function": "The son prepares for his quest, taking the magical stone with him.",
+      "Sentence": "He made ready, and at the next dawn, he took the warming stone from the hearth and put it in his pouch.",
+      "Sentence Number": 72
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Entering the quest location. Action ('entered the wood'). Sensory detail ('darker now,' 'paths vanished'). Shows deeper penetration than before.",
+      "Metaphorical/Psychological Meaning": "The Ego enters the Unconscious (wood) on this deeper quest. The increasing darkness and vanishing paths signify moving beyond familiar territory into the unknown, primordial depths.",
+      "Moral Implication": "Quests for deep answers require entering unknown territory.",
+      "Plot Function": "The son enters the deepest part of the wood.",
+      "Sentence": "He entered the dark wood where he had met the old man, but went far deeper than ever before, where the trees grew thick and the paths vanished.",
+      "Sentence Number": 73
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Protagonist relies on intuition/magic. Action ('did not know the way'). Reliance ('held the stone'). Effect ('felt warmth guiding'). Magical guidance.",
+      "Metaphorical/Psychological Meaning": "Lost in the deep Unconscious with no conscious map (paths vanished), the Ego relies on the inner resource (stone) connected to the Self. Its warmth provides intuitive guidance, navigating the depths.",
+      "Moral Implication": "Trusting inner guidance or faith when external paths fail.",
+      "Plot Function": "Lost, the son uses the stone, which seems to guide him.",
+      "Sentence": "He did not know the way, but held the stone in his hand, and felt a faint warmth guiding him forward between the ancient trees.",
+      "Sentence Number": 74
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Arrival at destination. Time ('After three days'). Location ('came to a clearing'). Feature ('black tower'). Archetypal ominous structure.",
+      "Metaphorical/Psychological Meaning": "After a period of journeying through the depths (three days=completion), guided by intuition, the Ego arrives at a significant location within the Unconscious: a clearing dominated by a black tower, often symbolizing the Shadow, repressed complexes, or a place of dark power/secrets.",
+      "Moral Implication": "Persistence leads to discovery, but the destination may be ominous.",
+      "Plot Function": "The son reaches a mysterious black tower deep in the wood.",
+      "Sentence": "After three days of walking thus, he came to a hidden clearing, and in its center stood a tall tower made of black, lightless stone.",
+      "Sentence Number": 75
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Description of the tower. Features ('no windows,' 'one iron door'). State ('door stood ajar'). Invites entry, adds mystery.",
+      "Metaphorical/Psychological Meaning": "The structure of the Shadow/secret (black tower) is sealed off from external light/consciousness (no windows), but access (iron door) is surprisingly open ('ajar'), suggesting the secret is ready or fated to be discovered.",
+      "Moral Implication": "Ominous places may still offer entry. Secrets invite discovery.",
+      "Plot Function": "Describes the tower and notes the door is open.",
+      "Sentence": "The tower had no windows, only one great iron door, and this door stood slightly ajar.",
+      "Sentence Number": 76
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Protagonist's action. Verb ('pushed open,' 'stepped inside'). Motivation implied (quest). Entering the unknown.",
+      "Metaphorical/Psychological Meaning": "The Ego overcomes hesitation and enters the domain of the Shadow/secret (black tower), driven by the quest for the Father principle.",
+      "Moral Implication": "Courage to enter the place of secrets.",
+      "Plot Function": "The son enters the black tower.",
+      "Sentence": "Taking courage, the young man pushed open the heavy door and stepped inside.",
+      "Sentence Number": 77
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Describes the interior and occupant. Setting ('single large room'). Occupant ('figure robed in black'). Action ('sat writing'). Focus ('great book'). Mysterious activity.",
+      "Metaphorical/Psychological Meaning": "Inside the tower (Shadow structure), the Ego finds a figure deeply absorbed in recording knowledge or judgments (writing in a great book). The black robes link this figure visually to the severe judge, suggesting this is his origin or a related aspect of the rigid, judgmental Superego.",
+      "Moral Implication": "Places of darkness can be places of hidden knowledge or judgment.",
+      "Plot Function": "The son finds a figure resembling the judge inside, writing in a book. This is the secret's reveal.",
+      "Sentence": "Within was a single large room, lit by dark lamps, and at a heavy table sat a figure robed all in black, writing in a great book with a quill pen.",
+      "Sentence Number": 78
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Recognition and connection. Action ('figure looked up'). Revelation ('face was the face of the judge'). Confirmation ('who had vanished'). The secret is revealed.",
+      "Metaphorical/Psychological Meaning": "The Ego recognizes the figure: it *is* the severe judge (Shadow Superego) who disappeared from the outer world. The secret: the judge didn't vanish, but retreated to this hidden place in the Unconscious, his power rooted here.",
+      "Moral Implication": "Appearances deceive; vanished figures may simply retreat. The root of harsh judgment found.",
+      "Plot Function": "The son recognizes the figure as the vanished judge, revealing the story's secret: the judge's retreat here.",
+      "Sentence": "The figure looked up, and the young man saw that the face was the face of the highest judge who had vanished from the town.",
+      "Sentence Number": 79
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Judge's speech. Tone ('voice cold as ice'). Question ('What do you seek?'). Challenge ('in my private domain'). Asserts ownership/authority here.",
+      "Metaphorical/Psychological Meaning": "The Shadow Superego (judge) confronts the Ego, its coldness indicating its nature. It questions the Ego's intrusion into its hidden domain within the Unconscious, asserting its authority here.",
+      "Moral Implication": "Confronting the source of past fear. Intrusion into a private, dark place.",
+      "Plot Function": "The judge confronts the son, revealing this tower is his hidden domain.",
+      "Sentence": "'What do you seek here, boy,' said the judge, his voice cold as ice, 'in my private domain?'",
+      "Sentence Number": 80
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Son's reply. States purpose ('seek my father'). Identifies father ('a huntsman'). States fate ('lost long ago'). Direct and states the quest goal.",
+      "Metaphorical/Psychological Meaning": "The Ego clearly states its quest objective to the Shadow Superego: the recovery or understanding of the lost Father principle.",
+      "Moral Implication": "Clarity of purpose even when facing a fearsome figure.",
+      "Plot Function": "The son states he is searching for his lost father.",
+      "Sentence": "'I seek my father,' the young man answered steadily, 'a huntsman lost to this wood long ago.'",
+      "Sentence Number": 81
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Judge's reaction. Non-verbal ('stared'). Action ('pointed'). Object ('to the great book'). Implies the answer is recorded.",
+      "Metaphorical/Psychological Meaning": "The Shadow Superego doesn't answer directly but points to its records (great book=repository of judgments, fates, or hidden knowledge within this complex). The answer regarding the Father principle lies within its domain/control.",
+      "Moral Implication": "Answers may be found in unexpected, dark records. The judge holds knowledge.",
+      "Plot Function": "The judge indicates the answer lies within his book.",
+      "Sentence": "The judge stared at him for a long moment, then pointed with a bony finger to the great book upon the table.",
+      "Sentence Number": 82
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Judge's speech. Instruction ('Look for yourself'). Condition ('if you dare'). Challenge or test of courage.",
+      "Metaphorical/Psychological Meaning": "The Shadow Superego permits the Ego to access the knowledge but challenges its courage ('if you dare'), implying the truth may be difficult or dangerous to confront.",
+      "Moral Implication": "Truth requires courage to face. Permission granted, but with a warning.",
+      "Plot Function": "The judge allows the son to look in the book but challenges his courage.",
+      "Sentence": "'Look for yourself then,' he said, 'if you dare know the fate of those who trespass too deep.'",
+      "Sentence Number": 83
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Son's action. Verb ('stepped forward'). Object ('opened the book'). Simple, decisive action accepting the challenge.",
+      "Metaphorical/Psychological Meaning": "The Ego accepts the challenge and accesses the repository of hidden knowledge/judgments controlled by the Shadow Superego.",
+      "Moral Implication": "Courage in the face of potential harsh truths.",
+      "Plot Function": "The son accepts the challenge and opens the book.",
+      "Sentence": "The young man stepped forward, his hand steady, and opened the great, heavy book.",
+      "Sentence Number": 84
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Describes the book's content. Subject ('names'). Additional info ('fates'). Specific entry ('found his father's name'). Confirmation of father's presence here.",
+      "Metaphorical/Psychological Meaning": "The book contains the records of individuals and their destinies, particularly those judged or recorded by this psychic complex. The Ego finds the entry for the Father principle, confirming his fate is tied to this domain.",
+      "Moral Implication": "Records of fate. Finding the specific information sought.",
+      "Plot Function": "The son finds his father's name listed in the book.",
+      "Sentence": "Its pages were filled with names, and alongside each name, a fate was written, and soon he found his father's name.",
+      "Sentence Number": 85
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Reveals the father's fate. Direct statement ('Held here'). Reason ('by my power'). Condition ('until a debt is paid'). Reveals the father is imprisoned by the judge due to an unpaid debt.",
+      "Metaphorical/Psychological Meaning": "The record reveals the Father principle is imprisoned by the Shadow Superego ('my power') due to an outstanding 'debt' – perhaps a transgression, a psychic imbalance, or a failure that put him under the judge's control. Liberation requires resolving this debt.",
+      "Moral Implication": "Actions have consequences (debts). Imprisonment due to past failings. Hope for release if debt paid.",
+      "Plot Function": "Reveals the father is held captive by the judge due to an unpaid debt.",
+      "Sentence": "Beside it was written: 'Held here by my power, until a debt is paid.'",
+      "Sentence Number": 86
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Son's question to the judge. Direct question ('What debt?'). Seeks clarification. Action ('looked up').",
+      "Metaphorical/Psychological Meaning": "The Ego confronts the Shadow Superego, demanding clarification about the nature of the 'debt' or transgression that binds the Father principle.",
+      "Moral Implication": "Seeking understanding of the judgment/condition.",
+      "Plot Function": "The son asks the judge to clarify the nature of the debt.",
+      "Sentence": "The young man looked up from the book and asked the black-robed figure, 'What debt does my father owe?'",
+      "Sentence Number": 87
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Judge's explanation. Abstract concept ('debt of light'). Contrast ('borrowed brightness'). Source ('traveler you freed'). Links the father's fate to the traveler.",
+      "Metaphorical/Psychological Meaning": "The Shadow Superego reveals the 'debt' is metaphysical: the Father principle 'borrowed light' (grace, energy, inspiration) from the Self figure (traveler) but failed to integrate or repay it, thus falling under the Shadow's power when the Self was imprisoned. Freeing the traveler potentially changes this dynamic.",
+      "Moral Implication": "Metaphysical debts exist. Failure to honor grace or inspiration has consequences. Interconnectedness of fates.",
+      "Plot Function": "The judge explains the father borrowed 'light' from the traveler and is indebted.",
+      "Sentence": "The judge replied, his voice grating like stone on stone, 'He owes a debt of light, a borrowed brightness he took from the one you freed, and could not repay when his helper was chained.'",
+      "Sentence Number": 88
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Son's offer. Proposal ('I will pay'). Uses self ('my own light'). Mechanism ('using the stone'). Offers substitution.",
+      "Metaphorical/Psychological Meaning": "The Ego offers to resolve the Father principle's psychic debt by using its own connection to the Self (light/warmth from the stone). This represents the Ego taking responsibility for ancestral burdens or imbalances, offering its own earned psychic energy.",
+      "Moral Implication": "Filial piety. Willingness to sacrifice or substitute oneself to pay another's debt. Using one's gifts for others.",
+      "Plot Function": "The son offers to pay the debt using the power of the stone.",
+      "Sentence": "'Then I will pay this debt,' said the young man, 'Let me use my own light, from the stone given me, to settle his account.'",
+      "Sentence Number": 89
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Judge's consideration and agreement. Non-verbal ('considered'). Agreement ('So be it'). Condition ('If the stone's light suffices'). Sets up a test.",
+      "Metaphorical/Psychological Meaning": "The Shadow Superego considers the Ego's offer. It agrees, setting a condition: the Ego's connection to the Self (stone's light) must be sufficient to balance the Father's debt. This tests the strength and authenticity of the Ego's inner resource.",
+      "Moral Implication": "A chance for redemption through substitution is offered. The sufficiency of the payment must be proven.",
+      "Plot Function": "The judge agrees to let the son try to pay the debt with the stone's light.",
+      "Sentence": "The judge considered this, his dark eyes gleaming, then slowly nodded. 'So be it. We shall see if the stone's light suffices.'",
+      "Sentence Number": 90
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Judge leads the way. Simple action ('rose,' 'led'). Destination ('another door'). Reveals further hidden area.",
+      "Metaphorical/Psychological Meaning": "The Shadow Superego leads the Ego deeper into its domain, towards the place where the Father principle is held.",
+      "Moral Implication": "Following the authority figure to the place of imprisonment.",
+      "Plot Function": "The judge leads the son towards where the father is held.",
+      "Sentence": "He rose from his chair and led the young man through another door hidden behind a dark curtain.",
+      "Sentence Number": 91
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Describes the location of the father. Setting ('small, bare room'). Occupant ('an old huntsman'). State ('sat staring'). Condition ('thin,' 'pale'). Shows effect of captivity.",
+      "Metaphorical/Psychological Meaning": "The Father principle is found in a state of depletion ('thin,' 'pale') and withdrawal ('staring'), imprisoned within a bare, isolated part of the Shadow Superego's domain. Long-term psychic imprisonment has weakened him.",
+      "Moral Implication": "The damaging effects of unresolved debt/imprisonment.",
+      "Plot Function": "Shows the father, weakened by long captivity.",
+      "Sentence": "There, in a small, bare room, sat an old huntsman, thin and pale, staring at the floor.",
+      "Sentence Number": 92
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Recognition. Action ('looked up slowly'). Ambiguity ('did not seem to know'). Shows the father's diminished state.",
+      "Metaphorical/Psychological Meaning": "The weakened Father principle barely recognizes the Ego, showing how disconnected and diminished it has become through long repression or dissociation.",
+      "Moral Implication": "Captivity dulls recognition and connection.",
+      "Plot Function": "The father barely recognizes his son.",
+      "Sentence": "He looked up slowly as they entered, but did not seem to know his own son.",
+      "Sentence Number": 93
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Son's action. Object ('took out the stone'). Placement ('held it before his father'). Action based on judge's condition.",
+      "Metaphorical/Psychological Meaning": "The Ego presents the connection to the Self (stone) directly to the weakened Father principle, initiating the attempt to use its energy for redemption/restoration.",
+      "Moral Implication": "Attempting the payment/healing.",
+      "Plot Function": "The son presents the stone to his father.",
+      "Sentence": "The young man took out the warming stone from his pouch and held it before his father.",
+      "Sentence Number": 94
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Effect of the stone. Description ('light flared brightly'). Effect on father ('colour returned,' 'eyes cleared'). Shows restorative power.",
+      "Metaphorical/Psychological Meaning": "The energy of the Self (light from stone) revitalizes the weakened Father principle, restoring its vitality (colour) and awareness (eyes cleared). The psychic debt/imbalance begins to heal through the Ego's intervention.",
+      "Moral Implication": "True light restores and heals. The power of the gift used for redemption.",
+      "Plot Function": "The stone's light begins to restore the father.",
+      "Sentence": "The stone's light flared brightly, and as it shone upon the huntsman, some colour returned to his face and his eyes cleared.",
+      "Sentence Number": 95
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Judge's reaction and statement. Observation ('stared'). Admission ('The debt is paid'). Action ('turned away'). Signifies acceptance and withdrawal.",
+      "Metaphorical/Psychological Meaning": "The Shadow Superego witnesses the power of the Self's energy channeled through the Ego, acknowledges the resolution of the debt, and withdraws its claim, its power over the Father principle broken.",
+      "Moral Implication": "Justice satisfied. Acceptance of payment. The harsh judge yields when the balance is restored.",
+      "Plot Function": "The judge acknowledges the debt is paid and releases his claim.",
+      "Sentence": "The judge stared at the stone, then at the huntsman, and said grudgingly, 'The debt is paid.' He turned away back to his book.",
+      "Sentence Number": 96
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Reunion. Father's recognition ('knew his son'). Action ('embraced'). Simple statement of emotional reunion.",
+      "Metaphorical/Psychological Meaning": "Restored by the Self's energy, the Father principle now fully recognizes the Ego, and they embrace, signifying the successful reintegration of the lost paternal aspect.",
+      "Moral Implication": "Joy of reunion and recognition after restoration.",
+      "Plot Function": "The restored father recognizes and embraces his son.",
+      "Sentence": "The old huntsman now knew his son, and embraced him with tears in his eyes.",
+      "Sentence Number": 97
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Departure from the tower. Action ('led his father out'). Location ('out of the tower,' 'into the clearing'). Leaving the place of darkness.",
+      "Metaphorical/Psychological Meaning": "The Ego leads the reintegrated Father principle out of the Shadow domain (tower) back into the clearer space within the Unconscious (clearing).",
+      "Moral Implication": "Leading loved ones out of captivity.",
+      "Plot Function": "The son leads his father out of the tower.",
+      "Sentence": "The young man led his father out of the black tower and into the sunlit clearing.",
+      "Sentence Number": 98
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Journey home. Action ('made their way back'). Guidance ('stone still guided'). Return ('reached the cottage'). Completion of the quest.",
+      "Metaphorical/Psychological Meaning": "Guided by the connection to the Self (stone), the Ego brings the restored Father principle back to the conscious home base (cottage), completing the quest for integration.",
+      "Moral Implication": "Successful return journey. Guidance remains.",
+      "Plot Function": "Guided by the stone, they return home.",
+      "Sentence": "Together they made their way back through the wood, the stone still guiding them, and at last reached the cottage.",
+      "Sentence Number": 99
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Final resolution. Reunion ('mother saw her husband'). Healing ('sorrow lifted'). State ('lived in peace'). Resource ('stone burned bright'). Standard happy ending.",
+      "Metaphorical/Psychological Meaning": "The reunion of the Mother and Father principles, facilitated by the Ego's quest and connection to the Self (stone), restores wholeness and harmony to the conscious household. The original lack is filled, sorrow is healed, and the connection to the Self's energy remains bright.",
+      "Moral Implication": "Family reunited, sorrow healed, peace restored through courage and the use of gifts. Lasting happiness.",
+      "Plot Function": "The family is reunited, the mother is healed, and they live peacefully with the stone.",
+      "Sentence": "When the widow saw her husband restored, her deep sorrow lifted at once, and the three lived together in peace, and the stone burned bright upon their hearth always.",
+      "Sentence Number": 100
+    }
+  ],
+  "The Complete Story": {
+    "Chapters": [
+      "There lived once a poor widow at the edge of a dark wood, and she had but one son. The son gathered sticks in the wood every day, that they might have a fire. One day he went deeper into the wood than he was wont. There he saw an old man with a long white beard, whom he had never before seen, sitting upon a stone, and the man looked kindly upon him. The old man said, 'Child, why do you gather sticks so far from your home?' 'My mother and I are poor,' answered the boy, 'and we need wood for our fire, but near the cottage there is little left.' The old man nodded, and gave the boy a small, smooth stone, saying, 'Take this, and as long as it is on your hearth, you shall never want for fire.' The boy thanked the man and ran home as fast as his legs could carry him. He reached the cottage and placed the stone upon the cold hearth. At once a bright flame leaped up from the stone, and warmth filled the little room as never before.",
+      "The widow and her son lived for some time in comfort and warmth, thanks to the burning stone. But then word came through the land of the highest judge in his black robes, who passed hard judgments upon all. This judge travelled the land and set up his court in the market town nearby, and great fear fell upon the people. About this time, a bright light was seen at night in the hills beyond the dark wood. From this light, a traveler came walking down into the villages, whose face shone, and who had great kindness in his eyes, and spoke gently to all he met. He healed the sick with the touch of his hand and comforted the sorrowful. It was whispered among the folk that he was surely sent from heaven, or perhaps was an angel. Now it happened that the gentle traveler and the stern judge came both to the market town, and their paths crossed in the main square. The judge in his black robes stopped, and looked hard at the traveler, and spoke sharply, saying, 'Who are you that walks here doing such works?' 'I am a friend to all,' answered the traveler, and smiled gently, but the judge only scowled the more.",
+      "The judge gave his guards a dark look and said, 'This man is stirring up the people with false works; seize him!' The guards stepped forward at once and laid rough hands upon the traveler, but he did not resist them. They led him away and cast him into a dark cellar beneath the court house, which had cold stone walls and no light at all. Then the judge proclaimed that it was forbidden for any man to speak the traveler's name, on pain of punishment. The people were afraid, and spoke only in whispers of the traveler and his works of kindness. Now the widow's son, in his cottage by the wood, heard the news of what had passed in the town, as news travels, and he grew troubled. He thought of the old man in the wood who had given him the stone, and it seemed to him that the traveler's eyes were alike in their kindness. He said to himself, 'I must go to the town and see if this is true.' He told his mother he was going to seek work, and the next morning set out upon the road. When he reached the town, he found an air of fear hanging over it, though the market square was busy.",
+      "The boy lingered near the court house, listening to the talk of the townsfolk. He heard whispers that the kind traveler was still locked in the cellar, and that guards stood always at the door. The boy thought to himself, 'Somehow I must find a way to reach that cellar.' He looked for work nearby, and soon found a man who needed help carrying water to the guards of the court house. The boy agreed at once, hoping for a chance to see the cellar door. He carried heavy buckets back and forth, and saw the guards standing before a stout wooden door at the side of the building. The guards seemed weary from the heat and paid little heed to the water carrier. He waited until dusk when one guard left for a moment, and then he darted quickly to the door. He saw a heavy iron key was left in the lock, and the lock was not turned. With trembling hands, he turned the key, opened the heavy door just enough, and slipped inside without a sound.",
+      "It was pitch dark within, and cold and damp, but in the far corner, he saw a faint light. The light shone from the traveler himself, who sat on the floor with heavy chains on his wrists. The traveler looked up as the boy entered, and it seemed he knew the boy at once. 'Child,' he whispered, his voice gentle still, 'why have you come to this place of danger?' 'I came to help you,' said the boy, 'for your eyes are like the old man's in the wood, and I looked at the chains, wondering how to set you free.' 'You cannot break these chains, for they are not of earthly make,' the traveler said softly, 'Do not try, but listen closely.' 'The stone upon your hearth, given by the old man – bring it here and touch the locks of these chains.' The boy understood he must be quick before the guard returned; he nodded and stole away as quietly as he had come. He ran through the dark streets back to the cottage, took the stone from the hearth (which was still warm to the touch), and hid it beneath his coat. He returned to the court house, found the guard was still absent from the door, and slipped back into the dark cellar.",
+      "He took out the warm stone and touched it to the heavy iron locks on the traveler's chains, and at once they fell open without a sound. The traveler rose to his feet, and seemed to stand tall, and the faint light about him grew brighter. 'You have done well, child,' the traveler said, his voice like quiet music, 'This deed will not be forgotten. But we must go now, quickly, before the guard returns.' He led the way to the door, opened it carefully, and looked out into the alley; the street was empty. Together they stepped out and hurried away through the dark streets, turning towards the hills from which the traveler had first come. By sunrise, they had reached the edge of the dark wood near the boy's own cottage. The traveler stopped and said, 'Return now to your mother. The stone will still serve you well, and you need fear the judge no longer. Go in peace.' Then he turned, and strode into the deep wood, and in a moment was lost to sight among the trees. The boy watched him go, then went to the cottage where his mother rejoiced to see him safe. He found the stone still burned brightly on the hearth, and soon word came from the town that the highest judge had vanished as suddenly as he had come, and the fear was lifted from the land.",
+      "So the years went by, and the widow's son lived peacefully with his mother, and the stone warmed their hearth. The boy grew into a man, tall and strong, but quiet in his ways. He often thought of the old man in the wood, and of the traveler in the cellar, and wondered if they were one and the same. Then it happened that his mother grew old and fell ill. No physic could cure her, and a wise woman of the village said it was a sickness born of deep sorrow. Her son asked his mother what sorrow weighed upon her heart. She was silent for a long time, then said, 'One thing I have never told you, concerning your father.' 'Your father was a huntsman in the king's service, good and brave, but one day he went into the dark wood and never returned.' 'This was before you were born, and some said he was taken by strange magic deep within the trees.' 'My sorrow for him has remained always in my heart, and his image is ever before me,' she finished, weeping softly.",
+      "Then the son understood the source of her illness, and he said, 'Mother, weep no more, for I will go into the wood and seek my father, or learn his fate, that your heart may find peace.' He made ready, and at the next dawn, he took the warming stone from the hearth and put it in his pouch. He entered the dark wood where he had met the old man, but went far deeper than ever before, where the trees grew thick and the paths vanished. He did not know the way, but held the stone in his hand, and felt a faint warmth guiding him forward between the ancient trees. After three days of walking thus, he came to a hidden clearing, and in its center stood a tall tower made of black, lightless stone. The tower had no windows, only one great iron door, and this door stood slightly ajar. Taking courage, the young man pushed open the heavy door and stepped inside. Within was a single large room, lit by dark lamps, and at a heavy table sat a figure robed all in black, writing in a great book with a quill pen. The figure looked up, and the young man saw that the face was the face of the highest judge who had vanished from the town. 'What do you seek here, boy,' said the judge, his voice cold as ice, 'in my private domain?'",
+      "'I seek my father,' the young man answered steadily, 'a huntsman lost to this wood long ago.' The judge stared at him for a long moment, then pointed with a bony finger to the great book upon the table. 'Look for yourself then,' he said, 'if you dare know the fate of those who trespass too deep.' The young man stepped forward, his hand steady, and opened the great, heavy book. Its pages were filled with names, and alongside each name, a fate was written, and soon he found his father's name. Beside it was written: 'Held here by my power, until a debt is paid.' The young man looked up from the book and asked the black-robed figure, 'What debt does my father owe?' The judge replied, his voice grating like stone on stone, 'He owes a debt of light, a borrowed brightness he took from the one you freed, and could not repay when his helper was chained.' 'Then I will pay this debt,' said the young man, 'Let me use my own light, from the stone given me, to settle his account.' The judge considered this, his dark eyes gleaming, then slowly nodded. 'So be it. We shall see if the stone's light suffices.'",
+      "He rose from his chair and led the young man through another door hidden behind a dark curtain. There, in a small, bare room, sat an old huntsman, thin and pale, staring at the floor. He looked up slowly as they entered, but did not seem to know his own son. The young man took out the warming stone from his pouch and held it before his father. The stone's light flared brightly, and as it shone upon the huntsman, some colour returned to his face and his eyes cleared. The judge stared at the stone, then at the huntsman, and said grudgingly, 'The debt is paid.' He turned away back to his book. The old huntsman now knew his son, and embraced him with tears in his eyes. The young man led his father out of the black tower and into the sunlit clearing. Together they made their way back through the wood, the stone still guiding them, and at last reached the cottage. When the widow saw her husband restored, her deep sorrow lifted at once, and the three lived together in peace, and the stone burned bright upon their hearth always."
+    ],
+    "Title": "The Warming Stone"
+  }
+}

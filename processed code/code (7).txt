@@ -1,0 +1,919 @@
+{
+  "Analysis": [
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Classic 'Once upon a time' opening, establishing the setting (kingdom) and the ruler (king). Simple, declarative sentence. Uses archetypal figures and setting. Adheres perfectly.",
+      "Metaphorical/Psychological Meaning": "The King represents the ruling conscious principle (Ego) or established order within the psyche or society. The Kingdom is the realm of consciousness or the known world.",
+      "Moral Implication": "Establishes a baseline of order and authority from which the story will develop, potentially showing the stability or perhaps stagnation of the current state.",
+      "Plot Function": "Introduces the primary setting and the ruling figure, establishing the context for the story.",
+      "Sentence": "Once upon a time, there was a king who ruled a large and prosperous kingdom.",
+      "Sentence Number": 1
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Introduces another key archetype (Queen). Simple description focusing on a past state ('had been fair') and a present consequence ('strife followed her'). Attributing strife follows the Helen inspiration in a Grimm context (consequence over character depth). Language is simple.",
+      "Metaphorical/Psychological Meaning": "The Queen as the Anima figure. Her past fairness and present association with strife suggest a potentially disruptive or complex feminine principle, whose influence brings conflict into the conscious realm (kingdom).",
+      "Moral Implication": "Hints that beauty or past actions can bring lasting trouble. Introduces an element of underlying tension or instability related to the queen.",
+      "Plot Function": "Introduces the Queen and hints at her potentially troublesome influence or history, setting a tone of underlying conflict.",
+      "Sentence": "His queen had been fair in her youth, but it was said that strife followed her footsteps.",
+      "Sentence Number": 2
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Introduces the protagonist Prince. Focuses on action ('looked to the borders,' 'counted the soldiers') rather than internal thought. These actions suggest vigilance, concern with power and security, fitting the Machiavellian inspiration simply. Generic title used.",
+      "Metaphorical/Psychological Meaning": "The Prince as the developing Ego, focused on maintaining control and security (borders, soldiers) within the conscious realm. His gaze is outward, concerned with power dynamics.",
+      "Moral Implication": "Portrays the prince as concerned with practical matters of state and power, perhaps suggesting ambition or pragmatism.",
+      "Plot Function": "Introduces the main character, the elder Prince, and establishes his character through actions related to power and control.",
+      "Sentence": "The king had two sons; the elder prince often looked to the borders of the kingdom and counted the soldiers in the yard.",
+      "Sentence Number": 3
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Introduces the second son, contrasting him with the elder. Focuses on actions related to nature/nurture ('tended the gardens,' 'spoke to the birds'). Simple actions define his character as gentler or more connected to the natural/inner world. Establishes the Cain/Abel dynamic foundation.",
+      "Metaphorical/Psychological Meaning": "The younger brother represents a different aspect of the psyche, perhaps more connected to nature, intuition, or the feeling function (gardens, birds), contrasting with the elder's focus on power/control. This sets up the archetypal conflict between brothers representing different values or connections (conscious control vs. nature/soul).",
+      "Moral Implication": "Presents the younger brother as having different, perhaps gentler, interests. Implies a difference in nature between the brothers.",
+      "Plot Function": "Introduces the second key character, the younger brother, establishing his contrasting nature and setting up the potential for rivalry.",
+      "Sentence": "The younger brother, however, tended the palace gardens and sometimes spoke to the birds that came there.",
+      "Sentence Number": 4
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "States the King's preference directly and simply, providing a clear source of conflict. Favouritism is a common fairy tale trope. No complex reasoning given, just stated fact.",
+      "Metaphorical/Psychological Meaning": "The ruling conscious principle (King/Ego) shows preference for one aspect of the psyche (younger son's qualities) over the other (elder son's qualities). This imbalance fuels the conflict.",
+      "Moral Implication": "Highlights the potential injustice or danger of parental favouritism, setting the stage for jealousy and resentment.",
+      "Plot Function": "Establishes the core reason for the brewing conflict: the King's favouritism towards the younger son.",
+      "Sentence": "Now, the king loved his younger son more dearly, for his ways were gentle.",
+      "Sentence Number": 5
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Describes the elder prince's reaction through observable action ('grew quiet,' 'sharpened his hunting knife') rather than internal feeling. The actions imply resentment and perhaps plotting. Simple, concrete actions.",
+      "Metaphorical/Psychological Meaning": "The neglected aspect of the psyche (elder prince/Ego focused on power) reacts to the perceived imbalance. Quietness suggests brooding or calculation. Sharpening the knife symbolizes preparing for aggressive action or cutting away the perceived obstacle.",
+      "Moral Implication": "Shows how favouritism breeds resentment and potentially dangerous thoughts in the unfavoured party. Actions speak louder than words (or thoughts, which aren't described).",
+      "Plot Function": "Shows the elder prince's negative reaction to the favouritism, hinting at future conflict and introducing a symbol of potential violence (knife).",
+      "Sentence": "The elder prince saw this, and he grew quiet in the king's halls but often sharpened his hunting knife.",
+      "Sentence Number": 6
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Uses the Queen's action (watching) to heighten tension. Her lack of intervention ('said naught') is significant, fitting her passive but strife-associated character. Simple observation.",
+      "Metaphorical/Psychological Meaning": "The Anima figure (Queen) observes the growing conflict between the aspects of the masculine psyche (brothers) but remains passive or perhaps subtly influential through her non-action. Her silence allows the tension to build.",
+      "Moral Implication": "Raises questions about the Queen's role – is her silence complicity, indifference, or calculation? Non-intervention can enable conflict.",
+      "Plot Function": "Adds the Queen as an observer to the brothers' dynamic, increasing the sense of scrutiny and perhaps suggesting her awareness or passive role in the conflict.",
+      "Sentence": "The queen watched both her sons from the high windows of the palace, but said naught.",
+      "Sentence Number": 7
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Introduces a specific event common in Cain/Abel stories: an offering. Uses simple terms ('called his sons,' 'bring an offering'). Focuses on the external action.",
+      "Metaphorical/Psychological Meaning": "The ruling consciousness (King) demands a sacrifice or offering, a symbolic act of devotion or giving back. This tests the relationship of the different psychic aspects (sons) to the central authority.",
+      "Moral Implication": "Sets up a test or demonstration of loyalty/worth through offerings, a common motif where results can reveal character or divine favour.",
+      "Plot Function": "Initiates a specific event – the call for offerings – which will serve as the focal point for the brothers' rivalry and the King's favouritism.",
+      "Sentence": "One harvest time, the king called his sons and bade them each bring an offering to the temple beyond the palace walls.",
+      "Sentence Number": 8
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Describes the younger son's offering simply and positively ('finest fruits,' 'brightest flowers'). Focuses on the quality and appearance, fitting his connection to gardens.",
+      "Metaphorical/Psychological Meaning": "The aspect connected to nature/feeling (younger son) offers the best products of its realm – beauty, cultivated life force (fruits, flowers). This represents an offering from the soul or the feeling function.",
+      "Moral Implication": "Shows the younger son offering something aesthetically pleasing and seemingly heartfelt, representing his nature.",
+      "Plot Function": "Details the younger son's offering, setting a standard against which the elder's will be compared.",
+      "Sentence": "The younger brother gathered the finest fruits from his garden and the brightest flowers.",
+      "Sentence Number": 9
+    },
+    {
+      "Chapter Number": 1,
+      "Grimm Style": "Describes the elder son's offering: a hunted animal. Focuses on the act of killing ('he had slain'). Contrasts sharply with the younger's offering, fitting the elder's character (hunter, concerned with action/power).",
+      "Metaphorical/Psychological Meaning": "The aspect focused on power/control (elder prince) offers the result of its prowess – a captured, slain life force (roe). This represents an offering based on skill, dominance, and perhaps aggression, contrasting with the nurturing offering of the younger.",
+      "Moral Implication": "Shows the elder son offering something acquired through skill and violence, representing his nature. Sets up the contrast for the King's judgment.",
+      "Plot Function": "Details the elder son's offering, establishing the direct contrast with his brother's and setting the stage for the acceptance/rejection.",
+      "Sentence": "The elder prince went into the woods and brought back a young roe that he had slain with his sharp knife.",
+      "Sentence Number": 10
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Simple description of the presentation of offerings. Focuses on the external actions and the setting (temple altar).",
+      "Metaphorical/Psychological Meaning": "The two contrasting offerings, representing different psychic values or functions, are presented before the symbolic sacred center (altar) for judgment by the ruling principle (King).",
+      "Moral Implication": "The moment of judgment is prepared. Both brothers present their best according to their natures.",
+      "Plot Function": "Moves the action to the temple and shows both offerings being presented.",
+      "Sentence": "Both sons laid their gifts upon the cold stone of the temple altar.",
+      "Sentence Number": 11
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Describes the King's reaction simply and directly. Focuses on outward signs of pleasure ('smiled upon,' 'praised'). Reinforces his favouritism.",
+      "Metaphorical/Psychological Meaning": "The ruling conscious principle (King) explicitly favors the offering representing nature/feeling/beauty (fruits and flowers) over the one representing power/aggression/skill (slain roe).",
+      "Moral Implication": "The King's favouritism is publicly demonstrated, confirming the elder son's fears and likely deepening his resentment. The judgment seems based on preference rather than objective value.",
+      "Plot Function": "Shows the King explicitly favouring the younger son's offering, escalating the central conflict.",
+      "Sentence": "The king smiled upon the fruits and flowers and praised his younger son's diligence.",
+      "Sentence Number": 12
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Describes the King's reaction to the other offering matter-of-factly ('looked briefly,' 'nodded only'). Shows clear lack of enthusiasm or approval through minimal action.",
+      "Metaphorical/Psychological Meaning": "The ruling consciousness (King) gives minimal acknowledgement or value to the offering representing power/skill/aggression. This rejection or devaluation fuels the conflict.",
+      "Moral Implication": "The King's dismissal of the elder son's effort is clear, potentially perceived as unjust or disrespectful by the elder son.",
+      "Plot Function": "Shows the King's dismissal of the elder son's offering, providing the direct trigger for the elder's subsequent actions.",
+      "Sentence": "At the slain roe offered by the elder, the king looked but briefly and nodded only.",
+      "Sentence Number": 13
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Focuses on the elder prince's external reaction ('face grew dark,' 'turned away'). Uses a physical descriptor ('dark face') to imply internal state without stating it. Action ('turned away') shows rejection/withdrawal.",
+      "Metaphorical/Psychological Meaning": "The rejected aspect (elder prince) reacts with a visible manifestation of negative affect ('face grew dark' - shadow emerging). Turning away signifies alienation and refusal to accept the judgment.",
+      "Moral Implication": "Public rejection leads to visible anger or resentment. The elder prince does not hide his displeasure entirely.",
+      "Plot Function": "Shows the elder prince's immediate, visible negative reaction to the King's judgment, signalling a breaking point.",
+      "Sentence": "The elder prince's face grew dark as a thundercloud, and he turned away from the altar without a word.",
+      "Sentence Number": 14
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Simple action describing the departure. Contrasts the brothers' states implicitly (younger favoured, elder resentful) as they leave the place of judgment.",
+      "Metaphorical/Psychological Meaning": "The two aspects depart the sacred center, one validated, the other rejected by the ruling consciousness. This separation solidifies their opposing positions.",
+      "Moral Implication": "The decisive moment of judgment is over, and the consequences begin to unfold as the brothers leave.",
+      "Plot Function": "Moves the brothers away from the temple, setting the scene for the next interaction between them.",
+      "Sentence": "Then the two brothers left the temple and walked back towards the palace.",
+      "Sentence Number": 15
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Focuses on the younger brother's action ('spoke cheerfully') and topic (gardens), highlighting his unchanged, perhaps naive, nature despite the tension.",
+      "Metaphorical/Psychological Meaning": "The favoured aspect (younger brother) remains oblivious or perhaps insensitive to the other's state, focused on its own domain (gardens). This highlights a lack of integration or awareness between the opposing parts.",
+      "Moral Implication": "Shows the younger brother's innocence or perhaps unawareness of the depth of his brother's resentment. Can appear as naive or insensitive.",
+      "Plot Function": "Highlights the contrast in the brothers' moods and the younger's seeming obliviousness, creating an opportunity for the elder's resentment to manifest.",
+      "Sentence": "The younger brother spoke cheerfully about his gardens and the coming spring.",
+      "Sentence Number": 16
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "The elder prince initiates a specific action ('said to his brother,' 'let us walk'). Proposes going to a secluded place ('meadow by the river'), a common setup for betrayal or significant events in tales.",
+      "Metaphorical/Psychological Meaning": "The resentful aspect (elder prince) seeks to isolate the favoured aspect (younger brother), drawing him away from the safety of the known path (towards palace) to a more liminal space (meadow by river). This suggests premeditation.",
+      "Moral Implication": "The suggestion to divert seems suspicious given the elder's mood. Foreshadows ill intent. Taking someone aside often precedes harm.",
+      "Plot Function": "The elder prince initiates the move towards a secluded location, setting the stage for the story's central violent act.",
+      "Sentence": "The elder prince stopped and said to his brother, 'Let us walk awhile in the meadow by the river.'",
+      "Sentence Number": 17
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Simple agreement from the younger brother. Shows trust or continued naïveté regarding his brother's intentions.",
+      "Metaphorical/Psychological Meaning": "The favoured, perhaps naive aspect (younger brother) agrees, showing lack of suspicion or awareness of the danger posed by the resentful, shadowy aspect (elder prince).",
+      "Moral Implication": "Highlights the younger brother's trusting nature, which makes him vulnerable.",
+      "Plot Function": "The younger brother agrees, sealing his fate and moving the pair to the secluded location.",
+      "Sentence": "The younger brother agreed readily, and they turned from the path.",
+      "Sentence Number": 18
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Describes the setting briefly and functionally ('quiet place,' 'tall grasses'). Emphasizes the seclusion.",
+      "Metaphorical/Psychological Meaning": "The chosen location is isolated ('quiet') and potentially obscuring ('tall grasses'), representing a descent into a less conscious or observable state where primal actions can occur.",
+      "Moral Implication": "The seclusion removes witnesses and makes the planned act easier to commit.",
+      "Plot Function": "Establishes the secluded scene for the imminent confrontation or attack.",
+      "Sentence": "It was a quiet place, with tall grasses whispering by the water's edge.",
+      "Sentence Number": 19
+    },
+    {
+      "Chapter Number": 2,
+      "Grimm Style": "Direct, brutal action stated plainly. Uses the specific weapon mentioned earlier ('sharp knife'). Avoids graphic detail but clearly states the act of fratricide. Conforms to the Grimm style's matter-of-fact violence.",
+      "Metaphorical/Psychological Meaning": "The resentful, power-oriented aspect (elder prince) violently eliminates the favoured aspect connected to nature/feeling (younger brother). This represents a destructive act within the psyche, where one part attempts to destroy another due to jealousy or perceived imbalance, leading to fragmentation.",
+      "Moral Implication": "The ultimate consequence of jealousy and resentment. A horrific act driven by perceived injustice. The knife, previously sharpened, finds its use.",
+      "Plot Function": "The central violent event occurs, mirroring the Cain and Abel story. The elder prince kills his younger brother.",
+      "Sentence": "There, the elder prince took his sharp knife from his belt and struck his younger brother, so that he fell down dead amongst the grasses.",
+      "Sentence Number": 20
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Focuses on the practical action of concealment ('dragged the body,' 'pushed it'). Matter-of-fact tone despite the gruesome context. Uses a simple, natural element (reeds) for hiding.",
+      "Metaphorical/Psychological Meaning": "The aggressive aspect (elder prince) attempts to hide or repress the evidence of its destructive act, pushing the slain part (younger brother) into the obscuring reeds (liminal space between water/unconscious and land/conscious).",
+      "Moral Implication": "The attempt to conceal the crime begins immediately. Shows lack of remorse, focus on avoiding consequences.",
+      "Plot Function": "Shows the elder prince attempting to hide the body and conceal his crime.",
+      "Sentence": "Then the elder prince dragged the body into the thick reeds by the river bank and pushed it deep amongst them.",
+      "Sentence Number": 21
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Simple action of cleaning the weapon. Practical detail that signifies removing evidence and perhaps a symbolic cleansing before returning.",
+      "Metaphorical/Psychological Meaning": "Wiping the knife represents the attempt to erase the trace of the violent act, to clean the instrument of aggression before re-entering the ordinary conscious world.",
+      "Moral Implication": "Shows calculation and thoroughness in covering up the crime.",
+      "Plot Function": "Adds detail to the concealment effort, showing the prince removing blood evidence.",
+      "Sentence": "He wiped his knife clean on the green leaves and put it back in his belt.",
+      "Sentence Number": 22
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Describes his return, focusing on the external action ('walked back alone'). Implies the internal state (or lack thereof) by the simple description.",
+      "Metaphorical/Psychological Meaning": "The surviving aspect (elder prince) returns to the realm of consciousness (palace) alone, having eliminated its perceived rival but now fundamentally changed and carrying a hidden burden.",
+      "Moral Implication": "The return alone highlights the absence of the brother. His solitary state is now permanent.",
+      "Plot Function": "Shows the prince returning to the palace, creating the situation where his brother's absence will be noticed.",
+      "Sentence": "Then he walked back alone towards the palace.",
+      "Sentence Number": 23
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Simple question from the authority figure (King). Directly addresses the missing person. Standard way to initiate the discovery of the crime.",
+      "Metaphorical/Psychological Meaning": "The ruling conscious principle (King) notices the absence of the favoured aspect (younger son) and questions the remaining part (elder prince). Consciousness seeks the missing element.",
+      "Moral Implication": "The inevitable question arises. The deception is about to be tested.",
+      "Plot Function": "The King notices the younger son's absence and confronts the elder prince, initiating the inquiry.",
+      "Sentence": "When the king saw him arrive, he asked, 'Where is your brother?'",
+      "Sentence Number": 24
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Classic disavowal of knowledge ('I know not'). Includes a rhetorical question ('Am I my brother's keeper?') echoing the biblical Cain. Simple, direct lie/evasion.",
+      "Metaphorical/Psychological Meaning": "The guilty aspect (elder prince) denies knowledge and responsibility, attempting to deflect the inquiry from the ruling consciousness (King). The rhetorical question asserts separation and rejects connection.",
+      "Moral Implication": "The prince lies to his father and denies responsibility for his brother, compounding his guilt. The echo of Cain is deliberate.",
+      "Plot Function": "The prince lies and evades the question, directly mirroring Cain's response and confirming his guilt to the reader.",
+      "Sentence": "The elder prince answered, 'I know not; perhaps he lingered in the meadow. Am I my brother's keeper?'",
+      "Sentence Number": 25
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Focuses on the King's observable reaction ('looked hard') and subsequent action ('sent out servants'). Does not describe the King's thoughts or feelings, only his searching gaze and command.",
+      "Metaphorical/Psychological Meaning": "The ruling consciousness (King) scrutinizes the deceptive aspect (elder prince) and initiates a search, unwilling to accept the evasion. It mobilizes conscious resources (servants) to find the truth.",
+      "Moral Implication": "The King is suspicious but takes practical steps to find the missing son rather than immediately accusing the elder. Shows prudence or perhaps doubt.",
+      "Plot Function": "The King, likely suspicious, initiates a search for the missing younger prince.",
+      "Sentence": "The king looked hard at his elder son, then sent out servants to search the meadow by the river.",
+      "Sentence Number": 26
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Describes the discovery of the body. Simple statement of fact ('found the king's younger son'). Notes the condition ('lying cold') and location ('amongst the reeds'). Direct and avoids sensationalism.",
+      "Metaphorical/Psychological Meaning": "The conscious search (servants) discovers the devastating result of the inner conflict – the eliminated aspect (younger son) found in the liminal space (reeds). The truth is brought to light.",
+      "Moral Implication": "The crime is discovered. Concealment fails.",
+      "Plot Function": "The search party finds the younger prince's body, confirming his death and the elder prince's implicit guilt.",
+      "Sentence": "Soon the servants returned, for they had found the king's younger son lying cold amongst the reeds.",
+      "Sentence Number": 27
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "States the consequence directly ('great sorrow fell'). Uses archetypal reactions ('king wept,' 'queen tore her hair'). Queen's reaction is notably violent/expressive, perhaps hinting at her character.",
+      "Metaphorical/Psychological Meaning": "The discovery of the psychic fragmentation/loss brings immense grief to the ruling consciousness (King weeping) and the Anima (Queen tearing hair). The Anima's extreme reaction might suggest a deeper connection or implication in the event.",
+      "Moral Implication": "The profound grief resulting from the fratricide affects the entire kingdom/family. The Queen's dramatic grief is noteworthy.",
+      "Plot Function": "Describes the reaction of the King and Queen to the discovery, emphasizing the tragedy.",
+      "Sentence": "Then a great sorrow fell upon the palace; the king wept bitterly, and the queen tore her hair.",
+      "Sentence Number": 28
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Focuses on the elder prince's lack of outward reaction ('stood silent,' 'shed no tear'). Conveys his character through absence of expected behaviour. Avoids stating his internal feelings.",
+      "Metaphorical/Psychological Meaning": "The guilty aspect (elder prince) shows no outward sign of remorse or grief, indicating emotional detachment, hardness, or successful repression of feeling. This further isolates him.",
+      "Moral Implication": "The prince's lack of grief confirms his coldness or guilt. His silence is incriminating.",
+      "Plot Function": "Highlights the elder prince's lack of remorse or feigned indifference, further implicating him.",
+      "Sentence": "But the elder prince stood silent in the great hall and shed no tear.",
+      "Sentence Number": 29
+    },
+    {
+      "Chapter Number": 3,
+      "Grimm Style": "Describes the punishment: exile. Simple, direct decree by the King ('declared,' 'must be banished'). Includes the classic element of marking ('mark upon his brow') as a sign of his crime.",
+      "Metaphorical/Psychological Meaning": "The ruling consciousness (King) punishes the destructive aspect (elder prince) with banishment from the conscious realm (kingdom). The mark signifies an indelible sign of the crime/shadow, visible to all. He is cast out but not destroyed, forced to wander.",
+      "Moral Implication": "Justice is enacted, though perhaps leniently (exile, not execution). The mark ensures his crime is known wherever he goes. Banishment is a common fairy tale consequence.",
+      "Plot Function": "The King banishes the elder prince as punishment, marking him and sending him away from the kingdom.",
+      "Sentence": "The king declared that his elder son must be banished from the kingdom forever, and made a secret mark upon his brow so that all might know his crime.",
+      "Sentence Number": 30
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Simple description of the prince leaving. Focuses on the action ('rode out') and his solitary state ('alone'). Emphasizes the finality of the departure.",
+      "Metaphorical/Psychological Meaning": "The banished aspect (prince) leaves the established realm of consciousness (kingdom) to wander in the unknown outer world or perhaps the wilderness of the psyche.",
+      "Moral Implication": "The sentence of exile begins. He is cut off from his past life.",
+      "Plot Function": "Shows the prince starting his journey into exile.",
+      "Sentence": "So the elder prince rode out from the city gates alone.",
+      "Sentence Number": 31
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Uses a common fairy tale trope: journeying without direction ('knew not whither'). Emphasizes his lost and wandering state. Simple description of time passing ('many days').",
+      "Metaphorical/Psychological Meaning": "The banished Ego wanders without clear direction, signifying a period of confusion, disorientation, and searching after being cast out from the established psychic structures.",
+      "Moral Implication": "Exile involves aimless wandering and uncertainty.",
+      "Plot Function": "Describes the nature of the prince's journey in exile – directionless and lengthy.",
+      "Sentence": "He travelled for many days through forests and over hills, and knew not whither he went.",
+      "Sentence Number": 32
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Highlights the effect of the mark ('people saw the mark,' 'turned away'). Shows the social consequence of his crime – ostracization. Focuses on the external reactions.",
+      "Metaphorical/Psychological Meaning": "The mark of the shadow/crime causes rejection from the collective consciousness (people turning away). The banished Ego experiences social isolation due to its past actions.",
+      "Moral Implication": "His crime brings immediate social rejection. The mark serves its purpose as a warning and source of shame.",
+      "Plot Function": "Shows the prince experiencing the consequences of his banishment and marking – social rejection.",
+      "Sentence": "In the villages he passed, people saw the mark upon his brow and turned away from him in fear or scorn.",
+      "Sentence Number": 33
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Describes his basic survival needs and difficulties ('begged for crusts,' 'slept under hedges'). Simple, concrete details illustrating his fall from royalty to hardship.",
+      "Metaphorical/Psychological Meaning": "The banished Ego is reduced to basic survival, stripped of status and relying on minimal resources. This forces humility and confrontation with harsh reality.",
+      "Moral Implication": "Illustrates the hardship of exile and the consequences of his actions – a prince reduced to begging.",
+      "Plot Function": "Emphasizes the prince's difficult existence in exile, showing his reduced circumstances.",
+      "Sentence": "He begged for crusts of bread at cottage doors and slept under hedges when night fell.",
+      "Sentence Number": 34
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Simple statement about his thoughts, focusing on survival and regaining power ('how he might find food,' 'how he might find power again'). Consistent with his Machiavellian inspiration, even in exile his focus is on regaining power. Avoids deep introspection.",
+      "Metaphorical/Psychological Meaning": "Even in exile, the Ego remains focused on basic needs (food/survival) and its core drive (power). It seeks ways to restore its former position or gain new strength.",
+      "Moral Implication": "Shows the prince's resilience or perhaps his unchanging nature – still focused on power despite his situation. His thoughts are practical, not remorseful.",
+      "Plot Function": "Reveals the prince's mindset in exile: focused on survival and regaining power, consistent with his character.",
+      "Sentence": "He thought often only of how he might find food, and sometimes of how he might find power again.",
+      "Sentence Number": 35
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Describes reaching a new, distinct location ('a barren land'). Sets a scene of desolation, contrasting with his prosperous home kingdom.",
+      "Metaphorical/Psychological Meaning": "The wandering Ego arrives in a place symbolizing lack, sterility, or hardship ('barren land'). This represents entering a psychic space devoid of life or easy sustenance, reflecting his inner state or the next stage of his trial.",
+      "Moral Implication": "His journey leads him to a place reflecting his own cursed or diminished state.",
+      "Plot Function": "Introduces a new setting for the prince's exile, emphasizing its harshness.",
+      "Sentence": "At last he came into a barren land where few trees grew and the wind blew cold.",
+      "Sentence Number": 36
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Introduces a new character: an old woman. Archetypal figure ('old woman'). Simple description of her dwelling ('small hut'). Sets up an encounter.",
+      "Metaphorical/Psychological Meaning": "In the barren land (place of trial), the Ego encounters the archetype of the Crone or Wise Old Woman, often a figure representing hidden wisdom, fate, or the harsh aspects of the feminine/nature.",
+      "Moral Implication": "Encounters in desolate places are often significant. An old woman alone may offer help or pose a challenge.",
+      "Plot Function": "Introduces a potential helper or obstacle figure in the form of an old woman.",
+      "Sentence": "There, by a grey rock, stood a small hut made of stones and mud.",
+      "Sentence Number": 37
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "Simple description of the old woman's action ('sat spinning') and appearance ('sharp eyes'). Spinning is a classic activity associated with fate or magic in fairy tales.",
+      "Metaphorical/Psychological Meaning": "The Crone figure is engaged in spinning, symbolizing the weaving of fate or destiny. Her sharp eyes suggest perception and seeing beyond appearances.",
+      "Moral Implication": "Spinning often suggests fate or hidden knowledge. Her sharp eyes imply she might recognize the prince or his mark.",
+      "Plot Function": "Characterizes the old woman through her archetypal action (spinning) and perceptive gaze, setting the stage for her interaction with the prince.",
+      "Sentence": "An old woman sat in the doorway, spinning thread, and she looked up at him with sharp eyes.",
+      "Sentence Number": 38
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "The old woman speaks first, directly addressing the mark. Shows her perception and lack of fear. Simple, direct question.",
+      "Metaphorical/Psychological Meaning": "The Wise Old Woman/Crone immediately recognizes the mark of the shadow/crime, showing her ability to perceive the hidden truth of the Ego's past. She directly confronts him with it.",
+      "Moral Implication": "His crime cannot be hidden from everyone. Some possess the insight to see the truth. Confrontation by a figure of wisdom/fate.",
+      "Plot Function": "The old woman immediately identifies the prince's mark, directly addressing his past crime and setting up a crucial interaction.",
+      "Sentence": "She said, 'That is a dark mark you carry on your brow, banished prince.'",
+      "Sentence Number": 39
+    },
+    {
+      "Chapter Number": 4,
+      "Grimm Style": "The prince's reaction is surprise ('started') but he speaks truthfully about his identity ('I am he'). No attempt to lie here, perhaps because she already knows. Simple admission.",
+      "Metaphorical/Psychological Meaning": "Confronted directly by perceptive wisdom (Crone), the Ego acknowledges its identity and the truth of its situation. Deception is abandoned in the face of clear seeing.",
+      "Moral Implication": "Honesty in the face of direct, knowledgeable confrontation. Acceptance of his identity as the banished one.",
+      "Plot Function": "The prince confirms his identity to the old woman, acknowledging the truth of her words.",
+      "Sentence": "The prince started, then bowed his head and answered, 'Old mother, I am he.'",
+      "Sentence Number": 40
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "The old woman makes an offer of service, but with a condition based on time ('seven years'). Sets up a period of servitude, a common fairy tale trial.",
+      "Metaphorical/Psychological Meaning": "The Crone/Wisdom figure offers the banished Ego a path forward through service, but it requires a significant commitment of time (seven years - a symbolically complete period). This represents a necessary period of humbling work and learning under the guidance of this archetypal figure.",
+      "Moral Implication": "Opportunity arises even in exile, but it requires commitment and service. A chance for redemption or transformation through labour.",
+      "Plot Function": "The old woman offers the prince a chance for shelter and sustenance, but binds him to a long period of service.",
+      "Sentence": "'Then serve me for seven years,' said the old woman, 'and perhaps the mark may fade.'",
+      "Sentence Number": 41
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Hints at a potential reward ('perhaps the mark may fade'). Vague promise, not guaranteed. Adds motivation for the prince beyond mere survival.",
+      "Metaphorical/Psychological Meaning": "The service offers the possibility of expiation or transformation (mark fading). This suggests that working consciously under the guidance of the Crone/Wisdom archetype can lead to healing or integration of the shadow/crime.",
+      "Moral Implication": "Service might lead to redemption or the lessening of his shame/guilt. Offers a path, however uncertain, towards restoration.",
+      "Plot Function": "Provides a motivation for the prince to accept the service – the possibility of removing the mark of his crime.",
+      "Sentence": "*This sentence analysis refers to the second clause of sentence 41: 'and perhaps the mark may fade.' The sentence itself is part of Sentence 41 analysis.*",
+      "Sentence Number": 42
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "The prince agrees. Simple statement of acceptance ('agreed'). Focuses on the action, not his feelings about the long service.",
+      "Metaphorical/Psychological Meaning": "The Ego, seeing no better alternative and perhaps grasping the potential for transformation, accepts the terms of service under the Crone/Wisdom figure. This signifies commitment to a long process of humbling work and psychological development.",
+      "Moral Implication": "Acceptance of the necessary path, however difficult. Willingness to undertake the trial of service.",
+      "Plot Function": "The prince accepts the old woman's terms, beginning a new phase of his exile.",
+      "Sentence": "The prince, having nowhere else to go, agreed to her words.",
+      "Sentence Number": 43
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Describes the tasks given. They are menial and related to basic elements ('fetch water,' 'chop wood,' 'tend the fire'). Similar to his earlier service but now in a more isolated, perhaps magical, context.",
+      "Metaphorical/Psychological Meaning": "The tasks involve basic, elemental work, continuing the theme of grounding and humble labour. Serving the Crone requires tending to fundamental needs and energies (water, wood, fire).",
+      "Moral Implication": "Reinforces the theme of humbling service as part of his journey. He must perform basic chores for the old woman.",
+      "Plot Function": "Details the nature of the prince's service – basic, menial labour.",
+      "Sentence": "So he dwelt in the hut and served the old woman, fetching water from a stony well and chopping dry wood for her fire.",
+      "Sentence Number": 44
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Highlights the passage of time and the unchanging nature of his service ('long years passed'). Emphasizes the duration and monotony of the trial.",
+      "Metaphorical/Psychological Meaning": "The lengthy period of service signifies the slow, patient work required for psychological transformation and integration. It's a long process of tending to the basics under the watchful eye of inner wisdom (Crone).",
+      "Moral Implication": "Patience and endurance are tested through long, uneventful service. Time passes without apparent change.",
+      "Plot Function": "Indicates a significant passage of time during which the prince serves the old woman.",
+      "Sentence": "The long years passed by, and the prince faithfully did all she bade him.",
+      "Sentence Number": 45
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Focuses on an observable change: the mark. States simply that it 'did not fade'. Dashes the hope offered earlier.",
+      "Metaphorical/Psychological Meaning": "Despite the service, the visible sign of the past crime/shadow (mark) remains. This suggests that simple service alone may not be enough for full integration or healing; the core issue persists.",
+      "Moral Implication": "The promised reward (fading mark) does not materialize through service alone. Raises questions about the old woman's promise or the nature of redemption.",
+      "Plot Function": "Reveals that the service did not achieve the hoped-for outcome regarding the mark, creating narrative tension or suggesting the trial is incomplete.",
+      "Sentence": "Yet the mark on his brow did not fade, not even by a little.",
+      "Sentence Number": 46
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Describes his physical appearance changing due to hardship ('grew thin,' 'hands became rough'). Focuses on external signs of his labour and reduced state.",
+      "Metaphorical/Psychological Meaning": "The long period of service and hardship leaves its mark on the Ego's outer presentation (Persona). It is worn down, less refined, marked by labour.",
+      "Moral Implication": "Shows the physical toll of his exile and service. His royal softness is replaced by the roughness of labour.",
+      "Plot Function": "Emphasizes the effect of the seven years of service on the prince's physical state.",
+      "Sentence": "He grew thin, and his hands became rough with work.",
+      "Sentence Number": 47
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Notes a change in his demeanour ('eyes grew sharp,' 'learned silence'). Focuses on observable traits, suggesting development of cunning, patience, or watchfulness acquired through hardship. Fits Machiavellian theme.",
+      "Metaphorical/Psychological Meaning": "While the outer form suffers, the inner Ego develops new qualities through the trial: sharp perception (eyes grew sharp) and perhaps strategic reserve or thoughtfulness (learned silence). Hardship forces adaptation and development of new psychic skills.",
+      "Moral Implication": "Hardship can forge character, developing perception and prudence, even if the original flaws (like ambition) remain.",
+      "Plot Function": "Indicates an internal development in the prince during his service – he becomes more perceptive and reserved.",
+      "Sentence": "But his eyes grew sharp like the old woman's, and he learned silence.",
+      "Sentence Number": 48
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "Marks the completion of the agreed time ('seven years were ended'). Signals a transition point.",
+      "Metaphorical/Psychological Meaning": "The symbolically complete period of service and learning under the Crone/Wisdom figure reaches its conclusion. A stage of development is finished.",
+      "Moral Implication": "He fulfilled his part of the bargain. The time of service is complete.",
+      "Plot Function": "Signals the end of the seven-year service period, leading to the next phase.",
+      "Sentence": "When the seven years were ended, the old woman called the prince to her.",
+      "Sentence Number": 49
+    },
+    {
+      "Chapter Number": 5,
+      "Grimm Style": "The old woman gives a concluding statement and instruction. Releases him from service ('served me well,' 'go now') and gives him a mysterious object ('small grey cloak'). Provides a final gift/tool.",
+      "Metaphorical/Psychological Meaning": "The Crone/Wisdom figure acknowledges the Ego's completion of the service phase and releases him. She provides a tool ('grey cloak') for the next stage – grey often symbolizes neutrality, transition, or hiddenness.",
+      "Moral Implication": "Faithful service is acknowledged. He is released with a gift, suggesting her approval or a necessary tool for his future.",
+      "Plot Function": "The old woman releases the prince from service and gives him a parting gift, a grey cloak.",
+      "Sentence": "She said, 'You have served me well. Go now, but take this small grey cloak with you.'",
+      "Sentence Number": 50
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Describes the cloak's property simply ('put it on,' 'wish yourself elsewhere,' 'you will be there'). Standard magical item description. Grey colour is neutral, unassuming.",
+      "Metaphorical/Psychological Meaning": "The grey cloak represents a newfound ability for psychic mobility or transition, the power to shift one's state or location at will, perhaps developed through the long service. It allows the Ego to transcend ordinary limitations. Grey suggests it's not flashy but functional.",
+      "Moral Implication": "The reward for service is a tool granting freedom and power of movement. A seemingly humble object holds great power.",
+      "Plot Function": "Explains the magical property of the cloak – instantaneous travel – providing the prince with a powerful new ability.",
+      "Sentence": "'If you put it on and wish yourself elsewhere,' she told him, 'you will be there in an instant.'",
+      "Sentence Number": 51
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Simple action of the prince taking the gift and leaving. Focuses on the external event.",
+      "Metaphorical/Psychological Meaning": "The Ego accepts the gift (new psychic ability) from the Crone/Wisdom figure and departs from her direct influence, ready for the next stage of his journey.",
+      "Moral Implication": "He accepts the gift and moves on, equipped with a new power.",
+      "Plot Function": "The prince takes the cloak and leaves the old woman's hut, ending his period of service.",
+      "Sentence": "The prince took the grey cloak, thanked the old woman, and left the barren land behind him.",
+      "Sentence Number": 52
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Shows the prince using the magical item immediately. His first wish is practical, goal-oriented ('a town with a good inn'). Consistent with his focus.",
+      "Metaphorical/Psychological Meaning": "The Ego immediately utilizes the new ability (cloak) to move towards civilization and comfort (town, inn), seeking reintegration into the collective world after the isolation.",
+      "Moral Implication": "Uses the new power for practical ends – seeking shelter and comfort after long hardship.",
+      "Plot Function": "Demonstrates the cloak's power and the prince's first use of it – travelling to a town.",
+      "Sentence": "He put on the cloak and wished himself in a town where he might find a good inn, and straightaway he stood before one.",
+      "Sentence Number": 53
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Describes his changed appearance being noticed ('landlord looked'). Mentions the mark still being visible, reinforcing that the core issue remains.",
+      "Metaphorical/Psychological Meaning": "Despite the magical travel and time passed, the mark (sign of the shadow/past crime) is still visible. This shows that internal integration hasn't been fully achieved just by service or acquiring new powers. The core issue remains apparent to consciousness (landlord).",
+      "Moral Implication": "The past cannot be easily escaped; the mark remains. He is still recognized by his crime despite his travels and service.",
+      "Plot Function": "Re-establishes that the mark is still visible, creating ongoing difficulty for the prince despite his new cloak.",
+      "Sentence": "The landlord looked closely at the prince's worn clothes, and at the mark upon his brow.",
+      "Sentence Number": 54
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "The prince uses cunning and perhaps invokes his helper figure's authority ('servant of a powerful master') to gain acceptance. This fits his Machiavellian nature – using strategy and appearance to overcome obstacles.",
+      "Metaphorical/Psychological Meaning": "The Ego uses strategy and claims connection to a higher power (powerful master - perhaps hinting at the Crone or his own potential) to navigate social obstacles (landlord's suspicion). This shows adaptation – using intellect and claimed status to compensate for the visible flaw (mark).",
+      "Moral Implication": "Demonstrates the prince using cleverness or mild deception to secure lodging. Pragmatism in dealing with social stigma.",
+      "Plot Function": "Shows the prince using his wits (claiming to be a servant of someone powerful) to overcome the landlord's hesitation due to the mark.",
+      "Sentence": "But the prince spoke cleverly, saying he was the servant of a powerful master who travelled unseen, and so the landlord gave him a room.",
+      "Sentence Number": 55
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Describes overhearing news ('heard talk'). A common way information travels in these tales. The news concerns his home kingdom and specifically the Queen.",
+      "Metaphorical/Psychological Meaning": "While reintegrating into the collective (inn), the Ego picks up information about its place of origin. News about the Queen (Anima figure) suggests unresolved issues or ongoing developments related to her.",
+      "Moral Implication": "News travels. The past is not entirely left behind. Events continue in his home kingdom.",
+      "Plot Function": "Introduces news from the prince's home kingdom, specifically about the Queen, reconnecting him to his past and potentially setting up his next move.",
+      "Sentence": "In the inn, the prince sat quietly and heard talk from merchants travelling from his own kingdom.",
+      "Sentence Number": 56
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Reports the news: Queen's remarriage and subsequent unhappiness/illness. Simple statement of events. Hints at continued strife surrounding the Queen.",
+      "Metaphorical/Psychological Meaning": "News reveals instability related to the Anima (Queen's remarriage) and negative consequences (unhappiness, illness). This suggests the conscious realm (kingdom) remains troubled, possibly due to the unresolved issues stemming from the brothers' conflict or the Queen's own nature.",
+      "Moral Implication": "Suggests the Queen's choices continue to bring trouble. The kingdom remains unsettled after the prince's exile.",
+      "Plot Function": "Provides specific, potentially motivating news: the Queen has remarried, but the situation is troubled, possibly drawing the prince's attention back home.",
+      "Sentence": "They spoke of how the queen had wed a neighbouring king, but found no joy, and now lay grievously ill.",
+      "Sentence Number": 57
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Describes the prince's reaction through action ('put on his cloak,' 'wished himself there'). He acts immediately on the news, using his power to return. His motivation isn't stated, allowing ambiguity (concern? opportunity?).",
+      "Metaphorical/Psychological Meaning": "The Ego reacts immediately to the news concerning the Anima/place of origin. Using the power of transition (cloak), he instantly transports himself back, suggesting a strong pull or perceived opportunity related to the situation at home.",
+      "Moral Implication": "He chooses to return upon hearing of the Queen's illness. Is it duty, affection, or political calculation? The story doesn't specify, adhering to external action.",
+      "Plot Function": "The news prompts the prince to use his cloak to travel back to his home kingdom instantly.",
+      "Sentence": "When the prince heard this, he went to his room, put on his grey cloak, and wished himself in the palace of his fathers.",
+      "Sentence Number": 58
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Describes his arrival. Appears suddenly in a specific, private location ('empty corridor'). Emphasizes the cloak's power and his stealthy return.",
+      "Metaphorical/Psychological Meaning": "The Ego arrives back in the original psychic structure (palace) but does so secretly, appearing in an unseen space ('empty corridor'). This signifies a return, but not yet an open or integrated one.",
+      "Moral Implication": "His return is secret, suggesting he is observing or plotting rather than announcing himself.",
+      "Plot Function": "Shows the prince arriving back at his home palace, unseen, allowing him to observe.",
+      "Sentence": "In the blink of an eye, he found himself standing in an empty corridor of the palace.",
+      "Sentence Number": 59
+    },
+    {
+      "Chapter Number": 6,
+      "Grimm Style": "Focuses on observation ('listened,' 'heard weeping'). Uses sound to convey the atmosphere of grief/illness. Avoids describing the prince's feelings.",
+      "Metaphorical/Psychological Meaning": "The returned Ego observes the state of the conscious realm (palace), perceiving the signs of suffering (weeping) related to the Anima's (Queen's) illness.",
+      "Moral Implication": "Confirms the reports of illness and sorrow within the palace.",
+      "Plot Function": "Confirms the news heard at the inn – there is weeping, indicating the Queen's serious condition.",
+      "Sentence": "He listened, and heard the sound of weeping coming from the queen's chambers.",
+      "Sentence Number": 60
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Action-oriented ('drew the cloak tighter,' 'became unseen'). Uses the cloak's power for invisibility, a common magical cloak property. Allows him to move freely and observe.",
+      "Metaphorical/Psychological Meaning": "The Ego utilizes its acquired power (cloak) to become unseen, allowing it to navigate the conscious structure (palace) without revealing itself. This signifies operating from a hidden or unconscious standpoint while observing conscious events.",
+      "Moral Implication": "Uses magic for stealth and observation. Operates unseen, gathering information.",
+      "Plot Function": "Shows the prince using the cloak's secondary power (invisibility, implied by 'unseen') to approach the Queen's chambers.",
+      "Sentence": "He drew the grey cloak tighter about him, and none could see him as he passed.",
+      "Sentence Number": 61
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Describes the scene in the Queen's room simply: the sick Queen, the new King nearby. Focuses on the visual setup.",
+      "Metaphorical/Psychological Meaning": "The Ego observes the Anima (Queen) in a state of decline, alongside the new ruling figure (new King) who has replaced the original father-king. This represents a changed dynamic in the conscious realm.",
+      "Moral Implication": "Confirms the Queen's illness and the presence of her new husband.",
+      "Plot Function": "Sets the scene inside the Queen's chambers, showing her illness and the presence of her new husband.",
+      "Sentence": "He entered the queen's chambers and saw her lying pale upon her bed, while her new husband, the neighbouring king, sat nearby.",
+      "Sentence Number": 62
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Reports the Queen's speech directly. Her words ('My first husband's kingdom,' 'rightful heir') express regret and concern for legitimacy/inheritance, hinting at political motives or deathbed wishes.",
+      "Metaphorical/Psychological Meaning": "The weakened Anima (Queen) expresses concern over the state of the original kingdom (psyche) and the fate of the 'rightful heir' (the banished Ego). This suggests the Anima holds a connection to the original order and the banished part.",
+      "Moral Implication": "The Queen expresses deathbed concerns about the kingdom's future and the banished son, adding complexity to her character – perhaps regret or political maneuvering.",
+      "Plot Function": "The Queen's words reveal her concern for the kingdom and the banished prince, potentially influencing the prince's actions or revealing her motives.",
+      "Sentence": "The queen sighed weakly and said, 'Alas, for my first husband's kingdom, and for the rightful heir who was banished.'",
+      "Sentence Number": 63
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Reports the new King's response – seemingly comforting but perhaps dismissive or insincere ('spoke soft words,' 'bade her rest'). Action-focused.",
+      "Metaphorical/Psychological Meaning": "The new ruling figure (new King) offers superficial comfort, perhaps masking his own ambitions or indifference to the fate of the original heir. Consciousness under his rule may be less concerned with the banished elements.",
+      "Moral Implication": "The new King's response seems placating. Raises questions about his sincerity and intentions regarding the kingdom and the heir.",
+      "Plot Function": "Shows the new King's apparently dismissive or placating response to the Queen's concerns, potentially positioning him as an antagonist to the prince.",
+      "Sentence": "Her husband spoke soft words but seemed little moved, and bade her only rest.",
+      "Sentence Number": 64
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "The prince observes, his presence unknown. Focuses on his silent observation. Builds suspense about his intentions.",
+      "Metaphorical/Psychological Meaning": "The hidden Ego observes the interaction, gathering information about the state of the Anima and the attitude of the current ruling power without revealing itself.",
+      "Moral Implication": "He remains hidden, gathering information before acting. Calculating and patient.",
+      "Plot Function": "Keeps the prince hidden, allowing him to witness the scene and potentially plan his next move based on his observations.",
+      "Sentence": "The banished prince watched all this from the shadows, unseen.",
+      "Sentence Number": 65
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Introduces a doctor figure ('physician'). States his pessimistic prognosis directly ('little hope'). Common trope of medical limitations in fairy tales.",
+      "Metaphorical/Psychological Meaning": "Conventional knowledge/healing (physician) declares the situation hopeless, suggesting the Anima's decline cannot be remedied by ordinary conscious means.",
+      "Moral Implication": "Establishes the severity of the Queen's illness. Conventional help is failing.",
+      "Plot Function": "Introduces a physician who confirms the gravity of the Queen's illness, setting the stage for potential magical intervention or the prince's action.",
+      "Sentence": "A physician came and looked upon the queen, then shook his head, saying there was little hope.",
+      "Sentence Number": 66
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "The prince acts decisively and mysteriously. Uses his cloak to leave and return with a specific item ('strange herb'). The action is swift and unexplained.",
+      "Metaphorical/Psychological Meaning": "The Ego, drawing on knowledge or power gained during his exile (perhaps from the Crone or his own developed perception), uses his ability (cloak) to fetch a specific remedy ('strange herb') from an unknown source. This suggests accessing hidden knowledge or unconventional healing methods.",
+      "Moral Implication": "He takes action to help, using means beyond ordinary knowledge. Suggests resourcefulness gained in exile.",
+      "Plot Function": "The prince intervenes secretly, using his cloak to fetch a mysterious herb, suggesting a potential cure.",
+      "Sentence": "But when the physician left, the prince sped away unseen with his cloak, and returned moments later bearing a strange, dark herb.",
+      "Sentence Number": 67
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Describes the administration of the cure simply ('crushed the herb,' 'mixed it,' 'touched her lips'). Focuses on the process. The cure works instantly ('colour returned').",
+      "Metaphorical/Psychological Meaning": "The Ego applies the hidden knowledge/remedy (herb) to the ailing Anima (Queen), resulting in immediate restoration. This symbolizes the power of the integrated Ego, drawing on hidden resources, to heal the feminine principle or restore balance.",
+      "Moral Implication": "The strange herb provides an instant cure, demonstrating the power of hidden knowledge or remedies found outside conventional means. The prince possesses healing ability.",
+      "Plot Function": "Shows the prince successfully and secretly curing the Queen with the magical herb.",
+      "Sentence": "Still unseen, he crushed the herb and mixed it with water, then touched the cup to the queen's lips, and at once colour returned to her face.",
+      "Sentence Number": 68
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "Describes the Queen's recovery ('sat up,' 'spoke clearly'). Contrasts with her earlier weak state. Others' reaction is amazement.",
+      "Metaphorical/Psychological Meaning": "The Anima is restored to strength and clarity ('sat up,' 'spoke clearly'). The sudden recovery causes amazement in the conscious witnesses (new King, attendants), who cannot understand the source of the healing.",
+      "Moral Implication": "Miraculous recovery attributed to unknown means. Astonishment at the sudden cure.",
+      "Plot Function": "Shows the Queen fully recovered, creating astonishment and mystery about how it happened.",
+      "Sentence": "She sat up in bed and spoke clearly, and the new king and the attendants were greatly amazed.",
+      "Sentence Number": 69
+    },
+    {
+      "Chapter Number": 7,
+      "Grimm Style": "The prince departs unseen again. Maintains his secrecy after achieving his objective (healing the Queen). Focuses on the exit.",
+      "Metaphorical/Psychological Meaning": "The Ego retreats into unseenness after performing the healing action. It does not seek credit or reveal its role yet, suggesting the timing is not right or further observation/planning is needed.",
+      "Moral Implication": "He acts benevolently but remains hidden. His motives for healing her remain potentially ambiguous (care vs. strategic move).",
+      "Plot Function": "The prince leaves secretly after curing the Queen, maintaining his hidden presence in the palace.",
+      "Sentence": "Before any could guess the cause, the prince slipped away again, still wrapped in his grey cloak.",
+      "Sentence Number": 70
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Focuses on action and dialogue. The Queen, recovered, makes a direct demand of her new husband based on her near-death experience.",
+      "Metaphorical/Psychological Meaning": "The restored Anima (Queen) now acts with renewed purpose, confronting the current ruling consciousness (new King). Her demand relates to the unresolved issue of the banished Ego.",
+      "Moral Implication": "Recovery brings clarity or resolve. The Queen uses her restored health to address past issues.",
+      "Plot Function": "The recovered Queen takes initiative, confronting her husband and introducing the plot twist setup.",
+      "Sentence": "The next morning, the queen, now strong again, called her husband to her side.",
+      "Sentence Number": 71
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Direct speech revealing a secret or a condition. The Queen states a hidden truth related to the banishment. This is the start of the plot twist.",
+      "Metaphorical/Psychological Meaning": "The Anima reveals a hidden truth connected to the banishment, challenging the established narrative held by the conscious mind (King/collective). This begins to unravel the previous understanding of events.",
+      "Moral Implication": "A secret is revealed, potentially changing the understanding of past events and motivations. Truth emerges after recovery.",
+      "Plot Function": "Begins the revelation of the plot twist through the Queen's dialogue.",
+      "Sentence": "She said, 'Husband, I must tell you what I saw in my fever-dreams, or perhaps it was a truth shown to me near death's door.'",
+      "Sentence Number": 72
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Continues the Queen's revelation. Simple, direct statement correcting the previous understanding of the central crime.",
+      "Metaphorical/Psychological Meaning": "The Anima corrects the conscious narrative about the 'crime'. This new information challenges the Ego's (new King's and perhaps the protagonist's) understanding of the past, revealing a deeper layer or deception.",
+      "Moral Implication": "The established narrative of the fratricide is challenged. Suggests a deception or misunderstanding at the heart of the story.",
+      "Plot Function": "The Queen reveals a crucial piece of the twist: the commonly believed reason for the banishment is wrong.",
+      "Sentence": "'It was not the elder son who struck down the younger in the meadow,' the queen declared.",
+      "Sentence Number": 73
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "The Queen identifies the true perpetrator. Clear, simple accusation. This is the core of the twist.",
+      "Metaphorical/Psychological Meaning": "The Anima identifies the true source of the destructive act, revealing it was not the banished Ego (elder prince) but herself. This implicates the feminine principle directly in the story's central 'crime' or fragmentation.",
+      "Moral Implication": "The Queen confesses to the murder, completely upending the moral landscape. Her motives (jealousy, ambition, accident?) are still unclear but her guilt is stated.",
+      "Plot Function": "The Queen reveals she was the one who killed the younger son, explaining the central conflict differently and providing the major plot twist.",
+      "Sentence": "'Nay, it was I, his own mother, who did the deed, for he discovered a secret I could not bear to be known.'",
+      "Sentence Number": 74
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Provides a motive – the younger son discovered a dangerous secret. Keeps the secret itself hidden for now, maintaining some mystery.",
+      "Metaphorical/Psychological Meaning": "The Anima's destructive act was motivated by the fear of a hidden truth being revealed. This suggests the feminine principle harbours dangerous secrets that it protects violently.",
+      "Moral Implication": "Provides a reason (protecting a secret) for the Queen's horrific act, painting her as ruthless and deceitful.",
+      "Plot Function": "Gives a reason for the Queen's action (protecting a secret), while still withholding the nature of that secret.",
+      "Sentence": "*This sentence analysis refers to the second clause of sentence 74: 'for he discovered a secret I could not bear to be known.' The sentence itself is part of Sentence 74 analysis.*",
+      "Sentence Number": 75
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Describes how the blame was shifted. Simple statement of deceptive action ('let the blame fall'). Shows cunning and manipulation.",
+      "Metaphorical/Psychological Meaning": "The Anima actively manipulated the situation to project the guilt onto the banished Ego (elder son). This highlights the deceptive and manipulative potential of the Anima when its secrets are threatened.",
+      "Moral Implication": "Reveals the depth of the Queen's deception – framing her own son for murder.",
+      "Plot Function": "Explains how the elder prince came to be blamed – the Queen allowed it to happen.",
+      "Sentence": "'And I let the blame fall upon my elder son, whose ambition I feared,' she continued.",
+      "Sentence Number": 76
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Adds another layer to her motive: fear of the elder son's ambition. Makes her actions strategically ruthless.",
+      "Metaphorical/Psychological Meaning": "The Anima's manipulation was driven not only by fear of discovery but also by fear of the Ego's power-drive (ambition). She sought to eliminate both the threat of the secret and the potential challenge from the ambitious aspect of the masculine.",
+      "Moral Implication": "Complexifies her motive – not just protecting a secret, but also removing a perceived political threat (the elder son). Coldly calculating.",
+      "Plot Function": "Adds a secondary motive for the Queen framing the elder son – fear of his ambition.",
+      "Sentence": "*This sentence analysis refers to the second clause of sentence 76: 'whose ambition I feared,' she continued.' The sentence itself is part of Sentence 76 analysis.*",
+      "Sentence Number": 77
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "Describes the new King's reaction to the confession ('sat as stone,' 'eyes wide'). Focuses on outward signs of shock and perhaps calculation.",
+      "Metaphorical/Psychological Meaning": "The current ruling consciousness (new King) is shocked by the revelation from the Anima. This hidden truth disrupts his understanding and perhaps his own position/plans.",
+      "Moral Implication": "Shock at the revelation. The new King is confronted with the terrible truth about his wife and the kingdom's past.",
+      "Plot Function": "Shows the new King's shocked reaction to the Queen's confession.",
+      "Sentence": "The neighbouring king sat as if turned to stone, his eyes wide.",
+      "Sentence Number": 78
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "The hidden prince reacts to the confession. Simple statement of his presence and hearing the words. Avoids stating his emotions.",
+      "Metaphorical/Psychological Meaning": "The banished/hidden Ego overhears the truth that exonerates him and reveals the Anima's betrayal. This profoundly changes his understanding of his own history, exile, and the nature of the feminine principle he encountered.",
+      "Moral Implication": "The protagonist learns the truth about his banishment and his mother's betrayal. A moment of profound revelation for him.",
+      "Plot Function": "Shows the protagonist secretly witnessing the Queen's confession, ensuring he now knows the truth.",
+      "Sentence": "From the corner, wrapped in his cloak, the banished prince heard every word.",
+      "Sentence Number": 79
+    },
+    {
+      "Chapter Number": 8,
+      "Grimm Style": "The Queen makes a final request or statement, perhaps seeking absolution or setting a final task ('find my banished son,' 'tell him'). Direct speech.",
+      "Metaphorical/Psychological Meaning": "The Anima, having confessed, now urges action related to the wrongly banished Ego – perhaps seeking reconciliation, restoration, or using him for her own ends still.",
+      "Moral Implication": "Does the Queen seek redemption, or is this another manipulation? Her final request focuses on the protagonist.",
+      "Plot Function": "The Queen issues a final charge concerning the protagonist, directing the plot towards his reinstatement or confrontation.",
+      "Sentence": "'Now,' said the queen, her voice growing faint again, 'you must find my banished son and tell him... tell him before I die.'",
+      "Sentence Number": 80
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Describes the Queen's death immediately after her confession and final request. Simple statement of fact, common in Grimm tales where characters die quickly after fulfilling their narrative purpose.",
+      "Metaphorical/Psychological Meaning": "The Anima figure expires after revealing the hidden truth and setting the final task. Her purpose fulfilled, the energy she represents withdraws or transforms, leaving the consequences to unfold in the conscious realm.",
+      "Moral Implication": "Death follows confession. She does not live to see the consequences or perhaps face justice. Leaves the situation unresolved for the kings.",
+      "Plot Function": "The Queen dies, leaving her confession and request hanging, forcing the new King and the hidden prince to react.",
+      "Sentence": "Then she closed her eyes and breathed no more.",
+      "Sentence Number": 81
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Focuses on the new King's actions: calculation and decision ('sat long in thought,' 'rose'). His actions ('barred the door,' 'called his guards') suggest seizing control and potentially suppressing the truth.",
+      "Metaphorical/Psychological Meaning": "The current ruling consciousness (new King), faced with the disruptive truth, reacts by consolidating power and controlling information (barring door, calling guards). He seeks to manage the situation to his advantage.",
+      "Moral Implication": "The new King acts pragmatically and perhaps ruthlessly, prioritizing control over justice or the Queen's last wish.",
+      "Plot Function": "Shows the new King reacting to the Queen's death and confession by securing his position and control, potentially becoming the prince's direct antagonist.",
+      "Sentence": "The neighbouring king sat long in thought beside the bed, then rose, barred the door, and called his own guards.",
+      "Sentence Number": 82
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "The prince acts swiftly using his magic cloak to escape the potentially dangerous situation. Focuses on action and escape.",
+      "Metaphorical/Psychological Meaning": "The Ego, recognizing the danger posed by the consolidating conscious power (new King), uses its acquired ability (cloak) to withdraw into unseenness or safety, avoiding direct confrontation for now.",
+      "Moral Implication": "Prudence and using one's advantages to escape danger. He avoids the trap.",
+      "Plot Function": "The prince escapes the locked room using his cloak, avoiding capture by the new King.",
+      "Sentence": "But the banished prince, quicker than thought, wished himself far from that room and was instantly gone.",
+      "Sentence Number": 83
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Describes the prince's reappearance in a public space ('market square'). He takes off the cloak, choosing to become visible now.",
+      "Metaphorical/Psychological Meaning": "The Ego chooses to re-enter the collective conscious space (market square) and become visible, shedding the invisibility (cloak off). This signals a decision to act openly.",
+      "Moral Implication": "He chooses public appearance over continued secrecy. Ready to confront the situation openly.",
+      "Plot Function": "The prince reappears publicly in the city, setting the stage for him to reveal himself and challenge the new King.",
+      "Sentence": "He appeared in the busy market square of the city and took off the grey cloak.",
+      "Sentence Number": 84
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Notes the mark is still present. Reinforces this key element. His identity as the banished one remains visible despite his actions and knowledge.",
+      "Metaphorical/Psychological Meaning": "Even though the Ego knows the truth of its innocence regarding the original crime, the mark (symbol of the shadow encounter or past trauma/exile) remains. Full integration or healing is not yet complete.",
+      "Moral Implication": "Innocence of the crime doesn't erase the mark of past suffering or judgment.",
+      "Plot Function": "Reminds the reader and characters that the mark is still visible, posing a challenge to his acceptance.",
+      "Sentence": "The mark was still upon his brow for all to see.",
+      "Sentence Number": 85
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Direct action ('went to the palace gates,' 'demanded entry'). Shows boldness and assertion of right. Uses his title ('the king's first son').",
+      "Metaphorical/Psychological Meaning": "The Ego now openly approaches the center of conscious power (palace gates), claiming its rightful identity ('king's first son') and demanding recognition, despite the visible mark.",
+      "Moral Implication": "Boldly claims his birthright, challenging the current power structure. Confrontation initiated.",
+      "Plot Function": "The prince openly challenges the new regime by demanding entry and proclaiming his identity.",
+      "Sentence": "He went straight to the palace gates and demanded entry as the king's first son.",
+      "Sentence Number": 86
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "Describes the guards' reaction ('astonished,' 'hesitated'). Shows confusion and uncertainty caused by his unexpected return and claim, despite the mark.",
+      "Metaphorical/Psychological Meaning": "The defenses of the conscious structure (guards) are thrown into confusion by the return of the banished Ego asserting its claim. They hesitate, unsure how to react to this challenge to the current order.",
+      "Moral Implication": "His bold claim causes confusion. Authority is momentarily uncertain.",
+      "Plot Function": "Shows the guards' hesitation, indicating the prince's claim has impact and creates uncertainty.",
+      "Sentence": "The guards were astonished and hesitated, seeing the mark but hearing his commanding voice.",
+      "Sentence Number": 87
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "News travels quickly within the palace. Simple statement of information flow.",
+      "Metaphorical/Psychological Meaning": "Word of the Ego's return and claim spreads rapidly through the conscious structure (palace), reaching the current ruling power.",
+      "Moral Implication": "Significant events cannot be kept secret for long within the court.",
+      "Plot Function": "Ensures the new King is informed of the prince's arrival and claim.",
+      "Sentence": "Word ran quickly through the palace that the banished prince had returned.",
+      "Sentence Number": 88
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "The new King reacts with a decisive, hostile action ('ordered the gates barred,' 'seize the prince'). Shows his intention to eliminate the threat.",
+      "Metaphorical/Psychological Meaning": "The current ruling consciousness (new King) reacts to the challenge from the rightful Ego by attempting to shut it out (bar gates) and capture/suppress it (seize him). It seeks to maintain its illegitimate power.",
+      "Moral Implication": "The new King confirms his antagonism, choosing force over investigating the truth or the Queen's last wish.",
+      "Plot Function": "The new King orders the prince's capture, setting up a direct confrontation.",
+      "Sentence": "The neighbouring king heard this in his council chamber and ordered the gates barred fast and the prince seized as a traitor.",
+      "Sentence Number": 89
+    },
+    {
+      "Chapter Number": 9,
+      "Grimm Style": "The prince reacts with a powerful, public declaration ('called out'). He reveals the core truth learned ('queen's confession,' 'true murderer').",
+      "Metaphorical/Psychological Meaning": "The Ego, facing suppression, publicly reveals the hidden truth about the Anima's guilt and its own innocence. It uses the power of truth to challenge the illegitimate authority.",
+      "Moral Implication": "Uses truth as a weapon against injustice. Publicly declares his innocence and the Queen's guilt.",
+      "Plot Function": "The prince publicly reveals the Queen's confession, challenging the new King's authority and legitimacy before the people/guards.",
+      "Sentence": "But the prince called out in a loud voice to the guards and the assembling crowd, telling of the queen's confession and naming her the true murderer.",
+      "Sentence Number": 90
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Describes the crowd's reaction ('great stir,' 'murmuring'). Shows the impact of the revelation on the people.",
+      "Metaphorical/Psychological Meaning": "The collective consciousness (crowd) is thrown into turmoil ('great stir') by the revelation of the hidden truth. The established narrative is shattered, leading to uncertainty and questioning.",
+      "Moral Implication": "Truth causes unrest and challenges established beliefs. The people react to the shocking news.",
+      "Plot Function": "Shows the public reaction to the prince's revelation, creating pressure on the new King.",
+      "Sentence": "There was a great stir among the people, and much murmuring against the neighbouring king.",
+      "Sentence Number": 91
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Some people recall past events ('remembered the queen's coldness,' 'elder prince's swift banishment'). Provides retrospective validation for the prince's claim.",
+      "Metaphorical/Psychological Meaning": "Elements of the collective consciousness (some people) begin to re-evaluate past events in light of the new information, finding details that fit the revealed truth. Memory supports the shift in understanding.",
+      "Moral Implication": "Past observations and perceived injustices are recalled, lending credence to the prince's claim. Hindsight brings clarity.",
+      "Plot Function": "Adds validation to the prince's claim by showing people recalling details that now seem suspicious about the Queen and the original banishment.",
+      "Sentence": "Some remembered the queen's coldness after her younger son's death, and the elder prince's swift banishment without trial.",
+      "Sentence Number": 92
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "The guards' reaction ('lowered their spears,' 'refused the order'). Shows the shift in loyalty based on the revelation. Direct refusal of authority.",
+      "Metaphorical/Psychological Meaning": "The defenses of the conscious structure (guards), influenced by the revealed truth and the collective reaction, refuse to obey the illegitimate ruling power (new King). Loyalty shifts towards the rightful Ego.",
+      "Moral Implication": "Truth can sway loyalty. Soldiers refuse an unjust order, prioritizing perceived justice over commands from a now-suspect authority.",
+      "Plot Function": "The guards refuse to arrest the prince, effectively siding with him against the new King due to the revelation.",
+      "Sentence": "The guards at the gate lowered their spears and refused the order to seize the prince.",
+      "Sentence Number": 93
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "The new King's reaction to losing control ('saw his power gone,' 'fled'). Typical reaction of a defeated antagonist in fairy tales.",
+      "Metaphorical/Psychological Meaning": "The illegitimate ruling consciousness (new King), seeing its authority dissolve when confronted by truth and the shift in collective support, flees rather than face the consequences. It cannot maintain control once exposed.",
+      "Moral Implication": "Loss of legitimacy leads to loss of power. Guilt or lack of right leads to flight.",
+      "Plot Function": "Seeing his support collapse, the antagonist king flees the kingdom.",
+      "Sentence": "The neighbouring king saw his power gone in that moment, and he fled the palace by a secret way.",
+      "Sentence Number": 94
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Describes the prince reclaiming his position ('entered the palace,' 'acclaimed by the people'). Simple statement of restoration.",
+      "Metaphorical/Psychological Meaning": "The rightful Ego, vindicated by truth, re-enters the center of consciousness (palace) and is accepted by the collective (people). It reclaims its proper place.",
+      "Moral Implication": "Rightful heir restored. Justice, of a sort, prevails. Popular support confirms his legitimacy.",
+      "Plot Function": "The prince successfully reclaims his position and is accepted as the rightful ruler.",
+      "Sentence": "Then the banished prince entered the palace gates, and the people acclaimed him.",
+      "Sentence Number": 95
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Focuses on the remaining issue: the mark. States directly that it vanished when he took his rightful place.",
+      "Metaphorical/Psychological Meaning": "The mark of the shadow/crime/exile disappears only when the Ego is fully restored to its rightful place and integrated within the conscious realm, acknowledged by the collective. Achieving one's true position heals the wound of the past.",
+      "Moral Implication": "Restoration and acceptance bring healing. The mark fades when justice/truth prevails and he assumes his rightful role.",
+      "Plot Function": "Resolves the issue of the mark – it vanishes upon his restoration, signifying his vindication and healing.",
+      "Sentence": "And as he stepped across the threshold into the great hall, the mark upon his brow vanished away entirely.",
+      "Sentence Number": 96
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Describes his rule using simple, positive but functional terms ('ruled wisely,' 'strengthened the borders,' 'kept the granaries full'). Reflects his established character (pragmatic, focused on security/stability).",
+      "Metaphorical/Psychological Meaning": "The integrated Ego now rules the conscious realm effectively, applying wisdom gained through hardship. Strengthening borders (defenses) and keeping granaries full (providing inner sustenance/security) reflects mature, balanced leadership.",
+      "Moral Implication": "He rules well, using his experiences (perhaps including his Machiavellian tendencies now tempered by wisdom) for the good of the kingdom.",
+      "Plot Function": "Provides a concluding statement about the prince's successful reign.",
+      "Sentence": "He ruled the kingdom wisely for many years, strengthened the borders, and kept the granaries full.",
+      "Sentence Number": 97
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Simple statement about marriage. Generic resolution ('took a wife') without romantic focus.",
+      "Metaphorical/Psychological Meaning": "The integrated Ego establishes a relationship with the feminine principle (takes a wife/Anima), signifying wholeness and continuity, although this aspect is less emphasized than his rule.",
+      "Moral Implication": "Fulfills the expectation of marriage and heirs for a king.",
+      "Plot Function": "Includes the standard element of marriage in the resolution.",
+      "Sentence": "He took a wife, a princess from a peaceful neighbouring land.",
+      "Sentence Number": 98
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Mentions the memory of his brother ('did not forget'). Acknowledges the past tragedy without dwelling on emotion.",
+      "Metaphorical/Psychological Meaning": "The integrated Ego remembers the lost aspect (younger brother), suggesting the shadow event is acknowledged within consciousness, not entirely repressed, even though the Ego itself was innocent of the crime.",
+      "Moral Implication": "Remembrance of the past tragedy serves as a reminder or shapes his rule.",
+      "Plot Function": "Adds a final note acknowledging the past tragedy and the brother who was lost.",
+      "Sentence": "But it is said he did not forget his younger brother, nor the price of envy.",
+      "Sentence Number": 99
+    },
+    {
+      "Chapter Number": 10,
+      "Grimm Style": "Classic concluding phrase ('lived long,' 'ruled well'). Provides a sense of definite closure, common in fairy tales.",
+      "Metaphorical/Psychological Meaning": "Signifies the achievement of a stable, mature state of consciousness (lived long, ruled well) after the trials of individuation.",
+      "Moral Implication": "Ends on a note of stability and successful rule, the final reward for his journey through injustice, exile, and revelation.",
+      "Plot Function": "Provides a standard, satisfying fairy tale conclusion.",
+      "Sentence": "And he lived long, and ruled well until the end of his days.",
+      "Sentence Number": 100
+    }
+  ],
+  "The Complete Story": {
+    "Chapters": [
+      "Once upon a time, there was a king who ruled a large and prosperous kingdom. His queen had been fair in her youth, but it was said that strife followed her footsteps. The king had two sons; the elder prince often looked to the borders of the kingdom and counted the soldiers in the yard. The younger brother, however, tended the palace gardens and sometimes spoke to the birds that came there. Now, the king loved his younger son more dearly, for his ways were gentle. The elder prince saw this, and he grew quiet in the king's halls but often sharpened his hunting knife. The queen watched both her sons from the high windows of the palace, but said naught. One harvest time, the king called his sons and bade them each bring an offering to the temple beyond the palace walls. The younger brother gathered the finest fruits from his garden and the brightest flowers. The elder prince went into the woods and brought back a young roe that he had slain with his sharp knife.",
+      "Both sons laid their gifts upon the cold stone of the temple altar. The king smiled upon the fruits and flowers and praised his younger son's diligence. At the slain roe offered by the elder, the king looked but briefly and nodded only. The elder prince's face grew dark as a thundercloud, and he turned away from the altar without a word. Then the two brothers left the temple and walked back towards the palace. The younger brother spoke cheerfully about his gardens and the coming spring. The elder prince stopped and said to his brother, 'Let us walk awhile in the meadow by the river.' The younger brother agreed readily, and they turned from the path. It was a quiet place, with tall grasses whispering by the water's edge. There, the elder prince took his sharp knife from his belt and struck his younger brother, so that he fell down dead amongst the grasses.",
+      "Then the elder prince dragged the body into the thick reeds by the river bank and pushed it deep amongst them. He wiped his knife clean on the green leaves and put it back in his belt. Then he walked back alone towards the palace. When the king saw him arrive, he asked, 'Where is your brother?' The elder prince answered, 'I know not; perhaps he lingered in the meadow. Am I my brother's keeper?' The king looked hard at his elder son, then sent out servants to search the meadow by the river. Soon the servants returned, for they had found the king's younger son lying cold amongst the reeds. Then a great sorrow fell upon the palace; the king wept bitterly, and the queen tore her hair. But the elder prince stood silent in the great hall and shed no tear. The king declared that his elder son must be banished from the kingdom forever, and made a secret mark upon his brow so that all might know his crime.",
+      "So the elder prince rode out from the city gates alone. He travelled for many days through forests and over hills, and knew not whither he went. In the villages he passed, people saw the mark upon his brow and turned away from him in fear or scorn. He begged for crusts of bread at cottage doors and slept under hedges when night fell. He thought often only of how he might find food, and sometimes of how he might find power again. At last he came into a barren land where few trees grew and the wind blew cold. There, by a grey rock, stood a small hut made of stones and mud. An old woman sat in the doorway, spinning thread, and she looked up at him with sharp eyes. She said, 'That is a dark mark you carry on your brow, banished prince.' The prince started, then bowed his head and answered, 'Old mother, I am he.'",
+      "'Then serve me for seven years,' said the old woman, 'and perhaps the mark may fade.' The prince, having nowhere else to go, agreed to her words. So he dwelt in the hut and served the old woman, fetching water from a stony well and chopping dry wood for her fire. The long years passed by, and the prince faithfully did all she bade him. Yet the mark on his brow did not fade, not even by a little. He grew thin, and his hands became rough with work. But his eyes grew sharp like the old woman's, and he learned silence. When the seven years were ended, the old woman called the prince to her. She said, 'You have served me well. Go now, but take this small grey cloak with you.'",
+      "'If you put it on and wish yourself elsewhere,' she told him, 'you will be there in an instant.' The prince took the grey cloak, thanked the old woman, and left the barren land behind him. He put on the cloak and wished himself in a town where he might find a good inn, and straightaway he stood before one. The landlord looked closely at the prince's worn clothes, and at the mark upon his brow. But the prince spoke cleverly, saying he was the servant of a powerful master who travelled unseen, and so the landlord gave him a room. In the inn, the prince sat quietly and heard talk from merchants travelling from his own kingdom. They spoke of how the queen had wed a neighbouring king, but found no joy, and now lay grievously ill. When the prince heard this, he went to his room, put on his grey cloak, and wished himself in the palace of his fathers. In the blink of an eye, he found himself standing in an empty corridor of the palace. He listened, and heard the sound of weeping coming from the queen's chambers.",
+      "He drew the grey cloak tighter about him, and none could see him as he passed. He entered the queen's chambers and saw her lying pale upon her bed, while her new husband, the neighbouring king, sat nearby. The queen sighed weakly and said, 'Alas, for my first husband's kingdom, and for the rightful heir who was banished.' Her husband spoke soft words but seemed little moved, and bade her only rest. The banished prince watched all this from the shadows, unseen. A physician came and looked upon the queen, then shook his head, saying there was little hope. But when the physician left, the prince sped away unseen with his cloak, and returned moments later bearing a strange, dark herb. Still unseen, he crushed the herb and mixed it with water, then touched the cup to the queen's lips, and at once colour returned to her face. She sat up in bed and spoke clearly, and the new king and the attendants were greatly amazed. Before any could guess the cause, the prince slipped away again, still wrapped in his grey cloak.",
+      "The next morning, the queen, now strong again, called her husband to her side. She said, 'Husband, I must tell you what I saw in my fever-dreams, or perhaps it was a truth shown to me near death's door.' 'It was not the elder son who struck down the younger in the meadow,' the queen declared. 'Nay, it was I, his own mother, who did the deed, for he discovered a secret I could not bear to be known.' 'And I let the blame fall upon my elder son, whose ambition I feared,' she continued. The neighbouring king sat as if turned to stone, his eyes wide. From the corner, wrapped in his cloak, the banished prince heard every word. 'Now,' said the queen, her voice growing faint again, 'you must find my banished son and tell him... tell him before I die.'",
+      "Then she closed her eyes and breathed no more. The neighbouring king sat long in thought beside the bed, then rose, barred the door, and called his own guards. But the banished prince, quicker than thought, wished himself far from that room and was instantly gone. He appeared in the busy market square of the city and took off the grey cloak. The mark was still upon his brow for all to see. He went straight to the palace gates and demanded entry as the king's first son. The guards were astonished and hesitated, seeing the mark but hearing his commanding voice. Word ran quickly through the palace that the banished prince had returned. The neighbouring king heard this in his council chamber and ordered the gates barred fast and the prince seized as a traitor. But the prince called out in a loud voice to the guards and the assembling crowd, telling of the queen's confession and naming her the true murderer.",
+      "There was a great stir among the people, and much murmuring against the neighbouring king. Some remembered the queen's coldness after her younger son's death, and the elder prince's swift banishment without trial. The guards at the gate lowered their spears and refused the order to seize the prince. The neighbouring king saw his power gone in that moment, and he fled the palace by a secret way. Then the banished prince entered the palace gates, and the people acclaimed him. And as he stepped across the threshold into the great hall, the mark upon his brow vanished away entirely. He ruled the kingdom wisely for many years, strengthened the borders, and kept the granaries full. He took a wife, a princess from a peaceful neighbouring land. But it is said he did not forget his younger brother, nor the price of envy. And he lived long, and ruled well until the end of his days."
+    ],
+    "Title": "The Banished Prince and the Queen's Secret"
+  }
+}

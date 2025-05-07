@@ -1,0 +1,653 @@
+{
+  "Analysis": [
+    {
+      "Plot Function": "Establishes the protagonist (an orphan, implying low status and lack) and introduces the central, strange phenomenon (the sinkhole under his bed) which will drive the plot. Sets the initial scene of humble poverty.",
+      "Grimm Style": "Simple declarative sentence. Introduces character by role (\"orphan\") and setting vaguely (\"poor hut\"). Uses a concrete noun (\"sinkhole\"). Matter-of-fact tone about the unusual event. No inner state described.",
+      "Moral Implication": "Introduces an element of chaos or the unknown intruding into the protagonist's already meager existence. Suggests that trouble can start in unexpected places.",
+      "Metaphorical/Psychological Meaning": "The Orphan represents the undeveloped or dispossessed Ego, lacking parental figures/guidance. The Hut is the current limited state of consciousness. The Sinkhole under the bed (place of rest/unconsciousness) symbolizes an instability or void opening up from the Personal or Collective Unconscious, disrupting the Ego's basic security.",
+      "Sentence": "There was once an orphan who dwelt in a poor hut, and one morning he found a sinkhole had opened beneath his straw bed whilst he slept.",
+      "Chapter Number": 1,
+      "Sentence Number": 1
+    },
+    {
+      "Plot Function": "Describes the immediate, practical consequence of the sinkhole: the loss of the orphan's only possession of value (shoes). This provides immediate motivation for action or concern. Adds a touch of pitiful humour.",
+      "Grimm Style": "Simple sentence structure. Focuses on concrete action and objects (\"shoes,\" \"swallowed\"). Uses \"alas,\" an archaic expression of dismay suitable for the style. Describes the loss plainly.",
+      "Moral Implication": "Misfortune strikes the already unfortunate. Loss of essential items due to inexplicable events.",
+      "Metaphorical/Psychological Meaning": "The instability from the unconscious (sinkhole) consumes the Ego's basic means of navigating the world (shoes = practical grounding, ability to move forward). This loss forces the Ego to confront the disruption.",
+      "Sentence": "Alas, the hole had swallowed his only pair of shoes, which he kept under the bed for fear of thieves.",
+      "Chapter Number": 1,
+      "Sentence Number": 2
+    },
+    {
+      "Plot Function": "Shows the orphan's practical, albeit futile, attempt to deal with the problem using mundane means (filling it with dirt). Highlights the supernatural or persistent nature of the hole.",
+      "Grimm Style": "Simple actions described sequentially (\"fetched dirt,\" \"poured it\"). Uses \"But\" to show the failure of the action. Direct and action-focused.",
+      "Moral Implication": "Mundane solutions may not work against strange problems. Persistence of trouble despite efforts.",
+      "Metaphorical/Psychological Meaning": "The Ego attempts to deal with the emergent unconscious issue (hole) using simple conscious means (filling with dirt = repression, trying to cover it up). The failure shows that the underlying instability cannot be ignored or superficially patched over.",
+      "Sentence": "The orphan fetched dirt from outside and poured it into the sinkhole all day, but it remained just as deep as before.",
+      "Chapter Number": 1,
+      "Sentence Number": 3
+    },
+    {
+      "Plot Function": "The sinkhole grows, indicating the problem is worsening and cannot be ignored. This increases the stakes and forces the orphan out of his dwelling.",
+      "Grimm Style": "Uses \"By the morrow\" as a simple time marker. Describes the worsening situation clearly (\"grown wider\"). Clear consequence (\"could scarce stand\"). Simple cause and effect.",
+      "Moral Implication": "Ignoring or failing to solve a problem can make it worse. The foundations of one's life can become unstable.",
+      "Metaphorical/Psychological Meaning": "The unconscious disruption (sinkhole) expands when not adequately addressed. It destabilizes the Ego's standing (scarce stand), forcing a change or displacement from the old state of consciousness (hut).",
+      "Sentence": "By the morrow, the hole had grown wider, so that the orphan could scarce stand in his hut without fear of falling in.",
+      "Chapter Number": 1,
+      "Sentence Number": 4
+    },
+    {
+      "Plot Function": "The orphan is forced to leave his home and seek help or a new situation, beginning his journey. He takes the only \"moveable\" thing left - the problem itself, represented by the ever-growing hole. Adds humour through the absurdity.",
+      "Grimm Style": "Simple action (\"left the hut\"). Explains the reason simply (\"for the floor was naught but hole\"). Implies forward movement (\"went into the world\"). Focuses on the external action.",
+      "Moral Implication": "Sometimes problems force necessary change or journeys. One must leave behind unstable foundations.",
+      "Metaphorical/Psychological Meaning": "The Ego is forced out of its previous limited state (hut) by the overwhelming unconscious issue (hole). \"Went into the world\" signifies the start of the individuation journey, compelled by inner instability. He carries the problem with him implicitly.",
+      "Sentence": "So he left the hut, for the floor was naught but hole, and went into the world to seek his fortune, though he still had no shoes.",
+      "Chapter Number": 1,
+      "Sentence Number": 5
+    },
+    {
+      "Plot Function": "Introduces a new character and setting – a miller and his mill. Offers a potential place of work or interaction for the orphan. Mills are common settings in Grimm tales.",
+      "Grimm Style": "Simple transition (\"He walked until\"). Introduces character by profession (\"miller\") and archetypal setting (\"mill beside a river\"). Simple description of activity (\"grinding corn\").",
+      "Moral Implication": "Journeys lead to encounters. Potential for finding help or work in conventional places.",
+      "Metaphorical/Psychological Meaning": "The Ego encounters a figure associated with transformation (miller grinding corn = breaking down/refining) and the flow of life (river). This represents entering a place of potential change or interaction with everyday societal functions.",
+      "Sentence": "He walked until he came to a mill beside a river, where a stout miller was grinding corn.",
+      "Chapter Number": 2,
+      "Sentence Number": 6
+    },
+    {
+      "Plot Function": "The orphan asks for work, presenting his basic need. The miller responds gruffly and dismissively, highlighting the orphan's lack of apparent skills or value. Humour in the miller's bluntness.",
+      "Grimm Style": "Simple dialogue exchange. Orphan states need (\"work\"). Miller's reply is coarse (\"What work can shoeless feet do?\"). Focuses on external appearance (shoeless) as reason for dismissal. Archetypal grumpy/practical tradesman.",
+      "Moral Implication": "People judge by appearances. Lack of basic necessities (shoes) hinders opportunity. Bluntness of the working world.",
+      "Metaphorical/Psychological Meaning": "The Ego seeks integration into the mundane world (work at the mill) but is rejected based on its perceived lack or vulnerability (shoeless). The practical world (miller) dismisses the Ego that lacks basic grounding or equipment.",
+      "Sentence": "\"Have you any work for a poor orphan?\" asked the boy, but the miller squinted at his bare feet and said, \"What work can shoeless feet do but track mud? Be off with ye!\"",
+      "Chapter Number": 2,
+      "Sentence Number": 7
+    },
+    {
+      "Plot Function": "Introduces a comical, unexpected event directly linked back to the sinkhole. The instability manifests far from the hut, affecting the miller. This shows the problem is not just personal but expanding. Humour in the sudden collapse.",
+      "Grimm Style": "Sudden, unexplained event (\"ground gave a lurch\"). Clear consequence (miller falls). Links back to the sinkhole implicitly (\"just like the floor of the hut\"). Matter-of-fact description of the mishap.",
+      "Moral Implication": "Problems can spread unexpectedly. What affects one can eventually affect others. Cause and effect works in mysterious ways.",
+      "Metaphorical/Psychological Meaning": "The unconscious instability (sinkhole's effect) suddenly manifests in the ordinary world, disrupting the practical figure (miller). This shows the issue is not contained within the Ego's personal space but is affecting the wider psychic environment. The ground itself (basic reality) is unstable.",
+      "Sentence": "Yet, no sooner had the miller spoken than the ground beneath his own feet gave a lurch, just like the floor of the hut, and he tumbled backwards into a sack of flour.",
+      "Chapter Number": 2,
+      "Sentence Number": 8
+    },
+    {
+      "Plot Function": "Describes the comical result of the miller's fall, providing a visual gag. The orphan reacts simply.",
+      "Grimm Style": "Simple visual description (\"covered head to foot,\" \"like a ghost\"). Reports the orphan's reaction plainly (\"The orphan stared\"). Focuses on the external image and reaction.",
+      "Moral Implication": "Pride comes before a fall (literally into flour). Unexpected events can make figures of authority look foolish.",
+      "Metaphorical/Psychological Meaning": "The practical, dismissive figure (miller) is suddenly overwhelmed and made ridiculous (covered in flour, ghost-like) by the eruption of the unconscious instability. This can represent the ego's defenses or practical outlook being made ineffective or absurd by unexpected inner events. The stare suggests the Ego observing this disruption without comprehension yet.",
+      "Sentence": "The miller sat up, covered head to foot in white flour, looking like a doughy ghost, and the orphan stared.",
+      "Chapter Number": 2,
+      "Sentence Number": 9
+    },
+    {
+      "Plot Function": "The miller, perhaps startled or superstitious after his fall, reverses his decision and hires the orphan for a simple task, possibly linking the fall to the orphan's arrival. This gives the orphan his first foothold. Humour in the miller's superstitious reaction.",
+      "Grimm Style": "Miller's dialogue shows changed attitude (\"Hold,\" \"perhaps\"). Assigns a simple task (\"sweep the floor\"). Offers basic sustenance (\"crust of bread\"). Provides the first step up for the hero.",
+      "Moral Implication": "Sometimes misfortune leads to unexpected opportunities. Fear or superstition can motivate actions. Basic work earns basic reward.",
+      "Metaphorical/Psychological Meaning": "The disruption (miller's fall) causes the practical world figure to reconsider the Ego (orphan). Fear or confusion makes him offer a place, albeit menial (sweeping = cleaning up, basic order). The Ego gains entry into the system, starting with a task related to tidying the surface (floor).",
+      "Sentence": "\"Hold,\" sputtered the miller, brushing flour from his eyes, \"perhaps there is work after all; sweep the mill floor clean, and you shall have a crust of bread.\"",
+      "Chapter Number": 2,
+      "Sentence Number": 10
+    },
+    {
+      "Plot Function": "Describes the orphan performing his simple task diligently. Establishes his work ethic. Sets the scene for the next development related to the hole.",
+      "Grimm Style": "Simple description of work (\"swept diligently\"). Uses stock phrase (\"from dawn till dusk\"). Reinforces his role.",
+      "Moral Implication": "Diligence in humble tasks. Fulfilling one's side of a bargain.",
+      "Metaphorical/Psychological Meaning": "The Ego diligently performs the basic ordering task (sweeping) assigned within the practical world structure (mill). This represents a period of humble conscious effort and adaptation.",
+      "Sentence": "So the orphan took the broom and swept diligently from dawn till dusk, clearing away the chaff and spilled flour.",
+      "Chapter Number": 3,
+      "Sentence Number": 11
+    },
+    {
+      "Plot Function": "The sinkhole problem reappears directly related to the orphan's work, swallowing the swept dirt. This reinforces the connection between the orphan and the instability, making his task impossible or absurd. Humour in the repetitive futility.",
+      "Grimm Style": "Uses \"But\" for contrast/problem. Describes the recurring issue (\"small hole appeared,\" \"swallowed the sweepings\"). Explicitly links it to the original problem (\"just like the one\"). Simple, factual description of the frustrating event.",
+      "Moral Implication": "Some problems follow you wherever you go. Futility of working against a persistent, underlying issue.",
+      "Metaphorical/Psychological Meaning": "The unconscious instability (hole) reappears in the context of the Ego's conscious work (sweeping). It consumes the results of the ordering effort (sweepings), suggesting that surface tidying is futile while the deeper issue remains. The problem is tied to the Ego itself.",
+      "Sentence": "But as he gathered the sweepings into a pile, a small hole appeared in the floorboards beneath it, just like the one in his hut, and swallowed the dust down.",
+      "Chapter Number": 3,
+      "Sentence Number": 12
+    },
+    {
+      "Plot Function": "The orphan attempts to hide this recurring problem from the miller, fearing blame or dismissal. This mirrors his earlier futile attempt to fix the hole.",
+      "Grimm Style": "Describes the action of concealment (\"quickly swept,\" \"over the spot\"). States the motivation simply (fear of the miller). Shows repetition of behaviour (trying to hide the problem).",
+      "Moral Implication": "Fear leads to concealment rather than addressing the problem openly. Avoiding blame is a strong motivator.",
+      "Metaphorical/Psychological Meaning": "The Ego again tries to conceal the evidence of the recurring unconscious disruption (hole) from the authority figure (miller), fearing rejection. This reinforces the pattern of repression or hiding the troubling inner reality.",
+      "Sentence": "The orphan quickly swept more flour over the spot, hoping the miller would not notice the new hole amongst the old boards.",
+      "Chapter Number": 3,
+      "Sentence Number": 13
+    },
+    {
+      "Plot Function": "Introduces the next escalation: the hole grows overnight and swallows something significant belonging to the miller (his prize pig). This raises the stakes dramatically and directly impacts the miller, making the problem undeniable. Humour in the absurdity of a pig vanishing down a hole.",
+      "Grimm Style": "Uses time marker (\"That night\"). Describes significant growth (\"wider still\"). Clear, impactful event (swallowed the pig). Use of \"prize pig\" emphasizes the value of the loss. Matter-of-fact tone for a bizarre event.",
+      "Moral Implication": "Concealed problems worsen and eventually cause major damage to others. The consequences escalate.",
+      "Metaphorical/Psychological Meaning": "The unaddressed unconscious instability (hole) grows significantly and consumes something valuable to the practical world/authority figure (prize pig = symbol of prosperity, earthy value). The disruption is no longer minor or easily hidden; it causes significant loss in the conscious sphere.",
+      "Sentence": "That night, however, the hole grew wider still, and in the morning the miller’s prize pig, which slept near the back door, had vanished into it entirely.",
+      "Chapter Number": 3,
+      "Sentence Number": 14
+    },
+    {
+      "Plot Function": "The miller discovers the loss and the enlarged hole, immediately blaming the orphan due to the strangeness coinciding with his arrival. This leads to the orphan's dismissal and forces him onward again.",
+      "Grimm Style": "Describes discovery and reaction (\"found the hole,\" \"roared\"). Miller makes a direct accusation based on superstition/coincidence (\"witchcraft,\" \"since you came\"). Clear consequence (dismissal: \"Be gone!\").",
+      "Moral Implication": "People often blame newcomers or outsiders for inexplicable troubles. Fear can lead to unjust accusations. The orphan suffers for a problem he didn't create but is connected to.",
+      "Metaphorical/Psychological Meaning": "The authority figure (miller) discovers the major disruption and loss. Unable to comprehend the true source (unconscious instability), he projects blame onto the Ego (orphan) who is associated with the strangeness. The Ego is scapegoated and expelled, showing how consciousness can reject the carrier of a difficult inner problem it doesn't understand.",
+      "Sentence": "When the miller found the great hole and his pig gone, he roared, \"This is witchcraft! Trouble follows you, boy! Be gone from my mill before the river itself is swallowed!\"",
+      "Chapter Number": 3,
+      "Sentence Number": 15
+    },
+    {
+      "Plot Function": "The orphan leaves, now having lost his job and still facing the unresolved issue of the sinkhole (implicitly tied to him). He receives his minimal promised payment.",
+      "Grimm Style": "Simple action (\"orphan left\"). Notes the payment received (\"crust of bread\"). Reinforces his poverty and the cycle of finding and losing place.",
+      "Moral Implication": "Unfair dismissal, but a promise (payment) is kept. The orphan must continue his journey, burdened by the unseen problem.",
+      "Metaphorical/Psychological Meaning": "The Ego is expelled again, carrying the minimal sustenance (crust = basic survival) but still burdened by the unresolved connection to the unconscious instability. The journey and search for integration continue.",
+      "Sentence": "So the orphan left the mill, with only the crust of bread in his hand, and knew not whither to go.",
+      "Chapter Number": 4,
+      "Sentence Number": 16
+    },
+    {
+      "Plot Function": "Introduces the Devil, who appears conveniently after the orphan's dismissal, suggesting he's aware of or drawn to the orphan's troubles (perhaps connected to the sinkhole). He offers help, setting up a potential temptation or bargain.",
+      "Grimm Style": "Introduces a major archetypal figure (\"the Devil\") appearing suddenly. Describes him with simple, traditional attributes (\"pointed beard,\" \"smelled faintly of sulphur\"). Devil makes a direct offer (\"You seem troubled\"). Typical temptation scenario setup.",
+      "Moral Implication": "Temptation often appears in times of desperation. The Devil preys on the unfortunate. Offers of easy solutions may come at a price.",
+      "Metaphorical/Psychological Meaning": "In a state of despair and aimlessness, the Ego encounters the Shadow archetype in its personified form as the Devil. The Devil represents temptation, repressed desires, potentially destructive power, or the offer of a dubious shortcut. He is drawn to the Ego's vulnerability and the disturbance emanating from the unconscious (sinkhole).",
+      "Sentence": "As he sat weeping by the roadside, a tall man with a neat pointed beard, who smelled faintly of sulphur, stopped before him and said, \"You seem troubled, boy; perhaps I can help?\"",
+      "Chapter Number": 4,
+      "Sentence Number": 17
+    },
+    {
+      "Plot Function": "The orphan explains his strange predicament (the sinkhole and its consequences) to the Devil, seeking understanding or aid.",
+      "Grimm Style": "Orphan recounts events simply (\"told him of the hole,\" \"the shoes,\" \"the pig\"). Direct explanation of his woes. Allows the Devil to understand the situation.",
+      "Moral Implication": "Sharing troubles, even with a stranger (or the Devil), in hope of help. Honesty about the bizarre situation.",
+      "Metaphorical/Psychological Meaning": "The Ego, in its desperation, explains the nature of the unconscious disturbance (hole) and its consequences to the Shadow figure (Devil). This represents the Ego seeking answers or solutions from the darker, potentially more knowledgeable but dangerous aspects of the psyche.",
+      "Sentence": "The orphan, seeing no other hope, told him of the hole that followed him, and the lost shoes, and the miller's swallowed pig.",
+      "Chapter Number": 4,
+      "Sentence Number": 18
+    },
+    {
+      "Plot Function": "The Devil reveals his knowledge/connection to the sinkhole, explaining its origin in a typically boastful and self-important way. He implies he can control it. Humour in the Devil's petty reason.",
+      "Grimm Style": "Devil's dialogue reveals information (\"Ah, that hole!\"). Gives a comical, selfish reason (\"dug it myself,\" \"annoyed by your snoring\"). Positions himself as the cause/controller. Boastful tone.",
+      "Moral Implication": "Great troubles can have petty origins. The Devil acts out of spite or minor annoyance. Be wary of those claiming responsibility for chaos.",
+      "Metaphorical/Psychological Meaning": "The Shadow (Devil) claims responsibility for the unconscious disturbance (hole), attributing it to a petty, ego-driven motive (snoring = unconscious noise irritating the Shadow). This suggests the disturbance might stem from repressed, negative aspects of the psyche acting out. It also positions the Shadow as having power over the instability affecting the Ego.",
+      "Sentence": "The tall man chuckled, \"Ah, that hole! A little bit of mischief, dug it myself one night when I was bored and somewhat annoyed by your snoring through the thin hut walls.\"",
+      "Chapter Number": 4,
+      "Sentence Number": 19
+    },
+    {
+      "Plot Function": "The Devil makes a specific offer: fix the hole (and implicitly the problems it causes) in exchange for a future service from the orphan. This is the classic Devil's bargain.",
+      "Grimm Style": "Clear transactional offer (\"I can close it\"). States the price (\"one small service... when you are grown\"). Sets up future obligation and potential danger. Uses vague future timing (\"when you are grown\").",
+      "Moral Implication": "The temptation of an easy fix comes with a dangerous price (service to the Devil). Short-term solution for long-term obligation. The classic Faustian bargain motif.",
+      "Metaphorical/Psychological Meaning": "The Shadow (Devil) offers to resolve the unconscious instability (close the hole) in exchange for the Ego's future allegiance or service. This represents the temptation to make a pact with darker psychic forces for immediate relief, mortgaging future autonomy or integrity.",
+      "Sentence": "\"But,\" he added, stroking his beard, \"I can close it up for you neat and tidy, in exchange for just one small service you shall do for me when you are grown.\"",
+      "Chapter Number": 4,
+      "Sentence Number": 20
+    },
+    {
+      "Plot Function": "The orphan, desperate and seeing no alternative, agrees to the Devil's bargain. This decision seals the pact and sets up future conflict.",
+      "Grimm Style": "Simple agreement (\"orphan agreed at once\"). Shows desperation as motivation (\"what else could he do?\"). Seals the bargain clearly.",
+      "Moral Implication": "Desperation leads to dangerous choices. Accepting the Devil's help has consequences. The slippery slope of bargains.",
+      "Metaphorical/Psychological Meaning": "The Ego, feeling powerless and desperate, agrees to the pact with the Shadow (Devil) for immediate relief from the unconscious disturbance. This represents a compromise of integrity or autonomy for the sake of stability, setting up future psychic debt.",
+      "Sentence": "The orphan, shoeless and hungry, saw no other way forward and agreed at once, for what else could he do?",
+      "Chapter Number": 5,
+      "Sentence Number": 21
+    },
+    {
+      "Plot Function": "The Devil fulfills his part of the bargain instantly and magically, closing the hole. Provides immediate relief and demonstrates the Devil's power.",
+      "Grimm Style": "Describes magical action simply (\"stamped his foot thrice\"). Instantaneous result (\"ground sealed up\"). Clear fulfillment of the Devil's promise. Use of \"thrice\" follows the Rule of Three.",
+      "Moral Implication": "The Devil delivers on his promises (at least initially). Magical solutions seem easy but the cost remains.",
+      "Metaphorical/Psychological Meaning": "The Shadow (Devil) uses its power to instantly suppress the unconscious disturbance (seal the hole). This represents the immediate, seemingly magical effect of repression or making a pact with negative forces – the problem appears to vanish.",
+      "Sentence": "The Devil smiled, stamped his foot thrice upon the ground, and the earth sealed up solid as rock where the orphan sat, leaving no trace of any hole.",
+      "Chapter Number": 5,
+      "Sentence Number": 22
+    },
+    {
+      "Plot Function": "As a side effect of the Devil's magic, the orphan's lost shoes reappear, seemingly restored. This acts as an immediate, unexpected benefit or 'signing bonus' of the deal.",
+      "Grimm Style": "Unexpected positive consequence (\"at his feet appeared\"). Links back to the initial loss (\"his old shoes\"). Describes their improved state (\"mended and sturdy\"). Adds a touch of wonder or deceptive generosity from the Devil.",
+      "Moral Implication": "Deals with the Devil might seem beneficial at first. Small comforts provided alongside the dangerous pact.",
+      "Metaphorical/Psychological Meaning": "Along with suppressing the main problem, the pact with the Shadow seemingly restores what the Ego initially lost (shoes = grounding, ability to move). This represents the false sense of restoration or benefit that can come from such psychological bargains; the underlying issue isn't resolved, just covered, and superficial comforts return.",
+      "Sentence": "And what is more, at his feet appeared his old shoes, now wondrously mended and sturdy.",
+      "Chapter Number": 5,
+      "Sentence Number": 23
+    },
+    {
+      "Plot Function": "The Devil vanishes, leaving the orphan with the immediate benefits but the future obligation hanging over him. Reinforces the Devil's mysterious and transient nature.",
+      "Grimm Style": "Sudden disappearance (\"vanished with a pop\"). Adds a slightly comical/magical sound effect (\"pop\"). Leaves the orphan alone to contemplate the deal.",
+      "Moral Implication": "The tempter departs once the deal is struck, leaving the consequences for later.",
+      "Metaphorical/Psychological Meaning": "The Shadow figure withdraws once the pact is made, leaving the Ego with the immediate results (problem suppressed, superficial restoration) and the deferred cost. The psychic bargain is sealed and sinks back into the unconscious for a time.",
+      "Sentence": "Then, with a wink and a quiet little pop, the tall man vanished.",
+      "Chapter Number": 5,
+      "Sentence Number": 24
+    },
+    {
+      "Plot Function": "The orphan, now shod and relieved of the hole problem, is able to find work easily, showing how his previous state hindered him. He finds employment with a farmer.",
+      "Grimm Style": "Shows the positive change in fortune (\"Now that he had shoes\"). Finds work with another common profession (\"farmer\"). Describes simple tasks (\"tended the sheep,\" \"mended fences\"). Shows progression.",
+      "Moral Implication": "Proper appearance and the absence of obvious trouble makes acceptance easier. Hard work leads to a place in the world.",
+      "Metaphorical/Psychological Meaning": "With the superficial problem resolved and basic grounding restored (shoes), the Ego can now integrate more easily into the practical world (work for farmer). Tending sheep suggests managing basic life energies or instincts. Mending fences relates to maintaining boundaries and order.",
+      "Sentence": "Now that he had shoes and no hole followed him, the orphan found work easily with a farmer in the next valley, where he tended the sheep and mended fences.",
+      "Chapter Number": 5,
+      "Sentence Number": 25
+    },
+    {
+      "Plot Function": "Years pass, the orphan grows up, fulfilling the time condition of the Devil's bargain. He prospers moderately due to hard work.",
+      "Grimm Style": "Indicates passage of time simply (\"Years passed,\" \"grew into a youth\"). Shows his success (\"worked hard,\" \"farmer favoured him\"). Sets the stage for the Devil's return.",
+      "Moral Implication": "Hard work brings favour and modest success. Time passes, and debts eventually come due.",
+      "Metaphorical/Psychological Meaning": "The Ego matures (\"grew into a youth\") and achieves a degree of conscious competence and stability through diligent effort (work for farmer). The pact with the Shadow lies dormant during this period of development.",
+      "Sentence": "Years passed, and the orphan grew into a youth, and because he worked hard and honestly, the farmer favoured him above all his other servants.",
+      "Chapter Number": 6,
+      "Sentence Number": 26
+    },
+    {
+      "Plot Function": "Introduces a new problem potentially linked to the Devil's magic: the ground where the hole *used* to be (under the hut, sealed by the Devil) is now unnaturally fertile, causing comical overgrowth. This hints the Devil's fix had side effects.",
+      "Grimm Style": "Introduces a strange phenomenon (\"strangest thing\"). Locates it precisely (\"spot where his hut once stood\"). Describes the effect vividly (\"vegetables grew\"). Uses humorous hyperbole (\"pumpkins as big as wine-casks,\" \"beans reached the clouds\").",
+      "Moral Implication": "Shortcuts or magical fixes can have unforeseen and potentially problematic side effects. Nature acts unnaturally.",
+      "Metaphorical/Psychological Meaning": "The place where the unconscious disruption was suppressed by the Shadow's power now exhibits unnatural, excessive growth (hyper-fertility). This symbolizes how repressing one problem can lead to uncontrolled, potentially destabilizing eruptions of energy elsewhere in the psyche (e.g., complexes, inflation). The Devil's 'fix' warped the natural psychic process.",
+      "Sentence": "But the strangest thing was happening back at the spot where his hut once stood; the ground, sealed by the Devil, grew vegetables of prodigious size, with pumpkins as big as wine-casks and beanstalks that seemed to reach the clouds.",
+      "Chapter Number": 6,
+      "Sentence Number": 27
+    },
+    {
+      "Plot Function": "This unnatural growth attracts the King's attention, bringing the location (and implicitly, the orphan's past) back into focus. The King desires the giant vegetables, setting up a new challenge.",
+      "Grimm Style": "Royal notice (\"King heard tell\"). Royal desire (\"commanded\"). Simple motivation (wants giant vegetables). Connects the orphan's past problem to the kingdom's ruler.",
+      "Moral Implication": "Unusual events attract the attention of authority. Royal desires create tasks or problems for others.",
+      "Metaphorical/Psychological Meaning": "The unnatural psychic growth (giant vegetables) resulting from the Shadow's intervention attracts the attention of the ruling conscious principle (King). Consciousness is drawn to the strange results of the repressed issue, desiring these overblown products without understanding their dangerous source.",
+      "Sentence": "Word of these marvels reached the King of that land, who loved novelty, and he commanded that the largest pumpkin be brought to his court.",
+      "Chapter Number": 6,
+      "Sentence Number": 28
+    },
+    {
+      "Plot Function": "Describes the comical difficulty of fulfilling the King's command due to the pumpkin's unnatural size. Establishes a task that requires extraordinary means.",
+      "Grimm Style": "Describes the effort (\"twenty men,\" \"greatest difficulty\"). Uses hyperbole (\"rolled it\"). Emphasizes the size and absurdity. Sets up a problem only the hero might solve later.",
+      "Moral Implication": "Royal commands can be impractical. Dealing with the results of unnatural events is difficult.",
+      "Metaphorical/Psychological Meaning": "Fulfilling the desire of consciousness (King's command) regarding the products of the warped psychic energy (giant pumpkin) is extremely difficult using ordinary conscious means (twenty men). The inflated result of the repressed issue is hard to handle.",
+      "Sentence": "It took twenty men with ropes and levers to roll the pumpkin onto a cart, and even then they moved it only with the greatest difficulty.",
+      "Chapter Number": 6,
+      "Sentence Number": 29
+    },
+    {
+      "Plot Function": "The King is pleased with the novelty but immediately desires more, specifically the high-reaching beans, creating a seemingly impossible task. This sets up the next stage where the youth might be needed.",
+      "Grimm Style": "King's reaction (\"delighted\"). Immediate escalation of desire (\"What of the beans?\"). Sets an impossible-seeming task (\"fetch me a pod\"). Creates a new challenge linked to the unnatural growth.",
+      "Moral Implication": "Desire can be insatiable. Achieving one novelty leads to wanting the next, more difficult one. Kings make impossible demands.",
+      "Metaphorical/Psychological Meaning": "Consciousness (King) is momentarily pleased by the superficial marvel (pumpkin) but immediately desires something even more inflated and unattainable (beans reaching the clouds). This represents the danger of conscious fascination with the grandiose products of unconscious imbalance, leading to unrealistic demands or aspirations (reaching the clouds).",
+      "Sentence": "The King was delighted with the giant pumpkin, but then he gazed thoughtfully towards the distant beanstalks and declared, \"What of the beans? Fetch me a pod from the very top!\"",
+      "Chapter Number": 6,
+      "Sentence Number": 30
+    },
+    {
+      "Plot Function": "Establishes the impossibility of the King's command for ordinary people, highlighting the unnatural height of the beanstalk. Sets the stage for an extraordinary solution.",
+      "Grimm Style": "Simple statement of impossibility (\"no man could climb\"). Clear reason (\"lost in the clouds\"). Emphasizes the magical/unnatural quality of the beanstalk.",
+      "Moral Implication": "Some tasks are beyond normal human capability. Sets up the need for a hero or magical intervention.",
+      "Metaphorical/Psychological Meaning": "The demand of consciousness (King) to reach the top of the inflated growth (beanstalk) is impossible through ordinary conscious effort (no man could climb). The goal is lost in the clouds, symbolizing unrealistic or inflated aspirations disconnected from reality.",
+      "Sentence": "But the beanstalk was so tall it was lost in the clouds, and no man in the kingdom could climb it.",
+      "Chapter Number": 7,
+      "Sentence Number": 31
+    },
+    {
+      "Plot Function": "The Devil reappears to the youth, reminding him of the bargain now that he is \"grown\" and the King's impossible demand provides the context for the service.",
+      "Grimm Style": "Marks the Devil's return. Connects it to the original condition (\"you are grown\"). Links the service to the current problem (King's demand). Timely appearance typical of the Devil in folklore.",
+      "Moral Implication": "Debts must be paid. The Devil returns to claim his due at an opportune (or difficult) moment.",
+      "Metaphorical/Psychological Meaning": "The Shadow (Devil) reappears now that the Ego is mature (\"grown\") and facing an impossible demand from consciousness (King/beanstalk). The time has come to pay the price for the earlier pact, often by performing a task aligned with the Shadow's nature or aims, related here to the consequences of the Devil's initial 'fix'.",
+      "Sentence": "Just then, as the youth was mending a fence near the edge of the farmer’s land, the tall man with the pointed beard appeared beside him once more, saying, \"Well met, youth; you are grown now, and I have need of that service you promised.\"",
+      "Chapter Number": 7,
+      "Sentence Number": 32
+    },
+    {
+      "Plot Function": "The Devil specifies the service: climb the impossible beanstalk, directly linking his demand to the King's desire and the unnatural growth he indirectly caused.",
+      "Grimm Style": "Devil issues a clear command (\"Climb this beanstalk\"). Defines the task (fetch a pod). Directly connects the service to the current kingdom-wide problem.",
+      "Moral Implication": "The Devil's service involves tackling the very problem his earlier interference created. A twisted form of consequence.",
+      "Metaphorical/Psychological Meaning": "The Shadow (Devil) demands that the Ego perform the impossible task generated by the imbalance the Shadow itself created (climb the inflated beanstalk). This represents the way pacts with the shadow can force the Ego to engage with dangerous, inflated, or pathological aspects of the psyche.",
+      "Sentence": "\"The King desires a bean pod from yonder stalk,\" the Devil continued, pointing to the enormous plant shimmering in the distance, \"You shall climb it and fetch one for me.\"",
+      "Chapter Number": 7,
+      "Sentence Number": 33
+    },
+    {
+      "Plot Function": "The youth protests the impossibility of the task, voicing the general opinion.",
+      "Grimm Style": "Simple dialogue expressing impossibility (\"But how?\"). States the known difficulty (\"It reaches the clouds\"). Logical objection.",
+      "Moral Implication": "Questioning unreasonable demands. Pointing out obvious impossibility.",
+      "Metaphorical/Psychological Meaning": "The Ego recognizes the unrealistic and potentially dangerous nature of the task demanded by the Shadow, voicing the conscious assessment of its impossibility.",
+      "Sentence": "\"But how?\" cried the youth, \"It reaches the clouds; no man can climb it!\"",
+      "Chapter Number": 7,
+      "Sentence Number": 34
+    },
+    {
+      "Plot Function": "The Devil provides magical assistance (sticky gloves/boots), enabling the youth to perform the impossible climb. This shows the Devil empowering the youth for his own purposes. Adds slightly comical/practical magic.",
+      "Grimm Style": "Devil provides magical items (gloves, boots). Simple description of their function (\"stick like fly-paper\"). Enables the impossible task through supernatural means provided by the tempter. These are borderline Magic Items (Part 4).",
+      "Moral Implication": "The Devil provides the means to achieve difficult feats, but this aid serves his ultimate goal. Be wary of gifts that enable dangerous tasks.",
+      "Metaphorical/Psychological Meaning": "The Shadow (Devil) provides the Ego with unnatural means (sticky gloves/boots) to achieve the inflated goal (climb beanstalk). This represents how the Shadow can offer special powers or abilities that allow the Ego to navigate pathological states or achieve inflated aims, further binding the Ego to the Shadow's influence.",
+      "Sentence": "\"For you, it will be easy,\" sneered the Devil, producing a pair of greasy black gloves and boots, \"Put these on; they stick like fly-paper to any surface.\"",
+      "Chapter Number": 7,
+      "Sentence Number": 35
+    },
+    {
+      "Plot Function": "The youth uses the magical items and successfully climbs the beanstalk, reaching the top. Fulfills the first part of the Devil's demanded service.",
+      "Grimm Style": "Simple description of using the magic items (\"put them on\") and the result (\"climbed swiftly\"). Reaching the destination (\"top, above the clouds\"). Action-focused.",
+      "Moral Implication": "With the Devil's help, impossible feats become possible. The youth is drawn into fulfilling his bargain.",
+      "Metaphorical/Psychological Meaning": "Enabled by the Shadow's dubious gift, the Ego achieves the inflated goal (reaches the top of the beanstalk), ascending into a realm above ordinary consciousness (clouds). This represents reaching a state of inflation or dissociation, detached from reality below.",
+      "Sentence": "The youth put on the sticky gloves and boots, and found he could walk straight up the beanstalk as easily as walking on level ground, and so he climbed swiftly until he was above the clouds.",
+      "Chapter Number": 8,
+      "Sentence Number": 36
+    },
+    {
+      "Plot Function": "Describes the strange realm at the top of the beanstalk – a barren, cloudy landscape, hinting it's unnatural or desolate. Introduces the target object (one enormous bean pod).",
+      "Grimm Style": "Simple description of the setting (\"land made of clouds,\" \"nothing grew\"). Focuses on the target (\"one single bean pod,\" \"size of a boat\"). Establishes the goal of the retrieval.",
+      "Moral Implication": "Reaching the top doesn't necessarily lead to paradise; it can be desolate. Focuses the task on retrieving the specific object.",
+      "Metaphorical/Psychological Meaning": "The inflated state (top of beanstalk) is revealed to be barren and disconnected (\"land made of clouds,\" \"nothing grew\"). The only thing there is the grossly oversized fruit of the original imbalance (giant bean pod = symbol of the inflated result of the repressed issue). The goal is to retrieve this symbolic object for the Shadow.",
+      "Sentence": "He stepped off onto a wide land made of clouds, where nothing grew save for the very top of the beanstalk itself, which bore one single bean pod the size of a small boat.",
+      "Chapter Number": 8,
+      "Sentence Number": 37
+    },
+    {
+      "Plot Function": "The youth takes the giant bean pod, fulfilling the Devil's retrieval task. Emphasizes the pod's unwieldy size, adding to the absurdity.",
+      "Grimm Style": "Simple action (\"plucked the pod\"). Notes its difficulty/size (\"great effort\"). Straightforward completion of the task.",
+      "Moral Implication": "Fulfilling the bargain, even if it involves dealing with unwieldy or unnatural things.",
+      "Metaphorical/Psychological Meaning": "The Ego secures the inflated symbol (giant pod) as demanded by the Shadow. Handling it requires \"great effort,\" suggesting the difficulty in managing these pathological psychic products.",
+      "Sentence": "With great effort, the youth plucked the pod from the stalk; it was heavy as stone and bumped awkwardly against his legs.",
+      "Chapter Number": 8,
+      "Sentence Number": 38
+    },
+    {
+      "Plot Function": "God makes a minor appearance, commenting on the unnatural situation (beanstalk in the clouds) with mild disapproval or irony. This introduces the divine perspective briefly. Humour in God's almost understated reaction.",
+      "Grimm Style": "Introduces God simply (\"a voice like gentle thunder\"). God's comment is brief and focuses on the unnaturalness (\"Beans don't belong up here\"). Doesn't intervene directly, just observes/comments. Minor appearance as requested.",
+      "Moral Implication": "Even God notices unnatural occurrences. Hints that the situation is against the proper order of things. Divine awareness without direct intervention.",
+      "Metaphorical/Psychological Meaning": "The highest spiritual principle (Self, God archetype) makes a brief appearance, commenting from a transcendent perspective on the psychic imbalance (beanstalk/inflation). The comment (\"Beans don't belong up here\") signifies that this inflated state is unnatural and inappropriate. The lack of direct intervention suggests the Ego must still navigate the consequences itself.",
+      "Sentence": "As he turned to climb down, a voice like gentle thunder murmured from the endless blue above, \"Hmm, beans don't usually grow up here; bit untidy.\"",
+      "Chapter Number": 8,
+      "Sentence Number": 39
+    },
+    {
+      "Plot Function": "The youth descends, still aided by the Devil's magic, bringing the prize back down. Completes the journey required by the service.",
+      "Grimm Style": "Simple description of descent (\"climbed down\"). Mentions the tool used (sticky boots/gloves). Straightforward return journey.",
+      "Moral Implication": "The return journey is as easy as the ascent with the Devil's aid. Bringing the object of the unnatural quest back to the world below.",
+      "Metaphorical/Psychological Meaning": "The Ego, still using the Shadow's enabling power (sticky boots/gloves), descends from the inflated state, bringing the problematic symbol (giant pod) back towards the conscious world.",
+      "Sentence": "The youth paid the voice no mind and climbed down the stalk just as easily as he had climbed up, dragging the enormous pod behind him.",
+      "Chapter Number": 8,
+      "Sentence Number": 40
+    },
+    {
+      "Plot Function": "The youth delivers the bean pod to the Devil as agreed, completing the service. The Devil expresses satisfaction.",
+      "Grimm Style": "Simple action (\"gave the pod\"). Devil's reaction (\"rubbed his hands,\" \"Excellent\"). Clear completion of the bargain's service requirement.",
+      "Moral Implication": "The Devil receives his due. The service is rendered, fulfilling the pact from the youth's side for now.",
+      "Metaphorical/Psychological Meaning": "The Ego delivers the symbol of inflation (pod) to the Shadow (Devil). The Shadow expresses satisfaction, having successfully used the Ego to achieve its aim (perhaps retrieving a result of its own chaotic influence, or simply proving its power over the Ego).",
+      "Sentence": "He reached the bottom and gave the pod to the Devil, who rubbed his hands together and said, \"Excellent, excellent! Just what I wanted.\"",
+      "Chapter Number": 9,
+      "Sentence Number": 41
+    },
+    {
+      "Plot Function": "The Devil reveals his trivial and mischievous reason for wanting the giant bean pod, adding dark humour. He promptly vanishes again.",
+      "Grimm Style": "Devil explains motivation (\"makes a wonderful back-scratcher\"). Comical, petty reason contrasts with the effort involved. Repeats the vanishing act (\"disappeared again\").",
+      "Moral Implication": "The Devil's motives can be absurdly petty. Great effort expended for a trivial, selfish gain by the tempter.",
+      "Metaphorical/Psychological Meaning": "The Shadow's motivation for demanding the inflated object is revealed as trivial and self-serving (back-scratcher = minor comfort/itch). This highlights the often absurd or non-rational nature of Shadow impulses or the seemingly pointless tasks demanded by neurotic complexes. The Shadow then withdraws again.",
+      "Sentence": "\"It makes a wonderful back-scratcher for those hard-to-reach spots,\" the Devil explained with a grin, and disappeared again in his usual quiet pop.",
+      "Chapter Number": 9,
+      "Sentence Number": 42
+    },
+    {
+      "Plot Function": "The youth, now free from the immediate task but changed by the experience (and perhaps wiser about the Devil), decides to take the giant pumpkin (left from earlier) to the King himself, perhaps seeking reward or recognition directly.",
+      "Grimm Style": "Shows the youth taking initiative (\"decided\"). Action (\"go to the King\"). Takes the object associated with the problem's origin (pumpkin). Seeks reward/recognition.",
+      "Moral Implication": "Taking initiative after completing the forced service. Seeking reward for effort (even if the initial transport wasn't his). Facing authority directly.",
+      "Metaphorical/Psychological Meaning": "The Ego, having fulfilled the Shadow's demand, now decides to act autonomously within the conscious world. He takes the other symbol of the inflated growth (pumpkin) to the ruling conscious principle (King), seeking integration and reward for dealing with these phenomena, even though their origin is problematic.",
+      "Sentence": "The youth, feeling somewhat foolish but also relieved, decided he might as well take the giant pumpkin, which still sat upon its cart, to the King himself.",
+      "Chapter Number": 9,
+      "Sentence Number": 43
+    },
+    {
+      "Plot Function": "He arrives at court with the pumpkin. The King is impressed by his initiative (or perhaps just the pumpkin itself) and demands to know how he managed it when twenty men struggled.",
+      "Grimm Style": "Simple arrival (\"arrived at court\"). King's reaction (\"impressed\"). Direct question seeking explanation (\"How did you manage...?\"). Sets up the youth's opportunity.",
+      "Moral Implication": "Initiative is noted by authority. King seeks explanation for extraordinary results.",
+      "Metaphorical/Psychological Meaning": "The Ego presents the problematic result (pumpkin) to consciousness (King). Consciousness is impressed by the Ego's apparent ability to handle this difficult object and seeks the secret of its success.",
+      "Sentence": "He arrived at court, dragging the cart with surprising ease (perhaps the Devil's magic lingered), and the King was impressed, asking, \"How did you manage this alone when twenty of my men could barely budge it?\"",
+      "Chapter Number": 9,
+      "Sentence Number": 44
+    },
+    {
+      "Plot Function": "The youth cleverly avoids revealing the Devil's indirect help or the true origin, instead offering a practical, slightly humorous, and plausible-sounding explanation.",
+      "Grimm Style": "Youth's dialogue provides a clever, mundane explanation (\"hollowed it out,\" \"rolled it\"). Avoids mentioning magic or the Devil. Shows cleverness/resourcefulness (Trickster archetype). Humour in the practical solution to a magical problem.",
+      "Moral Implication": "Cleverness and quick thinking can satisfy authority without revealing dangerous truths. Finding practical solutions (even if fabricated).",
+      "Metaphorical/Psychological Meaning": "The Ego uses cleverness (Trickster function) to provide a rational explanation to consciousness (King) for handling the problematic object (pumpkin). It avoids revealing the connection to the Shadow (Devil) or the true magical nature of the situation, offering a manageable, conscious interpretation instead.",
+      "Sentence": "The youth bowed low and said, \"Your Majesty, I found it is mostly hollow inside; I simply pushed out the seeds and rolled it quite easily then.\"",
+      "Chapter Number": 9,
+      "Sentence Number": 45
+    },
+    {
+      "Plot Function": "The King is delighted by the cleverness (or the result) and gives the youth his first rich reward: gold and a position at court. Marks the first step in his rise.",
+      "Grimm Style": "King's reaction (\"delighted\"). Bestows the first reward (gold, position). Clear statement of reward (\"purse of gold,\" \"place among his advisors\"). Typical royal reward structure. Reward 1 achieved.",
+      "Moral Implication": "Cleverness and perceived usefulness are rewarded by authority. First step from poverty to status.",
+      "Metaphorical/Psychological Meaning": "Consciousness (King) is pleased by the Ego's cleverness and apparent mastery. It rewards the Ego with value (gold) and integrates it more fully into the conscious structure (place among advisors). The Ego achieves its first level of recognition and integration based on its demonstrated competence, albeit masking the true source.",
+      "Sentence": "The King laughed, delighted by such simple ingenuity, and gave the youth a purse full of gold and a place among his lesser advisors.",
+      "Chapter Number": 10,
+      "Sentence Number": 46
+    },
+    {
+      "Plot Function": "Introduces the beautiful princess, who observes the youth's rise and is intrigued, particularly because of his cleverness or perhaps his mysterious past (if rumours spread). Establishes her presence and interest.",
+      "Grimm Style": "Introduces the princess (\"King's daughter\"). Describes her simply (\"very beautiful\"). Notes her observation and interest (\"watched,\" \"intrigued\"). Sets up the romantic element.",
+      "Moral Implication": "Beauty observes intelligence/success. The hero begins to attract the attention of the ultimate prize.",
+      "Metaphorical/Psychological Meaning": "The Anima (princess) observes the Ego's successful integration into the conscious world (court position). She is intrigued, suggesting the Anima is drawn to the Ego that demonstrates cleverness, success, and perhaps carries an aura of mystery or hidden depths.",
+      "Sentence": "Now, the King had a daughter who was very beautiful, and she watched all this from her window and was much intrigued by the clever youth.",
+      "Chapter Number": 10,
+      "Sentence Number": 47
+    },
+    {
+      "Plot Function": "A new problem arises, again linked to the sinkhole's origin: the unnaturally large vegetables are now rotting, creating a terrible smell affecting the whole kingdom. The Devil's interference continues to cause problems.",
+      "Grimm Style": "Introduces a new problem (\"But soon\"). Sensory detail (\"terrible stink\"). Identifies the source (rotting giant vegetables). Affects the whole kingdom (\"spread through the land\"). Shows the negative long-term consequence of the unnatural growth.",
+      "Moral Implication": "Unnatural gains often lead to decay and pollution. Problems caused by interference worsen over time.",
+      "Metaphorical/Psychological Meaning": "The inflated products of the repressed psychic issue (giant vegetables) begin to decay, creating a pervasive negative atmosphere (stink) affecting the whole conscious realm (kingdom). This symbolizes the toxicity and negative consequences that arise when inflated psychic contents (caused by pacts with the shadow or repression) are not properly dealt with and inevitably begin to break down.",
+      "Sentence": "But soon a new trouble arose, for the giant vegetables left in the field began to rot, and gave off such a terrible stink that it spread through the whole land.",
+      "Chapter Number": 10,
+      "Sentence Number": 48
+    },
+    {
+      "Plot Function": "The King commands the problem to be solved, creating another seemingly impossible task, as the source of the stink is too large and pervasive to handle normally.",
+      "Grimm Style": "King issues command (\"rid me of this stench\"). Highlights the difficulty (\"no one knew how\"). Creates a new challenge for the kingdom and potentially the hero.",
+      "Moral Implication": "Rulers demand solutions to large problems. Dealing with the foul consequences of past events is difficult.",
+      "Metaphorical/Psychological Meaning": "Consciousness (King) demands a solution to the pervasive negative atmosphere (stench) caused by the decaying psychic inflation (rotting vegetables). Ordinary conscious means (no one knew how) are insufficient to clear this toxic byproduct of the earlier imbalance and repression.",
+      "Sentence": "\"Rid me of this stench!\" commanded the King, pinching his nose, but no one knew how to clear away mountains of rotting pumpkin and beans.",
+      "Chapter Number": 10,
+      "Sentence Number": 49
+    },
+    {
+      "Plot Function": "The youth, now an advisor, sees this as another opportunity and likely prepares to consult his hidden resource (the Devil, or perhaps find another way).",
+      "Grimm Style": "Shows the youth's position (\"now an advisor\"). Implies his recognition of opportunity (\"saw his chance\" - though this borders on inner state, it's inferred from action). Sets up his next move without stating internal thought directly.",
+      "Moral Implication": "Recognizing opportunities within crises. Using one's position or secret knowledge to solve problems.",
+      "Metaphorical/Psychological Meaning": "The Ego, now partially integrated into the conscious structure (advisor), sees the new crisis (stench) as an opportunity to further demonstrate competence or perhaps resolve the lingering consequences of the Shadow's earlier intervention. It prepares to act again, possibly by engaging the unconscious or shadow aspects once more.",
+      "Sentence": "The youth, who was now a royal advisor, heard this and thought the matter over carefully for a day and a night.",
+      "Chapter Number": 10,
+      "Sentence Number": 50
+    },
+    {
+      "Plot Function": "The youth goes to the Devil again, but this time not because he is summoned, but seeking help for the kingdom's problem (the stink), potentially to gain further favour or solve the issue his pact indirectly caused.",
+      "Grimm Style": "Youth takes initiative (\"went to the crossroads\"). Specifies location often associated with the Devil (\"crossroads at midnight\"). Action (\"called\"). Shows him proactively seeking the Devil's aid now.",
+      "Moral Implication": "Returning to a dangerous source for help. Proactively using the connection established by the pact. Trying to solve a larger problem.",
+      "Metaphorical/Psychological Meaning": "The Ego proactively seeks out the Shadow (Devil at crossroads) to deal with the toxic consequences (stench) of the Shadow's previous intervention. This represents a more conscious, albeit still dangerous, engagement with the Shadow to resolve problems in the conscious realm.",
+      "Sentence": "Then he went to the crossroads outside the city at midnight and called out for the tall man with the pointed beard.",
+      "Chapter Number": 11,
+      "Sentence Number": 51
+    },
+    {
+      "Plot Function": "The Devil appears and asks what the youth wants now, perhaps slightly suspiciously or mockingly, as the youth is initiating contact this time.",
+      "Grimm Style": "Devil appears as before (\"materialized\"). Dialogue shows slight mockery/suspicion (\"What now, clever boy?\"). Standard interaction setup.",
+      "Moral Implication": "The Devil is always available, but perhaps questions the motive when not collecting his due.",
+      "Metaphorical/Psychological Meaning": "The Shadow (Devil) responds to the Ego's call, questioning the Ego's motive for seeking it out voluntarily.",
+      "Sentence": "The Devil materialized before him with a faint smell of sulphur and decay, asking, \"What now, clever boy? Did you miss my help?\"",
+      "Chapter Number": 11,
+      "Sentence Number": 52
+    },
+    {
+      "Plot Function": "The youth explains the problem of the stink caused by the rotting vegetables and asks the Devil to remove it, appealing to his power or perhaps responsibility.",
+      "Grimm Style": "Youth explains the problem (\"great stink,\" \"rotting growth\"). Direct request (\"Can you remove it?\"). Places the problem at the Devil's feet implicitly.",
+      "Moral Implication": "Asking the source of the problem to fix its consequences. Holding the Devil accountable in a way.",
+      "Metaphorical/Psychological Meaning": "The Ego asks the Shadow (Devil) to clean up the toxic mess (stench) resulting from its earlier interference (rotting growth). This represents the Ego trying to get the Shadow to resolve the negative consequences of their previous pact or the Shadow's chaotic influence.",
+      "Sentence": "The youth described the great stink from the rotting growth that the Devil's magic had caused, and asked, \"Can you not remove this foulness?\"",
+      "Chapter Number": 11,
+      "Sentence Number": 53
+    },
+    {
+      "Plot Function": "The Devil agrees, but demands a steep and immediate price this time: half of the reward the youth will receive from the King for solving the problem. Humour in the Devil wanting half the reward for cleaning his own mess.",
+      "Grimm Style": "Devil agrees (\"Perhaps\"). States his price clearly (\"half of whatever reward\"). Makes the condition immediate (\"you receive from the King\"). Bargaining continues, price increases.",
+      "Moral Implication": "The Devil always exacts a price, often disproportionate. He profits from the problems he causes. Further entanglement in bargains.",
+      "Metaphorical/Psychological Meaning": "The Shadow (Devil) agrees to help resolve the toxic consequences but demands a significant share of the conscious reward (half the King's reward). This symbolizes how engaging the Shadow to fix problems often requires sacrificing some conscious gain or integrating some Shadow aspect into the reward itself. The Ego must pay the Shadow for cleaning up its own psychic mess.",
+      "Sentence": "The Devil stroked his beard thoughtfully, \"Perhaps I can, but cleaning up is tedious work; I shall require half of whatever reward the King gives you for this service.\"",
+      "Chapter Number": 11,
+      "Sentence Number": 54
+    },
+    {
+      "Plot Function": "The youth, wanting the kingdom's problem solved and perhaps seeing a way to gain more favour, agrees to the new price.",
+      "Grimm Style": "Simple agreement (\"youth agreed\"). Shows him willing to pay the price for the solution and potential advancement.",
+      "Moral Implication": "Willingness to sacrifice potential gains to solve a problem or advance. Further compromise with the Devil.",
+      "Metaphorical/Psychological Meaning": "The Ego agrees to the Shadow's price, willing to sacrifice half the conscious recognition/reward to resolve the pervasive toxic issue (stench). This represents a pragmatic, though compromising, decision to integrate or appease the Shadow in order to restore conscious balance.",
+      "Sentence": "The youth, eager to solve the problem and win more favour, agreed to this new bargain.",
+      "Chapter Number": 11,
+      "Sentence Number": 55
+    },
+    {
+      "Plot Function": "The Devil uses his magic again, this time causing the rotting vegetables and the smell to vanish instantly. Demonstrates his power over decay and dissolution as well.",
+      "Grimm Style": "Describes the magical action (\"waved his hand,\" \"muttered\"). Instantaneous result (\"rotting plants vanished,\" \"stink disappeared\"). Effective and clean magical solution.",
+      "Moral Implication": "The Devil possesses power over decay as well as growth/mischief. Problems can vanish magically, but the underlying cause (Devil's influence) remains.",
+      "Metaphorical/Psychological Meaning": "The Shadow (Devil) uses its power to instantly remove the toxic byproducts (rotting plants, stink). This represents the Shadow's ability to suppress or eliminate negative psychic content quickly, though the underlying dynamics and the pact remain.",
+      "Sentence": "Thereupon the Devil waved his hand, muttered a word that sounded like 'Begone!', and in an instant all the rotting plants vanished from the fields, and the terrible stink disappeared from the air.",
+      "Chapter Number": 12,
+      "Sentence Number": 56
+    },
+    {
+      "Plot Function": "The youth returns to the King and claims credit for solving the problem, likely offering another clever, mundane explanation (not detailed here, but implied).",
+      "Grimm Style": "Simple return (\"youth returned\"). Clear outcome (\"air was fresh\"). Implies the youth claimed credit successfully. Advances the plot towards the reward.",
+      "Moral Implication": "Taking credit for solutions achieved through hidden means. Cleverness in managing appearances continues.",
+      "Metaphorical/Psychological Meaning": "The Ego returns to the conscious ruler (King) after the toxic atmosphere is cleared (fresh air). It successfully claims responsibility, masking the Shadow's role and presenting the solution as its own achievement.",
+      "Sentence": "The youth returned to the King, bowed, and announced that the air was fresh again as he had commanded.",
+      "Chapter Number": 12,
+      "Sentence Number": 57
+    },
+    {
+      "Plot Function": "The King is overjoyed and gives the youth the second rich reward: land and a title, elevating his status significantly.",
+      "Grimm Style": "King's reaction (\"overjoyed\"). Bestows the second reward (lands, title: \"Lord\"). Significant elevation in status. Follows reward structure. Reward 2 achieved.",
+      "Moral Implication": "Solving major problems brings great rewards and status. The youth rises higher in the kingdom.",
+      "Metaphorical/Psychological Meaning": "Consciousness (King) is greatly pleased by the resolution of the pervasive negative issue (stench). It grants the Ego significant integration into the conscious world's structure (lands = territory, stability; title = recognized status and authority). The Ego achieves a higher level of conscious integration and recognition.",
+      "Sentence": "The King was overjoyed and granted the youth great lands and the title of Lord Advisor to the Crown.",
+      "Chapter Number": 12,
+      "Sentence Number": 58
+    },
+    {
+      "Plot Function": "The youth keeps his bargain, secretly giving half the value of the lands/title (represented as gold) to the Devil. Shows him honouring the pact, even if dangerous. Adds a touch of dark humour to the transaction.",
+      "Grimm Style": "Shows fulfillment of the pact (\"went to the crossroads,\" \"left half\"). Uses concrete representation of value (gold). Secretive action (\"unseen\"). Reinforces the ongoing dangerous connection.",
+      "Moral Implication": "Keeping one's word, even to the Devil. The cost of success is paid secretly. Maintaining the dangerous balance.",
+      "Metaphorical/Psychological Meaning": "The Ego honours its pact with the Shadow (Devil), secretly giving it its share of the conscious reward (half the gold). This represents the integration of the Shadow's price into the Ego's success; part of the conscious gain is yielded to the unconscious or shadow elements. This maintains the psychic balance established by the bargain, preventing the Shadow from causing trouble (for now).",
+      "Sentence": "True to his word, the youth took half the value of the lands in gold, went to the crossroads that night, and left the heavy bag there unseen, feeling a shiver despite his new lordship.",
+      "Chapter Number": 12,
+      "Sentence Number": 59
+    },
+    {
+      "Plot Function": "The princess is now even more impressed by the youth's success and status, and her affection grows, becoming more apparent. Moves the romantic subplot forward.",
+      "Grimm Style": "Notes the princess's reaction (\"even more impressed\"). States her feeling simply (\"grew fonder\"). Hints at future romantic development.",
+      "Moral Implication": "Success and status attract affection. The hero becomes worthy in the eyes of the princess.",
+      "Metaphorical/Psychological Meaning": "The Anima (princess) responds positively to the Ego's increased status and demonstrated ability to resolve major conscious problems (Lord Advisor). Her fondness grows, indicating the Anima is drawn towards the Ego that successfully integrates power and solves problems, even if the solution involved compromising with the Shadow.",
+      "Sentence": "The beautiful princess watched him receive his new honours, and grew fonder of the clever Lord Advisor each day.",
+      "Chapter Number": 12,
+      "Sentence Number": 60
+    },
+    {
+      "Plot Function": "Introduces the final problem: the original sinkhole reappears, this time directly under the King's palace, threatening the entire kingdom's foundation. This is the ultimate escalation, bringing the problem to the very center of power.",
+      "Grimm Style": "Sudden, major crisis (\"ground trembled\"). Locates the problem centrally (\"beneath the palace\"). Reintroduces the original threat (\"great sinkhole,\" \"just like the first\"). Ultimate stakes (\"threatened to swallow\").",
+      "Moral Implication": "Problems suppressed but not truly resolved inevitably return, often larger and in a more critical location. The foundation of power is threatened.",
+      "Metaphorical/Psychological Meaning": "The original unconscious instability (sinkhole), never truly resolved but only suppressed by the Shadow's magic, reappears in the most critical location – the very center of consciousness (beneath the palace). This signifies that repression ultimately fails, and the core issue erupts directly threatening the stability of the entire conscious structure.",
+      "Sentence": "But one feast day, as the court celebrated, the ground trembled violently, and a great sinkhole, just like the first one only far larger, opened directly beneath the King's palace, threatening to swallow it whole.",
+      "Chapter Number": 13,
+      "Sentence Number": 61
+    },
+    {
+      "Plot Function": "Panic ensues. The King, desperate, offers the ultimate reward – the princess's hand and half the kingdom – to anyone who can solve this catastrophic problem.",
+      "Grimm Style": "Describes the reaction (\"Panic seized the court\"). King's desperate measure (\"offered his daughter,\" \"half his kingdom\"). Standard ultimate reward offered in fairy tales for saving the kingdom. Highest stakes and highest prize.",
+      "Moral Implication": "In ultimate crisis, the highest reward is offered. Desperation leads to extreme measures. Sets the stage for the final heroic act.",
+      "Metaphorical/Psychological Meaning": "The threat to the core of consciousness (palace sinking) causes panic. The ruling principle (King) offers the ultimate prize – union with the Anima (daughter) and co-rulership of consciousness (half kingdom) – to whatever psychic function (Ego or otherwise) can resolve this fundamental instability.",
+      "Sentence": "Panic seized the court, and the King, in terror, proclaimed that whoever could close this abyss would have his daughter's hand in marriage and half the kingdom besides.",
+      "Chapter Number": 13,
+      "Sentence Number": 62
+    },
+    {
+      "Plot Function": "The youth realizes only the Devil might stop this, but also understands the danger of further bargains. He decides on a different approach, perhaps using knowledge gained. He prepares to confront the Devil directly.",
+      "Grimm Style": "Shows the youth's understanding (\"knew only one\"). Implies hesitation/decision (\"resolved\"). Action (\"went to the crossroads\"). Suggests confrontation rather than just asking for help this time.",
+      "Moral Implication": "Recognizing the source of power but also the danger. Deciding to confront rather than just bargain. Taking control of the situation.",
+      "Metaphorical/Psychological Meaning": "The Ego recognizes that the Shadow (Devil) holds the key to the crisis, but also the danger of further pacts. The Ego resolves to confront the Shadow directly, aiming for a different kind of resolution than simple bargaining. This marks a step towards greater autonomy and integration.",
+      "Sentence": "The youth knew only one power that might close such a hole, but he feared the price; yet, seeing the princess's pale face, he resolved what must be done and went once more to the crossroads at midnight.",
+      "Chapter Number": 13,
+      "Sentence Number": 63
+    },
+    {
+      "Plot Function": "The youth summons the Devil, but instead of asking for help, he cleverly uses the Devil's pride and annoyance against him, framing the sinkhole as an embarrassment or failure on the Devil's part. Humour in tricking the Devil.",
+      "Grimm Style": "Repeats summoning. Dialogue shows clever trickery (\"Your hole... is unstable\"). Appeals to Devil's pride/reputation (\"shoddy work,\" \"makes you look foolish\"). Attempts to manipulate the Devil rather than bargain. Trickster archetype.",
+      "Moral Implication": "Using wit and understanding of the opponent's weakness (pride) to achieve a goal. Outsmarting the Devil. Turning the tables.",
+      "Metaphorical/Psychological Meaning": "The Ego confronts the Shadow (Devil) not by bargaining, but by using psychological manipulation (appealing to pride, pointing out the failure of the previous fix). This represents the Ego learning to handle the Shadow not just through pacts or repression, but through conscious understanding and skillful interaction, using the Shadow's own nature against itself.",
+      "Sentence": "When the Devil appeared, the youth did not plead but declared boldly, \"Your hole-digging has become unstable! This giant abyss beneath the palace is clearly your shoddy work, and frankly, it makes you look quite foolish.\"",
+      "Chapter Number": 13,
+      "Sentence Number": 64
+    },
+    {
+      "Plot Function": "The Devil, angered by the accusation of incompetence and perhaps wanting to show off, closes the final, giant sinkhole permanently out of pique, without demanding a further price. The youth's trick succeeds. Humour in the Devil's reaction.",
+      "Grimm Style": "Devil's angry reaction (\"spluttered,\" \"insulted\"). Action driven by pride (\"show you shoddy!\"). Describes the final, powerful magic (\"stamped his foot,\" \"thundered a word\"). Permanent result (\"sealed forever\"). Shows the Devil being outsmarted.",
+      "Moral Implication": "Pride makes even the Devil vulnerable to manipulation. Cleverness triumphs over power. The problem is solved without further direct cost (though the original pact likely remains).",
+      "Metaphorical/Psychological Meaning": "The Shadow (Devil), provoked by the Ego's challenge to its pride/competence, uses its power to permanently resolve the fundamental instability (close the final hole). The Ego successfully tricked the Shadow into fixing the core problem out of vanity, thus avoiding a further costly bargain. This represents a significant step in integrating the Shadow – not by defeating it, but by understanding and redirecting its energy through cleverness.",
+      "Sentence": "The Devil spluttered, greatly insulted, \"Shoddy work? Foolish? I'll show you shoddy!\" and he stamped his foot so hard the earth shook, thundered a word that cracked the very air, and the great sinkhole sealed itself shut forever.",
+      "Chapter Number": 13,
+      "Sentence Number": 65
+    },
+    {
+      "Plot Function": "The youth returns, the palace is saved, and he claims the reward. The King honours his promise.",
+      "Grimm Style": "Simple return (\"youth returned\"). Clear outcome (\"palace was safe\"). Claiming the reward (\"reminded the King\"). King fulfills promise (\"kept his word\"). Standard happy resolution setup. Reward 3 (implicit in claiming princess/kingdom) achieved.",
+      "Moral Implication": "Promises kept by both hero (in solving problem) and King (in rewarding). Cleverness and courage lead to the highest reward.",
+      "Metaphorical/Psychological Meaning": "The Ego returns to consciousness (court) having permanently resolved the fundamental instability by skillfully managing the Shadow. The ruling principle (King) honours its promise, signifying consciousness accepting the Ego's success.",
+      "Sentence": "The youth returned to the safe palace, reminded the King of his promise, and the King, true to his word, announced the wedding.",
+      "Chapter Number": 14,
+      "Sentence Number": 66
+    },
+    {
+      "Plot Function": "The youth marries the beautiful princess, achieving the final reward and full integration into the kingdom's power structure.",
+      "Grimm Style": "Simple statement of marriage (\"married the princess\"). Culmination of the romantic subplot. Standard fairy tale happy ending element. Reward 4 achieved.",
+      "Moral Implication": "The hero achieves ultimate success: love, status, and power through overcoming trials.",
+      "Metaphorical/Psychological Meaning": "The Ego achieves union with the Anima (marries princess), symbolizing psychic wholeness, integration of masculine and feminine principles, and the successful culmination of the individuation journey.",
+      "Sentence": "And so the youth, who was once a poor orphan with no shoes, married the beautiful princess.",
+      "Chapter Number": 14,
+      "Sentence Number": 67
+    },
+    {
+      "Plot Function": "Provides a fitting punishment for the Devil, caused indirectly by his own actions. His final, angry stomp created a small, annoying consequence for himself. Humour in the Devil's minor, eternal annoyance. Fitting punishment achieved.",
+      "Grimm Style": "Describes the punishment. Links it back to the Devil's own action (angry stomp). Punishment is minor, irritating, and eternal (\"small spring,\" \"splashes his boots\"). Fittingly ironic and humorous rather than gruesome.",
+      "Moral Implication": "Even the Devil faces consequences for his actions (anger, pride). Small annoyances can be a form of justice. Irony in the punishment.",
+      "Metaphorical/Psychological Meaning": "The Shadow (Devil) faces a minor but permanent consequence stemming from its own uncontrolled reaction (angry stomp). This suggests that while the Shadow isn't destroyed, its integration involves accepting certain limitations or annoying reminders of its nature (splash = minor unconscious intrusions?). The Ego's cleverness led to this contained, manageable outcome for the Shadow.",
+      "Sentence": "But it is said that where the Devil stamped his foot so fiercely at the crossroads, a tiny spring bubbled up, and to this day it splashes muddy water on his neat boots whenever he passes by, which annoys him exceedingly.",
+      "Chapter Number": 14,
+      "Sentence Number": 68
+    },
+    {
+      "Plot Function": "Describes the youth's wise rule, incorporating the lessons learned (practicality, perhaps caution regarding hidden dangers).",
+      "Grimm Style": "Simple statement of his reign (\"ruled wisely\"). Suggests positive long-term outcome. Provides closure on his character arc.",
+      "Moral Implication": "Lessons learned through hardship and adventure lead to wise leadership. The hero uses his experiences for good.",
+      "Metaphorical/Psychological Meaning": "The integrated Ego, now united with the Anima and ruling consciousness (half kingdom), governs wisely. This signifies the achievement of a mature, balanced psychic state capable of managing both inner and outer worlds effectively, having integrated experiences with the Shadow and unconscious instability.",
+      "Sentence": "The youth ruled his half of the kingdom wisely for many years, always ensuring the palace foundations were sound.",
+      "Chapter Number": 14,
+      "Sentence Number": 69
+    },
+    {
+      "Plot Function": "Standard closing formula, indicating a complete and lasting happy ending.",
+      "Grimm Style": "Uses a typical closing phrase (\"lived happily\"). Suggests enduring contentment. Provides definitive closure.",
+      "Moral Implication": "Virtue, cleverness, and endurance are ultimately rewarded with lasting happiness and prosperity.",
+      "Metaphorical/Psychological Meaning": "Signifies the achievement of a stable, integrated, and fulfilling state of psychic wholeness and conscious life after the successful navigation of the individuation process.",
+      "Sentence": "And he and the princess lived happily together to the end of their days.",
+      "Chapter Number": 14,
+      "Sentence Number": 70
+    }
+  ],
+  "The Complete Story": {
+    "Title": "The Orphan and the Sinkhole",
+    "Chapters": [
+      "There was once an orphan who dwelt in a poor hut, and one morning he found a sinkhole had opened beneath his straw bed whilst he slept. Alas, the hole had swallowed his only pair of shoes, which he kept under the bed for fear of thieves. The orphan fetched dirt from outside and poured it into the sinkhole all day, but it remained just as deep as before. By the morrow, the hole had grown wider, so that the orphan could scarce stand in his hut without fear of falling in. So he left the hut, for the floor was naught but hole, and went into the world to seek his fortune, though he still had no shoes.",
+      "He walked until he came to a mill beside a river, where a stout miller was grinding corn. \"Have you any work for a poor orphan?\" asked the boy, but the miller squinted at his bare feet and said, \"What work can shoeless feet do but track mud? Be off with ye!\" Yet, no sooner had the miller spoken than the ground beneath his own feet gave a lurch, just like the floor of the hut, and he tumbled backwards into a sack of flour. The miller sat up, covered head to foot in white flour, looking like a doughy ghost, and the orphan stared. \"Hold,\" sputtered the miller, brushing flour from his eyes, \"perhaps there is work after all; sweep the mill floor clean, and you shall have a crust of bread.\"",
+      "So the orphan took the broom and swept diligently from dawn till dusk, clearing away the chaff and spilled flour. But as he gathered the sweepings into a pile, a small hole appeared in the floorboards beneath it, just like the one in his hut, and swallowed the dust down. The orphan quickly swept more flour over the spot, hoping the miller would not notice the new hole amongst the old boards. That night, however, the hole grew wider still, and in the morning the miller’s prize pig, which slept near the back door, had vanished into it entirely. When the miller found the great hole and his pig gone, he roared, \"This is witchcraft! Trouble follows you, boy! Be gone from my mill before the river itself is swallowed!\"",
+      "So the orphan left the mill, with only the crust of bread in his hand, and knew not whither to go. As he sat weeping by the roadside, a tall man with a neat pointed beard, who smelled faintly of sulphur, stopped before him and said, \"You seem troubled, boy; perhaps I can help?\" The orphan, seeing no other hope, told him of the hole that followed him, and the lost shoes, and the miller's swallowed pig. The tall man chuckled, \"Ah, that hole! A little bit of mischief, dug it myself one night when I was bored and somewhat annoyed by your snoring through the thin hut walls.\" \"But,\" he added, stroking his beard, \"I can close it up for you neat and tidy, in exchange for just one small service you shall do for me when you are grown.\"",
+      "The orphan, shoeless and hungry, saw no other way forward and agreed at once, for what else could he do? The Devil smiled, stamped his foot thrice upon the ground, and the earth sealed up solid as rock where the orphan sat, leaving no trace of any hole. And what is more, at his feet appeared his old shoes, now wondrously mended and sturdy. Then, with a wink and a quiet little pop, the tall man vanished. Now that he had shoes and no hole followed him, the orphan found work easily with a farmer in the next valley, where he tended the sheep and mended fences.",
+      "Years passed, and the orphan grew into a youth, and because he worked hard and honestly, the farmer favoured him above all his other servants. But the strangest thing was happening back at the spot where his hut once stood; the ground, sealed by the Devil, grew vegetables of prodigious size, with pumpkins as big as wine-casks and beanstalks that seemed to reach the clouds. Word of these marvels reached the King of that land, who loved novelty, and he commanded that the largest pumpkin be brought to his court. It took twenty men with ropes and levers to roll the pumpkin onto a cart, and even then they moved it only with the greatest difficulty. The King was delighted with the giant pumpkin, but then he gazed thoughtfully towards the distant beanstalks and declared, \"What of the beans? Fetch me a pod from the very top!\"",
+      "But the beanstalk was so tall it was lost in the clouds, and no man in the kingdom could climb it. Just then, as the youth was mending a fence near the edge of the farmer’s land, the tall man with the pointed beard appeared beside him once more, saying, \"Well met, youth; you are grown now, and I have need of that service you promised.\" \"The King desires a bean pod from yonder stalk,\" the Devil continued, pointing to the enormous plant shimmering in the distance, \"You shall climb it and fetch one for me.\" \"But how?\" cried the youth, \"It reaches the clouds; no man can climb it!\" \"For you, it will be easy,\" sneered the Devil, producing a pair of greasy black gloves and boots, \"Put these on; they stick like fly-paper to any surface.\"",
+      "The youth put on the sticky gloves and boots, and found he could walk straight up the beanstalk as easily as walking on level ground, and so he climbed swiftly until he was above the clouds. He stepped off onto a wide land made of clouds, where nothing grew save for the very top of the beanstalk itself, which bore one single bean pod the size of a small boat. With great effort, the youth plucked the pod from the stalk; it was heavy as stone and bumped awkwardly against his legs. As he turned to climb down, a voice like gentle thunder murmured from the endless blue above, \"Hmm, beans don't usually grow up here; bit untidy.\" The youth paid the voice no mind and climbed down the stalk just as easily as he had climbed up, dragging the enormous pod behind him.",
+      "He reached the bottom and gave the pod to the Devil, who rubbed his hands together and said, \"Excellent, excellent! Just what I wanted.\" \"It makes a wonderful back-scratcher for those hard-to-reach spots,\" the Devil explained with a grin, and disappeared again in his usual quiet pop. The youth, feeling somewhat foolish but also relieved, decided he might as well take the giant pumpkin, which still sat upon its cart, to the King himself. He arrived at court, dragging the cart with surprising ease (perhaps the Devil's magic lingered), and the King was impressed, asking, \"How did you manage this alone when twenty of my men could barely budge it?\" The youth bowed low and said, \"Your Majesty, I found it is mostly hollow inside; I simply pushed out the seeds and rolled it quite easily then.\"",
+      "The King laughed, delighted by such simple ingenuity, and gave the youth a purse full of gold and a place among his lesser advisors. Now, the King had a daughter who was very beautiful, and she watched all this from her window and was much intrigued by the clever youth. But soon a new trouble arose, for the giant vegetables left in the field began to rot, and gave off such a terrible stink that it spread through the whole land. \"Rid me of this stench!\" commanded the King, pinching his nose, but no one knew how to clear away mountains of rotting pumpkin and beans. The youth, who was now a royal advisor, heard this and thought the matter over carefully for a day and a night.",
+      "Then he went to the crossroads outside the city at midnight and called out for the tall man with the pointed beard. The Devil materialized before him with a faint smell of sulphur and decay, asking, \"What now, clever boy? Did you miss my help?\" The youth described the great stink from the rotting growth that the Devil's magic had caused, and asked, \"Can you not remove this foulness?\" The Devil stroked his beard thoughtfully, \"Perhaps I can, but cleaning up is tedious work; I shall require half of whatever reward the King gives you for this service.\" The youth, eager to solve the problem and win more favour, agreed to this new bargain.",
+      "Thereupon the Devil waved his hand, muttered a word that sounded like 'Begone!', and in an instant all the rotting plants vanished from the fields, and the terrible stink disappeared from the air. The youth returned to the King, bowed, and announced that the air was fresh again as he had commanded. The King was overjoyed and granted the youth great lands and the title of Lord Advisor to the Crown. True to his word, the youth took half the value of the lands in gold, went to the crossroads that night, and left the heavy bag there unseen, feeling a shiver despite his new lordship. The beautiful princess watched him receive his new honours, and grew fonder of the clever Lord Advisor each day.",
+      "But one feast day, as the court celebrated, the ground trembled violently, and a great sinkhole, just like the first one only far larger, opened directly beneath the King's palace, threatening to swallow it whole. Panic seized the court, and the King, in terror, proclaimed that whoever could close this abyss would have his daughter's hand in marriage and half the kingdom besides. The youth knew only one power that might close such a hole, but he feared the price; yet, seeing the princess's pale face, he resolved what must be done and went once more to the crossroads at midnight. When the Devil appeared, the youth did not plead but declared boldly, \"Your hole-digging has become unstable! This giant abyss beneath the palace is clearly your shoddy work, and frankly, it makes you look quite foolish.\"",
+      "The Devil spluttered, greatly insulted, \"Shoddy work? Foolish? I'll show you shoddy!\" and he stamped his foot so hard the earth shook, thundered a word that cracked the very air, and the great sinkhole sealed itself shut forever. The youth returned to the safe palace, reminded the King of his promise, and the King, true to his word, announced the wedding. And so the youth, who was once a poor orphan with no shoes, married the beautiful princess. But it is said that where the Devil stamped his foot so fiercely at the crossroads, a tiny spring bubbled up, and to this day it splashes muddy water on his neat boots whenever he passes by, which annoys him exceedingly. The youth ruled his half of the kingdom wisely for many years, always ensuring the palace foundations were sound. And he and the princess lived happily together to the end of their days."
+    ]
+  }
+}

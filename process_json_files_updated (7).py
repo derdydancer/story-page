@@ -3,6 +3,7 @@ import json
 import html
 import os
 import shutil
+import chardet
 
 # Function to sanitize title for filename and folder name
 def sanitize_title(title):
@@ -165,11 +166,18 @@ a:hover {{
 '''
 
 # Get list of JSON files
-files = glob.glob('code*.txt')
+files = glob.glob('unprocessed code/code*.txt')
+files = [file for file in files if not file.endswith("(prompt used).txt")]
 
 # Process JSON files to generate story pages
 for file in files:
-    with open(file, 'r') as f:
+    with open(file, 'rb') as f:
+        raw_data = f.read()
+        result = chardet.detect(raw_data)
+        encoding = result['encoding']
+    
+
+    with open(file, 'r', encoding=encoding, errors='replace') as f:
         data = json.load(f)
     
     title = data['The Complete Story']['Title']
@@ -235,13 +243,27 @@ for file in files:
     analysis_data_json = json.dumps(analysis)
     
     # Write story HTML file
-    with open(html_filename, 'w') as f:
+    with open(html_filename, 'w', errors='replace') as f:
         f.write(story_html_template.format(
             title=html.escape(title),
             audio_html=audio_html,
             chapters_html=chapters_html,
             analysis_data_json=analysis_data_json
         ))
+    
+    file_number = os.path.basename(file).split('.')[0].replace('code', '')
+
+    # Create processed directory if it doesn't exist
+    processed_dir = os.path.join(os.getcwd(), 'processed code')
+    if not os.path.exists(processed_dir):
+        os.makedirs(processed_dir)
+
+    # Move the file to the processed directory
+    print(f'code{file_number}.txt')
+    shutil.move(file, os.path.join(processed_dir, f'code{file_number}.txt'))
+    file_prompt = file.rsplit('.', 1)[0] + " (prompt used).txt"
+    shutil.move(file_prompt, os.path.join(processed_dir, f'code{file_number} (prompt used).txt'))
+
 
 # Generate main.html with links to all HTML files in subfolders
 links_html = ''
