@@ -266,6 +266,93 @@ for file in files:
     if os.path.exists(file_prompt):
         shutil.move(file_prompt, os.path.join(processed_dir, f'code{file_number} (prompt used).txt'))
 
+# Get list of JSON files
+files = glob.glob('processed code/code*.txt')
+files = [file for file in files if not file.endswith("(prompt used).txt")]
+
+# Process JSON files to generate story pages
+for file in files:
+
+    with open(file, 'rb') as f:
+        raw_data = f.read()
+        result = chardet.detect(raw_data)
+        encoding = result['encoding']
+    
+
+    with open(file, 'r', encoding=encoding, errors='replace') as f:
+        data = json.load(f)
+    
+    title = data['The Complete Story']['Title']
+    chapters = data['The Complete Story']['Chapters']
+    analysis = data['Analysis']
+    
+    safe_title = sanitize_title(title)
+    
+    # Create stories directory if it doesn't exist
+    stories_dir = os.path.join(os.getcwd(), 'stories')
+    if not os.path.exists(stories_dir):
+        os.makedirs(stories_dir)
+    
+    folder_path = os.path.join(stories_dir, safe_title)
+    
+    # Create story folder if it doesn't exist
+    if not os.path.exists(folder_path):
+        os.makedirs(folder_path)
+    
+    txt_filename = os.path.join(folder_path, safe_title + '.txt')
+    html_filename = os.path.join(folder_path, safe_title + '.html')
+    mp3_filename = os.path.join(folder_path, safe_title + '.mp3')
+    
+    # Check for existing .mp3 files and rename if necessary
+    mp3_files = glob.glob(os.path.join(folder_path, '*.mp3'))
+    if mp3_files and not os.path.exists(mp3_filename):
+        # Rename the first .mp3 file found to match safe_title
+        shutil.move(mp3_files[0], mp3_filename)
+    
+    # Generate audio HTML
+    audio_html = ''
+    if os.path.exists(mp3_filename):
+        audio_html = f'<audio controls src="{html.escape(safe_title + ".mp3")}"><p>Your browser does not support the audio element.</p></audio>'
+    else:
+        audio_html = '<p>No audio file available.</p>'
+    
+    # Generate text file
+    with open(txt_filename, 'w') as f:
+        f.write(title + '\n')
+        for chapter in chapters:
+            f.write(chapter + '\n')
+    
+    # Group sentences by chapter
+    chapters_content = {}
+    for i, item in enumerate(analysis):
+        chapter_num = item.get('Chapter Number', 0)
+        if chapter_num not in chapters_content:
+            chapters_content[chapter_num] = []
+        chapters_content[chapter_num].append((i, item['Sentence']))
+    
+    # Generate chapters HTML with words wrapped in spans
+    chapters_html = ''
+    for chapter_num in sorted(chapters_content.keys()):
+        sentences_html = ''
+        for i, sentence in chapters_content[chapter_num]:
+            # Split sentence into words and wrap each in a span
+            words = sentence.split()
+            words_html = ''.join(f'<span class="word">{html.escape(word)}</span> ' for word in words)
+            sentences_html += f'<span class="sentence" data-index="{i}">{words_html}</span>'
+        chapters_html += f'<div class="chapter">{sentences_html}</div>\n'
+    
+    # Generate analysis data JSON
+    analysis_data_json = json.dumps(analysis)
+    
+    # Write story HTML file
+    with open(html_filename, 'w', errors='replace') as f:
+        f.write(story_html_template.format(
+            title=html.escape(title),
+            audio_html=audio_html,
+            chapters_html=chapters_html,
+            analysis_data_json=analysis_data_json
+        ))
+    
 
 # Generate main.html with links to all HTML files in subfolders
 links_html = ''
