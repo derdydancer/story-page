@@ -1,0 +1,509 @@
+{
+  "Analysis": [
+    {
+      "Plot Function": "Introduction of initial characters and their socio-economic status. Establishes the protagonist's father as a craftsman living in poverty, a common starting point in fairy tales that often motivates desperate actions.",
+      "Grimm Style": "Classic fairy tale opening, similar to 'There was once a miller...'. Simple, declarative sentence. Vocabulary is plain ('weaver,' 'poor,' 'son'). Focuses on essential information, setting the stage for a story involving skill and hardship.",
+      "Moral Implication": "Sets a backdrop of need. The father's poverty may lead him to make ill-advised claims or decisions out of a desire for a better life for his son or himself.",
+      "Metaphorical/Psychological Meaning": "The 'poor weaver' represents a life of humble, perhaps unfulfilling, toil. The 'son' represents potential and the next generation, who may bear the burden of the parent's ambitions or circumstances. Weaving itself is a metaphor for creation and storytelling.",
+      "Sentence": "There was once a poor weaver who had one son.",
+      "Chapter Number": 1,
+      "Sentence Number": 1
+    },
+    {
+      "Plot Function": "Describes the son's primary skill, linking him to his father's trade but also hinting at his potential. This skill will become the focal point of the father's boast.",
+      "Grimm Style": "Simple sentence, focusing on action and attribute. 'Learned the craft well' is a direct and functional description of his skill level. It uses common vocabulary.",
+      "Moral Implication": "Highlights the son's diligence and acquired skill, a positive trait. This contrasts with the unearned, magical skill often found in such tales, or sets up the expectation that this natural skill will be exaggerated.",
+      "Metaphorical/Psychological Meaning": "The son mastering the 'craft of weaving' symbolizes the development of a specific talent or ego function. This skill, learned through diligence, represents a tangible capability that might be tested or pushed beyond its normal limits.",
+      "Sentence": "The son had learned the craft of weaving well from his father.",
+      "Chapter Number": 1,
+      "Sentence Number": 2
+    },
+    {
+      "Plot Function": "Inciting Incident Part 1: The weaver seeks an audience with the Queen. This indicates an ambition or need that drives him to approach the seat of power.",
+      "Grimm Style": "Direct narrative progression ('It chanced one day...'). The term 'Queen' establishes a high authority. The weaver's action is simple and clearly stated.",
+      "Moral Implication": "The act of seeking the Queen could be driven by desperation (due to poverty) or ambition. This step initiates the chain of events that will lead to the story's central conflict.",
+      "Metaphorical/Psychological Meaning": "Approaching the 'Queen' (a powerful female authority figure, perhaps representing the Anima in a dominant or challenging aspect, or a societal matriarchal power) signifies an appeal to a higher, perhaps formidable, power. This could be an attempt to change one's fate or status.",
+      "Sentence": "It chanced one day that the weaver went to speak with the Queen.",
+      "Chapter Number": 1,
+      "Sentence Number": 3
+    },
+    {
+      "Plot Function": "Inciting Incident Part 2: The weaver makes a boast about his son's extraordinary, impossible skill. This is the core of the Rumpelstiltskin parallel, where a parent's claim puts the child in jeopardy.",
+      "Grimm Style": "The motivation ('to make himself seem of some account') is stated directly, a common Grimm technique for revealing character. The boast ('my son can weave sunlight into cloth') is a fantastical claim, presented matter-of-factly. The sentence structure is compound, linked by 'and'.",
+      "Moral Implication": "Demonstrates the danger of pride, falsehood, and seeking status through exaggeration. The weaver's boast, born of a desire for importance, will have severe consequences for his son. This mirrors the miller's boast in Rumpelstiltskin.",
+      "Metaphorical/Psychological Meaning": "'Weaving sunlight into cloth' is a powerful metaphor for an impossible creative act – capturing the ephemeral and intangible, or creating something of ultimate brilliance and value from an uncontainable source. The boast represents an inflated claim, a projection of an idealized capability onto the son.",
+      "Sentence": "And to make himself seem of some account, he told the Queen that his son could weave sunlight into cloth.",
+      "Chapter Number": 1,
+      "Sentence Number": 4
+    },
+    {
+      "Plot Function": "The Queen's reaction and challenge. She is intrigued by the claim and immediately decides to test it, setting the stakes for the young weaver.",
+      "Grimm Style": "Direct speech from the Queen. Her dialogue is authoritative and sets a clear command ('Bring him to the palace...'). 'That is a skill I should like to see' is a direct, almost understated expression of interest that carries an implicit demand. Archaic 'thy' could be used, but 'your' is also acceptable in many translations.",
+      "Moral Implication": "The Queen, like the king in Rumpelstiltskin, is quick to exploit a potentially valuable skill. Her desire to 'put it to the test' shows a pragmatic or perhaps demanding nature. The lack of skepticism implies the acceptance of magical possibilities, common in fairy tales.",
+      "Metaphorical/Psychological Meaning": "The Queen embodies a powerful authority that demands proof of the extraordinary claim. The 'palace' is the realm where this test will occur, a place of power and judgment. The son is now summoned to manifest the father's inflated projection.",
+      "Sentence": "The Queen said to the weaver, \"That is a skill I should like to see; if your son is as deft as you claim, bring him to the palace to-morrow, that I may put it to the test.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 5
+    },
+    {
+      "Plot Function": "Setting the Impossible Task. The son is brought to the Queen and given the materials (or lack thereof, in this case, access to sunlight) and the ultimatum: succeed or face a dire consequence.",
+      "Grimm Style": "Direct action and dialogue. The description of the room is minimal and functional ('an empty room with a large loom'). The Queen's command ('Now, take your place...') is blunt. The threat, instead of death, is perpetual servitude, a grim fate for a young man. This offers a variation on the Rumpelstiltskin death threat.",
+      "Moral Implication": "Highlights the Queen's ruthlessness and the severe consequences of the father's boast. Perpetual servitude is a living death, a loss of freedom and identity. This establishes the desperation of the son's situation.",
+      "Metaphorical/Psychological Meaning": "The 'empty room' signifies a lack of ordinary materials, emphasizing the magical nature of the task. The 'loom' is the tool for transformation. 'Sunlight' is the impossible raw material. The threat of 'servitude to the crown for all your days' symbolizes a complete loss of autonomy and being bound to the demands of the dominant authority/complex.",
+      "Sentence": "When the weaver's son was brought before her, the Queen led him to an empty room with a large loom, and said, \"Now, take your place, and if by sunrise you have not woven cloth from sunlight, you shall be in servitude to the crown for all your days.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 6
+    },
+    {
+      "Plot Function": "Isolation of the Protagonist. The Queen ensures his confinement, emphasizing his helplessness and the lack of immediate escape or external aid.",
+      "Grimm Style": "Simple, declarative sentence. Focuses on a direct action ('She herself barred the door') and its consequence ('left him there alone'). The detail 'herself' subtly underscores the Queen's direct involvement and control.",
+      "Moral Implication": "Emphasizes the protagonist's complete isolation and vulnerability. There is no appeal. This highlights the harshness of the world he has been thrust into by his father's words and the Queen's decree.",
+      "Metaphorical/Psychological Meaning": "Being 'barred in' and 'left alone' symbolizes an inward turn, a confrontation with the self and its limitations when faced with an overwhelming, impossible challenge. This isolation is often a necessary precursor to the appearance of help from the unconscious or the activation of hidden potentials.",
+      "Sentence": "Then she herself barred the door from the outside and left him there alone.",
+      "Chapter Number": 1,
+      "Sentence Number": 7
+    },
+    {
+      "Plot Function": "Protagonist's Despair. This sentence details the weaver's son's reaction: his inability to conceive of how to perform the task and his growing distress. This often precedes magical intervention.",
+      "Grimm Style": "Compound sentence describing his reaction. Words like 'poor,' 'knew not how to begin,' 'no thread of sunlight came,' and 'his spirit sank low' convey his despair directly without overt emotional language. The repetition of his inability to weave sunlight emphasizes the impossibility.",
+      "Moral Implication": "Highlights the natural human reaction to an impossible demand and a severe threat. His sinking spirit shows his vulnerability and humanity, contrasting with the Queen's cold command and his father's reckless boast.",
+      "Metaphorical/Psychological Meaning": "His despair signifies a breakdown of the conscious Ego's ability to cope. He has reached the limit of his known skills and resources. This state of helplessness can be the point where the unconscious is able to break through with aid. His 'spirit sank low' indicates a loss of hope before the potential for magical intervention.",
+      "Sentence": "And so the poor weaver's son sat before the loom, and knew not how to begin, for no thread of sunlight came to his hand, and his spirit sank low within him.",
+      "Chapter Number": 1,
+      "Sentence Number": 8
+    },
+    {
+      "Plot Function": "Arrival of the Magical Helper. A mysterious old woman appears, offering a potential solution to his impossible task. This introduces the supernatural element, similar to Rumpelstiltskin's helper.",
+      "Grimm Style": "Use of 'Then, on a sudden,' signals a sudden, magical event. The description of the helper is minimal ('an old woman, small and bent'). Direct dialogue is used for her introduction. Her simple greeting and question contrast with the dire situation.",
+      "Moral Implication": "Suggests that help can arrive from unexpected sources in times of great need, especially for one facing an unjust plight. The 'old woman' represents a power beyond the ordinary. Her question 'why do you sit so forlorn?' is a direct engagement with his state.",
+      "Metaphorical/Psychological Meaning": "The 'old woman' represents an archetype of hidden wisdom, the Crone, or a manifestation of the unconscious (perhaps a helpful aspect of the Anima or the Wise Old Woman archetype). She appears when the Ego (the son) is at its lowest ebb. Her smallness and bent form might imply that wisdom can come in unassuming packages or from overlooked aspects of the psyche.",
+      "Sentence": "Then, on a sudden, the door unbarred itself, and in came an old woman, small and bent, who said, \"Greetings, young weaver; why do you sit so forlorn before an empty loom?\"",
+      "Chapter Number": 1,
+      "Sentence Number": 9
+    },
+    {
+      "Plot Function": "Explanation of the Dilemma. The weaver's son explains his predicament to the old woman, articulating the impossible demand and the consequence of failure.",
+      "Grimm Style": "Direct and simple dialogue. His answer is a straightforward explanation ('I am bid to weave sunlight into cloth... or face a lifetime of servitude'). The term 'I am bid' is slightly archaic and fits the tone.",
+      "Moral Implication": "His honest admission of the task and its stakes sets the stage for a bargain. It shows his desperation and truthfulness in this moment to the potential helper.",
+      "Metaphorical/Psychological Meaning": "Articulating the problem to the 'helper' from the unconscious is a step towards resolving it. He acknowledges the external demand and the impossible nature of the task using his conscious skills, making space for the unconscious to act or propose a solution.",
+      "Sentence": "\"Alas, good mother,\" answered the young man, \"I am bid to weave sunlight into cloth by morning, or face a lifetime of servitude, and I know not how such a thing might be done.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 10
+    },
+    {
+      "Plot Function": "The Bargain Initiated (First Price). The old woman offers her magical assistance but, like Rumpelstiltskin, demands payment. This sets up the theme of exchange for supernatural aid.",
+      "Grimm Style": "Direct dialogue. The old woman's offer is clear, and her question ('What will you give me...?) is transactional. The archaic 'an I do this for thee' fits the style. The structure is typical for such bargaining scenes.",
+      "Moral Implication": "Introduces the motif that magical help often comes at a price. The son is now faced with making a sacrifice to escape servitude. This first bargain will test what he values.",
+      "Metaphorical/Psychological Meaning": "The bargaining process with the 'old woman' (representing unconscious wisdom or power) signifies an exchange of energy or a sacrifice required for the impossible to be achieved. She holds the key to a non-rational solution, but it requires a conscious offering from the Ego.",
+      "Sentence": "Then the old woman said, \"I can do this thing for you, but what will you give me as payment, an I weave this cloth of sunlight by sunrise?\"",
+      "Chapter Number": 2,
+      "Sentence Number": 11
+    },
+    {
+      "Plot Function": "The Son's Offer. He offers the only thing of value he possesses on his person, his sturdy belt, a practical item for a young craftsman.",
+      "Grimm Style": "Simple, direct speech. The son's offer ('This sturdy belt... it is all I have with me') is honest and reflects his poverty. A belt is a concrete, functional item.",
+      "Moral Implication": "Shows the son's willingness to part with a useful possession. It highlights his limited means and the value he places on escaping servitude. This modest offering sets a baseline for escalating prices if the trials continue.",
+      "Metaphorical/Psychological Meaning": "A 'belt' can symbolize strength, security, or what holds one together (both literally and figuratively). Giving it up represents a sacrifice of a personal attribute or a symbol of his current identity/status as a craftsman. It's a relinquishing of a mundane support for otherworldly aid.",
+      "Sentence": "\"I have little to my name,\" said the weaver's son, \"but I will give you this sturdy belt from my waist; it is all I have with me of any worth.\"",
+      "Chapter Number": 2,
+      "Sentence Number": 12
+    },
+    {
+      "Plot Function": "Execution of the Magical Task (First Night). The old woman accepts the belt and performs the impossible feat, weaving sunlight into cloth by morning. This demonstrates her power.",
+      "Grimm Style": "Rapid, rhythmic description of the magical action. Instead of 'whirr,' the description uses imagery of light ('drew forth threads of pure dawn light,' 'shuttle moved swift as thought'). The outcome is stated clearly: 'a bolt of cloth that shone like the sun itself.' The alliteration ('shone like the sun') is a common poetic device.",
+      "Moral Implication": "The old woman fulfills her side of the bargain once the price is paid, establishing her reliability. The impossible task is achieved through her magical intervention, saving the son from immediate servitude.",
+      "Metaphorical/Psychological Meaning": "The act of weaving with 'dawn light' and 'noon's full glare' signifies a mastery over potent, ephemeral energies. The shuttle moving 'swift as thought' suggests the intuitive, rapid workings of the unconscious. The resulting cloth 'that shone like the sun itself' is a metaphor for a creation of ultimate brilliance, a manifestation of the impossible, akin to the gold in Rumpelstiltskin.",
+      "Sentence": "The old woman took the belt, then went to the window where the first rays of dawn touched the sill; she seemed to draw forth threads of pure dawn light, and by the time the sun was fully risen, her shuttle had moved swift as thought, and upon the loom lay a bolt of cloth that shone like the sun itself.",
+      "Chapter Number": 2,
+      "Sentence Number": 13
+    },
+    {
+      "Plot Function": "The Queen's Reaction to the First Success. The Queen is impressed and pleased, but like the king in Rumpelstiltskin, her desire is piqued for more. Her language reveals a hint of possessiveness or further ambition.",
+      "Grimm Style": "Simple narrative style. The Queen's reaction ('was greatly amazed and pleased') is directly stated. Her dialogue ('A marvel indeed... such skill must not be idle') reveals her intention to continue exploiting this ability. Use of 'henceforth' gives an authoritative tone.",
+      "Moral Implication": "Shows the Queen's character. While amazed, her pleasure is quickly followed by a desire to control and utilize this extraordinary skill further. This foreshadows escalating demands, similar to the avaricious king.",
+      "Metaphorical/Psychological Meaning": "The Queen's amazement validates the magical creation. Her immediate thought to put the skill to further use shows an authority figure (or dominant psychic complex) that, once witnessing a new power, seeks to harness it for its own purposes. The 'skill must not be idle' suggests a demand for continuous production of the miraculous.",
+      "Sentence": "When the Queen came at sunrise and saw the shining cloth, she was greatly amazed and pleased, and said, \"A marvel indeed, young weaver; such skill must not be idle henceforth.\"",
+      "Chapter Number": 2,
+      "Sentence Number": 14
+    },
+    {
+      "Plot Function": "Escalation of the Task (Second Demand). The Queen demands a new, even more impossible task: weaving a tapestry from moonlight that shows true dreams. The threat of servitude remains.",
+      "Grimm Style": "Direct action by the Queen ('She had the weaver's son taken to another chamber...'). The new material ('moonlight') and product ('a tapestry that shows true dreams') are fantastical. The condition and threat are reiterated, maintaining the pressure.",
+      "Moral Implication": "Demonstrates how initial success can lead to greater demands from the powerful and greedy. The Queen shows no lasting gratitude, only an increased desire for wonders. The task is more esoteric, moving from tangible light (sun) to ethereal light (moon) and abstract concepts (true dreams).",
+      "Metaphorical/Psychological Meaning": "The 'tapestry from moonlight that shows true dreams' represents an even more profound creative act: capturing the elusive substance of the night, intuition, and the prophetic content of the unconscious. This is a demand for the weaver's son to access and manifest even deeper, more hidden psychic realities. The pressure from the Queen (dominant authority/complex) increases.",
+      "Sentence": "She had the weaver's son taken to another chamber, with a larger loom still, and told him that as he valued his freedom, he must by the next sunrise weave a tapestry from moonlight, one that shows true dreams.",
+      "Chapter Number": 2,
+      "Sentence Number": 15
+    },
+    {
+      "Plot Function": "Repetition of Despair and Helper's Arrival. The son is again helpless, and the old woman reappears, ready to bargain. This establishes the cyclical nature of the trials.",
+      "Grimm Style": "Repetition of the previous scenario: the son's inability ('knew no way to capture moonlight'), and the helper's timely magical appearance ('the door unbarred itself once more, and the old woman stood there'). Her question is similar, reinforcing the pattern.",
+      "Moral Implication": "Shows the recurring nature of the trial when the underlying desire of the Queen is not satisfied. The son remains reliant on external, magical help. The old woman's consistent appearance when he is in need suggests a reliable, if conditional, source of aid.",
+      "Metaphorical/Psychological Meaning": "The repetition of the cycle (despair -> helper appears -> bargain) signifies a recurring pattern of psychological challenge. Each new task probes deeper into the realm of the impossible and requires a new negotiation with the unconscious forces that hold the key to such creation.",
+      "Sentence": "The young man despaired, for he knew no way to capture moonlight on a shuttle, but soon the door unbarred itself once more, and the old woman stood there, asking, \"And what will be my wage for this night's work, weaver's son?\"",
+      "Chapter Number": 2,
+      "Sentence Number": 16
+    },
+    {
+      "Plot Function": "The Second Bargain. The son offers his sturdy boots, another practical item of personal value, highlighting his diminishing possessions.",
+      "Grimm Style": "Simple, direct dialogue. The offering of 'these good boots from my feet' is another concrete, personal item. The phrase 'they have served me faithfully' adds a touch of pathos.",
+      "Moral Implication": "The price for magical help continues to be paid with personal belongings. Boots are essential for a working man or traveler, symbolizing mobility and grounding. Giving them up is a significant sacrifice.",
+      "Metaphorical/Psychological Meaning": "'Boots' can symbolize one's journey, one's standing in the world, or the ability to move forward. Sacrificing them represents giving up a fundamental aspect of his independence or his connection to the everyday world in exchange for the continued intervention of the magical helper.",
+      "Sentence": "\"Good mother,\" he said, \"I have already given you my belt; I can only offer you these good boots from my feet, though they have served me faithfully on many a road.\"",
+      "Chapter Number": 2,
+      "Sentence Number": 17
+    },
+    {
+      "Plot Function": "Execution of the Magical Task (Second Night). The old woman accepts the boots and weaves the tapestry of moonlight and dreams.",
+      "Grimm Style": "Description of the magical weaving with moonlight. Imagery of 'silvern threads' and dreams 'taking form like mist' evokes the ethereal nature of the task. The outcome is a 'tapestry that shimmered with visions'.",
+      "Moral Implication": "The old woman again fulfills her promise. The tasks become increasingly wondrous, and the son becomes more indebted, saved from servitude but at a recurring cost.",
+      "Metaphorical/Psychological Meaning": "Weaving with 'moonlight' and 'dreams' represents the unconscious helper's ability to work with the deepest, most intuitive and symbolic layers of the psyche. The 'tapestry of true dreams' is a manifestation of profound inner truths or archetypal visions, brought into tangible form by this magical process.",
+      "Sentence": "The old woman took the boots, and as the moon climbed high, she gathered its beams like silvern threads, and dreams seemed to flow from her fingers into the loom, so that by morning a tapestry that shimmered with visions hung there complete.",
+      "Chapter Number": 2,
+      "Sentence Number": 18
+    },
+    {
+      "Plot Function": "Queen's Escalated Desire and the Ultimate Offer/Threat (Third Demand). The Queen is overjoyed and now desires something even more extraordinary, offering him a high position (her chief counsel) if he succeeds. This is the Rumpelstiltskin-esque shift to a grand prize coupled with an ultimate task.",
+      "Grimm Style": "The Queen's reaction is heightened ('rejoiced beyond telling'). The new task is to 'weave a cloak from the fabric of silence itself, that it may render the wearer unheard by any ear.' The offer of becoming 'my chief counsel and weaver of wonders' is a significant elevation in status, parallel to the promise of marriage in Rumpelstiltskin. The threat of failure, though unstated, is implicitly understood as still dire.",
+      "Moral Implication": "Shows the insatiable nature of the Queen's desire for the unique and powerful. The offer of high status is a powerful lure, but it's tied to achieving the truly impossible. This tests the limits of magic and the son's reliance on the helper.",
+      "Metaphorical/Psychological Meaning": "Weaving a 'cloak from the fabric of silence' is perhaps the most profound and paradoxical task yet – to give form to nothingness, to master the unmanifest. It represents a demand for ultimate magical power or spiritual attainment. Becoming 'chief counsel' signifies achieving a position of great influence and wisdom, but through this perilous final test relying on the unconscious.",
+      "Sentence": "The Queen was rejoiced beyond telling at the sight of the dream-tapestry, and her eyes shone with a new desire; she said, \"One more task, and you shall be my chief counsel and weaver of wonders: weave for me a cloak from the fabric of silence itself, that it may render the wearer unheard by any ear.\"",
+      "Chapter Number": 2,
+      "Sentence Number": 19
+    },
+    {
+      "Plot Function": "The Son's Realization of Depletion. He acknowledges he has nothing left of material value to offer the old woman for this ultimate task.",
+      "Grimm Style": "Simple, direct statement. The son's declaration 'I have nothing left to offer you' is a critical turning point, mirroring the miller's daughter in Rumpelstiltskin. It signals that the next price will be of a different, more profound nature.",
+      "Moral Implication": "The escalating demands have stripped him of all his tradeable possessions. This forces the narrative into a new kind of bargain, one that cannot be settled with material goods, foreshadowing a much dearer and more personal cost.",
+      "Metaphorical/Psychological Meaning": "The exhaustion of material offerings (belt, boots – symbols of external support and personal grounding) means that any further help from the unconscious (the old woman) will require a sacrifice from a deeper level of his being – his future, his identity, or some essential part of his self.",
+      "Sentence": "When the old woman appeared that night in the third chamber, which was grander than all before, the weaver's son said to her, \"Wise mother, I have nothing left to offer you for such a weaving, for you have my belt and my boots, and I own naught else of worth.\"",
+      "Chapter Number": 2,
+      "Sentence Number": 20
+    },
+    {
+      "Plot Function": "The Ultimate Demand. The old woman, since he has no material goods, demands a deeply personal and future-bound price: his name, to be forfeit if he cannot guess hers. This is the core 'male equivalent' of the firstborn child bargain.",
+      "Grimm Style": "Direct and stark dialogue. The demand for 'your name, that which you are called' is profound. The condition 'if you cannot tell me my own true name three years from this night' sets a future deadline and the 'guessing game' element, akin to Rumpelstiltskin. Forfeiting one's name is a significant loss of identity.",
+      "Moral Implication": "This is the most morally challenging bargain for the son. A name is intrinsically tied to identity and social existence. Promising it is a desperate act. It introduces the theme of the power of names and the long-term consequences of bargains made under duress.",
+      "Metaphorical/Psychological Meaning": "A 'name' symbolizes identity, essence, and one's place in the world. To promise one's name to an unconscious power (the old woman) represents a profound psychic debt or a potential assimilation of the Ego by a powerful unconscious complex. The three-year delay provides a period for the Ego to potentially develop or find a way to avert this fate. Guessing her name means identifying and thus gaining power over this influential unconscious figure.",
+      "Sentence": "\"Since you have no gold nor gear,\" said the old woman, \"then you shall promise me your name, that which you are called; and it shall be mine if you cannot tell me my own true name three years from this night, when I come to claim it.\"",
+      "Chapter Number": 3,
+      "Sentence Number": 21
+    },
+    {
+      "Plot Function": "The Son's Desperate Agreement. Faced with the impossible task and the promise of high status, he agrees to the old woman's demand, rationalizing it due to the uncertainty of the future and his immediate need.",
+      "Grimm Style": "Reports the son's internal thought process briefly ('Three years is a long time... perchance she will forget'). This is a classic human rationalization for making a risky promise. His action ('he gave his promise') is driven by 'his great need' and the lure of the reward. The old woman then performs the final task.",
+      "Moral Implication": "Shows how desperation and ambition can lead to rash promises with severe long-term consequences. His thought is a form of self-deception. This parallels the miller's daughter's thought process in Rumpelstiltskin. The story will later hold him accountable.",
+      "Metaphorical/Psychological Meaning": "His rationalization shows the Ego trying to minimize the perceived cost of the bargain. This act of promising under duress creates a future debt or unresolved psychic tension with the unconscious. The weaving of 'silence into a cloak' is the ultimate magical feat, signifying mastery over the unmanifest, achieved through this profound and perilous bargain.",
+      "Sentence": "\"Three years is a long time,\" thought the weaver's son, \"and who can say what may happen? Perchance she will forget, or I shall learn her name.\" So, in his great need and seeing the high station promised, he gave his promise, and the old woman then wove silence itself into a cloak that absorbed all sound around it.",
+      "Chapter Number": 3,
+      "Sentence Number": 22
+    },
+    {
+      "Plot Function": "Ascension to High Status. The Queen is delighted with the cloak of silence, and the weaver's son is made her chief counsel, fulfilling her conditional offer.",
+      "Grimm Style": "Swift narrative pace. The Queen's delight ('marveled greatly') and the son's promotion ('made him her chief counsel') are stated directly and simply. This concludes the first major arc of the story: his trials and rise to power.",
+      "Moral Implication": "Shows the fulfillment of the Queen's promise. The son achieves a high social and political status, but it's built upon a dangerous secret and a terrible bargain with the old woman. His success is not entirely his own.",
+      "Metaphorical/Psychological Meaning": "Becoming 'chief counsel' signifies a major transformation in the protagonist's external circumstances and influence. It represents an attainment of wisdom and power in the worldly realm, but it's shadowed by the unresolved debt to the unconscious power that enabled this rise.",
+      "Sentence": "And when in the morning the Queen came and touched the cloak, and found it utterly soundless, she marveled greatly, and true to her word, she made the weaver's son her chief counsel in the kingdom.",
+      "Chapter Number": 3,
+      "Sentence Number": 23
+    },
+    {
+      "Plot Function": "Passage of Time and Forgetting the Bargain. Nearly three years pass; the son thrives in his new role and forgets his promise to the old woman. This sets up the renewed conflict when the debt comes due.",
+      "Grimm Style": "Concise narration of time passing ('Wellnigh three years went by...'). The son's success ('served the Queen wisely') and his forgetfulness ('thought no more of the old woman nor his promise') are common human traits that reintroduce the conflict. This follows the Rumpelstiltskin pattern.",
+      "Moral Implication": "Illustrates the theme that promises, especially those made to magical beings or under duress, have a way of returning. Comfort and success can lead to neglecting past obligations, a moral lapse that will soon bring consequences.",
+      "Metaphorical/Psychological Meaning": "Thriving in his new role signifies the Ego's successful adaptation to a higher level of functioning. However, 'forgetting' the old woman and the promise represents the repression of the debt owed to the unconscious. This unresolved psychic contract will inevitably resurface as the deadline approaches.",
+      "Sentence": "Wellnigh three years went by, and the weaver's son served the Queen wisely with his counsel, and he thought no more of the old woman nor his promise, for his life was full and important.",
+      "Chapter Number": 3,
+      "Sentence Number": 24
+    },
+    {
+      "Plot Function": "Return of the Helper to Claim Her Due. On the appointed day, the old woman suddenly reappears to claim his name, as per their bargain, initiating the story's second major conflict: the name-guessing trial.",
+      "Grimm Style": "The helper's return is sudden and precise ('On the very day the three years were ended...'). Her demand ('I have come for that which you promised me: your name') is direct and unambiguous. This is the moment the forgotten bargain forcefully re-enters his life.",
+      "Moral Implication": "Reinforces the binding nature of the promise. Time has not erased the obligation. The old woman's appearance is a stark reminder of past debts and the consequences of desperate bargains. His forgotten vow now threatens his very identity.",
+      "Metaphorical/Psychological Meaning": "The old woman's return signifies the resurgence of the repressed unconscious content or the unfulfilled contract. The demand for his 'name' is a demand for his core identity, the essence of his Ego, which was pledged to the unconscious power that enabled his rise.",
+      "Sentence": "But on the very day the three years were ended, as he sat in council with the Queen, the old woman suddenly stood before him in the chamber and said, \"Young man, I have come for that which you promised me: your name.\"",
+      "Chapter Number": 3,
+      "Sentence Number": 25
+    },
+    {
+      "Plot Function": "The Son's Consternation and Attempted Renegotiation. He is shocked and tries to offer wealth or service instead of his name, but the old woman refuses, stating her specific desire.",
+      "Grimm Style": "The son's reaction ('was sore afraid') is stated directly. His offer ('all the wealth I have gained, or my lifelong service') shows his desperation to avoid the forfeiture of his name. The old woman's refusal is firm, and her reason ('A name is a name, and that was our bond') emphasizes the unique nature of the promise.",
+      "Moral Implication": "Reinforces the binding nature of the original promise – it cannot be easily bought off with material wealth or alternative service. The old woman holds him to the exact terms. This highlights the irreplaceability of identity (his name).",
+      "Metaphorical/Psychological Meaning": "The son's attempt to offer 'wealth' or 'service' shows the Ego trying to substitute other forms of value for the deeply personal sacrifice of identity. The old woman's insistence ('A name is a name') signifies that the unconscious power demands the specific psychic price that was agreed upon, representing the unique and non-negotiable claim it has.",
+      "Sentence": "The Queen's counsel was sore afraid, and offered the old woman all the wealth he had gained, or his lifelong service in any other form, if she would but let him keep his name; but the old woman said, \"Nay, a name is a name, and that was our bond.\"",
+      "Chapter Number": 3,
+      "Sentence Number": 26
+    },
+    {
+      "Plot Function": "Helper's Pity and a New Condition. The son's visible distress moves the old woman to offer a different way out: guess her name within three nights. This parallels Rumpelstiltskin's pivotal offer.",
+      "Grimm Style": "The son's visible distress ('he pleaded with such despair') causes the old woman to show a sliver of 'pity,' adding a touch of complexity to her. The new condition ('guess my true name') and timeframe ('three nights') directly echo the Rumpelstiltskin structure.",
+      "Moral Implication": "Shows that even seemingly implacable figures can be moved by genuine suffering. This offers a slim chance. The condition of guessing the name emphasizes the power of names and hidden knowledge. It shifts the challenge to one of discovery.",
+      "Metaphorical/Psychological Meaning": "The son's despair signifies a profound existential crisis. The old woman's 'pity' suggests that the unconscious, while demanding, is not entirely destructive and can offer a path to resolution if the Ego engages actively. The 'true name' is a potent symbol of essence. To know her name is to gain power over this influential unconscious figure, requiring a quest for hidden knowledge.",
+      "Sentence": "Then the young man pleaded with such despair in his voice that the old woman had a moment's pity and said, \"Then I shall give you this chance: you have three nights to tell me my true name.\"",
+      "Chapter Number": 3,
+      "Sentence Number": 27
+    },
+    {
+      "Plot Function": "The old woman explicitly states the terms of the new challenge: succeed in guessing her name within three nights, or his name is forfeit.",
+      "Grimm Style": "Direct, clear statement of the conditions by the old woman. The timeframe 'three nights' and the consequence 'your name is mine' are unambiguous. This sets the stage for the final suspenseful trial.",
+      "Moral Implication": "This formalizes the new challenge. It provides a specific, though difficult, path for the son to save his identity. The emphasis on 'my true name' underscores the central importance of this secret knowledge.",
+      "Metaphorical/Psychological Meaning": "The three nights represent a period of intense psychological effort and search. The 'true name' symbolizes the essential nature of this unconscious power. Discovering it is akin to bringing it fully into consciousness, thereby gaining a measure of understanding and control. This is a quest for crucial, hidden information that holds the key to his freedom.",
+      "Sentence": "\"If at the end of that time you know it, you may keep your own; but if you do not, then your name is mine, as we agreed.\"",
+      "Chapter Number": 3,
+      "Sentence Number": 28
+    },
+    {
+      "Plot Function": "The Son's First Attempt to Discover the Name. He uses his resources as chief counsel to gather all known female names in the kingdom, initiating his active efforts.",
+      "Grimm Style": "Describes the son's diligent and resourceful efforts ('sent messengers to every corner of the land,' 'commanded scribes to list all female names'). The scope of the search emphasizes the thoroughness of this first, logical attempt.",
+      "Moral Implication": "Shows the son taking active, large-scale steps to solve his problem, utilizing his acquired power and position. His methodical approach reflects his desperation and intellect.",
+      "Metaphorical/Psychological Meaning": "His initial approach is rational and exhaustive, drawing on known, conscious information and societal records ('all female names recorded or remembered'). This represents the Ego trying to solve a problem using its existing knowledge base, resources, and systematic methods. The 'messengers' and 'scribes' symbolize the extension of this conscious, organized search.",
+      "Sentence": "Then the Queen's counsel spent that whole day in great anxiety, and sent messengers to every corner of the land, and commanded scribes to list all female names recorded or remembered, from the grandest to the most humble.",
+      "Chapter Number": 3,
+      "Sentence Number": 29
+    },
+    {
+      "Plot Function": "Failure of the First Night's Guesses. He recites a vast number of names to the old woman, but all are incorrect, heightening the difficulty of the task.",
+      "Grimm Style": "The image of him reading 'from a long scroll' conveys the multitude of names. The repetition of the old woman's simple denial ('That is not my name') creates a sense of mounting tension and the elusiveness of her identity. The specific examples provided ('Agnes, Bertha, Clothilde') are fitting for the setting.",
+      "Moral Implication": "Demonstrates that common knowledge, widespread information, or even an exhaustive list is not enough. The solution requires something more unique or discovered through a different means. His efforts, though extensive, are initially fruitless.",
+      "Metaphorical/Psychological Meaning": "The failure of a vast catalogue of known names suggests that the 'true name' of this unconscious entity is not something found in collective databases or through sheer quantity of information. It is specific, hidden, and perhaps non-conventional. The repeated denial frustrates the Ego's systematic attempts.",
+      "Sentence": "And when the old woman came that first night, he read to her from a long scroll, beginning with Agnes, Bertha, Clothilde, and many hundreds more, but after each one, the old woman merely shook her head and said, \"That is not my name.\"",
+      "Chapter Number": 3,
+      "Sentence Number": 30
+    },
+    {
+      "Plot Function": "The Son's Second Attempt: Seeking Unusual Names. He commands his agents to search for the most obscure and strange-sounding female names, showing his increasing desperation.",
+      "Grimm Style": "Shows the son's continued efforts, now directing his search towards 'the most outlandish and forgotten names'. This indicates a shift in strategy from common to rare, still within the realm of known (though obscure) nomenclature.",
+      "Moral Implication": "His persistence is evident, but his method still relies on finding a name within existing human language, however strange. This highlights the difficulty when the true answer may lie outside conventional searching.",
+      "Metaphorical/Psychological Meaning": "The shift to 'outlandish and forgotten names' signifies the Ego delving into more obscure or unconventional areas of conscious knowledge or cultural memory. It's an attempt to find the solution by exploring the fringes of the known, but still within the limits of what has been named or recorded by others.",
+      "Sentence": "On the second day, the Queen's counsel bade his messengers seek out the most outlandish and forgotten names that old crones in distant villages might recall, or that were hinted at in crumbling texts.",
+      "Chapter Number": 4,
+      "Sentence Number": 31
+    },
+    {
+      "Plot Function": "Failure of the Second Night's Guesses. He presents these unusual and comical names, but again, none are correct, increasing his despair.",
+      "Grimm Style": "The examples of names ('Spittlefig, Grizzelkin, Thistlewick') are folkloric, slightly grotesque, and comical, fitting the Grimm style. The old woman's consistent, calm denial ('Still you have not found it') maintains her enigmatic power.",
+      "Moral Implication": "Demonstrates that neither common nor bizarrely inventive guesses based on known linguistic patterns will suffice. The secret of her name is profound. The son's resources for this type of search are dwindling.",
+      "Metaphorical/Psychological Meaning": "The failure of even 'outlandish' or 'comical' names suggests that the true identity of this powerful unconscious figure is not simply eccentric or archaic; it is uniquely itself and not discoverable by exploring catalogues of human-invented names. The Ego's attempts to label it with pre-existing concepts are proving insufficient.",
+      "Sentence": "So when the old woman returned on the second night, he put to her names such as Spittlefig, Grizzelkin, and Thistlewick, and others that made the very guards by the door snicker, but to each she replied calmly, \"A curious name, but not mine; still you have not found it.\"",
+      "Chapter Number": 4,
+      "Sentence Number": 32
+    },
+    {
+      "Plot Function": "The Son's Last Resort: Personal Search. With only one night left and his methods exhausted, he decides to search himself, signifying a shift from delegating to direct, personal engagement with the unknown.",
+      "Grimm Style": "Narrates his decision and action simply. 'His hope was nearly gone' indicates his state. His journey 'into the deep woods beyond the city' is an archetypal move towards a place of secrets and potential revelation. He goes 'alone and on foot,' emphasizing the personal nature of this final effort.",
+      "Moral Implication": "When all conventional and delegated efforts fail, a personal journey into the unknown is sometimes required. This act of desperation shows his unwillingness to give up, even when his official resources have failed him.",
+      "Metaphorical/Psychological Meaning": "The 'deep woods' represent the unconscious itself. His going 'alone and on foot' signifies a direct, unmediated encounter by the Ego with these hidden realms. This is a classic hero's journey motif: leaving the structured 'city' (consciousness, order) for the wild, uncharted territory where true secrets might be found.",
+      "Sentence": "On the third day, the Queen's counsel felt his hope was nearly gone, so he dismissed his messengers and scribes, and as dusk fell, he himself went out from the palace and into the deep woods beyond the city, alone and on foot.",
+      "Chapter Number": 4,
+      "Sentence Number": 33
+    },
+    {
+      "Plot Function": "Discovery Scene Setup: He reaches a remote, hidden place deep in the woods, a typical setting for encountering magical beings in their private moments.",
+      "Grimm Style": "The description of the setting ('a hidden clearing,' 'a tiny hut of woven branches,' 'a small, flickering fire') is archetypal fairy tale scenery, evoking a sense of isolation and magic. 'Weary from his search' explains his physical state.",
+      "Moral Implication": "Perseverance in the face of despair can lead to unexpected discoveries. The most profound secrets are often found in the most remote and unassuming places, away from the bustle of ordinary life.",
+      "Metaphorical/Psychological Meaning": "The 'hidden clearing' and 'tiny hut' in the 'deepest part of the woods' symbolize a very deep layer of the unconscious, a place of primal energy ('flickering fire') and hidden dwelling. Reaching this place signifies the Ego has penetrated far into the normally inaccessible regions of the psyche.",
+      "Sentence": "He wandered for many hours, weary from his search, until he came to a hidden clearing in the deepest part of woods, and there he saw a tiny hut of woven branches, and before it, a small, flickering fire.",
+      "Chapter Number": 4,
+      "Sentence Number": 34
+    },
+    {
+      "Plot Function": "The Revelation: He overhears the old woman singing and unwittingly revealing her own name. This is the crucial turning point, mirroring Rumpelstiltskin's self-betrayal.",
+      "Grimm Style": "The old woman is seen performing a 'strange little dance' and singing 'in a high, reedy voice,' adding to her otherworldly character. The song is the vehicle for her self-revelation. This is a moment of high dramatic irony, as she believes herself unobserved.",
+      "Moral Implication": "The helper figure's own carelessness or hubris leads to her downfall. Even wise or powerful beings can be undone by a moment of unguarded exultation. The solution comes through a fortunate accident for the protagonist, a common fairy tale trope.",
+      "Metaphorical/Psychological Meaning": "The old woman (unconscious power) revealing her name in a moment of private ritual or joy shows the unconscious inadvertently betraying its deepest secret when it feels secure or unobserved by the conscious Ego. The 'strange little dance' and 'reedy voice' emphasize her primal, perhaps pre-rational nature.",
+      "Sentence": "And round the fire skipped the very same old woman who had visited him, performing a strange little dance by herself, and she sang in a high, reedy voice:",
+      "Chapter Number": 4,
+      "Sentence Number": 35
+    },
+    {
+      "Plot Function": "Old Woman's Song (Line 1). The first line of her self-revelatory chant, indicating her simple activities and contentment.",
+      "Grimm Style": "Simple, rhythmic verse, typical of magical pronouncements in Grimm tales. 'My pot it does bubble' refers to a domestic, perhaps alchemical, activity.",
+      "Moral Implication": "Part of her undoing through her own boastful song. She is so pleased with her hidden power and impending victory that she becomes careless.",
+      "Metaphorical/Psychological Meaning": "The 'pot bubbling' can symbolize transformative processes occurring in the unconscious, a magical brew or creation. Her contentment ('my heart is not troubled') comes from the belief that her true nature remains secret and her power secure.",
+      "Sentence": "\"My pot it does bubble, my spindle does twirl,\"",
+      "Chapter Number": 4,
+      "Sentence Number": 36
+    },
+    {
+      "Plot Function": "Old Woman's Song (Line 2). Continues her chant, referencing her skill and her hidden home.",
+      "Grimm Style": "Continues the simple rhyme and rhythm. 'I weave by the moonlight, alone in my world' emphasizes her connection to the ethereal (moonlight weaving) and her isolated, secret existence.",
+      "Moral Implication": "Reinforces her self-exposure through unguarded singing. Her confidence in her seclusion is about to be shattered.",
+      "Metaphorical/Psychological Meaning": "Weaving by moonlight reiterates her mastery over the hidden, intuitive realms. Her being 'alone in my world' signifies the typical isolation of such powerful unconscious figures, operating by their own rules, distinct from the conscious world.",
+      "Sentence": "\"I weave by the moonlight, alone in my world;\"",
+      "Chapter Number": 4,
+      "Sentence Number": 37
+    },
+    {
+      "Plot Function": "Old Woman's Song (Line 3). She anticipates claiming the Queen's counsel's name, the object of their bargain.",
+      "Grimm Style": "Direct statement of her goal within the song. 'The counsel's fine name' shows what she values from the bargain. This line confirms to the listener (the son) that this is indeed the old woman from their agreement.",
+      "Moral Implication": "Her open declaration of intent to take his name, made in supposed privacy, underscores her fatal overconfidence.",
+      "Metaphorical/Psychological Meaning": "The claiming of the 'counsel's fine name' represents the unconscious power's intention to subsume or control a significant aspect of the Ego's identity, which was pledged in a moment of desperation.",
+      "Sentence": "\"Tomorrow I'll claim the King's Counsel's fine name,\"",
+      "Chapter Number": 4,
+      "Sentence Number": 38
+    },
+    {
+      "Plot Function": "Old Woman's Song (Line 4 - Climax of Song). She triumphantly and ironically reveals her unique name, Mistress Hyssop, providing the key to her own defeat.",
+      "Grimm Style": "The culmination of her song and the direct revelation of her unusual name. The interjection 'Hee! Hee!' conveys her mischievous glee. 'Mistress Hyssop' is a suitably folkloric and slightly botanical name, fitting for an old woman of the woods. This is the critical piece of information the son needs.",
+      "Moral Implication": "The ultimate act of self-betrayal through pride and carelessness. Her own words provide the means for her defeat. This is a strong moral about the dangers of unguarded speech, even for magical beings.",
+      "Metaphorical/Psychological Meaning": "The speaking of the 'true name' is a potent act. Here, the unconscious figure names herself, giving the conscious Ego the very key to neutralizing her power. 'Mistress Hyssop' (hyssop being an herb associated with purification and ritual) gives her a specific, identifiable nature, which can now be consciously addressed.",
+      "Sentence": "\"And none know I'm called Mistress Hyssop, good game! Hee! Hee!\"",
+      "Chapter Number": 4,
+      "Sentence Number": 39
+    },
+    {
+      "Plot Function": "The Son's Reaction and Return. He is overjoyed at learning the name and quickly returns to the palace, now armed with the secret to save his identity.",
+      "Grimm Style": "The son's joy ('His heart near leaped from his chest') is conveyed through a stock phrase indicating extreme emotion, but without deep internal description. His quick and careful return ('crept away quietly,' 'made haste') shows his prudence and urgency.",
+      "Moral Implication": "The protagonist's perseverance and a stroke of luck (overhearing the song) lead to salvation. He now possesses the crucial knowledge and must use it wisely. His quiet departure ensures the old woman remains unaware her secret is out.",
+      "Metaphorical/Psychological Meaning": "The Ego, having acquired the vital, hidden knowledge from the depths of the unconscious, is now empowered. 'His heart near leaped' signifies the immense relief and sudden shift in power dynamics. He returns to the 'palace' (realm of consciousness and order) with the key to resolving the psychic conflict.",
+      "Sentence": "The Queen's counsel, hearing this, felt his heart near leaped from his chest with sudden joy; he crept away quietly from the clearing and made haste back to the palace before the dawn.",
+      "Chapter Number": 4,
+      "Sentence Number": 40
+    },
+    {
+      "Plot Function": "The Final Confrontation: Old Woman Arrives. The old woman appears confidently on the third night, ready to claim the son's name, unaware her secret is known.",
+      "Grimm Style": "Sets the scene for the final confrontation. The old woman's demeanor ('a sharp look in her eye') shows her confidence and expectation of victory. Her question ('Well, young master... what is my name?') is direct and challenging.",
+      "Moral Implication": "Dramatic irony is at its peak, as the audience and the son know the outcome, but the old woman does not. Her confidence will soon be shattered.",
+      "Metaphorical/Psychological Meaning": "The unconscious power (old woman) arrives to claim its due, still believing its true nature is hidden and its power absolute in this bargain. The Ego (the son) is now prepared to meet this challenge with newfound knowledge, not just desperate guesses.",
+      "Sentence": "When the old woman came to the palace on the third night, she had a sharp look in her eye and a small, knowing smile, and she said, \"Well, young master of counsel, this is the final hour; what is my name?\"",
+      "Chapter Number": 5,
+      "Sentence Number": 41
+    },
+    {
+      "Plot Function": "The Son's Strategic Delay (First Guess). He feigns uncertainty and offers a common, plausible-sounding name, heightening the suspense before revealing the true name.",
+      "Grimm Style": "The son's feigned thoughtfulness ('as if puzzling greatly') and his first incorrect guess ('Are you perhaps called Goody Prudence?') are classic storytelling devices to build tension. 'Goody' is an archaic term for an older woman of humble status.",
+      "Moral Implication": "The son now controls the situation, using strategy and patience. This contrasts with his earlier desperation. He is savoring the moment or ensuring the impact of the true reveal.",
+      "Metaphorical/Psychological Meaning": "The Ego, now possessing the key knowledge, doesn't immediately deploy it. This 'puzzling' and incorrect guess can represent a final testing of the waters, or a conscious, playful assertion of control over the previously overwhelming unconscious figure before delivering the decisive stroke.",
+      "Sentence": "The weaver's son looked at her thoughtfully, as if puzzling greatly, and said first, \"Are you perhaps called Goody Prudence?\"",
+      "Chapter Number": 5,
+      "Sentence Number": 42
+    },
+    {
+      "Plot Function": "Old Woman's Denial (First Guess). She confidently denies the first incorrect name, still unaware of her vulnerability.",
+      "Grimm Style": "Her denial ('chuckled a dry little laugh') shows her amusement and continued confidence. The dialogue tag 'chuckled' adds to her character as slightly mocking or self-assured.",
+      "Moral Implication": "Her confidence remains high, increasing the dramatic irony as she dismisses the incorrect guess, unknowingly moving closer to her own defeat.",
+      "Metaphorical/Psychological Meaning": "The unconscious power easily dismisses the generic or plausible label, still secure in its hidden specific identity. Each dismissal of a wrong name brings the confrontation closer to the revelation of the true name.",
+      "Sentence": "\"Prudence is a virtue I possess, but it is not my name,\" she answered, and chuckled a dry little laugh.",
+      "Chapter Number": 5,
+      "Sentence Number": 43
+    },
+    {
+      "Plot Function": "The Son's Strategic Delay (Second Guess). He offers another plausible but incorrect name, drawing out the confrontation further.",
+      "Grimm Style": "Continues the pattern of incorrect guesses. 'Mother Willow-Wisdom' sounds like a folk name for a wise old woman of the woods, making it a clever false lead.",
+      "Moral Implication": "The son is clearly enjoying his position of power, subtly mocking the old woman's confidence with names that sound like they *could* be hers. This shows a shift from fear to assuredness.",
+      "Metaphorical/Psychological Meaning": "Another attempt to label the unconscious figure with a descriptive but ultimately incorrect name is made. This prolongs the moment before the true, specific identification which will carry the real power of transformation or release.",
+      "Sentence": "\"Then,\" said the young man, tapping his chin, \"could your name be Mother Willow-Wisdom?\"",
+      "Chapter Number": 5,
+      "Sentence Number": 44
+    },
+    {
+      "Plot Function": "Old Woman's Denial (Second Guess). She again denies the name, her confidence perhaps wavering slightly as she urges him to the point.",
+      "Grimm Style": "Her denial is still firm, but her added comment ('Speak what you truly think, if you have any guess at all') might hint at a slight impatience or a desire to conclude the matter, still believing she will win.",
+      "Moral Implication": "She is still unaware her secret is known, but the prolonged guessing might be making her eager for her victory. Her goading him to 'speak what you truly think' is ironic.",
+      "Metaphorical/Psychological Meaning": "The unconscious figure urges the Ego to make its definitive statement, still under the assumption that the Ego lacks the true, specific knowledge required to challenge its power effectively.",
+      "Sentence": "\"I dwell near willows and may have some wisdom, yet that too is not what I am called,\" she said, her smile tightening a little. \"Speak what you truly think, if you have any guess at all.\"",
+      "Chapter Number": 5,
+      "Sentence Number": 45
+    },
+    {
+      "Plot Function": "The Climactic Reveal. The son finally utters the correct name, 'Mistress Hyssop,' solving the riddle and winning his freedom and identity.",
+      "Grimm Style": "The son's delivery ('Then a true smile touched his lips for the first time') signals his confidence. The reveal of the name 'Mistress Hyssop' is the moment of triumph.",
+      "Moral Implication": "Knowledge is power. By discovering and speaking her true name, the son breaks her power over him and saves his name/identity. This highlights the importance of uncovering hidden truths, often found through personal effort and a bit of luck.",
+      "Metaphorical/Psychological Meaning": "The speaking of the true name 'Mistress Hyssop' signifies the conscious Ego successfully identifying and thus gaining mastery or freedom from a potent unconscious complex. This act of naming brings the hidden into the light, transforming its influence and neutralizing its claim over the Ego's identity.",
+      "Sentence": "Then a true smile touched his lips for the first time that night, and he said clearly, \"Then perhaps your name is Mistress Hyssop?\"",
+      "Chapter Number": 5,
+      "Sentence Number": 46
+    },
+    {
+      "Plot Function": "Old Woman's Defeat and Reaction. Upon hearing her name, she reacts with shock and fury, realizing she has been undone. Unlike Rumpelstiltskin, her reaction is not immediate self-destruction but a magical vanishment.",
+      "Grimm Style": "Her reaction ('shrieked a terrible shriek,' 'eyes burned like coals') is dramatic and conveys her rage and shock. Her attribution of the reveal ('Some dark magic has aided you!') is an attempt to deny his agency. Her vanishing 'in a puff of bitter herbs and dust' is a suitably magical and less gruesome end than Rumpelstiltskin's, fitting for an old woman connected to herbs.",
+      "Moral Implication": "The power of the revealed truth shatters her hold. Her rage is that of a defeated power. Her vanishing signifies her loss of influence over him. This variant ending shows that defeating such a power doesn't always require its violent annihilation, but rather the breaking of its specific magical claim.",
+      "Metaphorical/Psychological Meaning": "The old woman's furious reaction and disappearance upon being named symbolizes how an unconscious complex can lose its compulsive power or its distinct form once its true nature is fully brought into consciousness. Her blaming 'dark magic' is her refusal to acknowledge her own carelessness or the protagonist's ingenuity. The 'puff of bitter herbs and dust' suggests her connection to nature and the ephemeral, and her essence dispersing or retreating back into the deeper unconscious.",
+      "Sentence": "At this, the old woman shrieked a terrible shriek, and her eyes burned like coals as she cried, \"Some dark magic has aided you, or a bird of the air told my secret!\"",
+      "Chapter Number": 5,
+      "Sentence Number": 47
+    },
+    {
+      "Plot Function": "The old woman's magical disappearance, signifying her complete defeat and the severing of the bargain.",
+      "Grimm Style": "A classic magical disappearance. 'Stamped her foot' is a common gesture of frustration for such beings. 'Vanished in a puff of bitter herbs and dust' is a sensory and fitting exit for 'Mistress Hyssop,' who sounds like an herbalist or hedge-witch. It's definitive but not as violent as Rumpelstiltskin splitting in two.",
+      "Moral Implication": "The antagonist is removed, and the threat is permanently neutralized. The protagonist has successfully defended his identity through wit, perseverance, and a crucial piece of overheard information.",
+      "Metaphorical/Psychological Meaning": "Her vanishing in this manner indicates the retreat or dissolution of the specific unconscious complex once it has been fully identified and its power over the Ego broken. The 'bitter herbs and dust' could symbolize the ephemeral nature of such psychic formations or the lingering 'taste' of the encounter before it fades.",
+      "Sentence": "Then she stamped her foot upon the stone floor, and vanished in a puff of bitter herbs and dust, and was never seen in that palace again.",
+      "Chapter Number": 5,
+      "Sentence Number": 48
+    },
+    {
+      "Plot Function": "Resolution for the Protagonist. The weaver's son is free from the bargain, keeps his name and his high position, and continues to serve wisely.",
+      "Grimm Style": "Simple, declarative sentence stating the positive outcome. 'Kept his name and his high counsel' confirms his victory. 'Served the Queen long and well' provides a satisfying, stable conclusion for the hero.",
+      "Moral Implication": "Virtue (in his service, if not in the origin of his powers) and resourcefulness are ultimately rewarded. He overcame a dire threat to his identity and maintained his success. The story affirms the value of one's name/identity.",
+      "Metaphorical/Psychological Meaning": "The Ego has successfully navigated a perilous engagement with powerful unconscious forces, integrated the experience (retaining his wisdom/counsel), and asserted its autonomy (kept his name). This represents a successful stage of individuation, where a threatening aspect of the unconscious has been understood and its negative hold broken.",
+      "Sentence": "And so the weaver's son kept his name and his high counsel, and he continued to serve the Queen long and well with the wisdom his strange journeys had brought him.",
+      "Chapter Number": 5,
+      "Sentence Number": 49
+    },
+    {
+      "Plot Function": "Concluding Sentence: A traditional fairy tale closing, suggesting the story's enduring truth or the lasting nature of the outcome.",
+      "Grimm Style": "A classic fairy tale closing formula ('And if they have not left off... they are serving there still' or similar). It provides a sense of timelessness and completion to the narrative. It connects the story back to a sense of ongoing reality within its own fictional world.",
+      "Moral Implication": "Implies that the good order achieved at the end of the story continues, providing a sense of finality and reassurance. Wisdom gained through trials endures.",
+      "Metaphorical/Psychological Meaning": "This type of ending reinforces the archetypal and timeless nature of the psychological journey depicted. The 'wisdom' gained through confronting and integrating unconscious challenges becomes a permanent attribute of the developed Ego, continuing to function effectively in the 'world' (the kingdom).",
+      "Sentence": "And as for the magical weavings, they were kept as treasures of the realm, though none since could say how such wonders were ever truly made.",
+      "Chapter Number": 5,
+      "Sentence Number": 50
+    }
+  ],
+  "The Complete Story": {
+    "Title": "The Weaver's Son and Mistress Hyssop",
+    "Chapters": [
+      "There was once a poor weaver who had one son.",
+      "The son had learned the craft of weaving well from his father.",
+      "It chanced one day that the weaver went to speak with the Queen.",
+      "And to make himself seem of some account, he told the Queen that his son could weave sunlight into cloth.",
+      "The Queen said to the weaver, \"That is a skill I should like to see; if your son is as deft as you claim, bring him to the palace to-morrow, that I may put it to the test.\"",
+      "When the weaver's son was brought before her, the Queen led him to an empty room with a large loom, and said, \"Now, take your place, and if by sunrise you have not woven cloth from sunlight, you shall be in servitude to the crown for all your days.\"",
+      "Then she herself barred the door from the outside and left him there alone.",
+      "And so the poor weaver's son sat before the loom, and knew not how to begin, for no thread of sunlight came to his hand, and his spirit sank low within him.",
+      "Then, on a sudden, the door unbarred itself, and in came an old woman, small and bent, who said, \"Greetings, young weaver; why do you sit so forlorn before an empty loom?\"",
+      "\"Alas, good mother,\" answered the young man, \"I am bid to weave sunlight into cloth by morning, or face a lifetime of servitude, and I know not how such a thing might be done.\"",
+      "Then the old woman said, \"I can do this thing for you, but what will you give me as payment, an I weave this cloth of sunlight by sunrise?\"",
+      "\"I have little to my name,\" said the weaver's son, \"but I will give you this sturdy belt from my waist; it is all I have with me of any worth.\"",
+      "The old woman took the belt, then went to the window where the first rays of dawn touched the sill; she seemed to draw forth threads of pure dawn light, and by the time the sun was fully risen, her shuttle had moved swift as thought, and upon the loom lay a bolt of cloth that shone like the sun itself.",
+      "When the Queen came at sunrise and saw the shining cloth, she was greatly amazed and pleased, and said, \"A marvel indeed, young weaver; such skill must not be idle henceforth.\"",
+      "She had the weaver's son taken to another chamber, with a larger loom still, and told him that as he valued his freedom, he must by the next sunrise weave a tapestry from moonlight, one that shows true dreams.",
+      "The young man despaired, for he knew no way to capture moonlight on a shuttle, but soon the door unbarred itself once more, and the old woman stood there, asking, \"And what will be my wage for this night's work, weaver's son?\"",
+      "\"Good mother,\" he said, \"I have already given you my belt; I can only offer you these good boots from my feet, though they have served me faithfully on many a road.\"",
+      "The old woman took the boots, and as the moon climbed high, she gathered its beams like silvern threads, and dreams seemed to flow from her fingers into the loom, so that by morning a tapestry that shimmered with visions hung there complete.",
+      "The Queen was rejoiced beyond telling at the sight of the dream-tapestry, and her eyes shone with a new desire; she said, \"One more task, and you shall be my chief counsel and weaver of wonders: weave for me a cloak from the fabric of silence itself, that it may render the wearer unheard by any ear.\"",
+      "When the old woman appeared that night in the third chamber, which was grander than all before, the weaver's son said to her, \"Wise mother, I have nothing left to offer you for such a weaving, for you have my belt and my boots, and I own naught else of worth.\"",
+      "\"Since you have no gold nor gear,\" said the old woman, \"then you shall promise me your name, that which you are called; and it shall be mine if you cannot tell me my own true name three years from this night, when I come to claim it.\"",
+      "\"Three years is a long time,\" thought the weaver's son, \"and who can say what may happen? Perchance she will forget, or I shall learn her name.\" So, in his great need and seeing the high station promised, he gave his promise, and the old woman then wove silence itself into a cloak that absorbed all sound around it.",
+      "And when in the morning the Queen came and touched the cloak, and found it utterly soundless, she marveled greatly, and true to her word, she made the weaver's son her chief counsel in the kingdom.",
+      "Wellnigh three years went by, and the weaver's son served the Queen wisely with his counsel, and he thought no more of the old woman nor his promise, for his life was full and important.",
+      "But on the very day the three years were ended, as he sat in council with the Queen, the old woman suddenly stood before him in the chamber and said, \"Young man, I have come for that which you promised me: your name.\"",
+      "The Queen's counsel was sore afraid, and offered the old woman all the wealth he had gained, or his lifelong service in any other form, if she would but let him keep his name; but the old woman said, \"Nay, a name is a name, and that was our bond.\"",
+      "Then the young man pleaded with such despair in his voice that the old woman had a moment's pity and said, \"Then I shall give you this chance: you have three nights to tell me my true name.\"",
+      "\"If at the end of that time you know it, you may keep your own; but if you do not, then your name is mine, as we agreed.\"",
+      "Then the Queen's counsel spent that whole day in great anxiety, and sent messengers to every corner of the land, and commanded scribes to list all female names recorded or remembered, from the grandest to the most humble.",
+      "And when the old woman came that first night, he read to her from a long scroll, beginning with Agnes, Bertha, Clothilde, and many hundreds more, but after each one, the old woman merely shook her head and said, \"That is not my name.\"",
+      "On the second day, the Queen's counsel bade his messengers seek out the most outlandish and forgotten names that old crones in distant villages might recall, or that were hinted at in crumbling texts.",
+      "So when the old woman returned on the second night, he put to her names such as Spittlefig, Grizzelkin, and Thistlewick, and others that made the very guards by the door snicker, but to each she replied calmly, \"A curious name, but not mine; still you have not found it.\"",
+      "On the third day, the Queen's counsel felt his hope was nearly gone, so he dismissed his messengers and scribes, and as dusk fell, he himself went out from the palace and into the deep woods beyond the city, alone and on foot.",
+      "He wandered for many hours, weary from his search, until he came to a hidden clearing in the deepest part of woods, and there he saw a tiny hut of woven branches, and before it, a small, flickering fire.",
+      "And round the fire skipped the very same old woman who had visited him, performing a strange little dance by herself, and she sang in a high, reedy voice:",
+      "\"My pot it does bubble, my spindle does twirl,\"",
+      "\"I weave by the moonlight, alone in my world;\"",
+      "\"Tomorrow I'll claim the King's Counsel's fine name,\"",
+      "\"And none know I'm called Mistress Hyssop, good game! Hee! Hee!\"",
+      "The Queen's counsel, hearing this, felt his heart near leaped from his chest with sudden joy; he crept away quietly from the clearing and made haste back to the palace before the dawn.",
+      "When the old woman came to the palace on the third night, she had a sharp look in her eye and a small, knowing smile, and she said, \"Well, young master of counsel, this is the final hour; what is my name?\"",
+      "The weaver's son looked at her thoughtfully, as if puzzling greatly, and said first, \"Are you perhaps called Goody Prudence?\"",
+      "\"Prudence is a virtue I possess, but it is not my name,\" she answered, and chuckled a dry little laugh.",
+      "\"Then,\" said the young man, tapping his chin, \"could your name be Mother Willow-Wisdom?\"",
+      "\"I dwell near willows and may have some wisdom, yet that too is not what I am called,\" she said, her smile tightening a little. \"Speak what you truly think, if you have any guess at all.\"",
+      "Then a true smile touched his lips for the first time that night, and he said clearly, \"Then perhaps your name is Mistress Hyssop?\"",
+      "At this, the old woman shrieked a terrible shriek, and her eyes burned like coals as she cried, \"Some dark magic has aided you, or a bird of the air told my secret!\"",
+      "Then she stamped her foot upon the stone floor, and vanished in a puff of bitter herbs and dust, and was never seen in that palace again.",
+      "And so the weaver's son kept his name and his high counsel, and he continued to serve the Queen long and well with the wisdom his strange journeys had brought him.",
+      "And as for the magical weavings, they were kept as treasures of the realm, though none since could say how such wonders were ever truly made."
+    ]
+  }
+}

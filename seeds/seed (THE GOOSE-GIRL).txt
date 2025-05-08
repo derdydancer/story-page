@@ -1,0 +1,836 @@
+{
+  "Analysis": [
+    {
+      "Plot Function": "Establishes the initial situation of the story: a kingdom in transition and a vulnerable royal family. Introduces the protagonist's lineage and the reason for her mother's sole guardianship. This sets the stage for the princess's upbringing and future journey.",
+      "Grimm Style": "Classic fairy tale opening with the death of a king, creating an immediate shift in power and focus. Language is simple, direct ('died', 'left his queen'). Archetypal characters ('king', 'queen', 'child') and setting ('a great land') are used, typical of Grimm's style. Focus on familial roles and succession.",
+      "Moral Implication": "This sentence subtly implies the responsibilities of leadership and parenthood. The queen's duty to care for the child highlights the theme of parental obligation. The loss of the king also introduces a note of potential instability or the need for the remaining family to be resilient.",
+      "Metaphorical/Psychological Meaning": "The death of the king represents the absence or weakening of the traditional ruling principle (Logos, masculine authority). The queen's rise to guardianship signifies the prominence of the feminine principle (Eros, maternal care) in the protagonist's early life. The 'only child' is the nascent Ego, initially defined by this maternal environment, foreshadowing a journey towards integrating other aspects of the psyche.",
+      "Sentence": "The king of a great land died, and left his queen to take care of their only child.",
+      "Chapter Number": 1,
+      "Sentence Number": 1
+    },
+    {
+      "Plot Function": "Introduces the protagonist, the princess, and establishes her key characteristics: her gender, beauty, and the loving relationship she shares with her mother. This provides essential background information and sets up the reader's empathy for her.",
+      "Grimm Style": "Direct character description using simple, positive adjectives ('very beautiful', 'loved her dearly', 'very kind'). The sentence structure is compound, linked by 'and', maintaining simplicity. The princess embodies the archetypal beautiful maiden.",
+      "Moral Implication": "Highlights the virtue of maternal love and kindness as an ideal. Beauty is presented as an innate quality of the princess, often a marker of inherent goodness or special destiny in fairy tales. This loving upbringing forms a stark contrast to the harsh trials she will later face, emphasizing the cruelty of those who harm her.",
+      "Metaphorical/Psychological Meaning": "The 'very beautiful' daughter can symbolize innate purity, the soul (Anima in its nascent form), or untouched potential. The loving mother embodies the nurturing aspect of the Great Mother archetype, providing a secure, 'good enough' initial environment for the Ego. This period of being 'loved dearly' represents a state of initial wholeness or paradise, from which the hero must eventually depart to undergo individuation.",
+      "Sentence": "This child was a daughter, who was very beautiful; and her mother loved her dearly, and was very kind to her.",
+      "Chapter Number": 1,
+      "Sentence Number": 2
+    },
+    {
+      "Plot Function": "Introduces a supernatural protective element in the princess's life � the good fairy. This fairy acts as a secondary guardian, reinforcing the idea that the princess is special and watched over. Foreshadows magical assistance in the narrative.",
+      "Grimm Style": "Inclusion of a 'good fairy', a common magical helper archetype in Grimm's tales. The fairy's role is benevolent ('fond of the princess', 'helped her mother to watch over her'). Simple language describes the fairy's positive influence. This aligns with the 'Grateful Animals/Supernatural Helpers' structure.",
+      "Moral Implication": "Suggests that goodness and innocence attract benevolent supernatural protection. The fairy's presence implies a higher order of care or destiny guiding the princess. It reinforces the idea that the princess is worthy of such protection.",
+      "Metaphorical/Psychological Meaning": "The 'good fairy' can be interpreted as a symbol of benign ancestral spirits, Providence, or positive unconscious forces (e.g., helpful intuition, synchronicity) supporting the Ego's development. She represents the 'Wise Old Woman' or 'Helpful Helper' archetype, ensuring that even in a world where the primary masculine protector (king) is absent, there are other forms of guidance and aid available.",
+      "Sentence": "And there was a good fairy too, who was fond of the princess, and helped her mother to watch over her.",
+      "Chapter Number": 1,
+      "Sentence Number": 3
+    },
+    {
+      "Plot Function": "Marks a significant transition in the princess's life: her coming of age and betrothal. This event propels the narrative forward, initiating the journey that forms the core of the story. The 'great way off' location establishes the journey's significance and potential dangers.",
+      "Grimm Style": "Typical fairy tale progression: childhood to adulthood and marriage. The phrase 'great way off' is a stock description for a distant kingdom. The sentence structure is a compound-complex sentence, detailing cause ('grew up', 'time drew near') and effect ('got ready to set off'). Active voice and clear sequence of events.",
+      "Moral Implication": "Marriage is presented as a natural and expected stage in a princess's life, a transition into a new role and responsibilities. The journey to the prince signifies a rite of passage. It implies that maturation involves leaving the familiar and venturing into the unknown.",
+      "Metaphorical/Psychological Meaning": "Growing up and betrothal symbolize the Ego's readiness for separation from the maternal environment and the call to unite with the 'other' (Animus for a female protagonist, or the external world demanding engagement). The journey 'a great way off' represents the process of individuation, a venture into the unconscious or the wider world to achieve greater wholeness and maturity. The betrothal signifies a destined union, often representing the union of opposites within the psyche.",
+      "Sentence": "When she grew up, she was betrothed to a prince who lived a great way off; and as the time drew near for her to be married, she got ready to set off on her journey to his country.",
+      "Chapter Number": 2,
+      "Sentence Number": 4
+    },
+    {
+      "Plot Function": "Details the preparations for the princess's journey, emphasizing her royal status and the wealth of her kingdom. It showcases the mother's care and the societal expectations for a royal bride. These items also serve as symbols of her identity which she will later be stripped of.",
+      "Grimm Style": "Use of lists ('jewels, and gold, and silver; trinkets, fine dresses') to convey abundance, a common Grimm technique. The phrase 'everything that became a royal bride' is a typical, somewhat formal expression. Concrete nouns dominate. Matter-of-fact tone describing lavish preparations.",
+      "Moral Implication": "Illustrates parental providence and the appropriate bestowing of dowry for a princess. The costliness of the items reflects her high status. It subtly contrasts with the impending loss and hardship, making her later suffering more poignant.",
+      "Metaphorical/Psychological Meaning": "The 'costly things' symbolize the princess's inherited gifts, talents, status, and identity � the established 'persona' she carries from her protected upbringing. These are external markers of her self. The journey will test whether her true worth lies in these external trappings or in her inner qualities. Packing these items is akin to the Ego equipping itself with known attributes before facing the unknown.",
+      "Sentence": "Then the queen her mother, packed up a great many costly things; jewels, and gold, and silver; trinkets, fine dresses, and in short everything that became a royal bride.",
+      "Chapter Number": 2,
+      "Sentence Number": 5
+    },
+    {
+      "Plot Function": "Introduces the waiting-maid, a character crucial to the central conflict (the False Hero/Imposter). It also sets up the mode of transport and companionship for the journey. The maid's role is initially presented as supportive.",
+      "Grimm Style": "Introduction of an archetypal supporting character, the 'waiting-maid'. Simple sentence structure describing the practical arrangements for the journey. 'Give her into the bridegroom�s hands' is a somewhat archaic and formal phrasing for entrusting someone.",
+      "Moral Implication": "Highlights the reliance of royalty on servants and the trust placed in them. The maid's intended role is one of duty and loyalty, which will be betrayed, thus emphasizing the moral implications of such betrayal.",
+      "Metaphorical/Psychological Meaning": "The 'waiting-maid' can represent the Shadow aspect of the princess or a less developed, potentially envious part of the psyche. Initially appearing as a helper, she will become the antagonist who usurps the princess's identity. This foreshadows an internal conflict or the emergence of repressed negative traits. The 'horse for the journey' symbolizes the means of progression or the vital energy for the individuation journey.",
+      "Sentence": "And she gave her a waiting-maid to ride with her, and give her into the bridegroom’s hands; and each had a horse for the journey.",
+      "Chapter Number": 2,
+      "Sentence Number": 6
+    },
+    {
+      "Plot Function": "Introduces Falada, a magical element crucial to the plot. Falada's ability to speak and his origin as a fairy's gift mark him as a special protector and a source of truth. This is a key magical item/helper.",
+      "Grimm Style": "Introduction of a magical animal helper ('Falada'), a common motif. His ability to speak is stated directly and factually, typical of how magic is presented. Naming of the horse gives it significance. 'Fairy's gift' links him to the benevolent supernatural forces.",
+      "Moral Implication": "Falada represents loyalty and truth. His magical nature suggests that truth has a voice, even if it is later suppressed. The fairy's gift implies that the princess is endowed with powerful, albeit vulnerable, protective forces.",
+      "Metaphorical/Psychological Meaning": "Falada, the speaking horse, symbolizes intuition, instinct, or the voice of the unconscious that speaks truth. As a 'fairy's gift,' he represents a deep, almost magical connection to this inner wisdom. His name, Falada, might hint at 'fall' or 'fate,' foreshadowing his role in the princess's trials and ultimate vindication. He is a psychopomp figure, guiding and protecting the soul on its journey.",
+      "Sentence": "Now the princess’s horse was the fairy’s gift, and it was called Falada, and could speak.",
+      "Chapter Number": 2,
+      "Sentence Number": 7
+    },
+    {
+      "Plot Function": "Describes the fairy's parting gift to the princess � a lock of hair imbued with magical protective properties. This act provides the princess with a tangible charm for her journey and sets up a crucial plot device that will be lost, leading to her vulnerability. The dialogue reinforces the charm's importance.",
+      "Grimm Style": "Magical intervention by the 'fairy' (Helper/Donor archetype). The 'lock of hair' is a specific, symbolic magical item. The fairy's speech is direct and instructive ('Take care of it... it is a charm'). The act of cutting hair has ritualistic undertones. Simple action sequence: 'took a little knife, and cut off a lock... and gave it... and said'.",
+      "Moral Implication": "Emphasizes the protective power of maternal/supernatural love, symbolized by the hair. The instruction 'Take care of it' highlights the responsibility of the recipient to safeguard such gifts. The potential usefulness 'on the road' underscores that journeys are fraught with need for protection.",
+      "Metaphorical/Psychological Meaning": "The lock of hair, given by the fairy (representing the good mother/wise woman), is a potent symbol of connection to origin, innate strength, or a protective blessing from the unconscious. Hair often symbolizes vitality, power, or identity. This charm is like an inner resource or a guiding principle given to the Ego as it embarks on its journey. Losing it will signify a loss of this initial protection and a descent into greater trial.",
+      "Sentence": "When the time came for them to set out, the fairy went into her bed-chamber, and took a little knife, and cut off a lock of her hair, and gave it to the princess, and said, ‘Take care of it, dear child; for it is a charm that may be of use to you on the road.’",
+      "Chapter Number": 3,
+      "Sentence Number": 8
+    },
+    {
+      "Plot Function": "Marks the princess's departure and the beginning of her journey. The 'sorrowful leave' emphasizes the emotional weight of this transition. Her action of securing the charm shows initial obedience and awareness of its value.",
+      "Grimm Style": "Direct statement of emotion ('sorrowful leave'). Simple sequence of actions ('put the lock... got upon her horse, and set off'). The journey motif is central. Use of 'bosom' is a slightly archaic term for where one keeps precious items close.",
+      "Moral Implication": "The sorrow of parting highlights the pain inherent in separation and growth. The princess's initial care for the charm suggests her good intentions, making its later loss more tragic. The journey to the 'bridegroom's kingdom' reinforces the societal expectation and the princess's path.",
+      "Metaphorical/Psychological Meaning": "The 'sorrowful leave' signifies the necessary pain of separating from the primary maternal bond and the familiar world (the first stage of the individuation journey � separation). Placing the lock of hair (the protective charm/inner strength) in her 'bosom' (close to the heart) indicates its importance to her emerging identity. Setting off on the journey represents the Ego's active engagement with the path towards maturity and union.",
+      "Sentence": "Then they all took a sorrowful leave of the princess; and she put the lock of hair into her bosom, got upon her horse, and set off on her journey to her bridegroom’s kingdom.",
+      "Chapter Number": 3,
+      "Sentence Number": 9
+    },
+    {
+      "Plot Function": "Introduces the first test/trial on the journey. The princess's thirst creates a need, and her request to the maid sets up the initial conflict and the maid's insubordination. The 'golden cup' is a symbol of her status.",
+      "Grimm Style": "A common trial scenario: thirst on a journey. Direct dialogue is used to advance the plot. 'Pray get down' is a polite, slightly archaic request. The 'golden cup' is an ordinary but important item signifying royalty. 'Yonder brook' is a typical simple description.",
+      "Moral Implication": "The princess's polite request is contrasted with the maid's impending rudeness. This situation tests the established hierarchy and the maid's loyalty. The princess's natural need (thirst) leads to a social confrontation.",
+      "Metaphorical/Psychological Meaning": "Thirst symbolizes a natural need or longing of the Ego. The 'brook' represents a source of sustenance or a minor threshold. The request to the maid is a test of the relationship and the power dynamic. The 'golden cup' symbolizes her royal identity and self-worth, which she is about to be challenged on. This is the first subtle challenge to her established persona and authority.",
+      "Sentence": "One day, as they were riding along by a brook, the princess began to feel very thirsty: and she said to her maid, ‘Pray get down, and fetch me some water in my golden cup out of yonder brook, for I want to drink.’",
+      "Chapter Number": 4,
+      "Sentence Number": 10
+    },
+    {
+      "Plot Function": "The waiting-maid explicitly rebels, refusing to serve the princess. This is the first overt act of insubordination and a turning point in their relationship. The maid declares her intention to shed her subservient role.",
+      "Grimm Style": "Direct, defiant speech from the maid. 'Nay' is an archaic term of refusal. The maid's declaration is blunt and challenges the social order ('I shall not be your waiting-maid any longer'). Simple, impactful dialogue drives the conflict.",
+      "Moral Implication": "This sentence starkly portrays betrayal and the breaking of societal roles. The maid's words are a direct affront to her duty and to the princess's status. It highlights the theme of envy or ambition leading to rebellion.",
+      "Metaphorical/Psychological Meaning": "The maid's rebellion signifies the emergence of the Shadow aspect, which refuses to remain subservient to the Ego (princess). It's a challenge from a previously suppressed part of the psyche or an external force aiming to usurp the Ego's rightful place. This is the beginning of the princess's power being undermined, a necessary step in her journey towards finding her true, inner strength rather than relying on external status.",
+      "Sentence": "‘Nay,’ said the maid, ‘if you are thirsty, get off yourself, and stoop down by the water and drink; I shall not be your waiting-maid any longer.’",
+      "Chapter Number": 4,
+      "Sentence Number": 11
+    },
+    {
+      "Plot Function": "Shows the princess's reaction to the maid's rebellion: she submits due to thirst and fear. Her inability to use her golden cup and her weeping signify her diminishing power and rising distress. Her question voices her despair.",
+      "Grimm Style": "Direct statement of the princess's internal state ('so thirsty', 'frightened') and actions ('got down', 'knelt', 'drank', 'wept'). Her exclamation 'Alas! what will become of me?' is a classic expression of distress. The golden cup, a symbol of her status, is unused, showing her loss of authority.",
+      "Moral Implication": "Illustrates the princess's meekness and perhaps a lack of assertiveness in the face of blatant disrespect. Her fear prevents her from asserting her status. This highlights the vulnerability of gentleness when confronted by aggression. Her suffering begins here.",
+      "Metaphorical/Psychological Meaning": "The princess's submission to drinking directly from the brook, without her cup, symbolizes a humbling experience and a forced relinquishing of her royal persona. Her fear and weeping indicate the Ego's distress when its established supports begin to crumble. 'Alas! what will become of me?' is the Ego's cry when faced with the loss of its known identity and the rise of threatening forces (the Shadow/rebellious maid). This is a descent into a state of powerlessness.",
+      "Sentence": "Then she was so thirsty that she got down, and knelt over the little brook, and drank; for she was frightened, and dared not bring out her golden cup; and she wept and said, ‘Alas! what will become of me?’",
+      "Chapter Number": 4,
+      "Sentence Number": 12
+    },
+    {
+      "Plot Function": "Sets up the magical intervention of the lock of hair, indicating that the charm is active and responsive to the princess's distress. This is a moment of foreshadowing that help is still present, despite her current predicament.",
+      "Grimm Style": "Introduction of a speaking magical object ('the lock answered her'). This is typical of Grimm's tales where inanimate objects or animals can possess magical properties and communicate. The colon indicates the following speech.",
+      "Moral Implication": "The charm's response suggests that the protection endowed by love (mother/fairy) is still active, even if the princess is unaware or unable to fully utilize it. It provides a glimmer of hope amidst her despair.",
+      "Metaphorical/Psychological Meaning": "The lock of hair answering represents a voice from the unconscious, an inner resource, or the echo of the protective maternal/fairy influence. It's a sign that even when the Ego feels overwhelmed and its external status is challenged, deeper psychic supports may still be present. This is the first manifestation of the charm's power.",
+      "Sentence": "And the lock answered her, and said:",
+      "Chapter Number": 4,
+      "Sentence Number": 13
+    },
+    {
+      "Plot Function": "This is the first part of the magical charm's rhyming message. It expresses sorrow and a warning, highlighting the mother's potential grief if she knew her daughter's plight.",
+      "Grimm Style": "Poetic structure (rhyming couplet, AABB when complete). The language is simple, with repetition ('Alas! alas!'). This is a typical incantation or magical pronouncement, often used to convey important truths or warnings. The archaic 'thy' and 'rue it' fit the style.",
+      "Moral Implication": "The couplet emphasizes the bond between mother and daughter and the pain that betrayal or suffering can cause to loved ones. It acts as a lament for the princess's situation and perhaps a subtle admonishment for her current powerlessness or the broken social order.",
+      "Metaphorical/Psychological Meaning": "The lock of hair (symbol of innate strength/maternal protection) speaks a truth reflecting the princess's inner state and the disruption of her world. 'If thy mother knew it' points to the current disconnect from her source of origin and protection. The sorrowful tone mirrors the Ego's distress and the 'rueing' suggests the severe consequences of this unfolding betrayal and loss of identity. It's the voice of the 'inner mother' or conscience lamenting the situation.",
+      "Sentence": " ‘Alas! alas! if thy mother knew it,",
+      "Chapter Number": 5,
+      "Sentence Number": 14
+    },
+    {
+      "Plot Function": "Completes the magical charm's rhyming message. This line reinforces the severity of the princess's situation and the grief it would cause her mother.",
+      "Grimm Style": "Conclusion of the AABB rhyming couplet. Repetition of 'sadly, sadly' emphasizes the sorrow. The phrase 'would she rue it' confirms the negative consequences and the mother's deep regret. Poetic structures are common for magical utterances.",
+      "Moral Implication": "This reinforces the moral weight of the maid's betrayal and the princess's suffering by invoking the deep emotional impact it would have on a loving parent. It underscores the value of the mother-daughter bond and the pain caused by its disruption.",
+      "Metaphorical/Psychological Meaning": "The completed message from the lock of hair (the inner protective principle) confirms the grave nature of the Ego's (princess's) predicament. The 'sadly, sadly, would she rue it' emphasizes the profound sorrow and negative repercussions stemming from the Ego's loss of power and the Shadow's (maid's) ascendancy. It is a lament from a deeper part of the psyche about the unfolding 'fall' or crisis.",
+      "Sentence": "  Sadly, sadly, would she rue it.’",
+      "Chapter Number": 6,
+      "Sentence Number": 15
+    },
+    {
+      "Plot Function": "Describes the princess's character (gentle and meek) and her passive reaction to the maid's abuse. This explains why she doesn't resist and allows the situation to escalate, setting up her further trials.",
+      "Grimm Style": "Direct character description using simple adjectives ('gentle and meek'). Her passivity ('said nothing') is stated clearly. This sentence highlights a key trait that contributes to her victimhood in the early stages of the story. Simple compound sentence.",
+      "Moral Implication": "While gentleness and meekness can be virtues, here they are shown as vulnerabilities when faced with aggression. The princess's passivity allows evil to take root. This might subtly question extreme passivity, as it leads to her suffering. However, in many Grimm tales, such initial meekness is later vindicated, suggesting it's a trial of patience.",
+      "Metaphorical/Psychological Meaning": "The princess's 'gentle and meek' nature represents an Ego that is perhaps underdeveloped in its assertive or defensive capabilities, possibly overly reliant on external protection. Her saying 'nothing to her maid's ill behaviour' shows a failure to confront the rising Shadow aspect. This passivity leads to further encroachment by the Shadow, a common theme in the process of confronting and integrating it; sometimes the Ego must be overwhelmed before it can find new strength.",
+      "Sentence": "But the princess was very gentle and meek, so she said nothing to her maid’s ill behaviour, but got upon her horse again.",
+      "Chapter Number": 7,
+      "Sentence Number": 16
+    },
+    {
+      "Plot Function": "Describes the continuation of the journey and the recurrence of the princess's thirst, leading to a second confrontation with the maid. Her forgetting the maid's rudeness highlights her forgiving or perhaps naive nature.",
+      "Grimm Style": "Simple narration of the journey's progression. The repetition of the thirst motif ('began to feel very thirsty again') follows the 'Rule of Three' pattern often seen in trials. The 'scorching sun' is a concrete detail explaining the thirst. Her forgetting the 'rude speech' highlights her gentle nature.",
+      "Moral Implication": "The princess's recurring thirst and her forgetting the maid's rudeness could be seen as innocence or perhaps a lack of necessary caution. It implies that trials often repeat until a lesson is learned or a change occurs. The escalating heat symbolizes increasing hardship.",
+      "Metaphorical/Psychological Meaning": "The continued journey under a 'scorching sun' represents the increasing intensity of the trials in the individuation process. The recurring thirst signifies a persistent need or longing. Forgetting the maid's rudeness suggests the Ego's tendency to revert to its established patterns of politeness or perhaps a difficulty in recognizing and holding onto the reality of the Shadow's antagonism. This sets up a repeated test of her resilience and the power dynamic.",
+      "Sentence": "Then all rode farther on their journey, till the day grew so warm, and the sun so scorching, that the bride began to feel very thirsty again; and at last, when they came to a river, she forgot her maid’s rude speech, and said, ‘Pray get down, and fetch me some water to drink in my golden cup.’",
+      "Chapter Number": 8,
+      "Sentence Number": 17
+    },
+    {
+      "Plot Function": "Shows the maid's escalated defiance. Her refusal is now more haughty, indicating her growing confidence and dominance over the princess. This marks a further degradation of the princess's status.",
+      "Grimm Style": "Direct, insolent dialogue from the maid. The adverb 'haughtily' clearly describes her tone. Her speech is short, dismissive, and reinforces her rebellion ('Drink if you will, but I shall not be your waiting-maid'). This repetition with variation (increased haughtiness) is a common Grimm narrative device.",
+      "Moral Implication": "Illustrates how unchecked aggression and disrespect can escalate. The maid's increased haughtiness is a direct consequence of the princess's previous passivity. It teaches that failing to address wrongdoing can embolden the wrongdoer.",
+      "Metaphorical/Psychological Meaning": "The maid's (Shadow's) increased haughtiness and solidified rebellion signify the Shadow gaining more power and control over the Ego (princess). The Ego's attempt to reassert its old patterns (asking to be served) is met with even stronger resistance. This highlights a critical stage where the Shadow is no longer just challenging but actively dominating, forcing the Ego into a more profound state of submission.",
+      "Sentence": "But the maid answered her, and even spoke more haughtily than before: ‘Drink if you will, but I shall not be your waiting-maid.’",
+      "Chapter Number": 8,
+      "Sentence Number": 18
+    },
+    {
+      "Plot Function": "The princess again submits, her distress heightened. She lies down to drink directly from the stream, a further sign of her degradation. Her repeated cry shows her ongoing despair and powerlessness.",
+      "Grimm Style": "Repetition of the princess's submission due to thirst. Her action of lying down and holding her head over the stream is a vivid image of humility and desperation. Her cry, 'What will become of me?', is identical to her previous one, emphasizing her trapped state and lack of agency.",
+      "Moral Implication": "The princess's repeated submission emphasizes her suffering and vulnerability. It reinforces the theme of the trials endured by the innocent. Her inability to change the situation underscores the severity of her plight.",
+      "Metaphorical/Psychological Meaning": "The princess's act of lying down and drinking directly from the 'running stream' (a more significant body of water than the 'brook') indicates a deeper level of humbling and immersion in her raw, unmediated experience of suffering. Her repeated cry shows the Ego's continued distress and disorientation as its former identity is stripped away. This repetition signifies that the initial lesson or crisis point has not yet been fully processed or overcome.",
+      "Sentence": "Then the princess was so thirsty that she got off her horse, and lay down, and held her head over the running stream, and cried and said, ‘What will become of me?’",
+      "Chapter Number": 8,
+      "Sentence Number": 19
+    },
+    {
+      "Plot Function": "The magical charm (lock of hair) responds once again to the princess's distress, signifying its continued, albeit passive, protective presence. This repetition sets up the imminent loss of the charm.",
+      "Grimm Style": "Repetition of the magical object's agency ('the lock of hair answered her again'). This builds anticipation for the content of its message and emphasizes its connection to the princess's emotional state. Follows the pattern of cause (distress) and magical effect (response).",
+      "Moral Implication": "The charm's repeated response reinforces the idea that protective forces are still aware of her suffering. It suggests that even in dire straits, help or truth may try to make itself known. This consistency highlights the reliability of true affection (symbolized by the hair from her mother/fairy).",
+      "Metaphorical/Psychological Meaning": "The repeated response from the lock of hair (inner wisdom/protective principle) indicates that the unconscious is still attempting to communicate with the distressed Ego. This repetition can also signify a crucial moment where this inner connection is about to be tested or severed, pushing the Ego into an even more profound state of isolation for deeper transformation.",
+      "Sentence": "And the lock of hair answered her again:",
+      "Chapter Number": 8,
+      "Sentence Number": 20
+    },
+    {
+      "Plot Function": "This is the first line of the charm's repeated message. Its repetition reinforces the ongoing sorrowful state and the mother's potential grief, emphasizing the unchanged gravity of the princess's situation.",
+      "Grimm Style": "Exact repetition of the first line of the poetic couplet. This incantatory repetition is a key feature of Grimm's poetic structures, often signifying magic, important pronouncements, or recurring actions/warnings. It creates a ritualistic feel.",
+      "Moral Implication": "The repetition underscores the persistent nature of the princess's suffering and the unchanging truth of the situation � that her mother would indeed grieve. It highlights the continued betrayal and the princess's inability to alter her circumstances yet.",
+      "Metaphorical/Psychological Meaning": "The verbatim repetition of the charm's message (from the unconscious/inner protector) signifies that the core issue and the Ego's (princess's) distress remain unresolved. The psyche is reiterating the warning or lament because the conditions that prompted it still exist. This repetition can also build tension before a critical turning point, such as the loss of this very charm.",
+      "Sentence": " ‘Alas! alas! if thy mother knew it,",
+      "Chapter Number": 9,
+      "Sentence Number": 21
+    },
+    {
+      "Plot Function": "This is the second line, completing the charm's repeated message. It reiterates the depth of the mother's sorrow, acting as a final lament from the charm before it is lost.",
+      "Grimm Style": "Exact repetition of the second line of the poetic couplet, maintaining the AABB rhyme and rhythmic structure. This fulfills the ritualistic repetition, emphasizing the solemnity and importance of the message.",
+      "Moral Implication": "The repetition of the mother's profound regret reinforces the moral condemnation of the maid's actions and the tragic nature of the princess's plight. It's a final reminder of the love and protection the princess is losing touch with.",
+      "Metaphorical/Psychological Meaning": "The complete, repeated lament from the lock of hair (inner wisdom) serves as a final echo of the original protective state before a significant loss. It underscores the Ego's (princess's) current state of helplessness and the profound psychic distress this causes, as if the very core of her being mourns the situation before a deeper trial ensues with the loss of this symbolic connection.",
+      "Sentence": "  Sadly, sadly, would she rue it.’",
+      "Chapter Number": 10,
+      "Sentence Number": 22
+    },
+    {
+      "Plot Function": "This is the critical turning point where the princess loses her magical protection (the lock of hair). This event makes her completely vulnerable to the maid's machinations.",
+      "Grimm Style": "A pivotal plot event delivered in a simple, declarative manner. The 'lock of hair fell from her bosom, and floated away with the water' is a clear, almost visual description of the loss. Cause and effect: leaning down causes the loss. Water as an element of transition or loss.",
+      "Moral Implication": "The loss of the charm due to her action (leaning down to drink, albeit driven by need) can be seen as a consequence of her vulnerability or a moment of fated misfortune. It highlights the fragility of magical protection if not diligently guarded, or perhaps the necessity of losing external aids to discover internal strength.",
+      "Metaphorical/Psychological Meaning": "Losing the lock of hair symbolizes the loss of a primary connection to the maternal/protective unconscious, a severing from her initial source of strength or guidance. It signifies the Ego (princess) being stripped of its last external magical aid, forcing it into a deeper state of isolation and reliance on its own undeveloped resources. Floating 'away with the water' suggests being carried away by the flow of events or into the depths of the unconscious, a necessary descent for transformation.",
+      "Sentence": "And as she leaned down to drink, the lock of hair fell from her bosom, and floated away with the water.",
+      "Chapter Number": 11,
+      "Sentence Number": 23
+    },
+    {
+      "Plot Function": "Explains why the princess doesn't realize her loss, while the maid observes it and rejoices, understanding its significance. This highlights the maid's cunning and the princess's naivety/distraction, and gives the maid complete power.",
+      "Grimm Style": "Contrasting awareness: princess 'did not see it,' maid 'saw it.' Direct statement of the maid's emotion ('was very glad') and understanding ('knew the charm'). Simple conjunctions ('but', 'and', 'for') link clauses. The narrator is omniscient, revealing the maid's thoughts.",
+      "Moral Implication": "The princess's lack of awareness at a critical moment shows her vulnerability. The maid's gladness at the princess's misfortune is a stark depiction of her evil nature and manipulative intent. It underscores how villains exploit moments of weakness or ignorance.",
+      "Metaphorical/Psychological Meaning": "The princess (Ego) being unaware of the loss of her protective charm (inner connection) while the maid (Shadow) sees and rejoices highlights the Shadow's cunning and its ability to capitalize on the Ego's vulnerabilities or moments of unconsciousness. The Shadow 'knowing the charm' suggests it understands the sources of the Ego's strength and how to undermine them. The bride being 'in her power' signifies the Ego falling under the domination of the Shadow.",
+      "Sentence": "Now she was so frightened that she did not see it; but her maid saw it, and was very glad, for she knew the charm; and she saw that the poor bride would be in her power, now that she had lost the hair.",
+      "Chapter Number": 11,
+      "Sentence Number": 24
+    },
+    {
+      "Plot Function": "The maid seizes complete control, forcing the princess to exchange horses (Falada) and clothes. This is the physical manifestation of the identity theft and the princess's total subjugation.",
+      "Grimm Style": "Direct command from the maid ('I shall ride upon Falada'). The princess is 'forced to give up her horse,' showing her powerlessness. The exchange of clothes (royal for shabby) is a classic motif of status reversal and disguise (Hidden Identity archetype). Sequence of actions clearly stated.",
+      "Moral Implication": "This act is the culmination of the maid's treachery and the princess's passivity. It's a stark depiction of injustice and the abuse of power. The forced exchange demonstrates the complete stripping of the princess's rightful status and identity.",
+      "Metaphorical/Psychological Meaning": "The maid (Shadow) taking Falada (intuition/truth) and the royal clothes (persona/identity) signifies the Shadow's complete usurpation of the Ego's rightful place and attributes. The princess (Ego) being forced into 'shabby ones' and riding the inferior horse represents her demotion, loss of external identity, and descent into a lower, more humbled state. This is a necessary stage of stripping away the false or superficial self to eventually uncover the true Self.",
+      "Sentence": "So when the bride had done drinking, and would have got upon Falada again, the maid said, ‘I shall ride upon Falada, and you may have my horse instead’; so she was forced to give up her horse, and soon afterwards to take off her royal clothes and put on her maid’s shabby ones.",
+      "Chapter Number": 11,
+      "Sentence Number": 25
+    },
+    {
+      "Plot Function": "The treacherous servant solidifies her control by threatening the princess with death if she reveals the truth. This enforces the princess's silence and ensures the deception can continue upon arrival at the prince's court.",
+      "Grimm Style": "Direct threat from the 'treacherous servant' (a clear label of her villainy). The condition for silence ('if she ever told anyone') is explicit. This creates suspense and explains the princess's continued submission.",
+      "Moral Implication": "Illustrates the villain's use of fear and intimidation to maintain power. The princess is now bound by a threat to her life, explaining her silence. This highlights the evil of coercion and the desperation of the villain to protect her deception.",
+      "Metaphorical/Psychological Meaning": "The death threat from the maid (Shadow) to the princess (Ego) symbolizes the overwhelming power the Shadow can exert, capable of silencing the Ego's truth. This forces the Ego into a state of secrecy and repression, unable to reveal its true nature. This period of enforced silence and subjugation is often a necessary part of the journey, where the Ego must endure a 'death' of its old self before a rebirth.",
+      "Sentence": "At last, as they drew near the end of their journey, this treacherous servant threatened to kill her mistress if she ever told anyone what had happened.",
+      "Chapter Number": 12,
+      "Sentence Number": 26
+    },
+    {
+      "Plot Function": "Confirms that Falada, the magical horse, is aware of the entire deception. This foreshadows his potential role in revealing the truth later, even if he is currently silenced or controlled by the false bride.",
+      "Grimm Style": "Falada, the magical helper, is shown to be an observant witness. 'Marked it well' implies understanding and memory. This sentence provides a glimmer of hope that the truth is not entirely lost, as a magical witness exists.",
+      "Moral Implication": "Truth may be suppressed but is often observed by an incorruptible witness. Falada's awareness suggests that acts of injustice do not go entirely unnoticed, even by non-human entities. This hints at an underlying moral order where truth will eventually surface.",
+      "Metaphorical/Psychological Meaning": "Falada (intuition, deep consciousness) 'saw it all, and marked it well,' signifying that even when the Ego is overwhelmed and its truth suppressed by the Shadow, the deeper psyche registers the full reality of the situation. This inner knowing remains, even if temporarily inaccessible to the conscious Ego, holding the potential for future revelation and restoration.",
+      "Sentence": "But Falada saw it all, and marked it well.",
+      "Chapter Number": 12,
+      "Sentence Number": 27
+    },
+    {
+      "Plot Function": "Describes their arrival at the royal court with the roles reversed. This sets the scene for the false bride's reception and the true princess's humiliation.",
+      "Grimm Style": "Clear depiction of the role reversal ('waiting-maid got upon Falada, and the real bride rode upon the other horse'). Simple narration of their arrival ('at last they came to the royal court'). The 'royal court' is an archetypal setting for resolution or further trials.",
+      "Moral Implication": "The arrival with the deception in place highlights the injustice. The visual of the maid on the princess's horse and the princess on the inferior one starkly symbolizes the usurpation. This tests the discernment of those at the court.",
+      "Metaphorical/Psychological Meaning": "Arrival at the 'royal court' (symbolizing a place of judgment, potential integration, or societal recognition) with the Shadow (maid) in the Ego's (princess's) rightful place represents a critical point. The Ego is in its most debased state, while the Shadow enjoys undeserved recognition. This is a test of whether the external world will recognize the true Self or be deceived by the Persona/Shadow.",
+      "Sentence": "Then the waiting-maid got upon Falada, and the real bride rode upon the other horse, and they went on in this way till at last they came to the royal court.",
+      "Chapter Number": 13,
+      "Sentence Number": 28
+    },
+    {
+      "Plot Function": "Details the false bride's triumphant reception by the prince, who is deceived. The true princess is relegated to a lowly position, emphasizing her complete downfall and the success of the maid's deception.",
+      "Grimm Style": "Direct contrast in reception: 'great joy' for the false bride, the true princess 'told to stay in the court below.' The prince 'flew to meet them,' showing his eagerness. The deception is successful ('thinking she was the one who was to be his wife'). Simple, declarative sentences convey the events.",
+      "Moral Implication": "Illustrates how easily appearances can deceive, even those expecting a bride. The prince's inability to discern the truth highlights a common fairy tale theme. The true princess's demotion to the 'court below' is a stark symbol of her unjust suffering.",
+      "Metaphorical/Psychological Meaning": "The prince (potential Animus figure, or the goal of union) being deceived by the maid (Shadow/false Persona) signifies a failure of discernment or a period where the false self is mistakenly embraced. The true princess (Ego/true Self) being left 'in the court below' represents the true Self being relegated to the unconscious or a devalued position, unrecognized and unseen. This is a state of profound alienation.",
+      "Sentence": "There was great joy at their coming, and the prince flew to meet them, and lifted the maid from her horse, thinking she was the one who was to be his wife; and she was led upstairs to the royal chamber; but the true princess was told to stay in the court below.",
+      "Chapter Number": 13,
+      "Sentence Number": 29
+    },
+    {
+      "Plot Function": "Introduces the old king as an observant character who notices the true princess. His idleness leads him to this observation, setting him up as a potential agent for uncovering the truth. This is a subtle introduction of a 'Helper' figure.",
+      "Grimm Style": "Introduction of the 'old king' (Wise Old Man archetype). His idleness ('nothing else to do') is a simple, almost humorous justification for his observation, typical of the matter-of-fact tone. The kitchen window provides a humble vantage point. Simple sentence describing his actions.",
+      "Moral Implication": "Sometimes truth is discovered through unexpected means or by those who have time for quiet observation. The old king's attentiveness, even in idleness, contrasts with the prince's haste and deception. This hints that perception and wisdom can come from unexpected quarters.",
+      "Metaphorical/Psychological Meaning": "The 'old king' represents the Wise Old Man archetype, a symbol of wisdom, intuition, and discernment residing in the unconscious or background of the psyche. His 'idleness' might symbolize a state of contemplation or openness to seeing what others miss. Observing from the 'kitchen window' (a domestic, unassuming place) suggests that profound insights can arise from humble perspectives, noticing the devalued true Self (princess in the courtyard).",
+      "Sentence": "Now the old king happened just then to have nothing else to do; so he amused himself by sitting at his kitchen window, looking at what was going on; and he saw her in the courtyard.",
+      "Chapter Number": 14,
+      "Sentence Number": 30
+    },
+    {
+      "Plot Function": "The old king recognizes the true princess's inherent qualities (beauty, delicacy) that don't match her supposed station. This prompts him to investigate, initiating the process of uncovering the deception.",
+      "Grimm Style": "The king's observation is based on simple, visible qualities ('looked very pretty, and too delicate for a waiting-maid'). His action ('went up... to ask') is direct and logical. This shows his discerning nature.",
+      "Moral Implication": "True quality or nobility cannot be entirely concealed by lowly circumstances. The king's discernment highlights the importance of looking beyond superficial appearances. This is the first step towards justice.",
+      "Metaphorical/Psychological Meaning": "The old king (Wise Old Man/discerning consciousness) recognizing the princess's true nature despite her disguise ('too delicate for a waiting-maid') signifies the psyche's inherent ability to perceive the true Self, even when it is obscured or repressed. His investigation represents the beginning of the process of bringing the truth from the 'courtyard below' (unconscious/devalued state) into conscious awareness ('royal chamber').",
+      "Sentence": "As she looked very pretty, and too delicate for a waiting-maid, he went up into the royal chamber to ask the bride who it was she had brought with her, that was thus left standing in the court below.",
+      "Chapter Number": 14,
+      "Sentence Number": 31
+    },
+    {
+      "Plot Function": "The false bride lies to the old king, dismissing the true princess and suggesting she be put to work. This further demonstrates her cruelty and her attempt to maintain the deception and keep the princess in a subservient role.",
+      "Grimm Style": "Direct, deceptive dialogue from the false bride. Her excuse ('for the sake of her company') is plausible but false. Her request ('pray give the girl some work... that she may not be idle') is a cruel way to further demean the true princess. Simple, declarative speech.",
+      "Moral Implication": "The false bride's continued deceit and her casual cruelty towards the true princess highlight her villainous character. Her desire to keep the princess 'not idle' is a guise for ensuring her continued subjugation.",
+      "Metaphorical/Psychological Meaning": "The false bride's (Shadow/false Persona's) lie to the old king (discerning consciousness) is an attempt to maintain its usurped position and devalue the true Self (princess). Suggesting 'some work to do, that she may not be idle' is a way to keep the true Self suppressed and engaged in menial tasks, preventing its recognition and restoration. It's the Shadow's effort to control and marginalize the Ego.",
+      "Sentence": "‘I brought her with me for the sake of her company on the road,’ said she; ‘pray give the girl some work to do, that she may not be idle.’",
+      "Chapter Number": 14,
+      "Sentence Number": 32
+    },
+    {
+      "Plot Function": "The old king assigns the true princess the lowly job of helping the goose-herd. This act, though seemingly further debasement, paradoxically places her in a situation where her true nature and magical connections can eventually be revealed.",
+      "Grimm Style": "The king's decision is practical ('could not for some time think of any work'). The job of helping a goose-herd is archetypally humble. This sets up the 'Goose-Girl' identity. Simple statement of the king's decision.",
+      "Moral Implication": "Even in assigning a lowly task, the king is inadvertently setting the stage for the truth's revelation. Humility and performing humble tasks are often part of a hero(ine)'s journey before restoration. It implies that Providence can work through mundane circumstances.",
+      "Metaphorical/Psychological Meaning": "Assigning the princess (true Self) to be a 'goose-girl' represents a descent into a humble, earth-bound role, often associated with simplicity and connection to nature (geese). This period of menial labor and apparent degradation is a common motif in individuation stories, representing a necessary period of confronting the mundane or the 'lowest' aspects of the self before a true, integrated identity can emerge. It's a symbolic incubation period.",
+      "Sentence": "The old king could not for some time think of any work for her to do; but at last he said, ‘I have a lad who takes care of my geese; she may go and help him.’",
+      "Chapter Number": 14,
+      "Sentence Number": 33
+    },
+    {
+      "Plot Function": "Introduces Curdken by name, the goose-lad whom the princess will assist. Naming him gives him a specific, albeit minor, role in the princess's daily trials and the eventual revelation of her story.",
+      "Grimm Style": "Naming a minor character ('Curdken') adds a touch of specificity to the narrative. His role as goose-herd is clearly stated. Simple, direct sentence providing information.",
+      "Moral Implication": "Curdken will become an unwitting witness to the princess's strange behaviors, and his eventual complaints will lead to the king's further investigation. This suggests that even seemingly insignificant people can play a role in the workings of justice.",
+      "Metaphorical/Psychological Meaning": "Curdken, the goose-lad, can represent a simple, unrefined aspect of the psyche, or an everyday observer who interacts with the humbled Ego (princess). His interactions with the princess and his reactions to her magic will become catalysts for drawing the attention of the higher consciousness (the old king). He is part of the 'mundane world' in which the princess must now operate.",
+      "Sentence": "Now the name of this lad, that the real bride was to help in watching the king’s geese, was Curdken.",
+      "Chapter Number": 14,
+      "Sentence Number": 34
+    },
+    {
+      "Plot Function": "The false bride requests a 'kindness' from the prince, setting up her next cruel act aimed at silencing a potential witness (Falada). This shows her continued fear and ruthlessness.",
+      "Grimm Style": "Deceptive, manipulative dialogue from the false bride ('Dear husband, pray do me one piece of kindness'). This contrasts sharply with her malicious intent. Direct address and polite phrasing mask her evil.",
+      "Moral Implication": "The false bride's request under the guise of 'kindness' is a stark example of hypocrisy and manipulation. It highlights how villains can use seemingly innocent language to achieve wicked ends.",
+      "Metaphorical/Psychological Meaning": "The false bride (Shadow) attempting to manipulate the prince (potential Animus/judgment) reveals the Shadow's ongoing efforts to secure its position by eliminating any threats to its deception. The request for a 'kindness' is a typical Shadow tactic, using superficial pleasantness to conceal destructive motives.",
+      "Sentence": "But the false bride said to the prince, ‘Dear husband, pray do me one piece of kindness.’",
+      "Chapter Number": 15,
+      "Sentence Number": 35
+    },
+    {
+      "Plot Function": "The prince readily agrees to the false bride's request, showing his complete deception and his willingness to please her. This facilitates her plan to kill Falada.",
+      "Grimm Style": "Simple, affirmative response from the prince ('That I will'). His eagerness highlights his obliviousness to the true nature of his 'bride'. Short, direct dialogue.",
+      "Moral Implication": "The prince's easy compliance without questioning demonstrates a lack of discernment or perhaps the blinding nature of supposed love/infatuation. It shows how readily people can be manipulated when deceived by appearances.",
+      "Metaphorical/Psychological Meaning": "The prince's (Animus/judgment) easy agreement with the false bride (Shadow) shows that this aspect of the psyche is currently aligned with or controlled by the Shadow, unable to perceive the truth. This complicity, however unwitting, allows the Shadow to carry out destructive actions against symbols of truth (Falada).",
+      "Sentence": "‘That I will,’ said the prince.",
+      "Chapter Number": 15,
+      "Sentence Number": 36
+    },
+    {
+      "Plot Function": "The false bride reveals her request: to have Falada's head cut off, providing a false reason (unruliness). The narrator then reveals her true motive: fear of Falada speaking the truth. This is a critical act of cruelty to silence a witness.",
+      "Grimm Style": "The false bride's speech combines a lie ('it was very unruly') with her true, hidden motive, which the omniscient narrator reveals ('but the truth was, she was very much afraid...'). This contrast is typical. The request is brutal and specific. 'Plagued me sadly' is a dramatic, false complaint.",
+      "Moral Implication": "This act epitomizes the villain's desperate measures to conceal wrongdoing by destroying any source of truth. It's a profound act of cruelty against a faithful creature. The lie about Falada's behavior further highlights her deceitfulness.",
+      "Metaphorical/Psychological Meaning": "The false bride (Shadow) wanting Falada's (intuition/truth's) head cut off is a powerful symbol of the Shadow's attempt to completely silence the inner voice of truth and wisdom. The fear that Falada 'should some day or other speak' is the Shadow's anxiety that the repressed truth will eventually surface and expose its deception. This is an attack on the princess's (Ego's) deepest connection to truth.",
+      "Sentence": "‘Then tell one of your slaughterers to cut off the head of the horse I rode upon, for it was very unruly, and plagued me sadly on the road’; but the truth was, she was very much afraid lest Falada should some day or other speak, and tell all she had done to the princess.",
+      "Chapter Number": 15,
+      "Sentence Number": 37
+    },
+    {
+      "Plot Function": "The false bride succeeds in her plan, and Falada is killed. The true princess's reaction (weeping, begging for his head to be nailed up) shows her grief and her continued connection to Falada, setting up future magical interactions.",
+      "Grimm Style": "Direct statement of the outcome ('She carried her point, and the faithful Falada was killed'). The princess's grief ('wept') and her unusual request are narrated simply. The 'large dark gate' is an archetypal, slightly ominous location. Repetition ('every morning and evening') establishes a routine.",
+      "Moral Implication": "The death of the faithful Falada is a tragic event, emphasizing the cruelty of the false bride. The true princess's love for Falada, even in death, highlights her compassionate nature. Her request to see his head is both sorrowful and a testament to her enduring bond, which cannot be entirely severed.",
+      "Metaphorical/Psychological Meaning": "Falada's death symbolizes the apparent silencing of intuition or the voice of truth. However, the princess's request to nail his head to the 'large dark gate' (a threshold symbol) means that this voice, though disembodied, will continue to have an influence. It's a refusal to let the truth be completely buried. Her daily passage past it signifies a continued, ritualistic engagement with this now-repressed but still potent aspect of her psyche.",
+      "Sentence": "She carried her point, and the faithful Falada was killed; but when the true princess heard of it, she wept, and begged the man to nail up Falada’s head against a large dark gate of the city, through which she had to pass every morning and evening, that there she might still see him sometimes.",
+      "Chapter Number": 15,
+      "Sentence Number": 38
+    },
+    {
+      "Plot Function": "The slaughterer agrees to the princess's request, an act of minor kindness or compliance that enables the magical interactions with Falada's head to occur. This small act facilitates the plot's progression.",
+      "Grimm Style": "Simple, affirmative response from the slaughterer ('said he would do as she wished'). The actions are described bluntly ('cut off the head, and nailed it up'). This functional character performs a key action without much elaboration.",
+      "Moral Implication": "Even a character with a grim profession (slaughterer) can show a degree of compassion or fulfill a request that, unknown to him, serves a higher purpose. This small act of compliance is crucial for the continuation of Falada's influence.",
+      "Metaphorical/Psychological Meaning": "The slaughterer's compliance, even in this grim task, allows a fragment of the truth (Falada's head) to remain visible at a significant threshold (the gate). This suggests that even when the psyche experiences fragmentation or the 'death' of an intuitive function, remnants can persist and find ways to communicate, especially if the Ego (princess) actively seeks to maintain some connection, however painful.",
+      "Sentence": "Then the slaughterer said he would do as she wished; and cut off the head, and nailed it up under the dark gate.",
+      "Chapter Number": 15,
+      "Sentence Number": 39
+    },
+    {
+      "Plot Function": "Describes the true princess's first encounter with Falada's head at the gate, initiating their sorrowful, ritualistic exchange. This sets the pattern for her daily interaction with the remnants of her magical protector.",
+      "Grimm Style": "Sets the scene for a recurring magical event. 'Early the next morning' establishes the daily routine. The princess speaks 'sorrowfully', a direct indication of her emotion. The colon introduces her speech.",
+      "Moral Implication": "The princess's sorrowful address to Falada shows her enduring loyalty and grief. This daily ritual highlights her suffering and her unbroken bond with the faithful horse, even in his macabre state.",
+      "Metaphorical/Psychological Meaning": "The daily passage through the 'dark gate' (a threshold of consciousness or daily experience) and her address to Falada's head represent the Ego's ritualistic acknowledgment of the wounded/silenced truth or intuition. Her sorrow reflects the ongoing pain of this inner state. This is the beginning of a dialogue with the repressed but still potent wisdom.",
+      "Sentence": "Early the next morning, as she and Curdken went out through the gate, she said sorrowfully:",
+      "Chapter Number": 16,
+      "Sentence Number": 40
+    },
+    {
+      "Plot Function": "This is the princess's lament to Falada's head, acknowledging his death and current state. It's the first part of their ritualistic dialogue.",
+      "Grimm Style": "Short, poetic lament. Direct address ('Falada, Falada'). The phrase 'there thou hangest!' is a stark and sorrowful observation. This type of repetitive, rhyming, or rhythmic speech is characteristic of significant moments or magical interactions in Grimm's tales.",
+      "Moral Implication": "The princess's words are a simple but profound expression of grief and recognition of Falada's unjust fate. It emphasizes her faithfulness and her inability to forget him.",
+      "Metaphorical/Psychological Meaning": "The princess (Ego) addressing the disembodied head of Falada (fragmented intuition/truth) with 'there thou hangest!' is an acknowledgment of the current state of this inner faculty � visible, yet static and 'dead' in its former capacity. It's a lament for the lost wholeness of this guiding principle.",
+      "Sentence": " ‘Falada, Falada, there thou hangest!’",
+      "Chapter Number": 17,
+      "Sentence Number": 41
+    },
+    {
+      "Plot Function": "Indicates that Falada's head responds, confirming its magical nature even after death. This sets up the continuation of their dialogue and the repetition of the warning.",
+      "Grimm Style": "A magical event: the severed head speaks. This is stated factually ('the head answered'). This follows the Grimm convention of magic being an accepted part of the world.",
+      "Moral Implication": "Truth cannot be entirely silenced. Even in death, Falada's loyalty and connection to the princess persist, allowing him to communicate. This implies the enduring power of truth and faithfulness.",
+      "Metaphorical/Psychological Meaning": "Falada's head answering signifies that intuition or the voice of the unconscious, even when seemingly 'killed' or repressed, can still find ways to communicate with the Ego, especially when acknowledged. It represents the persistence of inner wisdom, though it may speak from a place of woundedness or fragmentation.",
+      "Sentence": "and the head answered:",
+      "Chapter Number": 18,
+      "Sentence Number": 42
+    },
+    {
+      "Plot Function": "This is the first line of Falada's response, acknowledging the princess's own changed and lowly state as she 'gangest' (goes). It mirrors her lament with a comment on her current journey.",
+      "Grimm Style": "Poetic response, mirroring the princess's address. 'Bride, bride' refers to her true identity. 'There thou gangest!' uses archaic language ('gangest' for goest/walkest) and comments on her current path. This call-and-response is typical of ritualistic magical speech.",
+      "Moral Implication": "Falada's words acknowledge the princess's true identity ('Bride') despite her current appearance as a goose-girl. His words highlight the injustice of her current journey in a debased state.",
+      "Metaphorical/Psychological Meaning": "Falada (fragmented truth/intuition) addresses the princess as 'Bride' (her true Self/potential) and notes 'there thou gangest!' (your current journey/process). This reflects the inner wisdom acknowledging the Ego's current state of trial and passage, even while recognizing its true, underlying identity. It's a commentary on the path of suffering the true Self is currently treading.",
+      "Sentence": " ‘Bride, bride, there thou gangest!",
+      "Chapter Number": 19,
+      "Sentence Number": 43
+    },
+    {
+      "Plot Function": "The second line of Falada's response, repeating the familiar warning about her mother's sorrow. This reinforces the central lament of the story.",
+      "Grimm Style": "Repetition of the core warning couplet's first line ('Alas! alas! if thy mother knew it,'). This recurring phrase acts as a refrain, emphasizing the tragic circumstances and the connection to her origins.",
+      "Moral Implication": "The repeated warning serves as a constant reminder of the princess's true heritage, the love she is separated from, and the injustice of her situation. It keeps the memory of her mother's care alive.",
+      "Metaphorical/Psychological Meaning": "The repetition of 'Alas! alas! if thy mother knew it,' by Falada (the voice of truth) reinforces the ongoing psychic distress and the rupture from the nurturing maternal source. It's a persistent echo from the unconscious, highlighting the unresolved trauma and the deviation from her rightful path. This unchanging lament underscores the depth of the princess's (Ego's) suffering and alienation.",
+      "Sentence": "  Alas! alas! if thy mother knew it,",
+      "Chapter Number": 20,
+      "Sentence Number": 44
+    },
+    {
+      "Plot Function": "The final line of Falada's response, completing the repeated warning. This ritual exchange establishes a key element of the princess's daily life as a goose-girl.",
+      "Grimm Style": "Completes the recurring rhyming couplet ('Sadly, sadly, would she rue it.'). This formalized, poetic speech by a magical entity is a hallmark of Grimm's style. The repetition provides structure and emphasizes the unchanging nature of this truth.",
+      "Moral Implication": "Falada's consistent message serves as a moral anchor in the story, continually reminding the audience (and perhaps subtly, the princess herself) of the injustice and the sorrow it would cause if known. It keeps the emotional core of her plight at the forefront.",
+      "Metaphorical/Psychological Meaning": "The full, repeated lament from Falada's head signifies the persistent voice of the unconscious reminding the Ego (princess) of its true origins, its current suffering, and the profound disruption to its psychic well-being. This ritualistic exchange with the 'dead' but speaking truth keeps a vital connection alive, preventing complete assimilation into the false, debased role.",
+      "Sentence": "  Sadly, sadly, would she rue it.’",
+      "Chapter Number": 21,
+      "Sentence Number": 45
+    },
+    {
+      "Plot Function": "Narrates the mundane continuation of the princess's duties as a goose-girl after the magical exchange. This contrasts the supernatural event with her lowly, everyday reality.",
+      "Grimm Style": "Simple, declarative sentence describing a routine action ('went out of the city, and drove the geese on'). This matter-of-fact transition from the magical to the mundane is typical. Focus on straightforward action.",
+      "Moral Implication": "Life continues with its duties even amidst sorrow and magical occurrences. The princess must still perform her tasks despite her grief and the strange daily ritual. This can imply resilience or the drudgery of her current existence.",
+      "Metaphorical/Psychological Meaning": "After the ritualistic connection with the fragmented truth (Falada's head), the Ego (princess) returns to its mundane tasks in its humbled state ('drove the geese on'). This reflects the reality that even with moments of profound inner connection or insight, the daily challenges and the current (debased) role must still be navigated. It's the integration of the extraordinary into the ordinary rhythm of life during a trial.",
+      "Sentence": "Then they went out of the city, and drove the geese on.",
+      "Chapter Number": 22,
+      "Sentence Number": 46
+    },
+    {
+      "Plot Function": "Describes the princess letting down her silver hair, a hidden attribute of her true identity. Curdken's reaction (wanting to pull some out) introduces a new minor conflict and sets up her use of another magical ability.",
+      "Grimm Style": "Introduction of another magical attribute of the princess: 'waving locks of hair, which were all of pure silver.' This is stated factually. Curdken's common, boyish impulse ('would have pulled some') creates a simple conflict. The imagery of silver hair glittering in the sun is a vivid, fairy-tale detail.",
+      "Moral Implication": "The princess's hidden beauty/nobility (silver hair) is revealed, attracting unwanted attention. Curdken's desire to possess it, even a part, can be seen as a form of disrespect or childish greed. This tests the princess's ability to protect her remaining attributes.",
+      "Metaphorical/Psychological Meaning": "The 'pure silver' hair represents a hidden, precious aspect of the true Self (princess), perhaps her innate purity, wisdom, or spiritual quality, which becomes visible ('glitter in the sun') in a moment of freedom ('let down her waving locks'). Curdken's attempt to pull her hair symbolizes the mundane world's crude attempts to grasp, possess, or profane these finer qualities. Her crying out is the Ego's reaction to protect this vulnerable part of herself.",
+      "Sentence": "And when she came to the meadow, she sat down upon a bank there, and let down her waving locks of hair, which were all of pure silver; and when Curdken saw it glitter in the sun, he ran up, and would have pulled some of the locks out, but she cried:",
+      "Chapter Number": 22,
+      "Sentence Number": 47
+    },
+    {
+      "Plot Function": "This is the princess's magical incantation to protect her hair from Curdken. It demonstrates another of her latent powers, connected to nature (wind).",
+      "Grimm Style": "A rhyming quatrain (AABBCCDD or similar simple rhyme scheme) used as a spell. Direct address to the 'breezes'. The spell has a clear, practical purpose: to distract Curdken and protect her hair. The language is simple and rhythmic, fitting the 'Poetic Structures' described in the guide. 'O'er hills, dales, and rocks' is stock poetic phrasing.",
+      "Moral Implication": "The princess, though meek, possesses powers to protect herself when a personal boundary is threatened (her hair). This suggests that even in a debased state, inner resources or magical abilities can be called upon for defense. It also shows a more active response compared to her earlier passivity with the maid.",
+      "Metaphorical/Psychological Meaning": "The incantation is the Ego (princess) actively invoking a natural force (wind, symbolizing spirit or change) to protect a precious aspect of her true Self (silver hair) from profanation by the mundane (Curdken). This shows a nascent assertion of power, a move from complete passivity. The spell ensures her 'silvery locks / Are all comb�d and curl�d,' meaning her inner beauty/purity remains ordered and intact, despite external threats.",
+      "Sentence": " ‘Blow, breezes, blow! / Let Curdken’s hat go! / Blow, breezes, blow! / Let him after it go! / O’er hills, dales, and rocks, / Away be it whirl’d / Till the silvery locks / Are all comb’d and curl’d!",
+      "Chapter Number": 23,
+      "Sentence Number": 48
+    },
+    {
+      "Plot Function": "Describes the immediate effect of the princess's spell: the wind blows Curdken's hat away, successfully distracting him. This confirms her magical ability and allows her to secure her hair.",
+      "Grimm Style": "Direct fulfillment of the magical spell ('Then there came a wind, so strong...'). Cause and effect are immediate. The description of the hat flying 'over the hills' is simple and visual. The princess's actions ('done combing and curling her hair, and had put it up again safe') show the spell's success.",
+      "Moral Implication": "Magic works effectively for the deserving princess to protect her integrity. Curdken's distraction is a direct result of his attempt to harass her. This subtly reinforces that meddling or disrespect can lead to minor troubles for the perpetrator.",
+      "Metaphorical/Psychological Meaning": "The wind (spirit/change) immediately responding to the Ego's (princess's) call demonstrates a connection to and command over certain unconscious forces or natural energies when the Ego is aligned with protecting its true Self. Curdken being 'forced to turn and run after' his hat symbolizes the mundane or disruptive element being temporarily overcome or redirected, allowing the Ego to restore its inner order ('put it up again safe').",
+      "Sentence": "Then there came a wind, so strong that it blew off Curdken’s hat; and away it flew over the hills: and he was forced to turn and run after it; till, by the time he came back, she had done combing and curling her hair, and had put it up again safe.",
+      "Chapter Number": 24,
+      "Sentence Number": 49
+    },
+    {
+      "Plot Function": "Shows Curdken's negative reaction to being thwarted and his subsequent refusal to speak to the princess. This establishes a pattern of their interaction and his growing frustration, which will later lead him to report her to the king.",
+      "Grimm Style": "Direct statement of Curdken's emotions ('very angry and sulky') and behavior ('would not speak to her at all'). The sentence describes the mundane continuation of their task ('watched the geese until it grew dark'). Simple, clear narration of events and character reactions.",
+      "Moral Implication": "Curdken's anger and sulkiness because he was prevented from a mischievous act show his immaturity. His refusal to speak is a childish response. This sets up his later complaints, which, although born of annoyance, inadvertently serve justice.",
+      "Metaphorical/Psychological Meaning": "Curdken's (the mundane, unrefined aspect) anger at being thwarted by the princess's (Ego's) magic shows the resistance of the ordinary consciousness to the numinous or the superior. His sulkiness and refusal to speak signify a breakdown in communication or a resentful incomprehension of the Ego's deeper nature and powers. This unresolved tension will eventually seek an outlet (reporting to the king/higher consciousness).",
+      "Sentence": "Then he was very angry and sulky, and would not speak to her at all; but they watched the geese until it grew dark in the evening, and then drove them homewards.",
+      "Chapter Number": 24,
+      "Sentence Number": 50
+    },
+    {
+      "Plot Function": "Marks the repetition of the daily ritual: the princess going through the gate and addressing Falada's head. This reinforces the pattern and her continued grief.",
+      "Grimm Style": "Repetition of a key scene ('The next morning, as they were going through the dark gate'). This follows the 'Cyclical Structure/Repetition with Variation' common in Grimm. 'Poor girl' elicits sympathy. The act of looking up and crying out is repeated.",
+      "Moral Implication": "The princess's consistent ritual demonstrates her enduring loyalty and sorrow. The repetition emphasizes the daily nature of her suffering and her remembrance of Falada. It suggests a deep-seated faithfulness.",
+      "Metaphorical/Psychological Meaning": "The repetition of the morning ritual (passing the 'dark gate' and addressing Falada's head) signifies the Ego's (princess's) ongoing, daily engagement with the repressed truth/intuition. This ritual keeps the memory and the pain alive, preventing complete adaptation to her false, debased state. It's a necessary, though sorrowful, connection to her true history and identity.",
+      "Sentence": "The next morning, as they were going through the dark gate, the poor girl looked up at Falada’s head, and cried:",
+      "Chapter Number": 25,
+      "Sentence Number": 51
+    },
+    {
+      "Plot Function": "The princess repeats her lament to Falada's head. This is the exact repetition of her earlier address, highlighting the unchanging nature of their sorrowful exchange.",
+      "Grimm Style": "Exact repetition of the poetic lament ('Falada, Falada, there thou hangest!'). This use of identical 'Repetitive Phrases/Songs' reinforces the ritualistic feel and the core emotional truth of her situation. It's a direct quote, characteristic of how such utterances are presented.",
+      "Moral Implication": "The unchanging lament underscores the persistence of her grief and the unresolved injustice. Her faithfulness in this daily address remains constant.",
+      "Metaphorical/Psychological Meaning": "The verbatim repetition of the princess's (Ego's) lament to Falada (fragmented truth) signifies that this aspect of her inner dialogue remains constant. The core issue of the 'hanged' truth is still present and acknowledged daily. This repetition is crucial for keeping this awareness active within the psyche, preventing it from being completely forgotten.",
+      "Sentence": " ‘Falada, Falada, there thou hangest!’",
+      "Chapter Number": 26,
+      "Sentence Number": 52
+    },
+    {
+      "Plot Function": "Falada's head responds again, continuing their established magical dialogue. This reinforces the supernatural element and the unchanging nature of his message.",
+      "Grimm Style": "Repetition of the magical event ('and the head answered'). This affirms the ongoing supernatural connection and the ritualistic pattern of their interaction. It's a direct and simple statement of a magical occurrence.",
+      "Moral Implication": "The consistency of Falada's response highlights the unwavering nature of truth and loyalty, even from beyond apparent death. It suggests that as long as the princess remembers and addresses him, the truth will find a voice.",
+      "Metaphorical/Psychological Meaning": "The repetition of Falada's (intuition/truth's) response signifies the reliability of this inner voice when consistently engaged by the Ego (princess). Even in its fragmented state, the truth remains responsive and active, reiterating its core message. This constancy is a source of underlying support for the Ego, even if the message is sorrowful.",
+      "Sentence": "and the head answered:",
+      "Chapter Number": 27,
+      "Sentence Number": 53
+    },
+    {
+      "Plot Function": "Falada repeats the first line of his response, acknowledging the princess's journey in her debased state. This maintains the symmetry of their ritual exchange.",
+      "Grimm Style": "Exact repetition of the first line of Falada's poetic response ('Bride, bride, there thou gangest!'). This reinforces the ritualistic nature of their dialogue and the unchanging elements of their respective situations. Archaic language ('gangest') maintained.",
+      "Moral Implication": "Falada's consistent address to her as 'Bride' keeps her true identity alive in their interactions, despite her outward appearance. His observation 'there thou gangest' continues to mark her path of suffering.",
+      "Metaphorical/Psychological Meaning": "Falada's (truth/intuition's) repeated acknowledgment of the princess as 'Bride' (true Self) on her journey ('gangest') reinforces the unconscious's constant recognition of the Ego's true nature, even amidst its trials and current debased state. This persistent naming of her true identity is vital for preventing its complete loss.",
+      "Sentence": " ‘Bride, bride, there thou gangest!",
+      "Chapter Number": 28,
+      "Sentence Number": 54
+    },
+    {
+      "Plot Function": "Falada repeats the second line of his warning, reiterating the mother's potential sorrow. This consistency emphasizes the core lament.",
+      "Grimm Style": "Exact repetition of the warning line ('Alas! alas! if thy mother knew it,'). This recurring phrase continues to build the ritualistic and solemn atmosphere of their exchange. The incantatory quality is maintained.",
+      "Moral Implication": "The persistent warning from Falada keeps the emotional weight of the princess's situation and the maid's betrayal at the forefront. It's a constant reminder of the love and connection that has been violated.",
+      "Metaphorical/Psychological Meaning": "Falada's (truth/intuition's) repeated lament ('Alas! alas! if thy mother knew it,') continues to voice the deep psychic distress caused by the Ego's (princess's) separation from its nurturing origins and its current suffering. This repetition ensures that the trauma and the need for resolution remain active concerns within the psyche.",
+      "Sentence": "  Alas! alas! if thy mother knew it,",
+      "Chapter Number": 29,
+      "Sentence Number": 55
+    },
+    {
+      "Plot Function": "Falada completes his repeated warning, concluding their daily magical exchange. This repetition will eventually be reported to the king.",
+      "Grimm Style": "Exact repetition of the final line of the couplet ('Sadly, sadly, would she rue it.'). This completes the ritualistic poetic exchange. The consistency and strangeness of this daily event are key to its eventual discovery.",
+      "Moral Implication": "The unchanging nature of Falada's message reinforces its truth and importance. This daily ritual, born of sorrow and loyalty, becomes the very thing that will lead to the uncovering of the larger deception.",
+      "Metaphorical/Psychological Meaning": "Falada's (truth/intuition's) completed and repeated lament signifies the full, persistent message from the unconscious to the Ego (princess). This unwavering sorrowful truth, ritually acknowledged, is a powerful psychic undercurrent that, despite its painful nature, keeps the Ego connected to its authentic story and prevents full psychic annihilation by the Shadow (maid).",
+      "Sentence": "  Sadly, sadly, would she rue it.’",
+      "Chapter Number": 30,
+      "Sentence Number": 56
+    },
+    {
+      "Plot Function": "The princess repeats her action of combing her silver hair in the meadow, and Curdken again tries to interfere. This repetition of conflict sets the stage for her to use her wind spell again.",
+      "Grimm Style": "Repetition of a previous scene: driving geese, sitting in the meadow, combing hair. Curdken's repeated attempt to 'take hold of it' shows his persistence or unchanged nature. This follows the 'Rule of Three' or cyclical pattern common in fairy tales, where events repeat with slight variations or escalations.",
+      "Moral Implication": "Curdken's repeated attempts to grab her hair show his lack of respect and inability to learn from the previous incident. The princess's continued care for her hair signifies her preservation of her true, though hidden, self. Her quick cry shows she is ready to defend it.",
+      "Metaphorical/Psychological Meaning": "The repetition of the princess (Ego) revealing her silver hair (true, precious Self) and Curdken (mundane interference) attempting to grasp it signifies a recurring challenge. The Ego must repeatedly protect its vulnerable, authentic aspects from profanation or appropriation by cruder psychic elements. Her quick cry shows an increased readiness to deploy her protective magic (inner resources).",
+      "Sentence": "Then she drove on the geese, and sat down again in the meadow, and began to comb out her hair as before; and Curdken ran up to her, and wanted to take hold of it; but she cried out quickly:",
+      "Chapter Number": 31,
+      "Sentence Number": 57
+    },
+    {
+      "Plot Function": "The princess repeats her magical incantation to the wind to protect her hair from Curdken. This demonstrates the reliability of her magic when needed.",
+      "Grimm Style": "Exact repetition of the rhyming spell ('Blow, breezes, blow!...'). This use of a repeated magical formula is a classic Grimm element. The consistency of the spell's wording reinforces its power and her control over this specific magic.",
+      "Moral Implication": "The princess's ability to repeatedly use her magic successfully shows that she has access to protective powers when she actively invokes them. It reinforces the idea that one should use available means to defend oneself against harassment or violation.",
+      "Metaphorical/Psychological Meaning": "The Ego's (princess's) repeated, successful invocation of the wind spell (calling upon spirit/change) demonstrates a growing mastery or reliable access to this particular inner resource for self-protection. This repetition builds the Ego's confidence in its ability to manage certain types of threats from the mundane or disruptive aspects of the psyche (Curdken).",
+      "Sentence": " ‘Blow, breezes, blow! / Let Curdken’s hat go! / Blow, breezes, blow! / Let him after it go! / O’er hills, dales, and rocks, / Away be it whirl’d / Till the silvery locks / Are all comb’d and curl’d!",
+      "Chapter Number": 32,
+      "Sentence Number": 58
+    },
+    {
+      "Plot Function": "The princess's spell works again, blowing Curdken's hat far away and allowing her to secure her hair. This repeated success further frustrates Curdken and solidifies the strange events that he will report.",
+      "Grimm Style": "Repetition of the spell's effect. The wind is effective, and Curdken is again distracted. The detail 'flew a great way, over the hills and far away' adds a slight escalation to the previous event. The princess successfully protects her hair ('bound up her hair again, and all was safe').",
+      "Moral Implication": "The consistent success of the spell reinforces the idea that the princess's magic is a reliable defense for her personal integrity. Curdken's repeated frustration due to his own actions (trying to grab her hair) shows the consequences of his behavior.",
+      "Metaphorical/Psychological Meaning": "The repeated success of the spell shows the Ego's (princess's) ability to consistently deploy this protective mechanism. Curdken being sent 'a great way... far away' suggests a more forceful repulsion of the interfering element this time. The Ego successfully maintains its inner order ('all was safe'). This pattern of successful self-protection, though seemingly minor, contributes to the eventual shift in the larger dynamic.",
+      "Sentence": "Then the wind came and blew away his hat; and off it flew a great way, over the hills and far away, so that he had to run after it; and when he came back she had bound up her hair again, and all was safe.",
+      "Chapter Number": 33,
+      "Sentence Number": 59
+    },
+    {
+      "Plot Function": "Concludes the daily routine of goose-watching. This simple sentence provides a sense of time passing and leads into Curdken's decision to complain to the king.",
+      "Grimm Style": "Simple, declarative sentence marking the end of the day's work ('So they watched the geese till it grew dark'). This type of straightforward temporal marker is common. It creates a pause before the next plot development.",
+      "Moral Implication": "Despite the strange magical occurrences and interpersonal tension, the mundane tasks of life continue. This provides a sense of realism within the fantastical elements.",
+      "Metaphorical/Psychological Meaning": "The watching of geese 'till it grew dark' signifies the end of another cycle of mundane activity and hidden magical practice. Darkness often symbolizes a transition point or a time when hidden things come to light or are reported (as Curdken is about to do). The tension from the day's events is carried into this transition.",
+      "Sentence": "So they watched the geese till it grew dark.",
+      "Chapter Number": 33,
+      "Sentence Number": 60
+    },
+    {
+      "Plot Function": "Curdken complains to the old king about the goose-girl, stating he can no longer work with her. This is the catalyst that leads the king to investigate the strange occurrences more closely.",
+      "Grimm Style": "Direct speech from Curdken, expressing his frustration. His complaint ('I cannot have that strange girl... any longer') is clear and decisive. This initiates a new phase of the plot: the investigation. 'Old king' reminds us of the wise observer.",
+      "Moral Implication": "Curdken's complaint, though motivated by personal annoyance, serves the cause of justice by bringing the goose-girl's unusual behavior to the attention of someone who can act. It shows how even negative actions or complaints can inadvertently lead to positive outcomes.",
+      "Metaphorical/Psychological Meaning": "Curdken (the mundane, irritated aspect of consciousness) reporting to the 'old king' (higher, discerning wisdom) signifies that the disruptions caused by the Ego's (princess's) hidden magic and sorrow have become too noticeable to be ignored by the everyday psyche. This complaint forces the 'king' (deeper consciousness) to pay closer attention to the 'strange girl' (the true Self in its disguised, misunderstood state).",
+      "Sentence": "In the evening, after they came home, Curdken went to the old king, and said, ‘I cannot have that strange girl to help me to keep the geese any longer.’",
+      "Chapter Number": 34,
+      "Sentence Number": 61
+    },
+    {
+      "Plot Function": "The king's simple question prompts Curdken to elaborate on his complaint, allowing the specific details of the goose-girl's strange behavior to be revealed.",
+      "Grimm Style": "Short, direct question from the king ('Why?'). This simple interrogative is typical of Grimm's dialogue, moving the plot forward efficiently. It shows the king's willingness to listen.",
+      "Moral Implication": "The king's willingness to ask 'Why?' shows good leadership and a desire to understand a problem before making a judgment. It encourages open communication, even from a goose-lad.",
+      "Metaphorical/Psychological Meaning": "The king's (discerning wisdom's) simple question 'Why?' indicates an openness to receiving more information about the 'strange girl' (the true Self). It's the psyche's readiness to explore the reasons behind the disturbances reported by the more superficial layers of consciousness (Curdken).",
+      "Sentence": "‘Why?’ said the king.",
+      "Chapter Number": 34,
+      "Sentence Number": 62
+    },
+    {
+      "Plot Function": "Curdken gives his reason for complaining: the goose-girl 'teases' him all day instead of helping. This is his subjective interpretation of her magical actions and sorrowful rituals.",
+      "Grimm Style": "Curdken's explanation is simple and from his perspective ('she does nothing but tease me'). This frames the princess's actions negatively through his eyes, which is understandable given his experiences. Direct, accusatory speech.",
+      "Moral Implication": "Shows how actions can be misinterpreted when the full context is not known. Curdken sees teasing, not the princess's grief or self-protection. This highlights the importance of investigation to find the true story.",
+      "Metaphorical/Psychological Meaning": "Curdken's perception of being 'teased' by the princess (true Self) reflects how the ordinary consciousness can misinterpret the actions or expressions of deeper, more complex psychic realities when it lacks understanding. What is ritual or self-preservation for the true Self may feel like an arbitrary annoyance to the uninitiated parts of the psyche.",
+      "Sentence": "‘Because, instead of doing any good, she does nothing but tease me all day long.’",
+      "Chapter Number": 34,
+      "Sentence Number": 63
+    },
+    {
+      "Plot Function": "The king actively seeks more information, compelling Curdken to recount the specific events. This moves the investigation forward decisively.",
+      "Grimm Style": "Direct action from the king ('made him tell him what had happened'). This shows his authority and his intent to get to the bottom of the matter. Simple narrative statement.",
+      "Moral Implication": "A good ruler (or wise person) actively seeks details rather than acting on vague complaints. The king's insistence on hearing the full story is crucial for uncovering the truth.",
+      "Metaphorical/Psychological Meaning": "The king (discerning wisdom) actively 'making' Curdken (mundane consciousness) recount the events signifies a deliberate effort by the deeper psyche to bring specific details about the true Self's (princess's) mysterious behavior into conscious focus for examination.",
+      "Sentence": "Then the king made him tell him what had happened.",
+      "Chapter Number": 34,
+      "Sentence Number": 64
+    },
+    {
+      "Plot Function": "Curdken begins his account by describing the goose-girl's daily conversation with Falada's head at the gate, quoting her words. This is the first piece of strange evidence presented to the king.",
+      "Grimm Style": "Curdken reports the dialogue with the horse's head, including the direct quote of the princess's lament. This repetition of the poetic phrase by a third party emphasizes its significance and strangeness. Simple narrative structure introducing quoted speech.",
+      "Moral Implication": "The reporting of this supernatural event by an ordinary boy gives it credibility within the story's logic. Curdken, though annoyed, is an honest reporter of what he has witnessed, which is crucial for justice.",
+      "Metaphorical/Psychological Meaning": "Curdken (mundane consciousness) reporting the princess's (Ego's) dialogue with Falada's head (fragmented truth) to the king (discerning wisdom) is a key step in bringing this repressed, ritualistic behavior into the light of higher awareness. The specific, 'strange' details are what pique the king's interest, drawing attention to the true Self's hidden life.",
+      "Sentence": "And Curdken said, ‘When we go in the morning through the dark gate with our flock of geese, she cries and talks with the head of a horse that hangs upon the wall, and says:",
+      "Chapter Number": 34,
+      "Sentence Number": 65
+    },
+    {
+      "Plot Function": "Curdken quotes the princess's lament to Falada. This is the third time this specific line appears, now as reported speech, emphasizing its centrality to the mystery.",
+      "Grimm Style": "Exact repetition of the princess's lament ('Falada, Falada, there thou hangest!'), now embedded within Curdken's report. This reinforces the memorable and peculiar nature of the utterance, making it a strong piece of evidence for the king.",
+      "Moral Implication": "The truth of the princess's sorrow and her connection to Falada begins to surface through Curdken's testimony, even if he doesn't understand its meaning. This shows how fragments of truth can emerge through unexpected channels.",
+      "Metaphorical/Psychological Meaning": "The lament being reported to the king (higher consciousness) signifies that this key element of the Ego's (princess's) inner ritual and sorrow is now being brought to the attention of the discerning part of the psyche. This specific phrase, full of pathos, acts as a pointer towards the underlying trauma and hidden identity.",
+      "Sentence": " ‘Falada, Falada, there thou hangest!’",
+      "Chapter Number": 35,
+      "Sentence Number": 66
+    },
+    {
+      "Plot Function": "Curdken continues his report by stating that Falada's head answers. This confirms the supernatural nature of the event to the king.",
+      "Grimm Style": "Simple statement reporting Falada's magical response ('and the head answers:'). This matter-of-fact reporting of a magical event is typical of Grimm's style, where the supernatural is accepted. The colon prepares for the quoted response.",
+      "Moral Implication": "The confirmation that the head speaks adds a layer of undeniable magic to Curdken's story, making it more compelling and harder for the king to dismiss as mere fancy.",
+      "Metaphorical/Psychological Meaning": "Curdken reporting that the head (fragmented truth/intuition) 'answers' tells the king (higher consciousness) that there is an active, responsive element to this seemingly dead source of wisdom. This indicates that the repressed truth is not inert but still capable of communication, prompting further investigation.",
+      "Sentence": "and the head answers:",
+      "Chapter Number": 36,
+      "Sentence Number": 67
+    },
+    {
+      "Plot Function": "Curdken quotes the first line of Falada's response. This further details the strange dialogue for the king, emphasizing the reciprocal nature of the communication.",
+      "Grimm Style": "Exact repetition of Falada's address to the princess ('Bride, bride, there thou gangest!'), as reported by Curdken. This consistency in the magical utterances is a key feature. The archaic language is preserved in the report.",
+      "Moral Implication": "Falada's consistent address to her as 'Bride,' even in Curdken's report, subtly introduces the idea of her true, hidden identity to the king, even if Curdken himself is unaware of its significance.",
+      "Metaphorical/Psychological Meaning": "Falada's reported words, especially 'Bride, bride,' carry the seed of the princess's true identity into the king's (higher consciousness's) awareness. Though reported by the naive Curdken, these words are clues that the 'strange girl' is more than she appears.",
+      "Sentence": " ‘Bride, bride, there thou gangest!",
+      "Chapter Number": 37,
+      "Sentence Number": 68
+    },
+    {
+      "Plot Function": "Curdken quotes the second line of Falada's warning. The repetition of this sorrowful refrain is a key piece of the puzzle for the king.",
+      "Grimm Style": "Exact repetition of the line ('Alas! alas! if thy mother knew it,') as part of Curdken's testimony. The unchanging nature of this magical poetic phrase highlights its importance and mystery. This reinforces the ritualistic aspect for the king.",
+      "Moral Implication": "The persistent theme of the mother's sorrow, now brought to the king's attention, hints at a deeper story of loss and potential wrongdoing connected to the goose-girl's origins.",
+      "Metaphorical/Psychological Meaning": "This line, full of pathos and hinting at a hidden maternal connection, further piques the interest of the king (higher consciousness). It suggests a backstory of sorrow and potential injustice that needs to be uncovered to understand the goose-girl's current state.",
+      "Sentence": "  Alas! alas! if thy mother knew it,",
+      "Chapter Number": 38,
+      "Sentence Number": 69
+    },
+    {
+      "Plot Function": "Curdken quotes the final line of Falada's warning, completing the account of the supernatural dialogue for the king. This gives the king the full text of the recurring magical exchange.",
+      "Grimm Style": "Exact repetition of the concluding line of the couplet ('Sadly, sadly, would she rue it.'). This completes the reported magical speech, providing the king with the full, strange incantation that occurs daily.",
+      "Moral Implication": "The full reported speech provides the king with a significant mystery. The unchanging, sorrowful words from a dead horse's head are a powerful indicator that something is deeply amiss.",
+      "Metaphorical/Psychological Meaning": "By reporting the full, sorrowful message, Curdken delivers a complete piece of the puzzle to the king (higher consciousness). This recurring lament, tied to a dead horse that speaks, strongly signals a repressed trauma and a hidden truth that the discerning part of the psyche (king) must now investigate.",
+      "Sentence": "  Sadly, sadly, would she rue it.’",
+      "Chapter Number": 39,
+      "Sentence Number": 70
+    },
+    {
+      "Plot Function": "Curdken continues his report, describing the incident with the goose-girl's hair and his hat being blown away. This provides the king with another example of her strange powers and Curdken's frustrations.",
+      "Grimm Style": "Curdken summarizes the events in the meadow. His language is that of a frustrated boy ('how his hat was blown away; and how he was forced to run after it'). He focuses on his own inconvenience, inadvertently highlighting her magical abilities.",
+      "Moral Implication": "Curdken's account, while self-centered, provides crucial evidence of the goose-girl's unusual abilities. His complaint about being forced to leave his flock adds to the picture of her disruptive (to him) behavior, prompting further investigation.",
+      "Metaphorical/Psychological Meaning": "Curdken (mundane consciousness) reporting the magical incident with the hair and hat to the king (higher wisdom) brings another piece of evidence about the true Self's (princess's) hidden powers and qualities into the light. His complaint about leaving the 'flock of geese to themselves' might subtly hint at the true Self's preoccupation with its own inner world/grief, sometimes at the expense of mundane duties as perceived by others.",
+      "Sentence": "And Curdken went on telling the king what had happened upon the meadow where the geese fed; how his hat was blown away; and how he was forced to run after it, and to leave his flock of geese to themselves.",
+      "Chapter Number": 40,
+      "Sentence Number": 71
+    },
+    {
+      "Plot Function": "The old king, now intrigued, decides to witness these events himself. He instructs Curdken to continue as usual, setting up his secret observation. This is a crucial step towards uncovering the truth.",
+      "Grimm Style": "The king's actions are decisive and strategic ('told the boy to go out again... he placed himself behind the dark gate'). This demonstrates his wisdom and proactive approach. The 'dark gate' is again a significant location. The plan to observe secretly is a common trope for uncovering truth.",
+      "Moral Implication": "A wise ruler investigates personally and discreetly when faced with unusual reports. The king's actions show prudence and a commitment to finding the truth. He doesn't dismiss Curdken's story but seeks empirical evidence.",
+      "Metaphorical/Psychological Meaning": "The old king (higher, discerning consciousness) deciding to observe secretly signifies the psyche's focused attention on the true Self's (princess's) hidden life. Placing himself 'behind the dark gate' means he is observing from a hidden or unconscious vantage point, seeking direct experience of these mysterious inner processes (the dialogue with Falada, the magic with the hair) before making a judgment.",
+      "Sentence": "But the old king told the boy to go out again the next day: and when morning came, he placed himself behind the dark gate, and heard how she spoke to Falada, and how Falada answered.",
+      "Chapter Number": 40,
+      "Sentence Number": 72
+    },
+    {
+      "Plot Function": "The king continues his secret observation in the field, witnessing the goose-girl letting down her glittering hair. This provides him with firsthand evidence of another of Curdken's claims.",
+      "Grimm Style": "The king's methodical observation continues ('went into the field, and hid himself in a bush'). His seeing 'with his own eyes' emphasizes the direct evidence. The 'hair that glittered in the sun' is a striking visual, confirming its special quality.",
+      "Moral Implication": "The king's diligence in seeking firsthand evidence is emphasized. He is not content with secondhand reports but verifies the claims himself, a hallmark of a just and wise figure.",
+      "Metaphorical/Psychological Meaning": "The king (higher consciousness) hiding in a 'bush by the meadow�s side' and seeing the princess's (true Self's) glittering hair 'with his own eyes' represents a direct, unmediated perception of the true Self's hidden beauty and spiritual qualities. This direct witnessing by the deeper psyche is a crucial step towards recognizing and affirming the true Self's value, which has been obscured and devalued.",
+      "Sentence": "Then he went into the field, and hid himself in a bush by the meadow’s side; and he soon saw with his own eyes how they drove the flock of geese; and how, after a little time, she let down her hair that glittered in the sun.",
+      "Chapter Number": 40,
+      "Sentence Number": 73
+    },
+    {
+      "Plot Function": "The king directly hears the princess utter her wind spell. This confirms the final part of Curdken's story about her magical abilities.",
+      "Grimm Style": "The king is now a direct auditor of the magical spell ('And then he heard her say:'). This builds the evidence through multiple senses (hearing her speak to Falada, seeing her hair, hearing the spell). The colon introduces the spell.",
+      "Moral Implication": "The accumulation of firsthand evidence by the king leaves no doubt about the truth of Curdken's reports and the unusual nature of the goose-girl. This thoroughness is key to a just resolution.",
+      "Metaphorical/Psychological Meaning": "The king (higher consciousness) directly hearing the princess (true Self) utter her spell signifies a direct awareness of the true Self's latent powers and its ability to command certain energies (wind/spirit). This firsthand experience confirms the reports and deepens the understanding of the true Self's hidden capacities.",
+      "Sentence": "And then he heard her say:",
+      "Chapter Number": 40,
+      "Sentence Number": 74
+    },
+    {
+      "Plot Function": "This is the princess's wind spell, now witnessed directly by the king. Its repetition for the king's benefit solidifies it as a key piece of evidence about her powers.",
+      "Grimm Style": "Exact repetition of the full rhyming spell. The king's direct observation of this magical incantation is crucial. The poetic structure and rhythmic language are characteristic of such spells in Grimm's tales.",
+      "Moral Implication": "The king witnessing the spell firsthand confirms the goose-girl's magical abilities. This is not hearsay but observed fact, which will inform his subsequent actions. It shows her power is real.",
+      "Metaphorical/Psychological Meaning": "The king (higher consciousness) directly witnessing the true Self's (princess's) magical incantation signifies a full apprehension of its inherent power to affect its environment and protect its integrity. This direct observation by the deepest level of the psyche validates the true Self's abilities, which were previously only known through the distorted lens of Curdken's (mundane consciousness's) complaints.",
+      "Sentence": " ‘Blow, breezes, blow! / Let Curdken’s hat go! / Blow, breezes, blow! / Let him after it go! / O’er hills, dales, and rocks, / Away be it whirl’d / Till the silvery locks / Are all comb’d and curl’d!",
+      "Chapter Number": 41,
+      "Sentence Number": 75
+    },
+    {
+      "Plot Function": "The king witnesses the spell's effect: Curdken's hat is blown away, and the princess calmly combs her hair. This confirms the entire sequence of events as reported by Curdken and shows the king the full picture of her daily magical routine.",
+      "Grimm Style": "The spell's effect is again immediate and directly observed by the king ('soon came a gale of wind... carried away Curdken�s hat'). The contrast between Curdken's frantic chase and the girl's calm grooming is vivid. Simple narration of cause and effect.",
+      "Moral Implication": "The king's complete observation of the event confirms the truth of Curdken's story and the goose-girl's magical abilities. This thorough, firsthand understanding is essential before he takes action.",
+      "Metaphorical/Psychological Meaning": "The king (higher consciousness) witnessing the entire magical sequence � the spell, Curdken's (mundane element's) chase, and the princess's (true Self's) calm self-tending � provides a complete understanding of this particular dynamic. The true Self is capable of managing minor disruptions and maintaining its inner order. This observation prepares the higher consciousness for a more direct intervention.",
+      "Sentence": "And soon came a gale of wind, and carried away Curdken’s hat, and away went Curdken after it, while the girl went on combing and curling her hair.",
+      "Chapter Number": 42,
+      "Sentence Number": 76
+    },
+    {
+      "Plot Function": "The king, having seen enough, confronts the goose-girl, asking for an explanation. Her tearful response and claim that she cannot speak for fear of her life heighten the mystery and hint at the deeper, enforced deception.",
+      "Grimm Style": "The king acts on his observations ('called her aside, and asked her why she did so'). The goose-girl's reaction ('burst into tears') is a direct emotional display. Her statement about losing her life if she tells is a classic life-or-death stakes element, common in tales involving forced silence or broken taboos.",
+      "Moral Implication": "The king's direct but gentle approach encourages disclosure. The princess's fear of death reveals the severity of the threat she is under, explaining her long silence. It highlights the evil of the false bride's coercion.",
+      "Metaphorical/Psychological Meaning": "The king (higher consciousness) directly engaging with the goose-girl (true Self) and asking for an explanation ('why she did so') signifies the beginning of a conscious dialogue with the repressed or hidden aspects of the psyche. Her tears represent the release of pent-up sorrow. Her fear of death if she speaks reflects the powerful grip of the Shadow's (maid's) threat, which has enforced the repression of truth. This is the Ego's terror of annihilation if it defies the dominant repressive force.",
+      "Sentence": "All this the old king saw: so he went home without being seen; and when the little goose-girl came back in the evening he called her aside, and asked her why she did so: but she burst into tears, and said, ‘That I must not tell you or any man, or I shall lose my life.’",
+      "Chapter Number": 42,
+      "Sentence Number": 77
+    },
+    {
+      "Plot Function": "The old king's persistent and kind pressure leads the princess to finally reveal her entire story. This is the crucial moment of confession and the turning point for her restoration.",
+      "Grimm Style": "The king's gentle persistence ('begged so hard') overcomes her fear. Her telling 'all the tale, from beginning to end, word for word' emphasizes the completeness and truthfulness of her account. This direct narration of her story to a listening authority figure is a key step in resolving the conflict.",
+      "Moral Implication": "Kindness, patience, and genuine concern can break down barriers of fear and lead to the revelation of truth. The princess's detailed confession is essential for justice to be served. It shows the importance of speaking out against injustice when a safe opportunity arises.",
+      "Metaphorical/Psychological Meaning": "The old king's (higher wisdom's) gentle but firm insistence allows the true Self (princess) to finally voice its repressed story, its trauma, and its authentic identity. This 'telling all the tale' is a crucial act of psychic integration, where the hidden or wounded parts of the Ego bring their experience into full consciousness. The phrase 'had no peace till she had told him' signifies the deep psychological need for the truth to be heard and acknowledged by a benevolent, authoritative part of the psyche.",
+      "Sentence": "But the old king begged so hard, that she had no peace till she had told him all the tale, from beginning to end, word for word.",
+      "Chapter Number": 43,
+      "Sentence Number": 78
+    },
+    {
+      "Plot Function": "Upon hearing the truth, the king immediately acts to restore the princess. He orders royal clothes for her, and her beauty astounds him, confirming her true identity and worth.",
+      "Grimm Style": "Swift and decisive action following the revelation ('when she had done the king ordered royal clothes'). Her beauty, now recognized, is 'wondered' at. This immediate restoration is typical of fairy tale justice. 'Very lucky for her' is a simple narrative comment.",
+      "Moral Implication": "Truth revealed leads to immediate justice and restoration. The princess's inherent nobility and beauty are recognized once her story is known. This rewards her suffering and patience.",
+      "Metaphorical/Psychological Meaning": "Once the true Self (princess) has fully revealed its story to the higher consciousness (king), immediate restoration begins. The 'royal clothes' symbolize the reclaiming of her rightful persona and status. Her recognized beauty ('gazed on her with wonder') signifies the full appreciation of the true Self's inherent worth and radiance, which was previously obscured. This is a moment of profound psychic reintegration and validation.",
+      "Sentence": "And it was very lucky for her that she did so, for when she had done the king ordered royal clothes to be put upon her, and gazed on her with wonder, she was so beautiful.",
+      "Chapter Number": 43,
+      "Sentence Number": 79
+    },
+    {
+      "Plot Function": "The old king informs his son (the prince) about the deception, revealing the true bride and the false one's identity as a mere waiting-maid. This corrects the prince's misunderstanding and sets up the final confrontation.",
+      "Grimm Style": "Direct revelation of truth from father to son ('told him that he had only a false bride... true bride stood by'). The terms 'false bride' and 'true bride' clearly delineate the roles. Simple, authoritative speech from the king.",
+      "Moral Implication": "The truth is now being disseminated to those who were deceived. The prince is confronted with his error in judgment. This step is crucial for rectifying the injustice and restoring the proper order.",
+      "Metaphorical/Psychological Meaning": "The old king (higher wisdom) informing his son, the prince (Animus/judgment function), about the deception signifies the correction of a flawed perception within the psyche. The Animus, previously aligned with the Shadow (false bride), is now presented with the truth about the true Self (true bride). This allows for a realignment of the psyche's masculine principle with authenticity.",
+      "Sentence": "Then he called his son and told him that he had only a false bride; for that she was merely a waiting-maid, while the true bride stood by.",
+      "Chapter Number": 43,
+      "Sentence Number": 80
+    },
+    {
+      "Plot Function": "The young king rejoices at seeing the true princess's beauty and hearing of her virtues. He accepts her immediately. The old king arranges a feast, preparing for the public revelation and the false bride's judgment, without alerting her.",
+      "Grimm Style": "The prince's positive reaction ('rejoiced') to the true bride's beauty and virtues ('meek and patient') is immediate. The old king's plan for a 'great feast' without informing the false bride sets up a dramatic confrontation, a common narrative device for public justice.",
+      "Moral Implication": "The prince's joy shows his acceptance of the true bride and his recognition of true worth (beauty and virtue). The careful planning of the feast implies that justice will be meted out thoughtfully and publicly. Meekness and patience are explicitly stated as virtues that are now recognized.",
+      "Metaphorical/Psychological Meaning": "The young king's (Animus/judgment) rejoicing at the true bride's (true Self's) beauty and virtues signifies the joyful integration and acceptance of the authentic Self once it is revealed. The Animus realigns with the true Self. The feast represents a celebration of this integration and a preparation for the confrontation and judgment of the Shadow (false bride). The Shadow is kept unaware, highlighting its eventual, sudden downfall.",
+      "Sentence": "And the young king rejoiced when he saw her beauty, and heard how meek and patient she had been; and without saying anything to the false bride, the king ordered a great feast to be got ready for all his court.",
+      "Chapter Number": 43,
+      "Sentence Number": 81
+    },
+    {
+      "Plot Function": "Describes the seating arrangement at the feast, with the true and false brides juxtaposed. The true princess's dazzling beauty makes her unrecognizable in her restored state, highlighting her transformation.",
+      "Grimm Style": "Symbolic seating arrangement ('false princess on one side, and the true one on the other'). The true princess's transformation is emphasized ('nobody knew her again, for her beauty was quite dazzling'). This 'Hidden Identity/Revelation' is a climactic moment. 'Brilliant dress' signifies her restored status.",
+      "Moral Implication": "The public display contrasts truth and falsehood. The true princess's dazzling beauty, once she is restored to her rightful place, shows that true worth, when acknowledged, shines brightly. Her previous suffering is now completely overturned.",
+      "Metaphorical/Psychological Meaning": "The feast with the true Self (true princess) and the Shadow (false princess) side-by-side signifies a conscious confrontation of these two aspects. The true Self, now 'dazzling' and unrecognizable as the humble goose-girl, represents its full radiance and power once integrated and acknowledged by the whole psyche. The Shadow is about to be exposed in the light of this reclaimed authenticity.",
+      "Sentence": "The bridegroom sat at the top, with the false princess on one side, and the true one on the other; but nobody knew her again, for her beauty was quite dazzling to their eyes; and she did not seem at all like the little goose-girl, now that she had her brilliant dress on.",
+      "Chapter Number": 43,
+      "Sentence Number": 82
+    },
+    {
+      "Plot Function": "The old king initiates the judgment of the false bride by proposing to tell a tale, a clever way to elicit her own condemnation without direct accusation initially.",
+      "Grimm Style": "The king uses a storytelling device ('tell them a tale') to lead into the judgment. This indirect approach is a common trope for revealing truth or tricking a villain into self-condemnation. 'When they had eaten and drank, and were very merry' sets a seemingly relaxed atmosphere before the grim judgment.",
+      "Moral Implication": "The king's method is wise and just, allowing the villain to pronounce her own sentence. This storytelling approach makes the eventual justice feel more profound and inescapable.",
+      "Metaphorical/Psychological Meaning": "The old king (higher wisdom) telling a 'tale' that mirrors the false bride's (Shadow's) actions is a way of bringing the Shadow's deeds into conscious review, framed hypothetically. This allows the Shadow to reveal its own internal 'justice' or cruelty, thereby condemning itself from its own nature before the external judgment is passed. It�s a subtle unmasking.",
+      "Sentence": "When they had eaten and drank, and were very merry, the old king said he would tell them a tale.",
+      "Chapter Number": 44,
+      "Sentence Number": 83
+    },
+    {
+      "Plot Function": "The king recounts the princess's story as if it were a hypothetical tale and then asks the false bride (referred to as the 'true waiting-maid' in a moment of narrative irony, or perhaps to test her) for her opinion on the appropriate punishment. This is the setup for her self-condemnation.",
+      "Grimm Style": "The king's retelling 'as if it was one that he had once heard' is a clever narrative strategy. Asking the villain for judgment on a similar crime is a classic ironic twist (Justice/Revenge Cycle structure). The phrase 'true waiting-maid' here is likely an intentional misdirection or a test by the king, addressing her by her actual original role.",
+      "Moral Implication": "This tests the false bride's conscience and moral compass (which she lacks). It highlights the theme that villains often prescribe for others the very punishments they themselves deserve. Justice is approached through a seemingly objective inquiry.",
+      "Metaphorical/Psychological Meaning": "The king (higher wisdom) asking the false bride (Shadow) for her judgment on her own disguised actions is a profound psychological moment. It forces the Shadow to project its own cruelty and understanding of punishment. The Shadow, in its blindness and arrogance, reveals its own destructive nature, thereby participating in its own unmasking and condemnation. The term 'true waiting-maid' might also be the narrator subtly reminding the audience of her actual, non-royal status.",
+      "Sentence": "So he began, and told all the story of the princess, as if it was one that he had once heard; and he asked the true waiting-maid what she thought ought to be done to anyone who would behave thus.",
+      "Chapter Number": 44,
+      "Sentence Number": 84
+    },
+    {
+      "Plot Function": "The false bride, unaware she is condemning herself, suggests a horrific and brutal punishment. This reveals her cruel nature and seals her fate.",
+      "Grimm Style": "The false bride's proposed punishment is extremely violent and graphic ('thrown into a cask stuck round with sharp nails, and that two white horses should be put to it, and should drag it from street to street till she was dead'). This fittingly brutal punishment is typical of Grimm's tales where villains meet harsh ends. Her ignorance of her own exposure is key.",
+      "Moral Implication": "The villain, in her arrogance and cruelty, unknowingly decrees her own doom. The punishment she devises is a measure of her own wickedness. This is a powerful example of poetic justice, where 'the measure you give will be the measure you get.'",
+      "Metaphorical/Psychological Meaning": "The false bride (Shadow) prescribing such a gruesome punishment reveals the depth of its own inherent cruelty and destructive impulses. By voicing this, the Shadow essentially defines the terms of its own necessary 'death' or eradication from the psyche for true healing and integration to occur. It's a self-condemnation that stems from its own nature.",
+      "Sentence": "‘Nothing better,’ said this false bride, ‘than that she should be thrown into a cask stuck round with sharp nails, and that two white horses should be put to it, and should drag it from street to street till she was dead.’",
+      "Chapter Number": 44,
+      "Sentence Number": 85
+    },
+    {
+      "Plot Function": "The old king reveals the false bride's guilt and declares that her self-prescribed punishment will be carried out. This is the climax of the judgment.",
+      "Grimm Style": "Dramatic revelation by the king ('Thou art she!'). His pronouncement of her fate ('as thou has judged thyself, so shall it be done to thee') is direct, authoritative, and delivers poetic justice. This is a classic 'Punishment and Reward' moment.",
+      "Moral Implication": "Justice is served, and the villain is punished according to her own cruel standards. The principle 'as you judge, so shall you be judged' is enacted literally. This affirms a moral order where wrongdoing ultimately faces dire consequences.",
+      "Metaphorical/Psychological Meaning": "The king (higher wisdom) declaring 'Thou art she!' is the moment of complete unmasking of the Shadow (false bride). The pronouncement that 'as thou has judged thyself, so shall it be done to thee' signifies that the psyche will deal with the destructive Shadow according to the very nature and intensity of its own negativity. This is the necessary and often harsh process of confronting and neutralizing the harmful aspects of the Shadow for psychic wholeness.",
+      "Sentence": "‘Thou art she!’ said the old king; ‘and as thou has judged thyself, so shall it be done to thee.’",
+      "Chapter Number": 44,
+      "Sentence Number": 86
+    },
+    {
+      "Plot Function": "The story concludes with the restoration of order: the true princess marries the prince, they reign happily, and the good fairy restores Falada. This is the classic 'happily ever after' ending with full restoration.",
+      "Grimm Style": "Typical fairy tale resolution: marriage to the prince ('married to his true wife'), reigning 'in peace and happiness all their lives' (formulaic happy ending). The magical restoration of Falada by the 'good fairy' provides complete closure and rewards faithfulness. It ties up all loose ends, including the magical helper.",
+      "Moral Implication": "Virtue, patience, and truth are ultimately rewarded with happiness, love, and rightful status. Faithfulness (Falada) is also rewarded with restoration. The intervention of the good fairy reinforces the idea that benevolent supernatural forces ensure a just and happy outcome for the deserving. This is the ultimate 'Punishment and Reward' and 'Transformation and Restoration'.",
+      "Metaphorical/Psychological Meaning": "The marriage of the young king and his 'true wife' (true Self/princess) symbolizes the integration of the Animus and Anima, leading to wholeness and harmonious functioning of the psyche ('reigned over the kingdom in peace and happiness'). The good fairy restoring Falada (intuition/truth) to life signifies the complete healing and revitalization of this vital psychic function, now fully integrated and serving the unified Self. This is the successful culmination of the individuation journey.",
+      "Sentence": "And the young king was then married to his true wife, and they reigned over the kingdom in peace and happiness all their lives; and the good fairy came to see them, and restored the faithful Falada to life again.",
+      "Chapter Number": 44,
+      "Sentence Number": 87
+    }
+  ],
+  "The Complete Story": {
+    "Title": "THE GOOSE-GIRL",
+    "Chapters": [
+      "The king of a great land died, and left his queen to take care of their only child. This child was a daughter, who was very beautiful; and her mother loved her dearly, and was very kind to her. And there was a good fairy too, who was fond of the princess, and helped her mother to watch over her.",
+      "When she grew up, she was betrothed to a prince who lived a great way off; and as the time drew near for her to be married, she got ready to set off on her journey to his country. Then the queen her mother, packed up a great many costly things; jewels, and gold, and silver; trinkets, fine dresses, and in short everything that became a royal bride. And she gave her a waiting-maid to ride with her, and give her into the bridegroom’s hands; and each had a horse for the journey. Now the princess’s horse was the fairy’s gift, and it was called Falada, and could speak.",
+      "When the time came for them to set out, the fairy went into her bed-chamber, and took a little knife, and cut off a lock of her hair, and gave it to the princess, and said, ‘Take care of it, dear child; for it is a charm that may be of use to you on the road.’ Then they all took a sorrowful leave of the princess; and she put the lock of hair into her bosom, got upon her horse, and set off on her journey to her bridegroom’s kingdom.",
+      "One day, as they were riding along by a brook, the princess began to feel very thirsty: and she said to her maid, ‘Pray get down, and fetch me some water in my golden cup out of yonder brook, for I want to drink.’ ‘Nay,’ said the maid, ‘if you are thirsty, get off yourself, and stoop down by the water and drink; I shall not be your waiting-maid any longer.’ Then she was so thirsty that she got down, and knelt over the little brook, and drank; for she was frightened, and dared not bring out her golden cup; and she wept and said, ‘Alas! what will become of me?’ And the lock answered her, and said:",
+      " ‘Alas! alas! if thy mother knew it,",
+      "  Sadly, sadly, would she rue it.’",
+      "But the princess was very gentle and meek, so she said nothing to her maid’s ill behaviour, but got upon her horse again.",
+      "Then all rode farther on their journey, till the day grew so warm, and the sun so scorching, that the bride began to feel very thirsty again; and at last, when they came to a river, she forgot her maid’s rude speech, and said, ‘Pray get down, and fetch me some water to drink in my golden cup.’ But the maid answered her, and even spoke more haughtily than before: ‘Drink if you will, but I shall not be your waiting-maid.’ Then the princess was so thirsty that she got off her horse, and lay down, and held her head over the running stream, and cried and said, ‘What will become of me?’ And the lock of hair answered her again:",
+      " ‘Alas! alas! if thy mother knew it,",
+      "  Sadly, sadly, would she rue it.’",
+      "And as she leaned down to drink, the lock of hair fell from her bosom, and floated away with the water. Now she was so frightened that she did not see it; but her maid saw it, and was very glad, for she knew the charm; and she saw that the poor bride would be in her power, now that she had lost the hair. So when the bride had done drinking, and would have got upon Falada again, the maid said, ‘I shall ride upon Falada, and you may have my horse instead’; so she was forced to give up her horse, and soon afterwards to take off her royal clothes and put on her maid’s shabby ones.",
+      "At last, as they drew near the end of their journey, this treacherous servant threatened to kill her mistress if she ever told anyone what had happened. But Falada saw it all, and marked it well.",
+      "Then the waiting-maid got upon Falada, and the real bride rode upon the other horse, and they went on in this way till at last they came to the royal court. There was great joy at their coming, and the prince flew to meet them, and lifted the maid from her horse, thinking she was the one who was to be his wife; and she was led upstairs to the royal chamber; but the true princess was told to stay in the court below.",
+      "Now the old king happened just then to have nothing else to do; so he amused himself by sitting at his kitchen window, looking at what was going on; and he saw her in the courtyard. As she looked very pretty, and too delicate for a waiting-maid, he went up into the royal chamber to ask the bride who it was she had brought with her, that was thus left standing in the court below. ‘I brought her with me for the sake of her company on the road,’ said she; ‘pray give the girl some work to do, that she may not be idle.’ The old king could not for some time think of any work for her to do; but at last he said, ‘I have a lad who takes care of my geese; she may go and help him.’ Now the name of this lad, that the real bride was to help in watching the king’s geese, was Curdken.",
+      "But the false bride said to the prince, ‘Dear husband, pray do me one piece of kindness.’ ‘That I will,’ said the prince. ‘Then tell one of your slaughterers to cut off the head of the horse I rode upon, for it was very unruly, and plagued me sadly on the road’; but the truth was, she was very much afraid lest Falada should some day or other speak, and tell all she had done to the princess. She carried her point, and the faithful Falada was killed; but when the true princess heard of it, she wept, and begged the man to nail up Falada’s head against a large dark gate of the city, through which she had to pass every morning and evening, that there she might still see him sometimes. Then the slaughterer said he would do as she wished; and cut off the head, and nailed it up under the dark gate.",
+      "Early the next morning, as she and Curdken went out through the gate, she said sorrowfully:",
+      " ‘Falada, Falada, there thou hangest!’",
+      "and the head answered:",
+      " ‘Bride, bride, there thou gangest!",
+      "  Alas! alas! if thy mother knew it,",
+      "  Sadly, sadly, would she rue it.’",
+      "Then they went out of the city, and drove the geese on. And when she came to the meadow, she sat down upon a bank there, and let down her waving locks of hair, which were all of pure silver; and when Curdken saw it glitter in the sun, he ran up, and would have pulled some of the locks out, but she cried:",
+      " ‘Blow, breezes, blow! / Let Curdken’s hat go! / Blow, breezes, blow! / Let him after it go! / O’er hills, dales, and rocks, / Away be it whirl’d / Till the silvery locks / Are all comb’d and curl’d!",
+      "Then there came a wind, so strong that it blew off Curdken’s hat; and away it flew over the hills: and he was forced to turn and run after it; till, by the time he came back, she had done combing and curling her hair, and had put it up again safe. Then he was very angry and sulky, and would not speak to her at all; but they watched the geese until it grew dark in the evening, and then drove them homewards.",
+      "The next morning, as they were going through the dark gate, the poor girl looked up at Falada’s head, and cried:",
+      " ‘Falada, Falada, there thou hangest!’",
+      "and the head answered:",
+      " ‘Bride, bride, there thou gangest!",
+      "  Alas! alas! if thy mother knew it,",
+      "  Sadly, sadly, would she rue it.’",
+      "Then she drove on the geese, and sat down again in the meadow, and began to comb out her hair as before; and Curdken ran up to her, and wanted to take hold of it; but she cried out quickly:",
+      " ‘Blow, breezes, blow! / Let Curdken’s hat go! / Blow, breezes, blow! / Let him after it go! / O’er hills, dales, and rocks, / Away be it whirl’d / Till the silvery locks / Are all comb’d and curl’d!",
+      "Then the wind came and blew away his hat; and off it flew a great way, over the hills and far away, so that he had to run after it; and when he came back she had bound up her hair again, and all was safe. So they watched the geese till it grew dark.",
+      "In the evening, after they came home, Curdken went to the old king, and said, ‘I cannot have that strange girl to help me to keep the geese any longer.’ ‘Why?’ said the king. ‘Because, instead of doing any good, she does nothing but tease me all day long.’ Then the king made him tell him what had happened. And Curdken said, ‘When we go in the morning through the dark gate with our flock of geese, she cries and talks with the head of a horse that hangs upon the wall, and says:",
+      " ‘Falada, Falada, there thou hangest!’",
+      "and the head answers:",
+      " ‘Bride, bride, there thou gangest!",
+      "  Alas! alas! if thy mother knew it,",
+      "  Sadly, sadly, would she rue it.’",
+      "And Curdken went on telling the king what had happened upon the meadow where the geese fed; how his hat was blown away; and how he was forced to run after it, and to leave his flock of geese to themselves. But the old king told the boy to go out again the next day: and when morning came, he placed himself behind the dark gate, and heard how she spoke to Falada, and how Falada answered. Then he went into the field, and hid himself in a bush by the meadow’s side; and he soon saw with his own eyes how they drove the flock of geese; and how, after a little time, she let down her hair that glittered in the sun. And then he heard her say:",
+      " ‘Blow, breezes, blow! / Let Curdken’s hat go! / Blow, breezes, blow! / Let him after it go! / O’er hills, dales, and rocks, / Away be it whirl’d / Till the silvery locks / Are all comb’d and curl’d!",
+      "And soon came a gale of wind, and carried away Curdken’s hat, and away went Curdken after it, while the girl went on combing and curling her hair. All this the old king saw: so he went home without being seen; and when the little goose-girl came back in the evening he called her aside, and asked her why she did so: but she burst into tears, and said, ‘That I must not tell you or any man, or I shall lose my life.’",
+      "But the old king begged so hard, that she had no peace till she had told him all the tale, from beginning to end, word for word. And it was very lucky for her that she did so, for when she had done the king ordered royal clothes to be put upon her, and gazed on her with wonder, she was so beautiful. Then he called his son and told him that he had only a false bride; for that she was merely a waiting-maid, while the true bride stood by. And the young king rejoiced when he saw her beauty, and heard how meek and patient she had been; and without saying anything to the false bride, the king ordered a great feast to be got ready for all his court. The bridegroom sat at the top, with the false princess on one side, and the true one on the other; but nobody knew her again, for her beauty was quite dazzling to their eyes; and she did not seem at all like the little goose-girl, now that she had her brilliant dress on.",
+      "When they had eaten and drank, and were very merry, the old king said he would tell them a tale. So he began, and told all the story of the princess, as if it was one that he had once heard; and he asked the true waiting-maid what she thought ought to be done to anyone who would behave thus. ‘Nothing better,’ said this false bride, ‘than that she should be thrown into a cask stuck round with sharp nails, and that two white horses should be put to it, and should drag it from street to street till she was dead.’ ‘Thou art she!’ said the old king; ‘and as thou has judged thyself, so shall it be done to thee.’ And the young king was then married to his true wife, and they reigned over the kingdom in peace and happiness all their lives; and the good fairy came to see them, and restored the faithful Falada to life again."
+    ]
+  }
+}

@@ -1,5 +1,6 @@
 import os
 import subprocess
+import time
 import tkinter as tk
 from tkinter import filedialog, messagebox, scrolledtext, ttk
 import threading
@@ -122,6 +123,7 @@ class GUIApp:
         self.output_display.config(state="normal")
         self.output_display.delete(1.0, tk.END)
         self.output_display.insert(tk.END, "Running generate_story...\n")
+        self.start_time = time.time()
         self.output_display.config(state="disabled")
         
         def run_async():
@@ -132,13 +134,16 @@ class GUIApp:
                     if output == "" and process.poll() is not None:
                         break
                     if output:
-                        self.output_display.config(state="normal")
-                        self.output_display.insert(tk.END, output)
-                        self.output_display.config(state="disabled")
-                        self.output_display.see(tk.END)
                         if '"Sentence Number":' in output:
                             self.output_display.config(state="normal")
-                            self.output_display.insert(tk.END, f"Progress: {output.strip()}\n")
+                            elapsed = int(time.time() - self.start_time)
+                            self.output_display.insert(tk.END, f"Progress: {output.strip()} ({elapsed} seconds)\n")
+                            self.output_display.config(state="disabled")
+                            self.output_display.see(tk.END)
+                        if '"Sentence":' in output:
+                            self.output_display.config(state="normal")
+                            elapsed = int(time.time() - self.start_time)
+                            self.output_display.insert(tk.END, f"{output.strip()}\n")
                             self.output_display.config(state="disabled")
                             self.output_display.see(tk.END)
                 stderr = process.stderr.read()
@@ -180,25 +185,42 @@ class GUIApp:
             messagebox.showerror("Error", "No non-seed file selected!")
             return
         story_name = selected_file.split(".")[0]
-        print(story_name)
-        print (f"python .\generate_seed.py \".\seeds\{selected_file}\" \"{story_name}\"")
         command = f"python .\generate_seed.py \".\seeds\{selected_file}\" \"{story_name}\""
         self.output_display.config(state="normal")
         self.output_display.delete(1.0, tk.END)
         self.output_display.insert(tk.END, "Running generate_seed...\n")
+        self.start_time = time.time()
         self.output_display.config(state="disabled")
         
         def run_async():
             try:
-                result = subprocess.run(command, shell=True, text=True, capture_output=True)
-                self.output_display.config(state="normal")
-                self.output_display.insert(tk.END, result.stdout + result.stderr + "\nFinished generate_seed.\n")
-                self.output_display.config(state="disabled")
+                process = subprocess.Popen(command, shell=True, text=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+                while True:
+                    output = process.stdout.readline()
+                    if output == "" and process.poll() is not None:
+                        break
+                    if output:
+                        if '"Sentence Number":' in output:
+                            self.output_display.config(state="normal")
+                            elapsed = int(time.time() - self.start_time)
+                            self.output_display.insert(tk.END, f"Progress: {output.strip()} ({elapsed} seconds)\n")
+                            self.output_display.config(state="disabled")
+                            self.output_display.see(tk.END)
+                stderr = process.stderr.read()
+                if stderr:
+                    self.output_display.config(state="normal")
+                    self.output_display.insert(tk.END, stderr)
+                    self.output_display.config(state="disabled")
             except Exception as e:
                 messagebox.showerror("Error", f"Failed to run command: {e}")
+            finally:
+                self.output_display.config(state="normal")
+                self.output_display.insert(tk.END, "\nFinished generate_seed.\n")
+                self.output_display.config(state="disabled")
+                self.output_display.see(tk.END)
+                self.refresh_seed_files()
         
         threading.Thread(target=run_async).start()
-        self.refresh_seed_files()
     
     def run_command(self, command):
         try:

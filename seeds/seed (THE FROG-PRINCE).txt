@@ -1,0 +1,599 @@
+{
+  "Analysis": [
+    {
+      "Plot Function": "Introduces the protagonist (young princess), her solitary action, and the initial setting (evening, wood), setting the stage for the inciting incident.",
+      "Grimm Style": "Formulaic opening element implicit in 'One fine evening'. Simple, concrete vocabulary ('bonnet,' 'clogs,' 'wood'). Compound sentence linked by 'and'. Active voice. Direct, matter-of-fact tone typical of Grimm tales. Establishes character and situation quickly (Part 10: Beginning the Story). Use of archetypal setting ('a wood').",
+      "Moral Implication": "The princess venturing alone into the wood suggests a departure from safety and a step towards the unknown, where choices and consequences will arise. It highlights a moment of freedom that will soon lead to a test.",
+      "Metaphorical/Psychological Meaning": "The 'young princess' represents the Ego, possibly in a state of youthful innocence or naivety. Her walk 'by herself in a wood' symbolizes an unconscious journey or a necessary step into the unknown aspects of her psyche (the 'forest' as unconscious). 'Evening' suggests a transition, a move towards the subconscious realm often explored in dreams or fairy tales. This initial step is crucial for the process of individuation.",
+      "Sentence": "One fine evening a young princess put on her bonnet and clogs, and went out to take a walk by herself in a wood;",
+      "Chapter Number": 1,
+      "Sentence Number": 1
+    },
+    {
+      "Plot Function": "Establishes the specific location within the wood (cool spring) where the key event will occur and shows the princess pausing, making her receptive to the events that follow.",
+      "Grimm Style": "Simple, declarative sentence. Functional description of the setting ('cool spring of water'). Archaic flavour ('midst of it'). Compound sentence structure joined by 'and'. Active voice. Focus on action and external event. (Part 1: Language, Part 10: Describing Setting).",
+      "Moral Implication": "The 'cool spring' as a resting place implies a moment of peace before a challenge. Springs are often places of magic or revelation in folklore.",
+      "Metaphorical/Psychological Meaning": "The 'cool spring of water' is a classic symbol for the unconscious, a source of life, mystery, and potential transformation (Part 9: Symbolic Settings - Well/Spring). Her sitting down 'to rest a while' indicates a pause in conscious activity, making her more vulnerable or open to encounters with contents from the unconscious.",
+      "Sentence": "and when she came to a cool spring of water, that rose in the midst of it, she sat herself down to rest a while.",
+      "Chapter Number": 1,
+      "Sentence Number": 2
+    },
+    {
+      "Plot Function": "Introduces the magical object (golden ball) that will be the catalyst for the plot, describing its importance to the princess.",
+      "Grimm Style": "Simple sentence structure. Concrete noun ('golden ball'). Functional adjective ('favourite'). Direct statement of possession and importance. (Part 1: Vocabulary, Part 4: Magic Items - Golden Ball).",
+      "Moral Implication": "The attachment to a 'favourite plaything' highlights a certain childlike innocence or attachment to material possessions, which will soon be tested.",
+      "Metaphorical/Psychological Meaning": "The 'golden ball' is a rich symbol. Gold often represents purity, value, the Self, or wholeness. As her 'favourite plaything,' it could symbolize her innocent, uncorrupted self, or a state of playful, unconscious perfection. It represents something precious that, when lost, necessitates a journey or a bargain.",
+      "Sentence": "Now she had a golden ball in her hand, which was her favourite plaything;",
+      "Chapter Number": 1,
+      "Sentence Number": 3
+    },
+    {
+      "Plot Function": "Describes the princess's activity with the ball, emphasizing her playful nature and setting up the moment of its loss.",
+      "Grimm Style": "Simple compound sentence linked by 'and'. Repetitive action described factually ('always tossing it up... catching it again'). Active voice. (Part 1: Sentence Structure).",
+      "Moral Implication": "Her playful carelessness, though innocent, leads directly to the loss of her valued possession, demonstrating how simple actions can have significant consequences.",
+      "Metaphorical/Psychological Meaning": "The act of tossing and catching the ball can symbolize a playful interaction with her own wholeness or joy. It’s a state of unthinking, carefree existence that is about to be disrupted, forcing a move from play to responsibility.",
+      "Sentence": "and she was always tossing it up into the air, and catching it again as it fell.",
+      "Chapter Number": 1,
+      "Sentence Number": 4
+    },
+    {
+      "Plot Function": "The inciting incident: the princess loses her ball. This action drives the rest of the story.",
+      "Grimm Style": "Compound sentence describing a sequence of actions. Use of 'so high that' to explain cause and effect simply. Focus on the event itself without emotional colouring from the narrator. (Part 1: Tone, Part 10: Describing Events).",
+      "Moral Implication": "A moment of misjudgment or perhaps unconscious will (throwing it 'so high') leads to loss, a common fairy tale motif where a small error precipitates a larger crisis.",
+      "Metaphorical/Psychological Meaning": "Throwing the ball 'so high' that she misses it signifies a moment where control is lost, and the cherished aspect of the self (the golden ball) falls into the unconscious (the spring). This loss is necessary to initiate a confrontation with deeper psychic elements.",
+      "Sentence": "After a time she threw it up so high that she missed catching it as it fell;",
+      "Chapter Number": 1,
+      "Sentence Number": 5
+    },
+    {
+      "Plot Function": "Details the ball's movement into the spring, making its retrieval difficult and setting the stage for the frog's appearance.",
+      "Grimm Style": "Compound sentence linked by 'and' and 'till'. Simple, concrete verbs ('bounded,' 'rolled,' 'fell'). The narrative follows the object's action clearly. (Part 1: Sentence Structure).",
+      "Moral Implication": "The ball's descent into the spring emphasizes the finality of its loss from the princess's immediate grasp, leading her to a state of distress.",
+      "Metaphorical/Psychological Meaning": "The ball rolling 'along upon the ground' and then into the spring visually represents the transition from the conscious, everyday world into the depths of the unconscious. It is now out of her easy reach, signifying that a part of her self or her familiar world is lost to the depths.",
+      "Sentence": "and the ball bounded away, and rolled along upon the ground, till at last it fell down into the spring.",
+      "Chapter Number": 1,
+      "Sentence Number": 6
+    },
+    {
+      "Plot Function": "Emphasizes the difficulty of retrieving the ball, highlighting the princess's helplessness and creating the need for external aid.",
+      "Grimm Style": "Compound sentence. Repetition for emphasis ('very deep, so deep'). Simple language to convey a critical plot point. (Part 1: Vocabulary, Part 2: Incantatory Rhythm - subtle repetition).",
+      "Moral Implication": "The depth of the spring symbolizes a problem beyond the princess's own capabilities, forcing her to consider desperate measures or accept help from unexpected sources.",
+      "Metaphorical/Psychological Meaning": "The spring being 'very deep, so deep that she could not see the bottom of it' underscores the mysterious and inaccessible nature of the unconscious. The lost object is in a realm beyond her conscious understanding or control, necessitating a descent or an intermediary.",
+      "Sentence": "The princess looked into the spring after her ball, but it was very deep, so deep that she could not see the bottom of it.",
+      "Chapter Number": 1,
+      "Sentence Number": 7
+    },
+    {
+      "Plot Function": "Shows the princess's distress and her rash promise, which is the pivotal point of the story, binding her to a future course of action.",
+      "Grimm Style": "Compound sentence with direct speech. Simple dialogue tag ('said'). Use of archaic interjection ('Alas!'). The promise is extravagant and typical of fairy tale bargains made in desperation. Direct statement of feeling ('began to bewail her loss'). (Part 1: Language, Part 10: Dialogue).",
+      "Moral Implication": "Illustrates the danger of making rash promises in moments of desperation. The princess values her material possessions ('fine clothes and jewels') highly, offering them for the return of her plaything, yet this will be insufficient. This sets up the central moral about the sanctity of one's word.",
+      "Metaphorical/Psychological Meaning": "Her willingness to give 'everything that I have in the world' for the ball highlights its symbolic importance to her. However, this is a superficial valuation. The unconscious (represented by the frog) will demand something far more personal and transformative than material wealth. This is a 'Broken Taboo/Promise as Catalyst' structure (Part 3). Her lament signifies Ego distress at loss of wholeness.",
+      "Sentence": "Then she began to bewail her loss, and said, ‘Alas! if I could only get my ball again, I would give all my fine clothes and jewels, and everything that I have in the world.’",
+      "Chapter Number": 1,
+      "Sentence Number": 8
+    },
+    {
+      "Plot Function": "Introduces the frog, the magical helper/challenger, responding to the princess's distress and initiating the bargain.",
+      "Grimm Style": "Compound sentence linking her speech to the frog's appearance. Simple dialogue. Direct question. The frog's appearance is sudden and matter-of-fact, typical of magical encounters. (Part 1: Language).",
+      "Moral Implication": "Help arrives from an unexpected and initially unwelcome source. The frog's question forces the princess to confront her sorrow and state her need.",
+      "Metaphorical/Psychological Meaning": "The frog emerging from the water (unconscious) embodies the 'Helper/Donor' archetype, but also the 'Shadow' or a primitive, instinctual aspect of the Animus (male aspect of female psyche) that the princess initially finds repulsive. His appearance at the moment of her vow suggests a direct response from the unconscious to her plea.",
+      "Sentence": "Whilst she was speaking, a frog put its head out of the water, and said, ‘Princess, why do you weep so bitterly?’",
+      "Chapter Number": 2,
+      "Sentence Number": 9
+    },
+    {
+      "Plot Function": "The princess expresses her disdain for the frog and her disbelief in its ability to help, highlighting her superficial judgment.",
+      "Grimm Style": "Direct speech with simple tag. Use of 'Alas!' again. Derogatory language ('nasty frog') reflects her immediate emotional reaction, stated plainly. (Part 1: Language, Part 10: Dialogue).",
+      "Moral Implication": "Shows the princess's initial revulsion and prejudice based on appearances, a common flaw to be overcome. She underestimates the frog's capabilities.",
+      "Metaphorical/Psychological Meaning": "Her reaction ('nasty frog') reveals her initial rejection of this unconscious figure. The Animus in its primitive form, or instinctual knowledge, can appear 'nasty' or unwelcome to the conscious Ego, especially an immature one. This is a common stage in confronting repressed or undeveloped parts of the psyche.",
+      "Sentence": "‘Alas!’ said she, ‘what can you do for me, you nasty frog?",
+      "Chapter Number": 2,
+      "Sentence Number": 10
+    },
+    {
+      "Plot Function": "The princess states the problem clearly to the frog.",
+      "Grimm Style": "Simple, declarative sentence stating the core problem. Direct and functional language. (Part 1: Sentence Structure).",
+      "Moral Implication": "Reiteration of the lost item, focusing the narrative on the object of desire.",
+      "Metaphorical/Psychological Meaning": "Clearly stating the loss of the 'golden ball' (symbol of wholeness/Self) to the 'nasty frog' (unconscious figure) formalizes the challenge. The Ego is acknowledging its lack to the unconscious.",
+      "Sentence": "My golden ball has fallen into the spring.’",
+      "Chapter Number": 2,
+      "Sentence Number": 11
+    },
+    {
+      "Plot Function": "The frog states its conditions for retrieving the ball, setting up the central conflict and the terms of the princess's trial.",
+      "Grimm Style": "Direct speech. The frog's demands are simple but profound, contrasting material wealth with personal intimacy. This is a key element of the 'Trial/Task Structure'. (Part 3).",
+      "Moral Implication": "The frog rejects material payment, demanding instead love, companionship, and equality ('eat from off your golden plate, and sleep upon your bed'). This shifts the stakes from a simple transaction to a deeply personal commitment, underscoring the theme that true value lies beyond material wealth.",
+      "Metaphorical/Psychological Meaning": "The frog's demands ('love me, let me live with you, eat with you, sleep with you') are symbolic of the integration process. The unconscious element (frog/Animus) doesn't want to be bought off; it wants to be accepted, acknowledged, and brought into conscious life, sharing intimacy and equality with the Ego (princess). This is a demand for psychological transformation, not just service.",
+      "Sentence": "The frog said, ‘I want not your pearls, and jewels, and fine clothes; but if you will love me, and let me live with you and eat from off your golden plate, and sleep upon your bed, I will bring you your ball again.’",
+      "Chapter Number": 2,
+      "Sentence Number": 12
+    },
+    {
+      "Plot Function": "Reveals the princess's internal thoughts, showing her deceptive intent and her underestimation of the frog.",
+      "Grimm Style": "Reported thought ('thought the princess'). Simple language ('silly frog'). Her reasoning is pragmatic but dishonest. Direct internal monologue is rare, usually it's 'she thought to herself'. (Part 10: Describing Characters - Don't use internal monologue extensively, but simple thoughts are okay).",
+      "Moral Implication": "This is a crucial point showing the princess's flawed character: she intends to deceive. It highlights the moral problem of making a promise with no intention of keeping it, directly contrasting the later moral about honoring one's word.",
+      "Metaphorical/Psychological Meaning": "The princess's thought process ('this silly frog is talking nonsense') shows the Ego's initial dismissal and rationalization when faced with the demands of the unconscious. She attempts to bargain in bad faith, believing she can outwit the primitive-seeming frog, a common Ego defense mechanism.",
+      "Sentence": "‘What nonsense,’ thought the princess, ‘this silly frog is talking!",
+      "Chapter Number": 2,
+      "Sentence Number": 13
+    },
+    {
+      "Plot Function": "The princess rationalizes her decision to make a false promise, believing the frog cannot enforce its terms.",
+      "Grimm Style": "Continues the princess's internal thought process. Simple conjunctions ('though,' 'and therefore'). Reveals her reasoning clearly. (Part 1: Sentence Structure).",
+      "Moral Implication": "Further emphasizes her deceptive nature and short-sightedness. She prioritizes the immediate return of her ball over the ethical implications of her promise, assuming no consequences.",
+      "Metaphorical/Psychological Meaning": "Her belief that the frog 'can never even get out of the spring' shows the Ego's underestimation of the power and persistence of unconscious contents. She thinks she can exploit the unconscious for her own ends without truly engaging with its demands.",
+      "Sentence": "He can never even get out of the spring to visit me, though he may be able to get my ball for me, and therefore I will tell him he shall have what he asks.’",
+      "Chapter Number": 2,
+      "Sentence Number": 14
+    },
+    {
+      "Plot Function": "The princess formally agrees to the frog's terms, making the false promise.",
+      "Grimm Style": "Direct speech confirming the bargain. Simple and decisive. (Part 10: Dialogue).",
+      "Moral Implication": "The verbal agreement seals the pact, regardless of her internal intentions. This act of speaking the promise aloud makes it binding in the world of the fairy tale, setting up the later enforcement by the king.",
+      "Metaphorical/Psychological Meaning": "The Ego (princess) makes a pact with the unconscious (frog). Even though made in bad faith by the Ego, the unconscious takes such commitments seriously. This is the formal agreement that initiates the next phase of her trial.",
+      "Sentence": "So she said to the frog, ‘Well, if you will bring me my ball, I will do all you ask.’",
+      "Chapter Number": 2,
+      "Sentence Number": 15
+    },
+    {
+      "Plot Function": "The frog acts immediately to fulfill its part of the bargain.",
+      "Grimm Style": "Simple, active sentence describing the frog's actions. ('put his head down, and dived deep'). Focus on clear, sequential action. (Part 10: Describing Events).",
+      "Moral Implication": "The frog's prompt action contrasts with the princess's deceitful intentions, highlighting its own honesty in the bargain.",
+      "Metaphorical/Psychological Meaning": "The frog diving 'deep under the water' symbolizes a descent into the depths of the unconscious to retrieve the lost aspect of the Self (the ball). This is something the princess cannot do herself.",
+      "Sentence": "Then the frog put his head down, and dived deep under the water;",
+      "Chapter Number": 2,
+      "Sentence Number": 16
+    },
+    {
+      "Plot Function": "The frog successfully retrieves the ball and returns it to the princess.",
+      "Grimm Style": "Compound sentence detailing the frog's success. Simple temporal marker ('after a little while'). The magical act is reported factually. (Part 1: Tone).",
+      "Moral Implication": "The frog faithfully fulfills its promise, putting the princess in a position where she is now morally obligated to fulfill hers.",
+      "Metaphorical/Psychological Meaning": "The frog returns with the 'ball in his mouth,' signifying that the unconscious has brought back the lost treasure. The manner of its return (thrown on the edge) makes it accessible again to the conscious mind, but with conditions attached.",
+      "Sentence": "and after a little while he came up again, with the ball in his mouth, and threw it on the edge of the spring.",
+      "Chapter Number": 2,
+      "Sentence Number": 17
+    },
+    {
+      "Plot Function": "The princess reacts with joy to the return of her ball, immediately focusing on her recovered possession.",
+      "Grimm Style": "Simple active sentence showing her immediate action. ('ran to pick it up'). Clear description of her emotional state ('so overjoyed'). (Part 10: Describing Characters).",
+      "Moral Implication": "Her joy is solely for the recovered object, indicating her continued self-centeredness and lack of consideration for the frog's efforts or her promise.",
+      "Metaphorical/Psychological Meaning": "The princess's immediate focus on the ball shows the Ego's desire to reclaim its lost wholeness or pleasure object without acknowledging the means or cost of its recovery. She wants the reward without the responsibility.",
+      "Sentence": "As soon as the young princess saw her ball, she ran to pick it up;",
+      "Chapter Number": 2,
+      "Sentence Number": 18
+    },
+    {
+      "Plot Function": "The princess breaks her promise by ignoring the frog and fleeing, setting up the main conflict of the story.",
+      "Grimm Style": "Compound sentence revealing her immediate betrayal. Direct statement of her thoughtlessness ('never thought of the frog'). Action described with simple hyperbole ('as fast as she could'). (Part 10: Describing Events). This is a key 'Broken Taboo/Promise as Catalyst' moment.",
+      "Moral Implication": "This is the princess's primary transgression: breaking her word. Her joy makes her forget her obligation, highlighting her immaturity and selfishness. This act of betrayal will have direct consequences.",
+      "Metaphorical/Psychological Meaning": "Running home with the ball and forgetting the frog symbolizes the Ego's attempt to take what it wants from the unconscious and then sever the connection, denying the claims of the deeper psyche. This is an attempt to avoid the difficult work of integration.",
+      "Sentence": "and she was so overjoyed to have it in her hand again, that she never thought of the frog, but ran home with it as fast as she could.",
+      "Chapter Number": 2,
+      "Sentence Number": 19
+    },
+    {
+      "Plot Function": "The frog attempts to remind the princess of her promise.",
+      "Grimm Style": "Direct speech from the frog, a simple plea. ('Stay, princess, and take me with you as you said'). (Part 10: Dialogue).",
+      "Moral Implication": "The frog explicitly states the broken promise, emphasizing the princess's culpability. It acts as the voice of conscience or contractual obligation.",
+      "Metaphorical/Psychological Meaning": "The frog's call represents the persistent claim of the unconscious. The repressed or ignored content does not simply disappear; it seeks acknowledgment and integration. The Ego cannot easily escape the consequences of its bargains with the deeper self.",
+      "Sentence": "The frog called after her, ‘Stay, princess, and take me with you as you said,’",
+      "Chapter Number": 2,
+      "Sentence Number": 20
+    },
+    {
+      "Plot Function": "The princess willfully ignores the frog's plea, confirming her intention to break the promise.",
+      "Grimm Style": "Short, declarative sentence emphasizing her deliberate ignorance. ('But she did not stop to hear a word'). (Part 1: Sentence Structure).",
+      "Moral Implication": "Reinforces her dishonesty and callousness. Her refusal to even 'hear a word' shows a complete lack of respect for the frog and her commitment.",
+      "Metaphorical/Psychological Meaning": "Her deafness to the frog's call illustrates the Ego's attempt to shut out the demands of the unconscious. This denial will prove temporary, as the frog is a persistent force.",
+      "Sentence": "But she did not stop to hear a word.",
+      "Chapter Number": 2,
+      "Sentence Number": 21
+    },
+    {
+      "Plot Function": "Shifts the scene to the next day and introduces the frog's arrival at the castle, escalating the conflict as the consequences of the broken promise manifest.",
+      "Grimm Style": "Compound sentence establishing time and setting ('The next day, just as the princess had sat down to dinner'). Onomatopoeia ('tap, tap—plash, plash') creates an auditory image of the frog's approach, adding a slightly ominous or mysterious tone. (Part 2: Incantatory Rhythm - subtle sound repetition).",
+      "Moral Implication": "The broken promise is not forgotten; the consequences follow the princess to her home, interrupting her comfortable life. This shows that obligations cannot be easily escaped.",
+      "Metaphorical/Psychological Meaning": "The frog's arrival at the castle, a symbol of the conscious world or the Ego's domain, signifies that the ignored unconscious content is now intruding into conscious life. The 'marble staircase' contrasts with the frog's primitive nature, highlighting the incongruity and the princess's discomfort.",
+      "Sentence": "The next day, just as the princess had sat down to dinner, she heard a strange noise—tap, tap—plash, plash—as if something was coming up the marble staircase:",
+      "Chapter Number": 3,
+      "Sentence Number": 22
+    },
+    {
+      "Plot Function": "The frog makes its presence known formally by knocking and speaking, demanding entry.",
+      "Grimm Style": "Compound sentence describing the frog's polite but firm attempt to enter. The 'little voice' contrasts with the 'nasty frog' image, perhaps hinting at something more than just an unpleasant creature. (Part 1: Language).",
+      "Moral Implication": "The frog's persistence underscores the binding nature of the promise. It seeks what it was offered.",
+      "Metaphorical/Psychological Meaning": "The 'gentle knock' and 'little voice' suggest that the unconscious element is not inherently aggressive but is seeking rightful entry and recognition. It is the Ego's resistance that creates the conflict.",
+      "Sentence": "and soon afterwards there was a gentle knock at the door, and a little voice cried out and said:",
+      "Chapter Number": 3,
+      "Sentence Number": 23
+    },
+    {
+      "Plot Function": "The frog begins its rhyming call, reminding the princess of their agreement and its identity.",
+      "Grimm Style": "This is the first line of a rhyming quatrain (AABB or ABCB often used for pronouncements/magic). Simple, direct address ('my princess dear'). Poetic structure signifies an important magical pronouncement. (Part 2: Poetic Structures - Rhyming Couplets/Quatrains). Use of archaic 'thy'.",
+      "Moral Implication": "The poetic form elevates the frog's speech, giving it a more solemn and binding quality. It frames its demand not just as a request but as a rightful claim.",
+      "Metaphorical/Psychological Meaning": "The address 'my princess dear' is surprisingly intimate, contrasting with her earlier 'nasty frog.' It suggests a deeper connection or a claim of familiarity that the princess is trying to deny. The call to 'open the door' is a call for the Ego to open itself to this aspect of the unconscious.",
+      "Sentence": " ‘Open the door, my princess dear,",
+      "Chapter Number": 4,
+      "Sentence Number": 24
+    },
+    {
+      "Plot Function": "The frog identifies itself as her 'true love,' a shocking claim that foreshadows its true nature.",
+      "Grimm Style": "Second line of the quatrain. The phrase 'thy true love here!' is a classic fairy tale trope, often used by enchanted lovers. Its use by a frog is jarring and emphasizes the magical context. (Part 2: Poetic Structures).",
+      "Moral Implication": "This line introduces the idea that the frog is more than it appears, and that the princess's promise might have deeper implications than she realized. It challenges her superficial perception.",
+      "Metaphorical/Psychological Meaning": "The claim to be 'thy true love' is a powerful statement from the Animus figure. Though currently in a despised form (frog), it asserts its ultimate role as the necessary counterpart for the Ego's wholeness and future happiness. This is the hidden potential that the princess must learn to recognize beyond the unpleasant exterior.",
+      "Sentence": "  Open the door to thy true love here!",
+      "Chapter Number": 5,
+      "Sentence Number": 25
+    },
+    {
+      "Plot Function": "The frog explicitly refers to the promise made.",
+      "Grimm Style": "Third line of the quatrain. Direct reminder of the 'words that thou and I said,' emphasizing the verbal contract. (Part 2: Poetic Structures).",
+      "Moral Implication": "Directly calls upon the princess's sense of honor and the binding nature of her spoken word. It leaves no room for misinterpretation of its claim.",
+      "Metaphorical/Psychological Meaning": "This line anchors the demand in the past agreement. The unconscious remembers the Ego's commitments, even those made reluctantly or deceitfully. The integration process requires honoring these internal 'contracts'.",
+      "Sentence": "  And mind the words that thou and I said",
+      "Chapter Number": 6,
+      "Sentence Number": 26
+    },
+    {
+      "Plot Function": "The frog specifies the location of their agreement, grounding the magical claim in a real event.",
+      "Grimm Style": "Fourth line of the quatrain, completing the rhyme and the frog's solemn reminder. 'Fountain cool, in the greenwood shade' provides a slightly idyllic, pastoral image for the place of their first encounter. (Part 2: Poetic Structures).",
+      "Moral Implication": "The specificity of the location ('By the fountain cool, in the greenwood shade') serves as undeniable proof of their encounter and agreement, making it harder for the princess to deny.",
+      "Metaphorical/Psychological Meaning": "Recalling the specific setting of the initial pact (the spring/unconscious access point in the woods/unconscious realm) reinforces the connection between the current demand and that original descent and bargain. The 'greenwood shade' evokes the natural, instinctual world from which the frog emerged.",
+      "Sentence": "  By the fountain cool, in the greenwood shade.’",
+      "Chapter Number": 7,
+      "Sentence Number": 27
+    },
+    {
+      "Plot Function": "The princess opens the door and confronts the forgotten frog, leading to her fear.",
+      "Grimm Style": "Compound sentence describing her actions and reaction. Direct statement of her forgetfulness ('whom she had quite forgotten') and fear ('sadly frightened'). Active voice. (Part 1: Sentence Structure, Part 10: Describing Characters).",
+      "Moral Implication": "Her fear upon seeing the frog, despite her promise, shows her continued revulsion and unpreparedness to face the consequences of her words. Forgetting highlights her irresponsibility.",
+      "Metaphorical/Psychological Meaning": "Opening the door is a reluctant step towards confronting the unconscious. Seeing the frog again, now in her conscious domain (the castle), triggers fear. The 'forgotten' aspect is the Ego's attempt at repression, which has failed. The frightening aspect is the raw, unintegrated unconscious content.",
+      "Sentence": "Then the princess ran to the door and opened it, and there she saw the frog, whom she had quite forgotten.",
+      "Chapter Number": 8,
+      "Sentence Number": 28
+    },
+    {
+      "Plot Function": "The princess reacts to her fear by trying to shut out the frog again, attempting to evade her responsibility.",
+      "Grimm Style": "Compound sentence showing her immediate, impulsive reaction. ('shutting the door as fast as she could'). (Part 1: Sentence Structure).",
+      "Moral Implication": "Her attempt to shut the door is another instance of trying to break her promise and avoid the unpleasant reality. It shows her lack of courage and integrity at this point.",
+      "Metaphorical/Psychological Meaning": "Shutting the door is a clear symbol of the Ego trying to re-establish its defenses against the intruding unconscious content. It's a regression, an attempt to deny entry to what she has reluctantly acknowledged by opening the door.",
+      "Sentence": "At this sight she was sadly frightened, and shutting the door as fast as she could came back to her seat.",
+      "Chapter Number": 8,
+      "Sentence Number": 29
+    },
+    {
+      "Plot Function": "Introduces the king as an authority figure who notices the princess's distress and questions her, setting the stage for his intervention.",
+      "Grimm Style": "Compound sentence. The king's role as 'father' and his observation are stated simply. Direct question. (Part 1: Language). Archetype of the Ruler (King).",
+      "Moral Implication": "The king's presence introduces a higher authority and a figure of order. His question implies that the princess's actions have not gone unnoticed and will be subject to scrutiny.",
+      "Metaphorical/Psychological Meaning": "The king, her father, represents the 'Superego,' societal norms, tradition, or the established order of the conscious mind. He is the aspect of the psyche that upholds rules and demands accountability. His noticing her fear suggests that the Ego's internal turmoil is becoming apparent to this ordering principle.",
+      "Sentence": "The king, her father, seeing that something had frightened her, asked her what was the matter.",
+      "Chapter Number": 8,
+      "Sentence Number": 30
+    },
+    {
+      "Plot Function": "The princess explains the situation to her father, admitting to the frog's service but still expressing her disdain.",
+      "Grimm Style": "Direct speech. She refers to the frog as 'nasty' again. She recounts the frog's help factually. (Part 10: Dialogue).",
+      "Moral Implication": "She confesses parts of the truth but her language ('nasty frog') still shows her revulsion and lack of respect, suggesting she doesn't fully grasp the seriousness of her promise.",
+      "Metaphorical/Psychological Meaning": "The princess explains the situation to the Superego (king). She acknowledges the frog's help ('lifted my ball for me') but her disgust remains, showing the conflict between her obligation and her personal feelings. The Ego is trying to justify its resistance.",
+      "Sentence": "‘There is a nasty frog,’ said she, ‘at the door, that lifted my ball for me out of the spring this morning:",
+      "Chapter Number": 8,
+      "Sentence Number": 31
+    },
+    {
+      "Plot Function": "The princess confesses her deceptive promise to her father, revealing her earlier bad faith.",
+      "Grimm Style": "Direct speech, continuation of her explanation. She admits her manipulative thinking ('thinking that he could never get out of the spring'). This confession is crucial. (Part 10: Dialogue).",
+      "Moral Implication": "Her admission of deceptive intent to her father underscores her earlier wrongdoing. This honesty, forced though it may be, is a step towards confronting the truth of her actions.",
+      "Metaphorical/Psychological Meaning": "The princess confesses her Ego's earlier rationalization and attempt to deceive the unconscious figure. Admitting this to the king (Superego) is a step towards self-awareness, acknowledging the flawed reasoning behind her broken promise.",
+      "Sentence": "I told him that he should live with me here, thinking that he could never get out of the spring;",
+      "Chapter Number": 8,
+      "Sentence Number": 32
+    },
+    {
+      "Plot Function": "The princess concludes her explanation, stating the frog's current demand.",
+      "Grimm Style": "Simple concluding statement in her speech. ('but there he is at the door, and he wants to come in.') (Part 1: Language).",
+      "Moral Implication": "She presents the current dilemma to her father, implicitly seeking his judgment or a way out.",
+      "Metaphorical/Psychological Meaning": "The Ego states the persistent demand of the unconscious element ('he wants to come in'). The problem is now fully laid out before the ordering principle of the psyche (the king).",
+      "Sentence": "but there he is at the door, and he wants to come in.’",
+      "Chapter Number": 8,
+      "Sentence Number": 33
+    },
+    {
+      "Plot Function": "The frog repeats its demand, emphasizing its persistence while the princess is explaining to the king.",
+      "Grimm Style": "Narrative interjection setting up the repetition of the frog's poetic call. ('While she was speaking the frog knocked again...'). Builds tension. (Part 1: Sentence Structure).",
+      "Moral Implication": "The frog's repeated knocking and calling underscores its determination and the inescapability of the princess's promise. It doesn't give up.",
+      "Metaphorical/Psychological Meaning": "The unconscious (frog) doesn't wait passively; its demands are insistent, interrupting the Ego's attempts to rationalize or seek external validation for its resistance. The knocking continues, a summons that cannot be ignored.",
+      "Sentence": "While she was speaking the frog knocked again at the door, and said:",
+      "Chapter Number": 9,
+      "Sentence Number": 34
+    },
+    {
+      "Plot Function": "The frog repeats the first line of its rhyming call.",
+      "Grimm Style": "Repetition of the first line of the quatrain. Reinforces the magical, solemn nature of its claim. (Part 2: Poetic Structures - Repetitive Phrases/Songs).",
+      "Moral Implication": "The repetition emphasizes the unyielding nature of the frog's claim based on the promise.",
+      "Metaphorical/Psychological Meaning": "The repeated call to 'Open the door, my princess dear' signifies the persistent urging of the unconscious for acknowledgment and integration. The endearing term 'my princess dear' continues to contrast with her perception of the frog.",
+      "Sentence": " ‘Open the door, my princess dear,",
+      "Chapter Number": 10,
+      "Sentence Number": 35
+    },
+    {
+      "Plot Function": "The frog repeats the second line, identifying itself as 'true love'.",
+      "Grimm Style": "Repetition of the second line. The claim of being 'true love' is reiterated, further challenging the princess's perception. (Part 2: Poetic Structures).",
+      "Moral Implication": "The repetition of 'true love' suggests that this identity is crucial and not to be dismissed, hinting at the story's eventual resolution.",
+      "Metaphorical/Psychological Meaning": "The insistence on being 'thy true love' highlights the core nature of this Animus figure – it is destined to be her partner, the key to her emotional fulfillment, despite its current repulsive appearance. The psyche is pushing for the recognition of this hidden truth.",
+      "Sentence": "  Open the door to thy true love here!",
+      "Chapter Number": 11,
+      "Sentence Number": 36
+    },
+    {
+      "Plot Function": "The frog repeats the third line, emphasizing the promise.",
+      "Grimm Style": "Repetition of the third line. The focus on 'the words that thou and I said' drives home the contractual nature of their bond. (Part 2: Poetic Structures).",
+      "Moral Implication": "The constant reminder of the spoken words underscores the central moral: promises are sacred and must be kept.",
+      "Metaphorical/Psychological Meaning": "The repetition drills in the importance of the 'words said' – the Ego's commitment to the unconscious. This is the inescapable contract that fuels the integration process.",
+      "Sentence": "  And mind the words that thou and I said",
+      "Chapter Number": 12,
+      "Sentence Number": 37
+    },
+    {
+      "Plot Function": "The frog repeats the fourth line, recalling the specific context of the promise.",
+      "Grimm Style": "Repetition of the final line of the quatrain. Completes the formal, almost ritualistic reminder. (Part 2: Poetic Structures).",
+      "Moral Implication": "The repetition of the setting reinforces the reality of the event and the princess's obligation stemming from it.",
+      "Metaphorical/Psychological Meaning": "The repeated reference to the 'fountain cool, in the greenwood shade' continually links the current demand back to that initial encounter with the unconscious and the bargain made there. The psyche insists on continuity and accountability.",
+      "Sentence": "  By the fountain cool, in the greenwood shade.’",
+      "Chapter Number": 13,
+      "Sentence Number": 38
+    },
+    {
+      "Plot Function": "The king intervenes, upholding the moral principle of keeping one's word and compelling the princess to act.",
+      "Grimm Style": "Direct speech from the king. Authoritative and decisive. ('As you have given your word you must keep it; so go and let him in.') Simple conjunction 'so' links cause and effect. (Part 10: Dialogue, Part 5: Professions - King as enforcer of order).",
+      "Moral Implication": "This is the central moral lesson explicitly stated: promises must be kept. The king acts as the enforcer of this societal and ethical rule, leaving the princess no choice.",
+      "Metaphorical/Psychological Meaning": "The king (Superego/ordering principle) rules in favor of the unconscious demand, recognizing the validity of the promise. The Ego (princess) is now compelled by its own internal sense of order and societal expectation to fulfill its obligation. This is a crucial step in overcoming resistance.",
+      "Sentence": "Then the king said to the young princess, ‘As you have given your word you must keep it; so go and let him in.’",
+      "Chapter Number": 14,
+      "Sentence Number": 39
+    },
+    {
+      "Plot Function": "The princess obeys her father, and the frog enters the room and approaches her, beginning the fulfillment of its demands.",
+      "Grimm Style": "Compound sentence describing her obedience and the frog's actions. Onomatopoeia ('tap, tap—plash, plash') repeated, emphasizing the frog's deliberate and somewhat uncanny movement. (Part 2: Incantatory Rhythm).",
+      "Moral Implication": "The princess's reluctant obedience marks the beginning of her trial. The frog's direct approach shows its determination to have the promise fulfilled completely.",
+      "Metaphorical/Psychological Meaning": "The princess's obedience, though forced, allows the unconscious element (frog) to enter her conscious space (the room, the table). The 'tap, tap—plash, plash' symbolizes the alien and perhaps awkward intrusion of this primitive aspect into the refined conscious setting. The frog moves 'straight on...to the top,' indicating its direct aim for intimacy and equality.",
+      "Sentence": "She did so, and the frog hopped into the room, and then straight on—tap, tap—plash, plash—from the bottom of the room to the top, till he came up close to the table where the princess sat.",
+      "Chapter Number": 14,
+      "Sentence Number": 40
+    },
+    {
+      "Plot Function": "The frog makes its first specific demand for shared status and proximity, testing the princess's willingness to integrate it.",
+      "Grimm Style": "Direct speech from the frog. Polite but firm request ('Pray lift me upon chair...and let me sit next to you.') (Part 10: Dialogue).",
+      "Moral Implication": "This demand for shared space and status (sitting next to her on a chair) is the first step in the practical fulfillment of 'let me live with you.' It challenges her revulsion directly.",
+      "Metaphorical/Psychological Meaning": "The frog's request to be lifted onto the chair and sit next to her symbolizes the demand of the unconscious element to be elevated from a despised position and brought to an equal level with the conscious Ego. It wants to be acknowledged and share her 'table' (life sustenance).",
+      "Sentence": "‘Pray lift me upon chair,’ said he to the princess, ‘and let me sit next to you.’",
+      "Chapter Number": 14,
+      "Sentence Number": 41
+    },
+    {
+      "Plot Function": "The princess complies with the frog's first demand, and it immediately makes the second: to share her food.",
+      "Grimm Style": "Compound sentence. Her compliance is stated simply ('As soon as she had done this'). The frog's next demand follows immediately. Simple, direct request. ('Put your plate nearer to me, that I may eat out of it.') (Part 1: Sentence Structure).",
+      "Moral Implication": "Each act of compliance by the princess is a step towards fulfilling her promise, however unwillingly. The frog's demands escalate, testing her endurance.",
+      "Metaphorical/Psychological Meaning": "Sharing food from the same plate is a powerful symbol of intimacy and acceptance. The unconscious (frog) wants to share the Ego's sustenance, to be nourished by the same experiences, to be fully integrated into her life. This is a deeper level of acceptance than just proximity.",
+      "Sentence": "As soon as she had done this, the frog said, ‘Put your plate nearer to me, that I may eat out of it.’",
+      "Chapter Number": 14,
+      "Sentence Number": 42
+    },
+    {
+      "Plot Function": "The princess complies with sharing food, and the frog, satisfied for now, makes its ultimate demand for the first night: to share her bed.",
+      "Grimm Style": "Compound sentence structure. Her compliance is stated. The frog's final demand for the day is direct and the most challenging so far. ('Now I am tired; carry me upstairs, and put me into your bed.') (Part 1: Sentence Structure, Part 10: Dialogue).",
+      "Moral Implication": "This is the most intimate and repulsive demand for the princess, the hardest part of the promise to keep. It tests her commitment to the absolute limit.",
+      "Metaphorical/Psychological Meaning": "Sharing a bed is the ultimate symbol of intimacy and union. The demand for the unconscious element (frog/Animus) to sleep in the Ego's bed signifies the deepest level of integration, where the conscious and unconscious are brought into the closest possible contact, even in the vulnerable state of sleep. This is often where transformation occurs in fairy tales.",
+      "Sentence": "This she did, and when he had eaten as much as he could, he said, ‘Now I am tired; carry me upstairs, and put me into your bed.’",
+      "Chapter Number": 14,
+      "Sentence Number": 43
+    },
+    {
+      "Plot Function": "The princess, despite her unwillingness, fulfills the most difficult part of the promise for the first night, placing the frog on her pillow.",
+      "Grimm Style": "Compound sentence. Her reluctance is explicitly stated ('though very unwilling'). The action is described factually. ('took him up in her hand, and put him upon the pillow...where he slept all night long.') The 'Rule of Three' begins here with the first night. (Part 3).",
+      "Moral Implication": "Her unwillingness highlights the difficulty of her trial, but her action shows she is beginning to learn the importance of her word, however unpleasant the task. This is the first of three nights of endurance.",
+      "Metaphorical/Psychological Meaning": "Despite her revulsion ('very unwilling'), the Ego (princess) complies with the demand for ultimate intimacy. Placing the frog 'upon the pillow of her own bed' signifies a profound, if forced, acceptance of this 'nasty' unconscious aspect into the most personal part of her life. This forced intimacy is a catalyst for transformation. The frog sleeping there all night suggests a period of unconscious assimilation.",
+      "Sentence": "And the princess, though very unwilling, took him up in her hand, and put him upon the pillow of her own bed, where he slept all night long.",
+      "Chapter Number": 14,
+      "Sentence Number": 44
+    },
+    {
+      "Plot Function": "The frog departs in the morning after the first night, leading the princess to a false hope.",
+      "Grimm Style": "Compound sentence. Simple description of the frog's actions. ('jumped up, hopped downstairs, and went out of the house.') (Part 1: Sentence Structure).",
+      "Moral Implication": "The frog's departure might seem like the end of the ordeal, but the cyclical nature of the trial is about to be revealed.",
+      "Metaphorical/Psychological Meaning": "The frog's departure in the light (consciousness) might symbolize a temporary retreat of the unconscious content after a period of intense interaction. The Ego is given a brief respite.",
+      "Sentence": "As soon as it was light he jumped up, hopped downstairs, and went out of the house.",
+      "Chapter Number": 14,
+      "Sentence Number": 45
+    },
+    {
+      "Plot Function": "The princess expresses her relief and mistaken belief that the trial is over.",
+      "Grimm Style": "Reported thought. Simple and direct expression of her hope. ('at last he is gone, and I shall be troubled with him no more.') (Part 10: Describing Characters).",
+      "Moral Implication": "Her relief shows she still hasn't understood the full extent of her promise or the nature of the trial. This sets up the continuation of the challenge.",
+      "Metaphorical/Psychological Meaning": "The princess's thought reflects the Ego's wishful thinking – the hope that a difficult encounter with the unconscious is a one-time event. However, deep psychological integration often requires repeated engagement.",
+      "Sentence": "‘Now, then,’ thought the princess, ‘at last he is gone, and I shall be troubled with him no more.’",
+      "Chapter Number": 14,
+      "Sentence Number": 46
+    },
+    {
+      "Plot Function": "Reveals the princess's mistake and signals the return of the frog for the second night, continuing the trial.",
+      "Grimm Style": "Compound sentence. Direct statement of her error ('But she was mistaken'). Repetition of the auditory cue ('same tapping') signifies the return of the challenge. (Part 1: Sentence Structure).",
+      "Moral Implication": "Reinforces that promises are not so easily discharged and that trials often have a repetitive or cyclical nature until the lesson is learned or the condition fully met.",
+      "Metaphorical/Psychological Meaning": "The phrase 'But she was mistaken' is a common Grimm device for overturning momentary relief. The return of the frog and the 'same tapping' emphasizes the persistence of the unconscious demand. The process of integration (the 'Rule of Three' nights) is not yet complete.",
+      "Sentence": "But she was mistaken; for when night came again she heard the same tapping at the door;",
+      "Chapter Number": 15,
+      "Sentence Number": 47
+    },
+    {
+      "Plot Function": "The frog announces its presence for the second night's trial.",
+      "Grimm Style": "Simple statement leading into the frog's repeated poetic call. ('and the frog came once more, and said:'). (Part 1: Language).",
+      "Moral Implication": "The frog's consistent return and repetition of its demand emphasizes the unshakeable nature of the obligation.",
+      "Metaphorical/Psychological Meaning": "The frog 'came once more,' showing the cyclical and persistent nature of the unconscious material that needs to be addressed. The Ego cannot escape the process it has initiated.",
+      "Sentence": "and the frog came once more, and said:",
+      "Chapter Number": 15,
+      "Sentence Number": 48
+    },
+    {
+      "Plot Function": "The frog repeats the first line of its rhyming call for the second night.",
+      "Grimm Style": "Repetition of the poetic line. The ritualistic repetition reinforces the magical context and the seriousness of the frog's claim. (Part 2: Poetic Structures - Repetitive Phrases/Songs).",
+      "Moral Implication": "The demand remains the same, highlighting the princess's ongoing obligation.",
+      "Metaphorical/Psychological Meaning": "The second night's call, identical to the first, underscores that the terms of engagement with the unconscious have not changed. The Ego must continue the process of acceptance.",
+      "Sentence": " ‘Open the door, my princess dear,",
+      "Chapter Number": 16,
+      "Sentence Number": 49
+    },
+    {
+      "Plot Function": "The frog repeats the second line for the second night.",
+      "Grimm Style": "Repetition of the poetic line. The 'true love' claim is reasserted. (Part 2: Poetic Structures).",
+      "Moral Implication": "The repeated claim of 'true love' continues to challenge the princess's perception and hints at the eventual romantic resolution.",
+      "Metaphorical/Psychological Meaning": "The Animus figure (frog) continues to assert its fundamental nature and its destined relationship with the Ego (princess), despite its current unappealing form.",
+      "Sentence": "  Open the door to thy true love here!",
+      "Chapter Number": 17,
+      "Sentence Number": 50
+    },
+    {
+      "Plot Function": "The frog repeats the third line for the second night.",
+      "Grimm Style": "Repetition of the poetic line. The reminder of the 'words said' is constant. (Part 2: Poetic Structures).",
+      "Moral Implication": "The relentless reminder of the promise reinforces the moral imperative to keep one's word.",
+      "Metaphorical/Psychological Meaning": "The unconscious continues to hold the Ego accountable for its commitments. The 'words' spoken have power and consequence in the psychic realm.",
+      "Sentence": "  And mind the words that thou and I said",
+      "Chapter Number": 18,
+      "Sentence Number": 51
+    },
+    {
+      "Plot Function": "The frog repeats the fourth line for the second night, completing its call.",
+      "Grimm Style": "Repetition of the poetic line. The reference to the origin of the promise anchors it firmly. (Part 2: Poetic Structures).",
+      "Moral Implication": "The repetition of the scene of the promise emphasizes its binding power over the princess.",
+      "Metaphorical/Psychological Meaning": "The consistent reference to the 'fountain cool, in the greenwood shade' links the ongoing trial directly to the initial encounter with the unconscious and the terms agreed upon there. The process must unfold according to that original psychic contract.",
+      "Sentence": "  By the fountain cool, in the greenwood shade.’",
+      "Chapter Number": 19,
+      "Sentence Number": 52
+    },
+    {
+      "Plot Function": "The princess complies for the second night, and the narrative notes the upcoming third night, building towards the climax of the three-part trial.",
+      "Grimm Style": "Compound sentence. Her compliance is stated briefly ('And when the princess opened the door the frog came in, and slept upon her pillow as before'). Foreshadows the completion of the trial ('And the third night he did the same'). Active voice. Simple conjunction 'and'. (Part 1: Sentence Structure, Part 3: Cyclical Structure/Repetition with Variation - the three nights).",
+      "Moral Implication": "Her continued, albeit likely still reluctant, compliance through the second night and into the third shows her endurance. The 'Rule of Three' is a common fairy tale motif signifying a complete cycle or a test of perseverance.",
+      "Metaphorical/Psychological Meaning": "The repetition of the act for the second and third nights signifies the ongoing, deepening process of integrating the unconscious content. Each night represents a further stage of acceptance and assimilation. The number three often symbolizes completion in psychological processes.",
+      "Sentence": "And when the princess opened the door the frog came in, and slept upon her pillow as before, till the morning broke.",
+      "Chapter Number": 20,
+      "Sentence Number": 53
+    },
+    {
+      "Plot Function": "States that the frog repeated its actions on the third night, completing the required duration of the trial.",
+      "Grimm Style": "Simple, declarative sentence confirming the completion of the three-night cycle. ('And the third night he did the same.') This is a key fulfillment of the 'Rule of Three'.",
+      "Moral Implication": "The completion of the three nights fulfills the conditions implicitly set by the enchantment (as will be revealed). Her endurance of the full trial is key to the transformation.",
+      "Metaphorical/Psychological Meaning": "The third night completes the symbolic period of initiation or integration. The Ego has endured the sustained, intimate presence of the formerly despised unconscious content. This endurance and acceptance pave the way for transformation.",
+      "Sentence": "And the third night he did the same.",
+      "Chapter Number": 20,
+      "Sentence Number": 54
+    },
+    {
+      "Plot Function": "The climax of the transformation: the frog is revealed as a handsome prince after the third night.",
+      "Grimm Style": "Compound sentence. Direct contrast ('instead of the frog, a handsome prince'). Simple, functional adjectives ('handsome,' 'most beautiful'). The transformation is sudden and magical, reported as a matter of fact. (Part 3: Transformation and Restoration, Part 10: Describing Events).",
+      "Moral Implication": "The reward for fulfilling her promise, despite her revulsion and fear, is revealed. This is the positive consequence of keeping one's word and enduring a trial. Surface appearances (nasty frog) were deceiving.",
+      "Metaphorical/Psychological Meaning": "This is the moment of transformation, symbolizing successful integration. The 'nasty frog' (primitive Animus/Shadow) is transfigured into a 'handsome prince' (mature, integrated Animus, or the true Self). The princess's endurance and acceptance have allowed this hidden potential to emerge. His 'most beautiful eyes' suggest perception and soulfulness. He is now at the 'head of her bed,' signifying a position of honor and partnership.",
+      "Sentence": "But when the princess awoke on the following morning she was astonished to see, instead of the frog, a handsome prince, gazing on her with the most beautiful eyes she had ever seen, and standing at the head of her bed.",
+      "Chapter Number": 20,
+      "Sentence Number": 55
+    },
+    {
+      "Plot Function": "The prince explains his enchantment, providing the backstory for his transformation.",
+      "Grimm Style": "Direct speech from the prince. Simple explanation of magical cause and effect ('enchanted by a spiteful fairy, who had changed him into a frog'). Archetypal villain ('spiteful fairy'). (Part 10: Dialogue, Part 8: Villain/Antagonist - Fairy).",
+      "Moral Implication": "The explanation reveals that the frog's unpleasant form was not its true nature but the result of a curse. This reinforces the idea that judging by appearances can be wrong.",
+      "Metaphorical/Psychological Meaning": "The enchantment by a 'spiteful fairy' can symbolize a past trauma, a negative parental complex, or societal repression that distorted the prince's (Animus/Self) true form. The 'fairy' could be a negative mother archetype or a destructive aspect of the feminine that caused this psychic injury.",
+      "Sentence": "He told her that he had been enchanted by a spiteful fairy, who had changed him into a frog;",
+      "Chapter Number": 21,
+      "Sentence Number": 56
+    },
+    {
+      "Plot Function": "The prince clarifies the conditions of his enchantment and how the princess was destined to break it.",
+      "Grimm Style": "Continuation of the prince's speech. The conditions ('take him out of the spring, and let him eat from her plate, and sleep upon her bed for three nights') match exactly what the princess was forced to do. 'Fated so to abide' gives it a sense of destiny. (Part 1: Language).",
+      "Moral Implication": "It's revealed that the princess's difficult trial was precisely what was needed to break the curse. Her actions, though initially unwilling, led to a positive outcome for both of them.",
+      "Metaphorical/Psychological Meaning": "The specific conditions for breaking the enchantment (rescue from unconscious, sharing sustenance, sharing intimacy for three nights) represent the necessary steps for healing and integrating this damaged/repressed aspect of the psyche. The princess, by fulfilling these conditions, has acted as the agent of healing and transformation for the Animus.",
+      "Sentence": "and that he had been fated so to abide till some princess should take him out of the spring, and let him eat from her plate, and sleep upon her bed for three nights.",
+      "Chapter Number": 21,
+      "Sentence Number": 57
+    },
+    {
+      "Plot Function": "The prince acknowledges the princess's role in his disenchantment and proposes marriage, offering a happy resolution.",
+      "Grimm Style": "Direct speech with a proposal of marriage and promise of love. ('I will marry you, and love you as long as you live.') This is a typical fairy tale reward and resolution. (Part 10: Dialogue, Part 3: Punishment and Reward).",
+      "Moral Implication": "The ultimate reward for the princess is marriage to a prince and the promise of enduring love, a common fairy tale trope signifying happiness and restored order. Her trials have led to a fulfilling outcome.",
+      "Metaphorical/Psychological Meaning": "The prince's proposal signifies the union of the Ego (princess) with the now mature and integrated Animus (prince). This is symbolic of achieving psychological wholeness, the 'coniunctio' or sacred marriage. 'Now I have nothing to wish for' indicates the prince's own restoration to wholeness. Going to 'my father's kingdom' suggests a return to a state of integrated order and legitimate power.",
+      "Sentence": "‘You,’ said the prince, ‘have broken his cruel charm, and now I have nothing to wish for but that you should go with me into my father’s kingdom, where I will marry you, and love you as long as you live.’",
+      "Chapter Number": 21,
+      "Sentence Number": 58
+    },
+    {
+      "Plot Function": "The princess accepts the prince's proposal, confirming the happy ending.",
+      "Grimm Style": "Simple, direct statement of her acceptance. The phrase 'you may be sure' is a rare, slight narrator intrusion but fits the storytelling style. ('was not long in saying ‘Yes’ to all this'). (Part 1: Tone).",
+      "Moral Implication": "The princess's ready acceptance shows her transformation; she no longer sees the 'nasty frog' but the handsome prince. Her initial revulsion is replaced by joy.",
+      "Metaphorical/Psychological Meaning": "The Ego's joyful acceptance of the transformed Animus signifies the completion of this stage of individuation. The previous resistance is gone, replaced by a willingness to unite with this now positive and integrated aspect of her psyche.",
+      "Sentence": "The young princess, you may be sure, was not long in saying ‘Yes’ to all this;",
+      "Chapter Number": 22,
+      "Sentence Number": 59
+    },
+    {
+      "Plot Function": "Introduces the arrival of the royal coach and horses, symbolizing the prince's status and the means for their journey to a new life.",
+      "Grimm Style": "Compound sentence describing the magical or opportune arrival of the coach. Rich, functional adjectives ('gay coach,' 'beautiful horses,' 'golden harness'). Use of 'eight beautiful horses' adds to the grandeur. (Part 1: Language, Part 10: Describing Setting - archetypal royal transport).",
+      "Moral Implication": "The splendid coach signifies the prince's royal status and the elevated life the princess will now lead as a reward for her actions.",
+      "Metaphorical/Psychological Meaning": "The 'gay coach with eight beautiful horses' symbolizes the splendid resources and energy now available to the integrated psyche. It's a vehicle for transition to a new state of being, signifying a joyful and powerful movement forward into a more complete life.",
+      "Sentence": "and as they spoke a gay coach drove up, with eight beautiful horses, decked with plumes of feathers and a golden harness;",
+      "Chapter Number": 22,
+      "Sentence Number": 60
+    },
+    {
+      "Plot Function": "Introduces Faithful Heinrich, whose suffering and loyalty are highlighted, adding another dimension of emotional release and restoration to the story.",
+      "Grimm Style": "Compound sentence introducing a new character. 'Faithful Heinrich' is an archetypal loyal servant. His intense grief ('bewailed...so long and so bitterly, that his heart had well-nigh burst') is stated directly and hyperbolically. This is a unique element in this tale. (Part 8: Helper/Donor - though here he is more a symbol of loyalty).",
+      "Moral Implication": "Heinrich's story emphasizes the virtue of faithfulness and the deep impact of the prince's suffering and restoration on those loyal to him. It adds an element of communal joy to the personal happiness of the prince and princess.",
+      "Metaphorical/Psychological Meaning": "Faithful Heinrich represents the deep, perhaps somatic or emotional, aspect of the psyche that suffered alongside the enchanted prince (Animus/Self). The iron bands around his heart (implied, as they break in some versions when he rejoices, though not detailed here) symbolize repressed grief or constricted life energy. His presence and eventual joy signify a profound release and healing that extends beyond just the central figures. He is the Loyal Animal Companion archetype, but human (Part 9).",
+      "Sentence": "and behind the coach rode the prince’s servant, faithful Heinrich, who had bewailed the misfortunes of his dear master during his enchantment so long and so bitterly, that his heart had well-nigh burst.",
+      "Chapter Number": 22,
+      "Sentence Number": 61
+    },
+    {
+      "Plot Function": "The prince and princess depart for his kingdom, signifying the beginning of their new life together.",
+      "Grimm Style": "Compound sentence describing their departure. Typical fairy tale elements: taking leave of the king, journeying in a coach, 'full of joy and merriment.' Focus on action and positive outcome. (Part 10: Describing Events).",
+      "Moral Implication": "The joyful departure and safe arrival signify the successful completion of all trials and the attainment of lasting happiness and prosperity.",
+      "Metaphorical/Psychological Meaning": "Taking leave of the king (Superego/old order) and setting out for the prince's kingdom symbolizes the transition to a new, integrated state of consciousness. The journey 'full of joy and merriment' reflects the harmonious state of the psyche after successful individuation. Reaching the kingdom 'safely' indicates the successful navigation of this transition.",
+      "Sentence": "They then took leave of the king, and got into the coach with eight horses, and all set out, full of joy and merriment, for the prince’s kingdom, which they reached safely;",
+      "Chapter Number": 23,
+      "Sentence Number": 62
+    },
+    {
+      "Plot Function": "The concluding sentence, confirming their long-lasting happiness and fulfilling the fairy tale promise.",
+      "Grimm Style": "Classic fairy tale ending. ('and there they lived happily a great many years.') Simple, declarative, and definitive. (Part 10: Complete List of Aspects to (Almost) Always Include - Formulaic closings).",
+      "Moral Implication": "Provides the ultimate reward: enduring happiness, a common motif reinforcing that virtuous actions and enduring trials lead to a blissful state.",
+      "Metaphorical/Psychological Meaning": "Living 'happily a great many years' symbolizes the lasting stability and contentment achieved through the integration of the Ego and the Animus, and the resolution of internal conflicts. It represents the successful outcome of the individuation journey depicted in the tale.",
+      "Sentence": "and there they lived happily a great many years.",
+      "Chapter Number": 23,
+      "Sentence Number": 63
+    }
+  ],
+  "The Complete Story": {
+    "Title": "THE FROG-PRINCE",
+    "Chapters": [
+      "One fine evening a young princess put on her bonnet and clogs, and went out to take a walk by herself in a wood; and when she came to a cool spring of water, that rose in the midst of it, she sat herself down to rest a while. Now she had a golden ball in her hand, which was her favourite plaything; and she was always tossing it up into the air, and catching it again as it fell. After a time she threw it up so high that she missed catching it as it fell; and the ball bounded away, and rolled along upon the ground, till at last it fell down into the spring. The princess looked into the spring after her ball, but it was very deep, so deep that she could not see the bottom of it. Then she began to bewail her loss, and said, â€˜Alas! if I could only get my ball again, I would give all my fine clothes and jewels, and everything that I have in the world.â€™",
+      "Whilst she was speaking, a frog put its head out of the water, and said, â€˜Princess, why do you weep so bitterly?â€™ â€˜Alas!â€™ said she, â€˜what can you do for me, you nasty frog? My golden ball has fallen into the spring.â€™ The frog said, â€˜I want not your pearls, and jewels, and fine clothes; but if you will love me, and let me live with you and eat from off your golden plate, and sleep upon your bed, I will bring you your ball again.â€™ â€˜What nonsense,â€™ thought the princess, â€˜this silly frog is talking! He can never even get out of the spring to visit me, though he may be able to get my ball for me, and therefore I will tell him he shall have what he asks.â€™ So she said to the frog, â€˜Well, if you will bring me my ball, I will do all you ask.â€™ Then the frog put his head down, and dived deep under the water; and after a little while he came up again, with the ball in his mouth, and threw it on the edge of the spring. As soon as the young princess saw her ball, she ran to pick it up; and she was so overjoyed to have it in her hand again, that she never thought of the frog, but ran home with it as fast as she could. The frog called after her, â€˜Stay, princess, and take me with you as you said,â€™ But she did not stop to hear a word.",
+      "The next day, just as the princess had sat down to dinner, she heard a strange noiseâ€”tap, tapâ€”plash, plashâ€”as if something was coming up the marble staircase: and soon afterwards there was a gentle knock at the door, and a little voice cried out and said:",
+      " â€˜Open the door, my princess dear,",
+      "  Open the door to thy true love here!",
+      "  And mind the words that thou and I said",
+      "  By the fountain cool, in the greenwood shade.â€™",
+      "Then the princess ran to the door and opened it, and there she saw the frog, whom she had quite forgotten. At this sight she was sadly frightened, and shutting the door as fast as she could came back to her seat. The king, her father, seeing that something had frightened her, asked her what was the matter. â€˜There is a nasty frog,â€™ said she, â€˜at the door, that lifted my ball for me out of the spring this morning: I told him that he should live with me here, thinking that he could never get out of the spring; but there he is at the door, and he wants to come in.â€™",
+      "While she was speaking the frog knocked again at the door, and said:",
+      " â€˜Open the door, my princess dear,",
+      "  Open the door to thy true love here!",
+      "  And mind the words that thou and I said",
+      "  By the fountain cool, in the greenwood shade.â€™",
+      "Then the king said to the young princess, â€˜As you have given your word you must keep it; so go and let him in.â€™ She did so, and the frog hopped into the room, and then straight onâ€”tap, tapâ€”plash, plashâ€”from the bottom of the room to the top, till he came up close to the table where the princess sat. â€˜Pray lift me upon chair,â€™ said he to the princess, â€˜and let me sit next to you.â€™ As soon as she had done this, the frog said, â€˜Put your plate nearer to me, that I may eat out of it.â€™ This she did, and when he had eaten as much as he could, he said, â€˜Now I am tired; carry me upstairs, and put me into your bed.â€™ And the princess, though very unwilling, took him up in her hand, and put him upon the pillow of her own bed, where he slept all night long. As soon as it was light he jumped up, hopped downstairs, and went out of the house. â€˜Now, then,â€™ thought the princess, â€˜at last he is gone, and I shall be troubled with him no more.â€™",
+      "But she was mistaken; for when night came again she heard the same tapping at the door; and the frog came once more, and said:",
+      " â€˜Open the door, my princess dear,",
+      "  Open the door to thy true love here!",
+      "  And mind the words that thou and I said",
+      "  By the fountain cool, in the greenwood shade.â€™",
+      "And when the princess opened the door the frog came in, and slept upon her pillow as before, till the morning broke. And the third night he did the same. But when the princess awoke on the following morning she was astonished to see, instead of the frog, a handsome prince, gazing on her with the most beautiful eyes she had ever seen, and standing at the head of her bed.",
+      "He told her that he had been enchanted by a spiteful fairy, who had changed him into a frog; and that he had been fated so to abide till some princess should take him out of the spring, and let him eat from her plate, and sleep upon her bed for three nights. â€˜You,â€™ said the prince, â€˜have broken his cruel charm, and now I have nothing to wish for but that you should go with me into my fatherâ€™s kingdom, where I will marry you, and love you as long as you live.â€™",
+      "The young princess, you may be sure, was not long in saying â€˜Yesâ€™ to all this; and as they spoke a gay coach drove up, with eight beautiful horses, decked with plumes of feathers and a golden harness; and behind the coach rode the princeâ€™s servant, faithful Heinrich, who had bewailed the misfortunes of his dear master during his enchantment so long and so bitterly, that his heart had well-nigh burst.",
+      "They then took leave of the king, and got into the coach with eight horses, and all set out, full of joy and merriment, for the princeâ€™s kingdom, which they reached safely; and there they lived happily a great many years."
+    ]
+  }
+}
