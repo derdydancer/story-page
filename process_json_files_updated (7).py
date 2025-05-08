@@ -208,18 +208,24 @@ for file in files:
         # Rename the first .mp3 file found to match safe_title
         shutil.move(mp3_files[0], mp3_filename)
     
+    # Generate text file
+    with open(txt_filename, 'w') as f:
+        f.write(title + '\n')
+        for chapter in chapters:
+            f.write(chapter + '\n')
+
+    # Check if there are no .mp3 files and generate audio if necessary
+    if not os.path.exists(mp3_filename):
+        generate_audio_script = os.path.join(os.getcwd(), 'generate_audio.py')
+        if os.path.exists(generate_audio_script):
+            os.system(f'python "{generate_audio_script}" "{txt_filename}"')
+    
     # Generate audio HTML
     audio_html = ''
     if os.path.exists(mp3_filename):
         audio_html = f'<audio controls src="{html.escape(safe_title + ".mp3")}"><p>Your browser does not support the audio element.</p></audio>'
     else:
         audio_html = '<p>No audio file available.</p>'
-    
-    # Generate text file
-    with open(txt_filename, 'w') as f:
-        f.write(title + '\n')
-        for chapter in chapters:
-            f.write(chapter + '\n')
     
     # Group sentences by chapter
     chapters_content = {}

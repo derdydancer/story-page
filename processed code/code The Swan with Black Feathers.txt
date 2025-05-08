@@ -1,0 +1,919 @@
+{
+  "Analysis": [
+    {
+      "Plot Function": "Establishes the main character, the setting (a reedy marsh), and introduces the central, recurring problem (the black feather) and the initial state of worry.",
+      "Grimm Style": "Uses a classic opening ('There lived once'). Simple, declarative sentence. Focuses on external observation and a concrete detail (black feather). Archetypal character (a swan). Setting is generic ('a reedy marsh').",
+      "Moral Implication": "Hints at an unnatural affliction or a mark of some transgression, setting a tone of unease. The focus on *his* wing begins to subtly place the burden or focus on the male swan.",
+      "Metaphorical/Psychological Meaning": "The swan represents the conscious individual or Ego. The reedy marsh is his environment, perhaps suggesting a muddled or less-than-ideal state. The white plumage symbolizes purity or a natural state, while the single black feather is an intrusion of the Shadow, a mark of imbalance, or a symptom of an underlying problem that causes 'great trouble'.",
+      "Sentence": "There lived once a swan in a reedy marsh, and each morn when he awoke, he found one new black feather upon his white wing, which gave him great trouble.",
+      "Chapter Number": 1,
+      "Sentence Number": 1
+    },
+    {
+      "Plot Function": "Introduces the swan's wife and immediately establishes her character as dismissive or unconcerned with his problem, contrasting with his 'great trouble'.",
+      "Grimm Style": "Simple dialogue with a simple tag ('said his wife'). Her response is direct and functional. No complex emotions described. Focus on action/speech.",
+      "Moral Implication": "Shows a lack of support or understanding from the wife. Her indifference might contribute to the tragicomedy or highlight the swan's isolation in his worry.",
+      "Metaphorical/Psychological Meaning": "The wife (Anima figure or partner) is shown as unconcerned with the Ego's 'Shadow' manifestation (black feather). This could symbolize a lack of integration with the feminine principle or a dismissive internal voice regarding emerging problems.",
+      "Sentence": "His wife, who preened herself nearby, said only, 'It is but a feather, and a small one at that.'",
+      "Chapter Number": 1,
+      "Sentence Number": 2
+    },
+    {
+      "Plot Function": "Describes the swan's attempt to solve the problem directly and his failure, emphasizing the unnatural persistence of the black feather and his growing frustration.",
+      "Grimm Style": "Focuses on simple, repeated action ('plucked it out,' 'tried to hide it'). The consequence is immediate and clear ('another grew straightway'). Matter-of-fact tone about the magical persistence.",
+      "Moral Implication": "Simple solutions do not work for this problem. Suggests the issue is deeper than a mere surface blemish. His efforts are futile, leading to a sense of helplessness.",
+      "Metaphorical/Psychological Meaning": "The Ego's attempt to forcibly remove or hide the Shadow aspect (pluck or hide the feather) is futile; it regenerates immediately ('another grew straightway'). This indicates the problem is not superficial but deeply rooted and requires more than simple suppression.",
+      "Sentence": "The swan plucked it out, and tried to hide it under a stone, but before he had smoothed his other feathers, another black one grew straightway in its place.",
+      "Chapter Number": 1,
+      "Sentence Number": 3
+    },
+    {
+      "Plot Function": "Introduces the neglected cygnets and shows their state of disarray, directly illustrating the 'failing to fulfill basic responsibilities' theme.",
+      "Grimm Style": "Simple description of the cygnets ('little ones') and their condition ('untidy,' 'peeping thinly'). The cause of their neglect is linked to the parents' preoccupation (his with the feather, hers with preening). Direct, unadorned observation.",
+      "Moral Implication": "Parental neglect has visible consequences on the offspring. The parents' self-absorption or problem-focus leads to the children suffering.",
+      "Metaphorical/Psychological Meaning": "The cygnets represent new potentials, creative outputs, or dependent aspects of the psyche. Their untended state ('untidy,' 'peeping thinly') shows that the Ego's preoccupation with its own Shadow problem and the partner's narcissism (preening) leads to the neglect of these developing aspects.",
+      "Sentence": "Their little ones, meanwhile, tumbled about the messy nest, untidy and peeping thinly, for neither parent had yet brought them fresh reeds or morning grubs.",
+      "Chapter Number": 1,
+      "Sentence Number": 4
+    },
+    {
+      "Plot Function": "The swan decides on a course of action: to build a better nest, initiating the first of the 'three main tasks' concerning mundane practical things.",
+      "Grimm Style": "Simple declaration of intent ('I shall build a new nest'). The motivation is linked to his own problem (perhaps hoping a new start will stop the feathers, or to distract himself). The task is practical for a swan.",
+      "Moral Implication": "An attempt to address a symptom (messy nest) or distract from the core issue (feathers) with practical work. May also be a flawed attempt at fulfilling his duty.",
+      "Metaphorical/Psychological Meaning": "The Ego decides to engage in a constructive, practical task ('build a new nest') – perhaps as a displacement activity from the insoluble feather problem, or an attempt to restore order to his immediate environment (the 'messy nest' of his current psychic state). This is the first task, an effort to improve external conditions.",
+      "Sentence": "'Today,' said the swan, looking at the black feather with a sigh, 'I shall build a new nest, stronger and finer than any in this marsh.'",
+      "Chapter Number": 1,
+      "Sentence Number": 5
+    },
+    {
+      "Plot Function": "The wife reacts negatively and selfishly to his plan, highlighting her lack of support and her own desires over practical family needs.",
+      "Grimm Style": "Direct, complaining dialogue. Her focus is on personal comfort ('too much work,' 'sun is pleasant here'). Reinforces her character.",
+      "Moral Implication": "Shows her unwillingness to contribute or support his efforts, prioritizing her own ease. Further emphasizes the swan's burden.",
+      "Metaphorical/Psychological Meaning": "The wife/Anima figure resists the Ego's attempt at constructive change, preferring the status quo ('sun is pleasant here') and avoiding effort ('too much work'). This highlights an internal resistance to change or an uncooperative aspect of the psyche.",
+      "Sentence": "'That is too much work,' said his wife, fluffing her feathers, 'and the sun is pleasant here by the old water-lily.'",
+      "Chapter Number": 1,
+      "Sentence Number": 6
+    },
+    {
+      "Plot Function": "The swan begins his task alone, emphasizing his solitary effort and the difficulty due to the growing number of black feathers affecting his flight.",
+      "Grimm Style": "Focus on action ('set off alone'). Directly states the consequence of the feathers ('black feathers now made one wing heavy'). Simple description of his laborious effort.",
+      "Moral Implication": "He carries the responsibility alone. The physical manifestation of his problem (heavy wing) directly impedes his practical efforts. This starts to build the tragicomic element of his struggle.",
+      "Metaphorical/Psychological Meaning": "The Ego undertakes the task alone, burdened by the increasing weight of the Shadow manifestation (heavy wing). This illustrates how unresolved inner problems can hinder practical, outer-world achievements.",
+      "Sentence": "So the swan set off alone to gather stout reeds and soft down, though the many black feathers now made one wing heavy, and his flight was lopsided.",
+      "Chapter Number": 1,
+      "Sentence Number": 7
+    },
+    {
+      "Plot Function": "Introduces the blind mole and his poorly constructed dwelling, setting up his role as an accidental plot driver and comic relief.",
+      "Grimm Style": "Simple introduction of a new archetypal animal character ('a blind mole'). Description of his home is functional and hints at future problems ('dug his hole carelessly near the water's edge').",
+      "Moral Implication": "Carelessness in construction (mole's hole) often leads to later trouble. Blindness can symbolize ignorance or lack of foresight.",
+      "Metaphorical/Psychological Meaning": "The Blind Mole represents an unconscious, blundering aspect of the psyche, or an external force that acts without awareness but impacts events. His 'carelessly dug hole' symbolizes a poorly founded or unstable aspect of the unconscious (or situation) that is prone to collapse.",
+      "Sentence": "Not far from where he searched, a blind mole had dug his hole carelessly near the water's edge, patting the loose earth with his paws.",
+      "Chapter Number": 1,
+      "Sentence Number": 8
+    },
+    {
+      "Plot Function": "The mole accidentally causes a minor mishap for the swan, showcasing his role as an unintentional catalyst for events and adding a touch of tragicomedy.",
+      "Grimm Style": "Simple cause and effect, driven by the mole's blindness. The action is slightly comical (mole pushing mud, swan slipping). Mundane consequence (lost reeds).",
+      "Moral Implication": "Unseen actions or carelessness of others can impact one's efforts. Small accidents can add to existing burdens.",
+      "Metaphorical/Psychological Meaning": "The blundering unconscious force (Blind Mole) inadvertently disrupts the Ego's constructive efforts (swan loses reeds). This shows how unconscious factors or unseen influences can create setbacks in conscious endeavors, adding to the Ego's frustration.",
+      "Sentence": "As the swan bent to pull a particularly fine reed, the blind mole, sensing a tremor, pushed a large clod of mud from his doorway, which caused the swan to slip and drop his hard-won bundle.",
+      "Chapter Number": 1,
+      "Sentence Number": 9
+    },
+    {
+      "Plot Function": "The swan's reaction to the mishap and his wife's continued indifference. He returns with little to show for his efforts, highlighting the failure of the first day's task.",
+      "Grimm Style": "Simple action ('returned with but three reeds'). Wife's unchanged behavior ('still preening'). Direct statement of the cygnets' continued hunger. Matter-of-fact depiction of failure and neglect.",
+      "Moral Implication": "Despite effort, obstacles (internal and external) lead to failure in the task. Neglect continues. The wife's indifference underscores the swan's solitary burden.",
+      "Metaphorical/Psychological Meaning": "The Ego returns from his first attempt at the task with minimal success ('three reeds'), his efforts hampered by his inner burden (feathers) and external disruptions (mole). The Anima/partner remains self-absorbed ('still preening'), and the dependent aspects (cygnets) continue to suffer, signifying a lack of progress and continued psychic imbalance.",
+      "Sentence": "The swan returned with but three reeds as dusk fell, his heavy wing aching, to find his wife still preening and the little ones crying for food.",
+      "Chapter Number": 1,
+      "Sentence Number": 10
+    },
+    {
+      "Plot Function": "Marks the passage of time to the next morning and the relentless continuation of the swan's central problem: another black feather, worsening his condition.",
+      "Grimm Style": "Simple temporal marker ('The next morn'). Repetition of the core affliction ('yet another black feather'). Clear statement of the worsening effect ('his wing drooped lower still'). Direct and unadorned.",
+      "Moral Implication": "The problem is persistent and progressive. Ignoring it or focusing on other tasks does not make it disappear. The burden on the swan increases daily.",
+      "Metaphorical/Psychological Meaning": "Time passes, but the Ego's core issue (Shadow manifestation – black feather) not only persists but worsens ('drooped lower still'). This signifies that unaddressed or improperly handled unconscious problems tend to grow and become more debilitating.",
+      "Sentence": "The next morn, the sun rose on yet another black feather, and the swan saw that his wing drooped lower still.",
+      "Chapter Number": 2,
+      "Sentence Number": 11
+    },
+    {
+      "Plot Function": "The wife offers impractical and unhelpful advice, further highlighting her detachment and lack of understanding of the gravity of his situation.",
+      "Grimm Style": "Simple dialogue with a simplistic solution offered. Her suggestion is superficial and self-serving ('hide it under your other wing').",
+      "Moral Implication": "Unhelpful advice from those who don't understand or care about the problem can be frustrating. Superficial solutions are proposed for deep-seated issues.",
+      "Metaphorical/Psychological Meaning": "The Anima/partner offers a naive and superficial solution (hiding the problem), reflecting a lack of empathy or understanding of the Ego's burden. This symbolizes an internal tendency to opt for denial or cosmetic fixes rather than confronting the real issue.",
+      "Sentence": "'Perhaps if you hide it under your other wing, no one will notice,' said his wife, pecking idly at a water snail.",
+      "Chapter Number": 2,
+      "Sentence Number": 12
+    },
+    {
+      "Plot Function": "The swan decides on the second mundane task: finding food for the family, attempting to fulfill a basic responsibility despite his growing disability.",
+      "Grimm Style": "Simple declaration of intent ('I must find food'). Direct acknowledgement of duty ('the little ones are thin'). The task is practical and essential for swans.",
+      "Moral Implication": "An attempt to fulfill parental duty despite personal suffering and lack of support. Prioritizing the needs of the children, however belatedly. This begins to lean into the moral of his responsibility.",
+      "Metaphorical/Psychological Meaning": "The Ego, burdened by its worsening inner problem, attempts to undertake another practical task essential for sustenance and the care of dependent psychic aspects ('little ones are thin'). This is a renewed effort to engage with worldly responsibilities.",
+      "Sentence": "The swan ignored her, for the sight of his drooping wing filled him with a dull ache, and said, 'Today, I must find food, for the little ones are thin.'",
+      "Chapter Number": 2,
+      "Sentence Number": 13
+    },
+    {
+      "Plot Function": "The swan struggles significantly with flying due to the accumulated black feathers, making his attempt to find food arduous and emphasizing the tragicomic element.",
+      "Grimm Style": "Focus on the physical struggle ('beat the air with great effort'). Simple description of the impaired flight ('flew crookedly, like a wounded bird'). Concrete details of his difficulty.",
+      "Moral Implication": "The consequence of the unresolved problem (black feathers) directly impacts his ability to perform essential tasks. His efforts become increasingly pathetic and difficult.",
+      "Metaphorical/Psychological Meaning": "The Ego's ability to function effectively in the world (fly) is severely impaired by the weight of the unaddressed Shadow (black feathers). His efforts are clumsy and inefficient ('flew crookedly'), symbolizing a loss of grace, power, and direction.",
+      "Sentence": "He beat the air with great effort, for his wings were now sorely unbalanced, and he flew crookedly, like a wounded bird, towards the muddy shallows where fat grubs might be found.",
+      "Chapter Number": 2,
+      "Sentence Number": 14
+    },
+    {
+      "Plot Function": "The blind mole makes another appearance, this time accidentally 'helping' by unearthing food, but in a way that is chaotic and messy.",
+      "Grimm Style": "The mole's action is again accidental and driven by his nature ('digging vigorously for roots'). The outcome is a mix of help and hindrance (unearths grubs but scatters them). Comic relief element.",
+      "Moral Implication": "Help can come from unexpected and clumsy sources. Unintentional actions can have mixed consequences.",
+      "Metaphorical/Psychological Meaning": "The blundering unconscious force (Blind Mole) again impacts the Ego's efforts. This time, it inadvertently reveals resources (grubs) but in a chaotic way. This can symbolize how unconscious processes might stir things up, bringing both problems and opportunities to the surface.",
+      "Sentence": "The blind mole, digging vigorously for roots nearby, sent a shower of dark earth and wriggling grubs flying into the air just as the swan landed heavily.",
+      "Chapter Number": 2,
+      "Sentence Number": 15
+    },
+    {
+      "Plot Function": "The swan manages to gather some food due to the mole's accidental help, but it's a struggle, and he gets very messy in the process.",
+      "Grimm Style": "Simple description of action ('snatched at the scattered grubs'). Focus on the difficulty and the resulting state ('feathers draggled with mud').",
+      "Moral Implication": "Success is partial and comes at the cost of dignity or cleanliness. The struggle for survival can be demeaning.",
+      "Metaphorical/Psychological Meaning": "The Ego manages to gather some sustenance, partly through the accidental intervention of the unconscious force (mole). However, the process is messy ('draggled with mud'), suggesting that engaging with these raw unconscious energies or relying on chaotic help can tarnish the Ego's idealized self-image or Persona.",
+      "Sentence": "The swan, startled, snatched at the scattered grubs as best he could, his fine white feathers becoming draggled with mud in his haste.",
+      "Chapter Number": 2,
+      "Sentence Number": 16
+    },
+    {
+      "Plot Function": "Introduces the whispering earthworms, who observe the swan's plight and offer cryptic, possibly unhelpful, commentary. This adds another layer of strange interaction.",
+      "Grimm Style": "Introduction of new minor magical/talking creatures ('earthworms'). Their speech is described as 'whispering' and is ominous or unhelpful ('A heavy price for a light step'). Simple, direct quote.",
+      "Moral Implication": "Nature observes and comments, but not always helpfully. Hidden voices may offer cryptic warnings or judgments.",
+      "Metaphorical/Psychological Meaning": "The Earthworms, chthonic creatures close to the earth/unconscious, represent deep, instinctual voices or perhaps collective gossip from the hidden layers of the psyche. Their 'whispering' comment is an obscure judgment or piece of folk wisdom, hinting at a cause for the swan's suffering related to some past action ('light step' leading to 'heavy price').",
+      "Sentence": "Below him, in the disturbed earth, two earthworms poked out their heads and whispered one to another, 'A heavy price for a light step, indeed.'",
+      "Chapter Number": 2,
+      "Sentence Number": 17
+    },
+    {
+      "Plot Function": "The swan overhears the earthworms but dismisses their comment, unable or unwilling to understand its relevance to his situation.",
+      "Grimm Style": "Simple action ('heard their faint murmur'). His reaction is dismissal ('paid them no mind'). Shows his focus remains on his immediate problem or his incomprehension.",
+      "Moral Implication": "Ignoring cryptic warnings or failing to reflect on their meaning can lead to missed opportunities for understanding.",
+      "Metaphorical/Psychological Meaning": "The Ego hears the faint, obscure message from the deep unconscious (earthworms) but fails to integrate it or understand its significance ('paid them no mind'). This represents the common tendency to dismiss or ignore unsettling insights that bubble up from the depths, especially if their meaning is not immediately clear.",
+      "Sentence": "The swan heard their faint murmur but paid them no mind, for his beak was full and his wing ached more than ever.",
+      "Chapter Number": 2,
+      "Sentence Number": 18
+    },
+    {
+      "Plot Function": "He returns to the nest with food, fulfilling the immediate goal of the second task, but the underlying problems of neglect and his worsening condition persist.",
+      "Grimm Style": "Simple action ('made his way back'). Describes feeding the cygnets. Notes the wife's continued inaction ('watched from her sunny spot'). Clear statement of a small success within a larger failure.",
+      "Moral Implication": "A small measure of responsibility fulfilled, but the larger issues remain unaddressed. The wife's passivity continues to highlight his burden. The success is temporary.",
+      "Metaphorical/Psychological Meaning": "The Ego manages to provide some sustenance for the dependent aspects (cygnets), fulfilling a part of the task. However, the Anima/partner remains disengaged ('watched'), and the Ego's own condition (implied by aching wing) is deteriorating. This is a minor success in practical terms but doesn't resolve the core psychic imbalance.",
+      "Sentence": "He made his way back to the nest and fed the little ones the few muddy grubs, while his wife watched from her sunny spot by the water-lily.",
+      "Chapter Number": 2,
+      "Sentence Number": 19
+    },
+    {
+      "Plot Function": "The cygnets, though fed, are still not thriving, indicating the inadequacy of the care they are receiving and the depth of the neglect.",
+      "Grimm Style": "Simple observation of the cygnets' state ('still looked small and their down was thin'). Direct and shows the continued negative impact of the parents' failings.",
+      "Moral Implication": "Partial fulfillment of duty is not enough. Long-term neglect has lasting effects. The children continue to suffer despite small efforts.",
+      "Metaphorical/Psychological Meaning": "Despite the Ego's effort to provide some sustenance, the dependent psychic aspects (cygnets) are not flourishing ('still looked small,' 'down was thin'). This indicates that superficial or inconsistent attention is insufficient for healthy development; deeper, more consistent care is needed.",
+      "Sentence": "The little ones ate greedily, but they still looked small for their age and their down was thin in places.",
+      "Chapter Number": 2,
+      "Sentence Number": 20
+    },
+    {
+      "Plot Function": "The following morning brings the inevitable: more black feathers, and a significant escalation of the problem – both wings are now affected, severely impacting his primary ability.",
+      "Grimm Style": "Repetition of the morning ritual of discovery ('another dawn, more black feathers'). Clear, stark statement of the worsening condition ('now on both wings'). Direct consequence ('could scarcely lift himself').",
+      "Moral Implication": "The affliction spreads and worsens, becoming a critical disability. The swan's very nature (a creature of flight) is being undone. This emphasizes the tragic aspect.",
+      "Metaphorical/Psychological Meaning": "The Shadow problem (black feathers) escalates, now affecting both aspects of the Ego's capacity for action or transcendence ('both wings'). The Ego's ability to 'fly' – to rise above, to achieve, to escape – is severely compromised ('could scarcely lift himself').",
+      "Sentence": "Another dawn, more black feathers, and this time the swan cried out, for they appeared now on both wings, and he found he could scarcely lift himself from the ground.",
+      "Chapter Number": 3,
+      "Sentence Number": 21
+    },
+    {
+      "Plot Function": "The wife's reaction to this critical development is still unhelpful and self-focused, offering a nonsensical suggestion that highlights her foolishness or apathy.",
+      "Grimm Style": "Her dialogue is simplistic and absurd ('Perhaps the water is too dark here'). Shows her inability to grasp the seriousness or her complete self-absorption.",
+      "Moral Implication": "When faced with a serious crisis, foolish or irrelevant advice is worse than none. Lack of empathy or intelligence from a partner deepens the tragedy.",
+      "Metaphorical/Psychological Meaning": "The Anima/partner remains unhelpful, offering an irrational explanation ('water is too dark') for the Ego's profound crisis. This could symbolize an internal voice that rationalizes or deflects from the true nature of the problem with superficial or irrelevant theories, hindering any real understanding.",
+      "Sentence": "'Perhaps the water is too dark here,' said his wife, squinting at her reflection. 'Clearer water might make for whiter feathers.'",
+      "Chapter Number": 3,
+      "Sentence Number": 22
+    },
+    {
+      "Plot Function": "The swan, desperate, decides on the third mundane task: teaching the cygnets to swim, perhaps as a final act of duty before he is completely disabled, or in a desperate hope it might change his fate.",
+      "Grimm Style": "Simple declaration of the third task ('I shall teach the little ones to swim'). The motivation is unstated but implied by the crisis. The task is essential for young swans.",
+      "Moral Implication": "A sense of urgency or perhaps resignation. An attempt to pass on essential life skills to the next generation, possibly acknowledging his own failing abilities. This again emphasizes his responsibility.",
+      "Metaphorical/Psychological Meaning": "In a state of increasing desperation and disability, the Ego decides to undertake the third practical task: initiating the dependent psychic aspects (cygnets) into a new element or skill (swimming). This could represent a last-ditch effort to ensure their survival or development, or to fulfill a fundamental parental/guiding role.",
+      "Sentence": "The swan, with a heavy heart which the story does not mention, said, 'Today, before I lose all flight, I shall teach the little ones to swim.'",
+      "Chapter Number": 3,
+      "Sentence Number": 23
+    },
+    {
+      "Plot Function": "He struggles to lead the cygnets to the water, his physical impairment making even this simple act difficult. The cygnets are reluctant or confused.",
+      "Grimm Style": "Focus on the physical difficulty ('half-hopped, half-flapped'). Describes the cygnets' reaction simply ('trailed uncertainly'). Shows the pitiful nature of his attempt.",
+      "Moral Implication": "His degraded state makes even basic duties a struggle. The children's uncertainty reflects the lack of clear, strong guidance due to his condition.",
+      "Metaphorical/Psychological Meaning": "The Ego's severely compromised state makes it difficult to guide the dependent aspects (cygnets). His awkward movements ('half-hopped, half-flapped') symbolize his loss of effective agency. The cygnets' uncertainty reflects the confusion of nascent psychic functions when the guiding Ego is impaired.",
+      "Sentence": "He half-hopped, half-flapped towards the water's edge, the little ones trailing uncertainly behind him, pecking at his dark-tipped tail feathers.",
+      "Chapter Number": 3,
+      "Sentence Number": 24
+    },
+    {
+      "Plot Function": "The blind mole's poorly built hole directly impacts the third task, causing a minor catastrophe that prevents the swimming lesson.",
+      "Grimm Style": "The mole's previous carelessness ('badly-mended patch') has a direct, disastrous consequence. Simple cause and effect (ground gives way, cygnets tumble). The mole's action is again unintentional but pivotal.",
+      "Moral Implication": "Past negligence (mole's hole) can cause present disasters. The interconnectedness of actions, even unseen ones. The swan's attempt at duty is thwarted by another's prior failing.",
+      "Metaphorical/Psychological Meaning": "The unstable, poorly integrated unconscious element (mole's collapsing hole) causes a crisis that directly prevents the Ego from completing its guiding task (swimming lesson). This shows how underlying weaknesses or unresolved issues in the psyche can suddenly give way, disrupting conscious plans and endangering developing aspects (cygnets).",
+      "Sentence": "Just as they reached the bank, the earth beneath the mole's carelessly dug tunnel, weakened by the damp, gave way with a soft sigh, and two of the cygnets tumbled into the collapsing muddy pit.",
+      "Chapter Number": 3,
+      "Sentence Number": 25
+    },
+    {
+      "Plot Function": "The swan attempts a rescue but is too weak and impaired by his black feathers to be effective. His wife is absent/unhelpful.",
+      "Grimm Style": "Describes his frantic but futile efforts ('flapped uselessly,' 'could not gain purchase'). Mentions the wife's absence ('nowhere to be seen'). Heightens the tragicomedy and his isolation.",
+      "Moral Implication": "His physical decline renders him helpless in a crisis. Lack of support from his partner in a critical moment. The consequences of his affliction and her neglect converge.",
+      "Metaphorical/Psychological Meaning": "The Ego, severely weakened by its internal Shadow problem (black feathers), is unable to rescue the endangered developing aspects (cygnets in pit). The Anima/partner is absent or unavailable, signifying a complete failure of the parental/protective functions of the psyche at this moment.",
+      "Sentence": "The swan flapped uselessly with his heavy, darkened wings, trying to reach them, but he could not gain purchase on the crumbling edge, and his wife, at that moment, was nowhere to be seen.",
+      "Chapter Number": 3,
+      "Sentence Number": 26
+    },
+    {
+      "Plot Function": "The mole, oblivious, misinterprets the commotion and makes a comment that is comically inappropriate to the swan's distress.",
+      "Grimm Style": "The mole's dialogue is based on his sensory perception (smell) and is completely out of sync with the reality of the situation. Comic relief through dramatic irony.",
+      "Moral Implication": "Ignorance or self-absorption can lead to profound insensitivity in moments of crisis. People often interpret events through their own limited lens.",
+      "Metaphorical/Psychological Meaning": "The blundering unconscious aspect (Blind Mole) remains oblivious to the true nature of the crisis caused by its own instability. Its comment ('fine truffles') reflects a primitive, self-referential interpretation, completely missing the Ego's distress. This highlights how parts of the psyche can operate in complete ignorance of the broader emotional context.",
+      "Sentence": "'Ah, the scent of fine truffles!' mumbled the blind mole from deeper in his ruined burrow, mistaking the cygnets' frightened peeps for something delicious.",
+      "Chapter Number": 3,
+      "Sentence Number": 27
+    },
+    {
+      "Plot Function": "The whispering earthworms reappear, offering another cryptic and condemnatory remark, this time more directly pointing to a fault in the swan.",
+      "Grimm Style": "Repetition of the earthworms' appearance and their role as hidden commentators. Their dialogue is short, rhyming, and judgmental ('wings grow black, for duties slack').",
+      "Moral Implication": "The idea of a moral cause for his affliction is reinforced. Neglected duties have consequences. The hidden world passes judgment.",
+      "Metaphorical/Psychological Meaning": "The deep unconscious voices (earthworms) offer a more direct, albeit still metaphorical, judgment, linking the Ego's Shadow problem ('wings grow black') to its failure in responsibilities ('duties slack'). This suggests an awareness within the psyche's depths of the moral dimension of the Ego's failings.",
+      "Sentence": "The earthworms below, however, poked out their heads once more and sang in a low chorus, 'When wings grow black, for duties slack, the pit claims its own, and a father's groan.'",
+      "Chapter Number": 3,
+      "Sentence Number": 28
+    },
+    {
+      "Plot Function": "The swan, overwhelmed by failure, the loss of the cygnets, his disability, and the worms' condemnation, finally succumbs to despair.",
+      "Grimm Style": "Simple description of his surrender ('could do naught but watch'). Focus on the external outcome (pit, silence). The tragic element is clear.",
+      "Moral Implication": "The culmination of neglect and unresolved problems leads to tragic loss and despair. The father's responsibility is implicitly highlighted by his inability to save his offspring.",
+      "Metaphorical/Psychological Meaning": "The Ego, overwhelmed by its internal burden (feathers), external failure (loss of cygnets), and the judgmental voice of the deep unconscious (earthworms), collapses into helplessness ('could do naught but watch'). This represents a nadir, a point of psychic despair where the Ego feels utterly powerless.",
+      "Sentence": "The swan heard them this time, and as the last soft crumbling of earth sealed the pit, he could do naught but watch, his own black feathers seeming to drag him to the ground.",
+      "Chapter Number": 3,
+      "Sentence Number": 29
+    },
+    {
+      "Plot Function": "The wife finally appears, her comment utterly trivializing the tragedy and showcasing her complete detachment from reality and her family's suffering.",
+      "Grimm Style": "Her late appearance and inappropriate dialogue ('spoiled my lovely view') provide a stark, almost cruel, comic counterpoint to the swan's despair. It's the height of her selfishness and foolishness.",
+      "Moral Implication": "Extreme selfishness and lack of empathy in a partner can compound tragedy. Some individuals remain oblivious to the suffering around them if it doesn't directly impact their own petty concerns.",
+      "Metaphorical/Psychological Meaning": "The Anima/partner appears only after the crisis has concluded, her comment revealing a profound level of narcissism and disconnection from the Ego's suffering and the loss of their joint creative potential (cygnets). Her concern ('spoiled my lovely view') is for her own superficial aesthetic pleasure, highlighting a severely dysfunctional or undeveloped feminine principle within the psyche.",
+      "Sentence": "Then his wife ambled over, looked at the disturbed earth, and said with a frown, 'Such a mess, it has quite spoiled my lovely view of the water-lilies.'",
+      "Chapter Number": 3,
+      "Sentence Number": 30
+    },
+    {
+      "Plot Function": "Another morning, and the swan's condition is even worse – the black feathers are now thick, and flight seems impossible. This sets a new low point.",
+      "Grimm Style": "Classic repetition of the morning problem, emphasizing its relentless progression. Simple, direct description of his severe disability ('thick as a crow's,' 'flight was now a memory').",
+      "Moral Implication": "The consequences of unaddressed failings (or the mysterious curse) continue to mount, leading to complete incapacitation. The swan is losing his essential nature.",
+      "Metaphorical/Psychological Meaning": "The Ego's Shadow aspect (black feathers) has almost completely overwhelmed its positive qualities, rendering its 'higher' functions (flight – aspiration, freedom, perspective) impossible. 'Flight was now a memory' signifies a loss of hope or ability to transcend.",
+      "Sentence": "When the next day dawned, the black feathers on the swan's wings were thick as a crow's, and flight was now a memory he could only sorrowfully recall.",
+      "Chapter Number": 4,
+      "Sentence Number": 31
+    },
+    {
+      "Plot Function": "The wife, oblivious or uncaring about his inability to fly, demands a trivial, aesthetic item, showcasing her continued self-absorption and disregard for their dire situation.",
+      "Grimm Style": "Her request ('a particularly shiny pebble') is frivolous given the circumstances. Her reasoning ('would look well in the nest I hope you soon finish') shows her disconnect and passive aggression about the failed nest task.",
+      "Moral Implication": "Selfish demands persist even in the face of a partner's complete breakdown. Lack of awareness or empathy to an almost cruel degree.",
+      "Metaphorical/Psychological Meaning": "The Anima/partner remains fixated on superficialities ('shiny pebble') and her own desires, completely ignoring the Ego's profound crisis and inability to function. Her comment about the nest highlights her continued dissatisfaction and blame, without offering solutions.",
+      "Sentence": "'Husband,' said his wife, polishing a stray white feather of her own, 'fetch me that particularly shiny pebble from the far bank; it would look well in the nest I hope you soon finish.'",
+      "Chapter Number": 4,
+      "Sentence Number": 32
+    },
+    {
+      "Plot Function": "The swan pathetically attempts to comply, highlighting his complete loss of flight and his degradation to a land-bound creature. This is deeply tragicomic.",
+      "Grimm Style": "Simple description of his laborious, undignified movement ('waddled and dragged himself'). Emphasizes the loss of his swan-like grace. 'A sorry sight' is a direct, albeit simple, authorial comment permissible in this style.",
+      "Moral Implication": "He is reduced to a caricature of his former self, still trying to please or obey despite his condition. The once proud swan is humbled to the extreme.",
+      "Metaphorical/Psychological Meaning": "The Ego, having lost its ability to 'fly' (transcend, act effectively), is reduced to clumsy, earth-bound efforts ('waddled and dragged') to fulfill the Anima's superficial demands. This represents a profound loss of power and dignity.",
+      "Sentence": "The swan looked at his useless wings, then at his wife, and with a great effort, began to waddle and drag himself towards the far bank, a sorry sight for any creature to behold.",
+      "Chapter Number": 4,
+      "Sentence Number": 33
+    },
+    {
+      "Plot Function": "The blind mole, in his own world, accidentally creates another obstacle or comments on the swan's slow progress, further adding to the tragicomedy.",
+      "Grimm Style": "The mole's actions are self-absorbed ('humming a tune'). His comment ('Some folk take all day') is comically unaware of the swan's struggle, based only on the sound of his slow approach.",
+      "Moral Implication": "The world continues, oblivious to individual suffering. Comments made in ignorance can seem cruel or absurdly funny to an observer.",
+      "Metaphorical/Psychological Meaning": "The blundering unconscious aspect (Mole) remains unaware of the Ego's suffering, interpreting its slow, painful progress through its own limited, sensory perspective. This highlights the isolation of the suffering Ego, even from parts of its own psyche.",
+      "Sentence": "The blind mole, whose hearing was sharp, was busy clearing a new blockage in his tunnel and called out, 'Some folk take all day to cross a simple patch of mud, humming a tune to himself.'",
+      "Chapter Number": 4,
+      "Sentence Number": 34
+    },
+    {
+      "Plot Function": "The journey for the pebble is arduous and demeaning for the swan, emphasizing his complete helplessness and the absurdity of the task given his condition.",
+      "Grimm Style": "Focus on the physical struggle and the time it takes ('took him till noon'). Details like 'mud-caked' and 'panting' paint a clear picture of his degraded state.",
+      "Moral Implication": "The pursuit of trivial demands from an unfeeling partner can lead to utter degradation when one is already broken. The tragic nature of his obedience.",
+      "Metaphorical/Psychological Meaning": "The Ego's attempt to satisfy the Anima's superficial desire (pebble) becomes an ordeal due to its profound incapacitation. This shows how trying to meet external demands when internally crippled can lead to exhaustion and a loss of self-respect.",
+      "Sentence": "It took him till noon to reach the far bank, his once-white breast now mud-caked, his breath coming in ragged gasps as he searched for the shiny stone.",
+      "Chapter Number": 4,
+      "Sentence Number": 35
+    },
+    {
+      "Plot Function": "He finds the pebble but is now too weak to even carry it effectively, showcasing the final stage of his decline in physical ability.",
+      "Grimm Style": "Simple action ('found a pebble'). Clear statement of his new limitation ('too weak to carry it in his beak'). Shows progressive weakness.",
+      "Moral Implication": "His deterioration is now so advanced that even the smallest effort is almost beyond him. The pebble, once a trivial request, becomes an insurmountable burden.",
+      "Metaphorical/Psychological Meaning": "The Ego achieves the trivial goal (finds pebble) but is now so depleted that even this minor object is too much to bear. This signifies a near-total collapse of the Ego's strength and capacity.",
+      "Sentence": "He found a pebble, no shinier than any other, but when he tried to pick it up, he found he was too weak from his journey to carry it properly in his beak.",
+      "Chapter Number": 4,
+      "Sentence Number": 36
+    },
+    {
+      "Plot Function": "The earthworms deliver their most direct and ominous pronouncement yet, explicitly linking his state to a broken vow or deep failing concerning his 'true mate' or nature.",
+      "Grimm Style": "The earthworms' dialogue is rhyming and acts as a choric commentary, delivering a moral judgment or revealing a hidden truth. 'Broken vow' and 'true mate' are classic fairy tale themes.",
+      "Moral Implication": "Suggests a deeper, moral reason for his suffering – a fundamental betrayal or failure in his primary relationship or purpose. This strongly hints at the 'man's responsibility' theme.",
+      "Metaphorical/Psychological Meaning": "The deep unconscious voices (earthworms) deliver a judgment that points to a core betrayal or a failure in the Ego's primary relational commitment ('broken vow,' 'true mate's fate'). This suggests the Ego's current suffering is a direct consequence of a fundamental moral or existential failing, perhaps related to the Anima or his own soul's purpose.",
+      "Sentence": "And from the earth beside him, the two worms emerged again, and they sang clearly, 'A vow ignored, a mate deplored, brings feathers of night, and ends all flight.'",
+      "Chapter Number": 4,
+      "Sentence Number": 37
+    },
+    {
+      "Plot Function": "This time, the swan reacts to the worms' words, showing that their message has finally penetrated his consciousness, causing him distress or deep thought.",
+      "Grimm Style": "A shift in his reaction – he 'shuddered' and 'let the pebble fall'. This indicates their words had a significant impact, unlike before. Simple but powerful physical manifestation of his reaction.",
+      "Moral Implication": "The truth, when stark enough, can break through even despair or preoccupation. The words force a moment of realization or deep unease.",
+      "Metaphorical/Psychological Meaning": "The direct and meaningful pronouncement from the unconscious (earthworms) finally breaks through the Ego's defenses or preoccupation. He 'shuddered,' indicating a profound, visceral reaction. Letting the pebble fall signifies abandoning the superficial task imposed by the dysfunctional Anima, as he confronts a deeper truth about his own failings.",
+      "Sentence": "The swan heard these words clearly, and a great shudder went through him, so much so that he let the pebble fall from his clumsy beak.",
+      "Chapter Number": 4,
+      "Sentence Number": 38
+    },
+    {
+      "Plot Function": "He returns empty-handed, his mission a complete failure, and finds his wife has moved on to another trivial pursuit, completely indifferent to his ordeal.",
+      "Grimm Style": "Simple statement of his failed return ('returned with nothing'). Her unchanged, self-absorbed behavior ('chasing a dragonfly') provides a stark contrast to his suffering and realization. Tragicomic.",
+      "Moral Implication": "His suffering and potential realization are met with utter indifference. The gap between them is complete. Some people are incapable of seeing beyond their own immediate, trivial interests.",
+      "Metaphorical/Psychological Meaning": "The Ego returns, having failed the superficial task and now burdened with a heavy insight from the unconscious. The Anima/partner remains oblivious, absorbed in trivial pursuits ('chasing a dragonfly'), symbolizing her complete disconnection from the Ego's profound existential crisis and her inability to engage with deeper realities.",
+      "Sentence": "He returned to the nest with nothing, his body trembling, to find his wife attempting to chase a brightly coloured dragonfly that flitted over the water.",
+      "Chapter Number": 4,
+      "Sentence Number": 39
+    },
+    {
+      "Plot Function": "The culmination of this chapter: the swan is left alone with his black feathers and the heavy words of the worms, signifying a point of utter desolation and the weight of a dawning, terrible understanding.",
+      "Grimm Style": "Simple, bleak image ('sat heavily'). Focus on the symbols of his plight ('black feathers,' 'worms' song echoing'). Ends the chapter on a note of despair and foreboding.",
+      "Moral Implication": "The weight of truth and consequence settles upon him. Isolation in suffering. The 'man's responsibility' for his 'broken vow' or 'mate deplored' is now a heavy, conscious burden.",
+      "Metaphorical/Psychological Meaning": "The Ego is left in a state of profound desolation, fully burdened by its Shadow (black feathers) and the accusatory wisdom of the unconscious (worms' song). This is a moment of confronting the full weight of his existential failure and its consequences. The comedic elements fade, leaving the tragic core exposed.",
+      "Sentence": "The swan sat heavily by the messy, unfinished nest, the black feathers a heavy cloak upon him, and the worms' song echoing in his troubled mind.",
+      "Chapter Number": 4,
+      "Sentence Number": 40
+    },
+    {
+      "Plot Function": "A new day brings no relief, only the stark reality of his complete inability to fly, marking a critical stage of his degradation. The black feathers now define him.",
+      "Grimm Style": "Simple statement of the passage of time and the unchanged, dire condition. 'His wings were like lead' is a straightforward simile conveying his helplessness. The feathers are no longer just appearing, they 'covered him almost entirely'.",
+      "Moral Implication": "The relentless progression of his affliction. He has lost his defining characteristic as a swan. This is the depth of his tragic fall, a consequence of the (as yet unspecified) failing.",
+      "Metaphorical/Psychological Meaning": "The Ego is now almost entirely consumed by its Shadow aspect (black feathers like a 'sooty shroud'). Its higher functions ('wings like lead') are completely inert. This represents a state of profound depression or incapacitation, where the individual feels weighed down and unable to rise above their circumstances.",
+      "Sentence": "On the morrow, the swan did not even attempt to count the new black feathers that covered him almost entirely like a sooty shroud; his wings were like lead.",
+      "Chapter Number": 5,
+      "Sentence Number": 41
+    },
+    {
+      "Plot Function": "The wife, ever practical in her own selfish way, suggests a drastic and absurd 'solution' that reflects her lack of empathy and focus on appearances.",
+      "Grimm Style": "Her dialogue is shockingly pragmatic and cruel, suggesting he 'wallow in the black mud' to hide the feathers. This is grimly comic and highlights her character flaw.",
+      "Moral Implication": "Offers a solution that would only degrade him further, concerned only with how things *look* rather than his actual suffering or the cause of it.",
+      "Metaphorical/Psychological Meaning": "The Anima/partner suggests the Ego embrace its Shadow state ('wallow in the black mud') as a form of camouflage – a superficial fix to an appearance problem. This represents a dysfunctional internal suggestion to simply give in to the negative state or hide it by becoming entirely 'dark', rather than seeking true healing or understanding.",
+      "Sentence": "'Since you are so dark now,' his wife observed, stirring the muddy water with her beak, 'perhaps you should wallow in the black mud of the far shallows; then all your feathers might at least match.'",
+      "Chapter Number": 5,
+      "Sentence Number": 42
+    },
+    {
+      "Plot Function": "The swan, perhaps in utter despair or a flicker of spite, retorts by pointing out their shared failure regarding the nest, a task he initiated and she scorned.",
+      "Grimm Style": "Rare direct retort from the swan. His speech is simple but pointed ('our nest remains half-built'). This shows a crack in his passive suffering, a hint of bitterness or accusation.",
+      "Moral Implication": "A moment where he implicitly assigns shared responsibility, at least for one of their failures. It's a weak protest against her constant criticism and his sole burden-bearing.",
+      "Metaphorical/Psychological Meaning": "The Ego, pushed to its limit, finally retorts, pointing out the Anima/partner's share in their joint failure (the nest – symbolic of their shared life or creative potential). This is a flicker of resistance against the dysfunctional dynamic.",
+      "Sentence": "The swan looked at her and said, with a voice rough from disuse, 'And yet our nest remains half-built, and the shiny pebble unretrieved.'",
+      "Chapter Number": 5,
+      "Sentence Number": 43
+    },
+    {
+      "Plot Function": "The wife dismisses his point with a complaint about her own minor discomfort, completely ignoring the gravity of his statement and their situation.",
+      "Grimm Style": "Her response is a non-sequitur focused on her own trivial complaint ('draughty'). Highlights her extreme self-centeredness. It’s a darkly comic deflection.",
+      "Moral Implication": "Total inability to acknowledge shared responsibility or empathize. Some people will always revert to their own petty concerns, no matter the crisis.",
+      "Metaphorical/Psychological Meaning": "The Anima/partner completely deflects the Ego's attempt at shared accountability, reverting to her own superficial complaints ('draughty'). This demonstrates a profound block in communication and mutual understanding within the psyche's internal relationship.",
+      "Sentence": "'It is rather draughty,' she replied, shivering delicately though the sun was warm, 'and I have quite lost my appetite for dragonflies.'",
+      "Chapter Number": 5,
+      "Sentence Number": 44
+    },
+    {
+      "Plot Function": "The blind mole makes an appearance, his current activity (stockpiling pebbles) coincidentally and comically related to the wife's earlier demand, though he is unaware of it.",
+      "Grimm Style": "The mole's actions are industrious but driven by his own logic ('winter stores'). His stockpiling of pebbles is an ironic echo of the wife's desire. Classic comic timing.",
+      "Moral Implication": "Life goes on with its own absurdities around those suffering. Coincidences can be ironic. The mole's 'practicality' contrasts with the swans' dysfunction.",
+      "Metaphorical/Psychological Meaning": "The blundering unconscious force (Mole) is engaged in its own form of 'practical' activity (stockpiling pebbles – perhaps representing an accumulation of small, hard, undigested facts or minor obsessions). This activity is ironically parallel to the Anima's superficial desire, showing how different parts of the psyche can be working on similar 'themes' but for entirely different and uncoordinated reasons.",
+      "Sentence": "Meanwhile, the blind mole, convinced that winter was arriving early, was diligently pushing a small mountain of pebbles and smooth stones towards the entrance of his precarious burrow for insulation.",
+      "Chapter Number": 5,
+      "Sentence Number": 45
+    },
+    {
+      "Plot Function": "The mole's activity inadvertently causes a part of his burrow to collapse further, partially blocking the swans' access to the open water.",
+      "Grimm Style": "Cause and effect: mole's vigorous activity leads to a new problem for the swans. The collapse is described simply. 'Precarious burrow' from earlier pays off.",
+      "Moral Implication": "One person's poorly planned actions can inadvertently create obstacles for others. Unintended consequences of careless work.",
+      "Metaphorical/Psychological Meaning": "The Mole's misdirected efforts and the inherent instability of his unconscious constructions ('precarious burrow') lead to a further blockage or obstacle in the Ego's environment ('blocking their path to the deeper water'). This symbolizes how unresolved or unstable unconscious elements can create new impediments.",
+      "Sentence": "One particularly large stone, dislodged by his efforts, rolled down and caused a small landslide from the bank, further narrowing the swans' path to the deeper water.",
+      "Chapter Number": 5,
+      "Sentence Number": 46
+    },
+    {
+      "Plot Function": "The swan, seeing this new, albeit minor, obstacle, feels a flicker of resolve to perform a very basic, achievable task – clearing the path. It's a tiny act of agency.",
+      "Grimm Style": "Simple observation leading to a decision for minimal action ('I will clear that much'). It is a small, pathetic goal given his former state, which makes it tragicomic.",
+      "Moral Implication": "Even in deep despair, the smallest spark of purpose can arise. Taking action, no matter how small, can be a starting point. Or, it's a further sign of his reduced capacity, that *this* is what he now considers a task.",
+      "Metaphorical/Psychological Meaning": "Faced with a new, minor obstacle created by unconscious processes, the incapacitated Ego feels a slight urge to act ('I will clear that much'). This represents a minimal stirring of agency, an attempt to address even a small impediment in its immediate psychic environment, perhaps the very beginning of an attempt to reclaim some function.",
+      "Sentence": "The swan, watching the pebbles scatter, thought not of his wife's desired stone, but only that the path was now obstructed, and said quietly, 'I will clear that much, at least.'",
+      "Chapter Number": 5,
+      "Sentence Number": 47
+    },
+    {
+      "Plot Function": "He struggles immensely to move even a small stone, emphasizing his profound weakness and the tragicomedy of his situation.",
+      "Grimm Style": "Detailed description of his feeble effort ('pushed with his breast,' 'nudged with his beak,' 'strained with his legs'). The outcome is minimal ('moved it but an inch'). Effective in showing his helplessness.",
+      "Moral Implication": "The gap between will and ability is now vast. His attempts are pitiful, highlighting the severity of his decline. Yet, he is still *trying* something.",
+      "Metaphorical/Psychological Meaning": "The Ego's attempt to perform even a minor act of clearing is met with immense difficulty due to its weakened state. This illustrates how profound internal incapacitation (Shadow overwhelming the Ego) makes even the simplest engagements with reality a struggle.",
+      "Sentence": "He pushed with his breast against one of the smaller fallen stones, then nudged it with his beak, and strained with his legs, but moved it but an inch.",
+      "Chapter Number": 5,
+      "Sentence Number": 48
+    },
+    {
+      "Plot Function": "The earthworms deliver a commentary that seems to offer a sliver of hope or a cryptic clue related to 'the root' and 'true sight,' possibly hinting at a deeper cause or solution.",
+      "Grimm Style": "The worms' song is again gnomic and symbolic. 'The root of the trouble' and 'true sight' suggest a hidden cause and the need for deeper understanding, not just physical effort.",
+      "Moral Implication": "Hints that the solution lies not in superficial actions but in understanding the origin of the problem. 'True sight' implies a need for insight or revelation.",
+      "Metaphorical/Psychological Meaning": "The deep unconscious voices (earthworms) offer another piece of cryptic wisdom, suggesting the problem's origin ('root') is hidden and requires a different kind of perception ('true sight') than the Ego currently possesses. This points towards the need for insight and understanding of the underlying cause, rather than just battling symptoms.",
+      "Sentence": "The earthworms, witnessing his struggle, sang a new, softer tune: 'The root of the trouble lies not in the stone, but in vision lost and a truth unknown; seek the deep root, with eyes of true sight, to turn back the dark and restore the light.'",
+      "Chapter Number": 5,
+      "Sentence Number": 49
+    },
+    {
+      "Plot Function": "The swan, exhausted and perhaps pondering the worms' words, gives up on the stone, leaving the chapter on a note of his continued helplessness but with a new, enigmatic idea planted in his mind.",
+      "Grimm Style": "Simple statement of his cessation of effort ('gave up the effort'). His posture ('head drooping') conveys defeat. The worms' words 'remained with him,' suggesting they are having an effect now.",
+      "Moral Implication": "Physical effort is futile without understanding. The cryptic message lingers, suggesting a possible shift in his approach if he can decipher it. The problem remains, but a new direction for thought is introduced.",
+      "Metaphorical/Psychological Meaning": "The Ego abandons the futile physical struggle, exhausted. However, the message from the unconscious (worms' song) now 'remained with him,' signifying that the suggestion to seek deeper understanding and 'true sight' has been registered, even if not yet acted upon. This is a turning point from mindless action to potential introspection.",
+      "Sentence": "The swan gave up the effort, his head drooping against his black-feathered breast, and the earthworms' song about a 'root' and 'true sight' remained with him as the light faded.",
+      "Chapter Number": 5,
+      "Sentence Number": 50
+    },
+    {
+      "Plot Function": "The new day brings the horrifying culmination of his feather problem: he is entirely black, and his swan form is barely recognizable. This is the peak of his external transformation/degradation.",
+      "Grimm Style": "Simple, stark description of his final state. 'No white feather remained' is absolute. 'More like a crow than a swan' is a clear, degrading comparison. Direct and impactful.",
+      "Moral Implication": "The full manifestation of the curse or consequence. He has lost his identity. This visualizes the 'man's responsibility' theme – his failing (whatever it is) has led to this complete transformation.",
+      "Metaphorical/Psychological Meaning": "The Ego is now completely overwhelmed and identified with its Shadow aspect ('entirely black'). His original nature ('swan') is almost entirely obscured. This represents a state of profound alienation from his true self, a complete succumbing to the darkness or the unacknowledged problem.",
+      "Sentence": "Dawn arrived, and the swan looked upon himself in the still water; no white feather remained, and he was entirely black, more like a great, clumsy crow than a swan of the reeds.",
+      "Chapter Number": 6,
+      "Sentence Number": 51
+    },
+    {
+      "Plot Function": "His wife reacts with fear and rejection to his complete transformation, finally seeing him as something alien or monstrous, and she distances herself.",
+      "Grimm Style": "Her reaction ('cried out,' 'scuttled away') is one of fear and revulsion. Her dialogue ('Keep away from me') is a clear rejection. Simple and direct depiction of her response.",
+      "Moral Implication": "Superficial affection disappears when faced with radical, unpleasant change. She valued his appearance or swan-like nature, not the individual. Isolation in extreme misfortune.",
+      "Metaphorical/Psychological Meaning": "The Anima/partner, confronted with the Ego's complete identification with the Shadow (all black), reacts with fear and rejection. This signifies a breakdown in the internal relationship; the feminine principle is repulsed by or cannot integrate this overwhelming darkness in the Ego.",
+      "Sentence": "His wife, seeing him thus, cried out in fright and scuttled away to the furthest clump of reeds, saying, 'You are no swan of mine! Keep away from me, dark creature!'",
+      "Chapter Number": 6,
+      "Sentence Number": 52
+    },
+    {
+      "Plot Function": "Abandoned and transformed, the swan feels a strange pull towards the blind mole's disastrous burrow, perhaps out of shared misery or a desperate, irrational instinct.",
+      "Grimm Style": "His action ('began to stumble towards the mole's ruined burrow') is one of despair. The motivation is unclear, adding to the sense of bleakness. Focus on his clumsy movement.",
+      "Moral Implication": "In utter desolation, one might be drawn to other forms of ruin or darkness. Misery seeks company, however unsuitable.",
+      "Metaphorical/Psychological Meaning": "The Ego, completely identified with its Shadow and rejected by the Anima, is drawn towards the unstable, chaotic unconscious element (mole's ruined burrow). This could represent a regression, a pull towards dissolution, or a desperate search for any kind of connection, even with a primitive, blundering aspect of the psyche.",
+      "Sentence": "Left alone, the black swan felt a dull curiosity and began to stumble towards the mole's ruined burrow, for there was nowhere else that seemed to draw him.",
+      "Chapter Number": 6,
+      "Sentence Number": 53
+    },
+    {
+      "Plot Function": "The mole, oblivious as ever, is engaged in a new, absurdly meticulous activity within his crumbling home, contrasting with the swan's despair.",
+      "Grimm Style": "The mole's activity ('sorting his pebbles by size') is comically pointless given the state of his burrow. Provides dark humor. 'Humming cheerlessly' adds to the tragicomic tone.",
+      "Moral Implication": "Life's absurdities continue regardless of individual tragedies. Some find focus in meaningless tasks even amidst chaos.",
+      "Metaphorical/Psychological Meaning": "The blundering unconscious aspect (Mole) is engaged in a meaningless, obsessive activity ('sorting pebbles by size') within its own chaotic domain, completely unaware of the Ego's presence or state. This highlights the autonomous and sometimes nonsensical nature of certain unconscious processes.",
+      "Sentence": "He found the blind mole within, humming cheerlessly as he attempted to sort his collection of pebbles into three distinct piles based on imagined smoothness.",
+      "Chapter Number": 6,
+      "Sentence Number": 54
+    },
+    {
+      "Plot Function": "The swan, in his darkened state, does something uncharacteristic and subtly destructive: he nudges the mole's carefully sorted pebbles, causing them to mix. A small act of bleak mischief.",
+      "Grimm Style": "A small, almost pathetic act of disruption from the swan. 'With the tip of one black wing' is a sad use of his transformed appendage. It's quiet and understated malice or despair.",
+      "Moral Implication": "Despair or transformation into darkness can lead to petty, disruptive acts. A loss of his former noble nature.",
+      "Metaphorical/Psychological Meaning": "The Ego, in its Shadow state (black swan), performs a minor act of mischief or disruption ('nudged the piles'), upsetting the Mole's obsessive unconscious order. This could symbolize the negative impact of the Ego's dark state on other, more primitive psychic functions, or a bleak, aimless expression of its own inner chaos.",
+      "Sentence": "The black swan watched this for a time, then, with the tip of one black wing, he idly nudged the three piles so that many pebbles rolled together again.",
+      "Chapter Number": 6,
+      "Sentence Number": 55
+    },
+    {
+      "Plot Function": "The mole reacts with disproportionate, comical anger to this minor disruption, lamenting his 'life's work' being ruined.",
+      "Grimm Style": "The mole's reaction ('great cry of dismay,' 'wailed') is exaggerated for comic effect. His lament ('my life's work!') is absurd. Classic comic overreaction.",
+      "Moral Implication": "People often overvalue their own trivial pursuits. What seems monumental to one is insignificant to another. Subjectivity of importance.",
+      "Metaphorical/Psychological Meaning": "The primitive unconscious aspect (Mole) reacts with exaggerated distress to the disruption of its meaningless ritual, highlighting its limited perspective and the intensity of unconscious attachments to even irrational patterns.",
+      "Sentence": "'My pebbles! My beautiful, sorted pebbles!' wailed the blind mole, flailing his paws in the air. 'A lifetime of careful judgment, ruined, all ruined!'",
+      "Chapter Number": 6,
+      "Sentence Number": 56
+    },
+    {
+      "Plot Function": "The earthworms appear in the mole's burrow, their song now seeming to address both the swan's condition and the mole's superficial 'judgment,' hinting at true judgment being something deeper.",
+      "Grimm Style": "The worms appear in a new location, linking the two characters' plights. Their song contrasts 'pebble judgment' with 'heart's true measure,' again offering a moral insight.",
+      "Moral Implication": "Superficial judgments (mole's pebbles, perhaps the wife's view of the swan) are meaningless compared to deeper moral truths or the state of one's heart/actions. Connects to the theme of 'true sight'.",
+      "Metaphorical/Psychological Meaning": "The deep unconscious voices (earthworms) emerge even within the Mole's primitive domain, offering a commentary that contrasts superficial categorizations ('pebble judgment') with deeper moral or existential truths ('heart's true measure'). This suggests that even primitive unconscious processes are ultimately subject to these deeper psychic laws or truths.",
+      "Sentence": "At this, the two earthworms, who seemed to be able to travel anywhere beneath the soil, poked their heads through the floor of the mole's burrow and sang, 'Pebble judgment, light and small, counts for naught when shadows fall; only by the heart's true measure, is revealed life's lasting treasure.'",
+      "Chapter Number": 6,
+      "Sentence Number": 57
+    },
+    {
+      "Plot Function": "The swan, hearing this, is struck by the phrase 'heart's true measure' and looks at his own black breast, prompting a moment of introspection.",
+      "Grimm Style": "His reaction is internal but shown via action ('looked down at his own black breast'). The specific phrase 'heart's true measure' resonates with him. Simple but significant.",
+      "Moral Implication": "The words trigger a deeper reflection. He begins to consider the 'heart' or inner state rather than just the external feathers or circumstances. This is crucial for the 'man's responsibility' theme.",
+      "Metaphorical/Psychological Meaning": "The unconscious wisdom (worms' song) about the 'heart's true measure' (inner state, intentions, core self) causes the Ego (black swan) to reflect. Looking at his 'own black breast' is looking inward, towards the symbolic seat of emotion and self, beginning a process of deeper introspection beyond the superficial manifestation (feathers).",
+      "Sentence": "The black swan heard this, and the phrase 'heart's true measure' struck him, and he looked down at his own black breast as if seeing it for the first time.",
+      "Chapter Number": 6,
+      "Sentence Number": 58
+    },
+    {
+      "Plot Function": "In a moment of desperate action driven by this new thought, he does something unexpected: he pecks hard at his own black-feathered breast, as if trying to get to his heart or test its 'measure'.",
+      "Grimm Style": "A sudden, desperate, and symbolic action. 'Pecked hard' shows intensity. It's a strange, almost self-harming act, fitting for a moment of crisis and dawning insight.",
+      "Moral Implication": "Desperation can lead to drastic actions. An attempt to break through the surface (black feathers) to reach something deeper (heart), or perhaps a form of self-punishment or testing.",
+      "Metaphorical/Psychological Meaning": "Driven by the call for introspection ('heart's true measure'), the Ego (black swan) performs a desperate, symbolic act of turning its aggression/attention inward ('pecked hard at his own black-feathered breast'). This represents a painful attempt to break through the encasing Shadow to reach the core self or to confront the inner truth directly.",
+      "Sentence": "Then, with a strange, harsh cry that was not a swan's call nor a crow's caw, he pecked hard at his own black-feathered breast, once, twice.",
+      "Chapter Number": 6,
+      "Sentence Number": 59
+    },
+    {
+      "Plot Function": "The result of his pecking is not blood, but a tiny, almost invisible white feather appearing where he pecked. This is the first sign of potential reversal or a new mystery.",
+      "Grimm Style": "An unexpected, magical consequence. 'Not blood, but one tiny white feather' is a clear, visual contrast. It’s a small but hugely significant sign. Ends the chapter on a note of mystery and fragile hope.",
+      "Moral Implication": "Sometimes, confronting the darkness within or taking a painful look at oneself can lead to an unexpected glimmer of hope or purity emerging. The 'heart's true measure' might yield a different result than expected.",
+      "Metaphorical/Psychological Meaning": "The Ego's painful inward-directed action does not draw 'blood' (mere suffering) but reveals a tiny speck of its original pure nature ('one tiny white feather') emerging from beneath the overwhelming Shadow. This is a critical turning point: a sign that the true Self, however deeply buried, is not entirely extinguished and can re-emerge through radical self-confrontation.",
+      "Sentence": "And where he had pecked, not blood, but one tiny, almost invisible, new white feather, like a fleck of snow, began to push through the black.",
+      "Chapter Number": 6,
+      "Sentence Number": 60
+    },
+    {
+      "Plot Function": "The swan stares at the tiny white feather, a symbol of nascent hope, unsure of its meaning but captivated by this unexpected change.",
+      "Grimm Style": "Simple action ('stared and stared'). Focus on the object of his attention. His incomprehension is implied. This tiny event is given significant weight.",
+      "Moral Implication": "A small sign of hope can be bewildering after long despair. The beginning of change is often subtle and hard to understand.",
+      "Metaphorical/Psychological Meaning": "The Ego is transfixed by the minuscule re-emergence of its original purity (white feather) amidst the overwhelming Shadow. This signifies a moment of profound, albeit confusing, hope – a sign that transformation back towards the light, or integration of the Self, is possible.",
+      "Sentence": "The black swan stared and stared at this tiny white fleck upon his breast, too astonished to move or make a sound.",
+      "Chapter Number": 7,
+      "Sentence Number": 61
+    },
+    {
+      "Plot Function": "His wife approaches, her curiosity piqued by his stillness or the strange cry, but she cannot see the tiny white feather, only his overall blackness.",
+      "Grimm Style": "Her approach is cautious. Her perception is limited ('saw only his blackness'). Creates a contrast between his inner experience/observation and her external view.",
+      "Moral Implication": "Others may not perceive the subtle beginnings of inner change, especially if they are focused on the gross external appearance or past failings.",
+      "Metaphorical/Psychological Meaning": "The Anima/partner approaches, but her perception is limited to the Ego's overwhelming Shadow state ('saw only his blackness'). She is blind to the subtle, nascent sign of positive change (tiny white feather). This highlights how internal transformations can be invisible to others or to less discerning parts of the psyche.",
+      "Sentence": "His wife, hearing his earlier strange cry, cautiously approached him from behind a clump of ferns, but she saw only his blackness and the way he hunched over himself.",
+      "Chapter Number": 7,
+      "Sentence Number": 62
+    },
+    {
+      "Plot Function": "She offers a typically self-serving and unhelpful comment, suggesting he is merely moping and should find her something to eat, still oblivious to his inner state or the new development.",
+      "Grimm Style": "Her dialogue is characteristic: dismissive of his state ('no use moping') and focused on her own needs ('find me some tender shoots'). Consistent portrayal of her selfishness.",
+      "Moral Implication": "Lack of empathy continues. Some people will always interpret others' deep experiences through their own superficial lens and prioritize their own needs.",
+      "Metaphorical/Psychological Meaning": "The Anima/partner misinterprets the Ego's profound introspection as mere 'moping' and reverts to making demands for her own gratification ('tender shoots'). This reinforces her dysfunctional nature, unable to support or even recognize the Ego's internal process.",
+      "Sentence": "'There is no use moping like a wet hen, even if you are a black one,' she said sharply. 'The sun is high, and I desire some tender water-shoots for my luncheon.'",
+      "Chapter Number": 7,
+      "Sentence Number": 63
+    },
+    {
+      "Plot Function": "The swan, still focused on the white feather, ignores her and touches it gently, as if confirming its reality. This small act shows a shift in his attention from despair to this new phenomenon.",
+      "Grimm Style": "Simple, gentle action ('touched it softly'). His focus is entirely on the feather. Her words are ignored, showing their irrelevance to him now.",
+      "Moral Implication": "A profound internal event can make external demands or criticisms lose their power. He is now engaged with something more significant.",
+      "Metaphorical/Psychological Meaning": "The Ego ignores the Anima's superficial demands, completely absorbed by the miracle of the re-emerging white feather (Self). Touching it 'softly' signifies a gentle, careful engagement with this fragile new hope and purity.",
+      "Sentence": "The black swan did not look up, but with the very tip of his black beak, he touched the tiny white feather as if it were the most delicate thing in the world.",
+      "Chapter Number": 7,
+      "Sentence Number": 64
+    },
+    {
+      "Plot Function": "The blind mole, whose burrow is nearby, bumps into the swan's leg, having tunnelled in a new, unexpected direction, and misinterprets what he touches.",
+      "Grimm Style": "The mole's appearance is again accidental and driven by his erratic tunnelling. His misinterpretation of the swan's leg ('a fine, sturdy tree root!') is comically wrong, providing comic relief and a new minor interaction.",
+      "Moral Implication": "Misinterpretations based on limited senses are common. Things are not always what they seem to the 'blind'.",
+      "Metaphorical/Psychological Meaning": "The blundering unconscious aspect (Mole) again makes an unexpected appearance, its chaotic activity leading it to encounter the Ego. Its misinterpretation ('tree root') highlights its primitive level of perception, unable to grasp the true nature of the Ego or its current state.",
+      "Sentence": "Just then, the blind mole, having decided his old burrow was too draughty after all the collapses, tunnelled experimentally upwards and bumped his nose against the black swan's leg, crying, 'Aha! A fine, sturdy tree root for my new ceiling support!'",
+      "Chapter Number": 7,
+      "Sentence Number": 65
+    },
+    {
+      "Plot Function": "The swan, startled by the mole, instinctively tries to hop away, a clumsy movement that reveals more of the white feather as his breast feathers are disturbed.",
+      "Grimm Style": "Simple cause and effect: mole's bump startles swan, swan's clumsy hop reveals more white. The revelation is accidental, a consequence of the mole's interruption.",
+      "Moral Implication": "Unexpected events can inadvertently lead to further revelations. Even clumsy movements can sometimes expose hidden truths.",
+      "Metaphorical/Psychological Meaning": "The Ego's startled reaction to the Mole's intrusion causes a further, accidental revelation of its re-emerging purity (more white feather visible). This suggests that even disruptive unconscious intrusions can sometimes facilitate the process of the Self's manifestation.",
+      "Sentence": "Startled, the black swan hopped back a step, and as his black breast feathers ruffled, the tiny white feather was joined by two or three more, making a small, distinct patch.",
+      "Chapter Number": 7,
+      "Sentence Number": 66
+    },
+    {
+      "Plot Function": "The mole, feeling the 'root' move, becomes comically confused and starts to dig around it, further disturbing the swan but also keeping him in place.",
+      "Grimm Style": "The mole's actions are absurdly persistent ('This root seems curiously mobile!'). His digging around the swan's feet is both annoying and confining for the swan. Comic.",
+      "Moral Implication": "Obsessive pursuit of a wrong idea can lead to further disruption for others. Some people will persist in their folly despite evidence to the contrary.",
+      "Metaphorical/Psychological Meaning": "The primitive unconscious aspect (Mole) persists in its misinterpretation and tries to 'fix' or incorporate the Ego (as a root) into its own unstable structure. This can represent how fixated unconscious ideas or complexes can try to draw the Ego into their orbit, creating further entanglement.",
+      "Sentence": "'Curious!' muttered the mole, feeling the 'root' shift. 'This root seems curiously mobile!' And he began to pat earth firmly around the swan's feet to secure it.",
+      "Chapter Number": 7,
+      "Sentence Number": 67
+    },
+    {
+      "Plot Function": "The earthworms make their appearance, their song this time hinting at a condition for restoration: a 'heart's true gift, freely given,' connecting to their earlier 'heart's true measure.'",
+      "Grimm Style": "The earthworms' song offers another piece of gnomic wisdom, this time prescriptive. 'Heart's true gift' suggests an act of selfless giving or love is needed.",
+      "Moral Implication": "Restoration or redemption may require an act of profound generosity or sacrifice, something from the 'heart.' This connects to the idea that his problem has a moral or relational root.",
+      "Metaphorical/Psychological Meaning": "The deep unconscious voices (earthworms) offer a clue to healing: a 'heart's true gift, freely given.' This suggests that the path to restoring the Ego's true nature (whiteness) involves an act of selfless love, sacrifice, or generosity – an expression of the 'heart's true measure' they mentioned earlier. This points towards a relational or emotional solution.",
+      "Sentence": "From a fresh molehill nearby, the earthworms lifted their heads and sang with unusual sweetness, 'One black spot, a truth forgot; but white may bloom, dispelling gloom, if heart's true gift, freely given, lifts the sorrow up to heaven.'",
+      "Chapter Number": 7,
+      "Sentence Number": 68
+    },
+    {
+      "Plot Function": "The swan, trapped by the mole's earthing-up and hearing the worms, looks towards his estranged wife, a dawning thought of a 'gift' or reconciliation perhaps forming.",
+      "Grimm Style": "His gaze shifts ('looked towards his wife'). The worms' song directly influences his thought process. A new direction is hinted at. The wife is still distant.",
+      "Moral Implication": "The hint of a solution directs his attention to the broken relationship. The 'freely given gift' might need to be to her, or involve her, addressing the 'mate deplored' from the earlier song.",
+      "Metaphorical/Psychological Meaning": "The Ego, physically constrained by the Mole's actions (perhaps symbolizing being 'stuck' in a situation) and guided by the unconscious wisdom (worms' song about a 'gift'), turns its attention towards the estranged Anima/partner. This suggests a dawning awareness that the path to healing involves a change in this primary internal relationship.",
+      "Sentence": "The black swan, his feet now uncomfortably packed with earth by the diligent mole, heard the worms' new song and looked across the reeds towards his wife, who was now trying to catch a water beetle.",
+      "Chapter Number": 7,
+      "Sentence Number": 69
+    },
+    {
+      "Plot Function": "The chapter ends with the swan, still mostly black but with a growing patch of white, contemplating this new, difficult idea of a 'heart's true gift' while his wife remains oblivious and self-absorbed.",
+      "Grimm Style": "Visual contrast between the 'patch of white' and 'sea of black'. His contemplation is implied. Wife's unchanged behavior reinforces the challenge. Ends on a note of difficult hope.",
+      "Moral Implication": "The path to redemption is hinted at but will be incredibly difficult given the state of his relationship and his own condition. The responsibility for the 'gift' seems to fall on him.",
+      "Metaphorical/Psychological Meaning": "The Ego, with a small but growing area of reclaimed purity (white patch) amidst the dominant Shadow (sea of black), contemplates the difficult task of offering a 'heart's true gift' to the still-oblivious Anima. This signifies the challenge of manifesting selfless love or making profound amends when the internal relationship is deeply damaged and one's own state is still compromised.",
+      "Sentence": "The small patch of white feathers on his breast seemed to pulse faintly as he pondered the meaning of a 'heart's true gift,' while his wife finally caught the beetle with a triumphant splash.",
+      "Chapter Number": 7,
+      "Sentence Number": 70
+    },
+    {
+      "Plot Function": "The plot twist is initiated: The swan, mulling over 'heart's true gift,' remembers a promise from before his transformation, a promise to his *first* wife, concerning their unhatched egg. This reframes the entire 'mate deplored' theme.",
+      "Grimm Style": "A sudden memory surfaces ('he remembered a promise'). This introduces a crucial piece of backstory simply. 'His first wife' and 'their last egg' are classic tragic fairy tale elements. The twist arrives as a memory.",
+      "Moral Implication": "The 'broken vow' and 'mate deplored' were not about his current, selfish wife, but a previous, perhaps lost or wronged one. This dramatically shifts the understanding of his guilt and responsibility. The 'man's responsibility' is now tied to this past failing.",
+      "Metaphorical/Psychological Meaning": "The Ego's contemplation of 'heart's true gift' triggers a repressed memory of a past commitment to a previous Anima figure ('his first wife') and their shared creative potential ('their last egg'). This reveals that the current dysfunctional relationship is perhaps a consequence or displacement of this deeper, unresolved betrayal or loss. The Shadow (black feathers) is rooted in this original failure.",
+      "Sentence": "As he sat, the image of the worms' 'heart's true gift' brought a painful memory to the black swan: a promise made long ago to his first wife, before she vanished in a great storm, concerning their last, precious egg hidden in the deepest reeds.",
+      "Chapter Number": 8,
+      "Sentence Number": 71
+    },
+    {
+      "Plot Function": "He recalls hiding the egg for safety but then, in his grief and subsequent pairing with his current wife, forgetting about it entirely. This is the 'duty slack' and 'truth unknown' the worms hinted at.",
+      "Grimm Style": "Simple narration of past actions ('hidden it well,' 'grief had clouded his mind,' 'he had forgotten'). Explains the core transgression directly.",
+      "Moral Implication": "Grief and new distractions led to the abandonment of a sacred duty. Forgetting a promise, especially concerning offspring, is a grave fault. His current suffering is a direct result of this past neglect.",
+      "Metaphorical/Psychological Meaning": "The Ego recalls the act of hiding the precious creative potential (egg of first Anima) but then abandoning it due to grief (trauma) and subsequent entanglement with a less adequate Anima figure (current wife). This is the forgotten vow, the core of his guilt and the source of the Shadow manifestation.",
+      "Sentence": "He had hidden it well when the storm threatened, meaning to return at once, but then his grief had clouded his mind, and with his new, foolish wife, he had forgotten all about it.",
+      "Chapter Number": 8,
+      "Sentence Number": 72
+    },
+    {
+      "Plot Function": "This realization brings a new urgency. He must find the lost egg; this is the 'heart's true gift' – to fulfill his forgotten promise to his lost love and child.",
+      "Grimm Style": "A new resolve forms ('He must find that egg'). The 'gift' is reinterpreted. Simple, direct statement of his new quest.",
+      "Moral Implication": "The path to redemption becomes clear: rectify the past wrong. The 'gift' is not to his current wife, but to the memory of the first and their child. Fulfilling forgotten duties.",
+      "Metaphorical/Psychological Meaning": "The repressed memory brings clarity. The 'heart's true gift' is to recover and nurture the abandoned creative potential (lost egg) from his original, perhaps more authentic, connection to the Anima. This is the path to healing the split in his psyche and rectifying his core failing.",
+      "Sentence": "'The egg!' he croaked, the sound raw with dawning understanding. 'The gift must be to find and care for our lost egg!'",
+      "Chapter Number": 8,
+      "Sentence Number": 73
+    },
+    {
+      "Plot Function": "His current wife overhears his exclamation and misinterprets it in her typically selfish and foolish way, thinking he means a fresh egg for her to eat.",
+      "Grimm Style": "Her dialogue ('An egg for me?') is comically self-centered and wrong, providing tragicomic interference. Consistent characterization.",
+      "Moral Implication": "Profound realizations or intentions can be utterly misconstrued by those operating on a superficial or selfish level. Communication breakdown is complete.",
+      "Metaphorical/Psychological Meaning": "The current, dysfunctional Anima figure completely misinterprets the Ego's profound realization, reducing it to her own primitive desires ('An egg for me? For breakfast?'). This shows her inability to comprehend or participate in the Ego's deeper spiritual or moral quest.",
+      "Sentence": "His wife, who had tired of beetle-chasing, paddled closer and asked, 'An egg, did you say? For me? Oh, I do hope it is fresh for my breakfast.'",
+      "Chapter Number": 8,
+      "Sentence Number": 74
+    },
+    {
+      "Plot Function": "The swan ignores her, now driven by his true purpose. He attempts to move towards the deep reeds, the remembered location of the egg, despite his physical limitations.",
+      "Grimm Style": "Focus on his determined action ('struggled to rise'). His new purpose overrides her distractions. The 'deepest reeds' becomes the quest location.",
+      "Moral Implication": "A true purpose can give strength even in a weakened state. He is now driven by a moral imperative, not her whims.",
+      "Metaphorical/Psychological Meaning": "The Ego, now animated by a true, meaningful purpose (recovering the lost egg/Self potential), ignores the demands of the superficial Anima and strives, despite its weakened state, to reach the location of this forgotten treasure within the psyche ('deepest reeds').",
+      "Sentence": "The black swan ignored her and, with renewed, desperate strength, struggled to rise on his earth-packed feet, his gaze fixed on the tangled growth of the deepest reeds at the marsh's far end.",
+      "Chapter Number": 8,
+      "Sentence Number": 75
+    },
+    {
+      "Plot Function": "The blind mole, still trying to secure his 'tree root' (the swan's leg), inadvertently helps the swan by dislodging some of the packed earth around his feet as he pulls away.",
+      "Grimm Style": "The mole's action is again accidental but beneficial. 'This root is most uncooperative!' is comic. The unintended help is typical of his role.",
+      "Moral Implication": "Help can come from the most unlikely and oblivious sources. Even annoying hindrances can sometimes inadvertently aid one's purpose.",
+      "Metaphorical/Psychological Meaning": "The blundering unconscious aspect (Mole), in its persistent, misguided attempt to 'secure' the Ego, inadvertently loosens the constraints it had previously imposed (packed earth). This shows how even disruptive unconscious processes can sometimes shift in a way that facilitates the Ego's new direction, without any conscious intention.",
+      "Sentence": "The mole, exclaiming, 'This root is most uncooperative!' gave a great heave on what he thought was a loose fibre, which was in fact a stray black feather near the swan's foot, dislodging some of the packed earth as the swan pulled away.",
+      "Chapter Number": 8,
+      "Sentence Number": 76
+    },
+    {
+      "Plot Function": "With slightly freed feet, the swan manages to make slow, painful progress towards his goal, his black feathers seeming less a shroud and more a mark of his grim pilgrimage.",
+      "Grimm Style": "Description of his difficult journey ('slow and painful'). A subtle shift in the perception of the feathers ('less a shroud, more a pilgrim's dark cloak').",
+      "Moral Implication": "Purpose can change the perception of a burden. What was a mark of shame can become a sign of a difficult but meaningful quest.",
+      "Metaphorical/Psychological Meaning": "The Ego, slightly freed from immediate constraints and driven by its new purpose, makes painful progress. The Shadow aspect (black feathers) is still present, but its meaning begins to shift from a 'shroud' (death, despair) to a 'pilgrim's dark cloak' (sign of a difficult, sacred journey). The burden remains, but it is now carried with purpose.",
+      "Sentence": "This loosening of the earth around his feet gave the black swan enough purchase to begin his slow and painful journey towards the far reeds, his dark plumage now seeming less a shroud and more a pilgrim's somber cloak.",
+      "Chapter Number": 8,
+      "Sentence Number": 77
+    },
+    {
+      "Plot Function": "The earthworms observe his new journey, their song acknowledging the 'bitter root' of his past failing but also the 'blossom' of hope if the 'lost is found.'",
+      "Grimm Style": "The worms' song reflects the new development. 'Bitter root' refers to the past mistake. 'Blossom of hope' links to the potential success of his quest. Their commentary evolves with the plot.",
+      "Moral Implication": "Acknowledging past wrongs ('bitter root') is necessary for future hope ('blossom'). Redemption is possible if the 'lost is found' (the egg, the promise).",
+      "Metaphorical/Psychological Meaning": "The deep unconscious voices (earthworms) acknowledge the Ego's new quest, recognizing its connection to the 'bitter root' of past failure but also the potential for positive transformation ('blossom of hope') if the lost aspect of the Self (egg) is recovered. The unconscious supports this authentic journey.",
+      "Sentence": "The earthworms, sensing his changed course, sang from the muddy bank he left behind, 'From bitter root, a fragile shoot; if lost is found, on sacred ground, then hope may spring, and new birds sing.'",
+      "Chapter Number": 8,
+      "Sentence Number": 78
+    },
+    {
+      "Plot Function": "His wife, seeing him depart on this arduous journey, calls after him with a final, characteristically selfish and practical (for her) demand, showing no change in her nature.",
+      "Grimm Style": "Her dialogue remains consistent with her character: uncomprehending of his quest and focused on her own desires ('shiny pebble'). Provides a final instance of her selfish nature before he leaves her sphere.",
+      "Moral Implication": "Some people remain unchanged by others' transformations or profound journeys. Self-absorption can be absolute.",
+      "Metaphorical/Psychological Meaning": "The dysfunctional Anima figure makes a final, irrelevant demand, showing her complete inability to connect with the Ego's deeper purpose. Her call for the 'shiny pebble' represents the lure of superficiality that the Ego is now (hopefully) transcending.",
+      "Sentence": "His wife, seeing him actually leaving, called out in annoyance, 'Well, if you are going all that way, do not forget my shiny pebble this time!'",
+      "Chapter Number": 8,
+      "Sentence Number": 79
+    },
+    {
+      "Plot Function": "The swan does not reply or look back, fully committed to his quest for the lost egg, leaving his old life and its demands behind. The chapter ends with him focused on this redemptive act.",
+      "Grimm Style": "Simple statement of his non-reaction ('did not reply nor look back'). Clear focus on his new goal. Ends the chapter with him embarked on his crucial quest.",
+      "Moral Implication": "Severing ties with distractions and superficial demands is necessary for a true quest. Full commitment to rectifying past wrongs. The 'man's responsibility' is now his sole focus.",
+      "Metaphorical/Psychological Meaning": "The Ego, now fully committed to its redemptive quest (finding the egg), no longer engages with the demands of the dysfunctional Anima or the superficialities of its past life. It is focused solely on recovering the lost treasure of the Self. This is a decisive step in the individuation journey.",
+      "Sentence": "But the black swan did not reply nor look back; he had a promise to keep, and the memory of a tiny white feather against his dark breast spurred him onward into the deepest, most tangled part of the marsh.",
+      "Chapter Number": 8,
+      "Sentence Number": 80
+    },
+    {
+      "Plot Function": "The swan reaches the area where he hid the egg, a place now overgrown and desolate, making the search difficult.",
+      "Grimm Style": "Describes the quest location as difficult and changed by time ('overgrown and thorny,' 'place looked ill-favoured'). Sets up the challenge of finding the egg.",
+      "Moral Implication": "Rectifying past neglect is not easy; time changes things and makes the task harder. The consequences of forgetting are tangible.",
+      "Metaphorical/Psychological Meaning": "The Ego reaches the psychic location of the repressed/forgotten potential (egg). The area is 'overgrown and thorny,' symbolizing the difficulty of accessing long-neglected parts of the unconscious and the painful effort required.",
+      "Sentence": "After many hours of painful searching through tangled roots and sharp reeds, the black swan came to a part of the marsh he vaguely remembered; it was overgrown and thorny, and the place looked ill-favoured.",
+      "Chapter Number": 9,
+      "Sentence Number": 81
+    },
+    {
+      "Plot Function": "He searches desperately, his physical condition making it a torturous process. The white feathers on his breast are more numerous now, a subtle sign of his effort's rightness.",
+      "Grimm Style": "Focus on his physical effort and suffering ('tore his black feathers,' 'skin beneath was raw'). The detail about more white feathers appearing provides a visual cue of slow, positive change linked to his current quest.",
+      "Moral Implication": "Redemptive efforts are often painful and costly. Small signs of positive change can appear during sincere efforts to make amends, even amidst suffering.",
+      "Metaphorical/Psychological Meaning": "The Ego's search for the lost potential (egg) is arduous and painful, requiring it to push through difficult unconscious material ('tangled roots'). The slow increase in white feathers signifies that this sincere effort at confronting and rectifying past failure is leading to a gradual restoration of its true Self, even if the process is agonizing.",
+      "Sentence": "He pushed through the thorns which tore at his black feathers, showing raw skin beneath, and where the skin was touched by his true grief and effort, more small white feathers were now clearly visible upon his breast.",
+      "Chapter Number": 9,
+      "Sentence Number": 82
+    },
+    {
+      "Plot Function": "The blind mole, having decided his previous pebble-gathering spot was too damp, has coincidentally tunnelled into this same desolate area and is now complaining about the quality of the soil.",
+      "Grimm Style": "The mole's appearance is again a coincidence, his complaints ( 'Too many roots! And the pebbles are all jagged!') providing ironic commentary on the very things hindering the swan. Comic relief amidst the swan's struggle.",
+      "Moral Implication": "Life's minor irritants and complaints continue for some, oblivious to the profound quests of others nearby. One creature's obstacle is another's minor inconvenience.",
+      "Metaphorical/Psychological Meaning": "The blundering unconscious aspect (Mole) appears again, its random activities bringing it to the same psychic area where the Ego is engaged in its critical quest. The Mole's complaints about 'roots' and 'jagged pebbles' reflect its superficial engagement with the same difficult material the Ego is struggling with at a deeper level.",
+      "Sentence": "Suddenly, from a mound of disturbed earth nearby, the blind mole's voice grumbled, 'Too many roots in this part of the marsh! And the pebbles are all jagged here, entirely unsuitable for proper insulation!'",
+      "Chapter Number": 9,
+      "Sentence Number": 83
+    },
+    {
+      "Plot Function": "The mole, in his disgruntled digging, unearths a small, hidden hollow, and within it, the lost egg, still intact. The discovery is accidental, a byproduct of the mole's complaint.",
+      "Grimm Style": "The mole's action ('gave an angry shove with his snout') leads directly to the discovery of the egg. The description of the egg is simple ('one large, pale egg, still whole'). The climax of the search is achieved through the mole's agency.",
+      "Moral Implication": "Profound discoveries can be made accidentally, or through the unintended actions of others. The lost can be found in unexpected ways. The mole, a symbol of blindness, uncovers what was hidden.",
+      "Metaphorical/Psychological Meaning": "The blundering but persistent activity of an unconscious aspect (Mole) inadvertently uncovers the lost, precious potential (egg) that the Ego was desperately seeking. This symbolizes how breakthroughs can occur when unconscious processes, even chaotic ones, disturb long-static psychic areas, bringing hidden contents to light.",
+      "Sentence": "He gave an angry shove with his snout to a particularly stubborn root, and as it tore free, it revealed a small, dry hollow beneath, and in that hollow lay one large, pale egg, still whole.",
+      "Chapter Number": 9,
+      "Sentence Number": 84
+    },
+    {
+      "Plot Function": "The swan sees the egg and is overcome, his harsh cries now ones of profound relief and sorrowful joy. This is the emotional climax of his personal quest.",
+      "Grimm Style": "His reaction is described through his cries ('no longer harsh, but filled with a terrible, breaking joy'). Simple but powerful emotional expression without detailing inner states. He approaches the egg reverently.",
+      "Moral Implication": "The immense relief and emotion of finding what was lost and fulfilling a deep, forgotten duty. Joy mingled with sorrow for the past neglect.",
+      "Metaphorical/Psychological Meaning": "The Ego beholds the recovered potential (egg), and its reaction is one of profound emotional release – a mixture of joy at recovery and sorrow for the past abandonment. This is a cathartic moment in the individuation process.",
+      "Sentence": "The black swan let out a cry, a sound no longer harsh, but filled with a terrible, breaking joy, and he stumbled towards the hollow, his dark eyes fixed on the treasure.",
+      "Chapter Number": 9,
+      "Sentence Number": 85
+    },
+    {
+      "Plot Function": "He gently touches the egg, and as he does, a significant portion of his black feathers fall away, revealing much more white beneath, especially on his wings. The healing is accelerating.",
+      "Grimm Style": "Magical transformation linked directly to his reverent contact with the egg. The change is visible and significant ('great drift of black feathers fell,' 'wings were now more white than black').",
+      "Moral Implication": "Touching or reclaiming the lost, sacred duty/promise brings about significant healing and restoration. The physical manifestation of his guilt begins to fall away.",
+      "Metaphorical/Psychological Meaning": "The Ego's reverent contact with the recovered psychic potential (egg) triggers a significant shedding of the Shadow aspect ('black feathers fell away'). His 'wings' (capacity for flight/transcendence) are particularly restored, indicating that reclaiming this lost part of the Self directly impacts his ability to function at a higher level.",
+      "Sentence": "As he gently touched the cool, smooth shell with his beak, a great drift of black feathers fell from his body to the ground, and his wings, when he hesitantly stretched them, were now more white than black.",
+      "Chapter Number": 9,
+      "Sentence Number": 86
+    },
+    {
+      "Plot Function": "The mole, hearing the swan's cry and the rustle of feathers, misinterprets it as a predator and comically berates the 'tree root' for attracting danger.",
+      "Grimm Style": "The mole's dialogue is again comically misdirected ('You noisy root!'). His fear of a 'fox or a weasel' contrasts with the swan's profound moment. Maintains his role as comic relief and misunderstanding.",
+      "Moral Implication": "Some will always misinterpret profound events through their own fears and limited understanding. The gap between inner experience and external misinterpretation.",
+      "Metaphorical/Psychological Meaning": "The primitive unconscious aspect (Mole) completely misinterprets the sounds of the Ego's transformation and catharsis, projecting its own fears ('fox or a weasel') onto the situation. This underscores how little the unintegrated parts of the psyche understand the deeper processes of healing and change.",
+      "Sentence": "'Hark!' cried the mole, mistaking the swan's emotional cries and the rustle of falling feathers for an approaching predator. 'A fox or a weasel, I'll be bound! You noisy root, you will be the death of us all!'",
+      "Chapter Number": 9,
+      "Sentence Number": 87
+    },
+    {
+      "Plot Function": "The earthworms sing a song of near-completion, linking the 'promise kept' to the 'whiteness returned,' but with a final condition or observation about 'one feather's weight.'",
+      "Grimm Style": "Their song marks the progress but hints at a final nuance. 'One feather's weight' is cryptic, suggesting a final small detail or test remains. Rhyme and rhythm maintained.",
+      "Moral Implication": "Redemption is almost complete but may depend on a final, perhaps subtle, aspect or a test of true change. Details matter.",
+      "Metaphorical/Psychological Meaning": "The deep unconscious voices (earthworms) acknowledge the Ego's progress ('Promise kept, the white has swept'). However, the 'one feather's weight' suggests a final, perhaps very subtle, aspect of the Shadow or the original failing that still needs to be addressed or balanced for complete restoration. Full integration may require meticulous attention to the very last detail.",
+      "Sentence": "But the earthworms, now appearing beside the revealed egg, sang a triumphant yet cautionary tune, 'A promise kept, the white has swept, through darkest night, restoring light! Yet balance true, for old and new, may hang upon one feather's weight, to seal thy fate.'",
+      "Chapter Number": 9,
+      "Sentence Number": 88
+    },
+    {
+      "Plot Function": "The swan carefully takes the egg and, with his newly lightened wings, manages a short, somewhat clumsy but successful flight back towards his old, messy nest, a place he must now reclaim or remake.",
+      "Grimm Style": "He takes action with the egg. His flight is described as improved but not perfect ('clumsy but strong'). He returns to the site of his earlier failures, indicating a return to his responsibilities there.",
+      "Moral Implication": "With partial restoration comes renewed ability and the impetus to return and face his old life and responsibilities, but now changed. The journey is back to the beginning, but transformed.",
+      "Metaphorical/Psychological Meaning": "The Ego, having recovered the lost potential (egg) and significantly restored its connection to the Self (more white), is now able to 'fly' again, albeit imperfectly. He returns to his 'old, messy nest' (his previous dysfunctional psychic situation), indicating an attempt to integrate his newfound wholeness and insight into his everyday life and relationships.",
+      "Sentence": "The swan, now more white than black, carefully took the precious egg in his beak and, with a surge of clumsy but strong wing-beats, lifted himself into the air and flew slowly towards his old, messy nest.",
+      "Chapter Number": 9,
+      "Sentence Number": 89
+    },
+    {
+      "Plot Function": "The chapter ends with him airborne, the egg secure, a mix of white and black feathers still on him, and the worms' final words about 'one feather's weight' making him ponder what final small act or balance is required.",
+      "Grimm Style": "A visual of his mixed state. The flight itself is a significant achievement. The lingering question from the worms' song provides suspense for the final resolution.",
+      "Moral Implication": "Significant progress made, but a final, perhaps subtle, test or act of integration is still needed. The journey of atonement and responsibility is ongoing.",
+      "Metaphorical/Psychological Meaning": "The Ego is in flight, carrying the recovered Self-potential (egg), his being a mixture of integrated light (white) and remaining Shadow (black). The worms' final words about 'one feather's weight' prompt a final introspection: what tiny, final adjustment or act of consciousness is needed for complete balance and healing? This is the subtle fine-tuning of the individuation process.",
+      "Sentence": "As he flew, a few remaining black feathers still dotted his wings, and he wondered what 'one feather's weight' the earthworms had meant, the pale egg held gently and safely.",
+      "Chapter Number": 9,
+      "Sentence Number": 90
+    },
+    {
+      "Plot Function": "The swan arrives at the old nest. His wife sees his predominantly white form and the egg, and her reaction is one of surprise and a flicker of something that might be avarice or possessiveness for the egg.",
+      "Grimm Style": "Her reaction ('eyes widened') is primarily to his changed appearance and the egg. Her dialogue ('Is that for *us*?') hints at claiming this new 'treasure' for herself/them, rather than understanding its deeper meaning.",
+      "Moral Implication": "Some people react to external changes (whiteness) and potential gain (egg) without understanding the inner journey. Her possessiveness or greed may be the final 'feather's weight' or test.",
+      "Metaphorical/Psychological Meaning": "The Ego returns to the old psychic situation with the recovered Self-potential (egg). The dysfunctional Anima/partner reacts to the Ego's improved state ('mostly white') and the presence of the new 'treasure' (egg) with surprise and a hint of possessiveness. This sets up the final test of the Ego's ability to manage this relationship and protect the new potential.",
+      "Sentence": "He landed by the messy nest where his wife was attempting to spear a small fish with a sharp reed; she looked up, her eyes widened at his mostly white plumage and then at the large, pale egg he carefully set down.",
+      "Chapter Number": 10,
+      "Sentence Number": 91
+    },
+    {
+      "Plot Function": "The swan, remembering the worms' words about 'balance' and 'one feather's weight,' and perhaps his vow to his first wife (to care for the egg), makes a decision regarding the egg and his current wife's attitude.",
+      "Grimm Style": "His internal thought process leads to a decisive action. 'One feather's weight' guides him. The decision is not voiced but will be shown by action.",
+      "Moral Implication": "The final test is how he integrates this recovered past (egg) with his problematic present (current wife). True balance requires a difficult choice or stance. The 'man's responsibility' is to protect the egg's true purpose.",
+      "Metaphorical/Psychological Meaning": "The Ego, guided by the unconscious wisdom ('one feather's weight' – the final subtle balance) and his commitment to the true Self-potential (egg), prepares to make a decisive stand regarding the dysfunctional Anima's attitude and the future of the recovered treasure.",
+      "Sentence": "The swan looked from the egg to his wife, then at the few stubborn black feathers still upon his own wings, and the worms' words about 'one feather's weight' echoed in his mind.",
+      "Chapter Number": 10,
+      "Sentence Number": 92
+    },
+    {
+      "Plot Function": "He gently pushes the egg towards the very center of the dilapidated nest, signifying his intention to care for it there, but also subtly excluding his wife from its immediate claim by his focused gesture.",
+      "Grimm Style": "A gentle but firm action ('gently but firmly nudged the egg'). Placing it in the 'very centre' gives it prominence. His action is a quiet assertion of his responsibility for it.",
+      "Moral Implication": "He takes primary responsibility for the egg, the legacy of his first wife. This is an act of devotion and a quiet boundary setting against his current wife's likely appropriation.",
+      "Metaphorical/Psychological Meaning": "The Ego takes full responsibility for the recovered Self-potential (egg), placing it at the center of his psychic 'home' (nest). This action subtly excludes the dysfunctional Anima from co-opting it, signifying the Ego's commitment to nurturing this potential according to its true, deeper value.",
+      "Sentence": "He then gently but firmly nudged the egg with his white breast towards the very centre of the messy, half-built nest, covering it slightly with a few dry reeds he found there.",
+      "Chapter Number": 10,
+      "Sentence Number": 93
+    },
+    {
+      "Plot Function": "His wife, seeing the egg now 'claimed' and not immediately for her consumption or whim, reacts with characteristic selfishness and annoyance, delivering a final, foolish ultimatum or complaint.",
+      "Grimm Style": "Her dialogue ('If that egg is not for eating soon, nor for looking pretty...') is petulant and self-centered. Her threat ('I shall find a gander with a proper sense of style') is a last piece of tragicomedy.",
+      "Moral Implication": "The utterly selfish person cannot change and will issue ultimatums when their desires are not met. She remains focused on her own gratification to the end.",
+      "Metaphorical/Psychological Meaning": "The dysfunctional Anima, seeing the Self-potential (egg) dedicated to a deeper purpose and not her immediate gratification, reacts with frustration and threatens abandonment ('find another gander'). This signifies the potential break with a dysfunctional internal aspect when the Ego commits to its true path.",
+      "Sentence": "'Well!' huffed his wife, dropping her fishing-reed. 'If that egg is not for eating soon, nor for looking pretty, then I daresay this whole marsh is a disappointment, and I shall find a gander with a proper sense of style!'",
+      "Chapter Number": 10,
+      "Sentence Number": 94
+    },
+    {
+      "Plot Function": "As she says this, the blind mole, having finally 'secured' his 'tree root' (the swan's leg from before, which is no longer there) with a large, unstable pile of mud and stones, causes that section of the bank to give way entirely.",
+      "Grimm Style": "The mole's final act of blundering idiocy. His 'triumph' ('There, solid as a mountain!') is immediately followed by the bank collapsing. This is pure Grimm tragicomic irony. The badly built hole subplot culminates.",
+      "Moral Implication": "Foolish efforts based on complete misunderstanding often end in disaster. The mole's 'careful' work on a false premise leads to a final collapse. Unintended consequences of blindness.",
+      "Metaphorical/Psychological Meaning": "The primitive, blundering unconscious aspect (Mole), having fixated on a misinterpretation (swan's leg as root), completes its 'work' with a finality that triggers the collapse of its unstable foundation. This symbolizes how the culmination of a persistent unconscious error or poorly integrated complex can lead to a sudden crisis or breakdown in the psychic landscape.",
+      "Sentence": "At her very words, the blind mole, who had been diligently piling wet mud and heavy pebbles around where the swan's leg *had* been, suddenly cried in triumph, 'There, solid as a mountain!' – and that entire section of the bank, overburdened and undermined, slid with a great sigh into the water.",
+      "Chapter Number": 10,
+      "Sentence Number": 95
+    },
+    {
+      "Plot Function": "The collapsing bank tips the wife, mid-huff, into the water with a splash. This is her ironic, Grimm-style 'punishment' – a direct, undignified consequence of the mole's actions, occurring just as she delivers her selfish ultimatum.",
+      "Grimm Style": "A fittingly undignified and wet end for her selfish pronouncements. The timing is perfect comic irony. The punishment is not fatal but embarrassing and inconvenient, caused by an external, blundering agent.",
+      "Moral Implication": "Pride (or in her case, extreme selfishness and foolishness) comes before a fall (literally). Sometimes, the universe delivers comically appropriate comeuppances through accidental means.",
+      "Metaphorical/Psychological Meaning": "The dysfunctional Anima figure, in the midst of her selfish ultimatum, is suddenly and comically 'punished' or displaced by the collapse triggered by the Mole's blundering. This signifies how an internal crisis, originating from deeper unconscious instability, can abruptly disrupt or dislodge a problematic conscious attitude or relational pattern.",
+      "Sentence": "The wife, who had been standing right on that precarious edge during her pronouncement, squawked in surprise as she, the half-speared fish, and her sharp reed all tumbled into the muddy water with a loud splash.",
+      "Chapter Number": 10,
+      "Sentence Number": 96
+    },
+    {
+      "Plot Function": "The swan watches her flounder. At that exact moment, the very last black feather on his wings detaches and floats away. The 'one feather's weight' is lifted, coinciding with her comeuppance and his commitment to the egg.",
+      "Grimm Style": "The final magical sign of healing. The last black feather falling away is symbolic and precise. Its timing with her fall is key. Ambiguity: was *her* fall the 'feather's weight', or his steadfastness with the egg despite her?",
+      "Moral Implication": "The final release from the burden coincides with the disruption of the dysfunctional relationship and his embrace of true responsibility. The 'balance' is achieved. The moral points to his focus on true duty (egg) over false duty (placating her whims) as the key. The man's ultimate responsibility to his true vow/offspring is affirmed.",
+      "Metaphorical/Psychological Meaning": "As the dysfunctional Anima is 'overthrown' or neutralized, the very last trace of the Ego's Shadow problem (last black feather) detaches. This signifies that the resolution of the problematic internal relationship, and the Ego's commitment to its true Self-potential (egg), completes the healing process. The 'one feather's weight' might have been the unhealthy attachment or the failure to prioritize correctly.",
+      "Sentence": "The swan, now almost entirely white, watched her spluttering indignation, and as he did, the very last, stubborn black feather at the tip of his right wing loosened and floated away on the breeze.",
+      "Chapter Number": 10,
+      "Sentence Number": 97
+    },
+    {
+      "Plot Function": "The earthworms deliver a final, approving, but still slightly ambiguous song, suggesting the 'true mate' is the 'promise' itself, or the potential within the egg, and that 'style' is of no consequence.",
+      "Grimm Style": "The worms' final commentary provides a concluding moral. It reframes 'true mate' not as a person, but as a commitment or the future. Dismisses superficialities ('style').",
+      "Moral Implication": "True partnership is with one's duties and promises, and the future they hold. Superficial qualities ('style,' which the wife valued) are irrelevant to true worth or fate. The 'man's responsibility' is to his vow and the life it represents.",
+      "Metaphorical/Psychological Meaning": "The deep unconscious voices (earthworms) affirm the Ego's transformation. The 'true mate' is reinterpreted as commitment to one's destiny or Self-potential (the promise embodied in the egg). This confirms that authentic connection to the Self and fulfilling one's deepest commitments are paramount, transcending superficial relational issues or persona concerns ('style').",
+      "Sentence": "The earthworms, witnessing this, rose higher than ever from the soil and sang with great feeling, 'The vow renewed, the past subdued! The true mate sought is the hope unbought! Let style be drowned, where truth is crowned, and a father's care finds all things fair!'",
+      "Chapter Number": 10,
+      "Sentence Number": 98
+    },
+    {
+      "Plot Function": "The swan, now fully white and capable of powerful flight, looks at the egg, then at his spluttering wife, then at the open sky. He has a choice. The ending is ambiguous.",
+      "Grimm Style": "He is restored ('fully white and strong of wing'). He observes his options: the egg (new duty), the wife (old problem), the sky (freedom). No decision is stated, leaving it open. This provides the 'ambiguous ending with a second chance'.",
+      "Moral Implication": "Restoration brings new choices and responsibilities. He has a second chance to be a true swan and father. Will he care for the egg alone? Will his wife change? Will he leave? The moral remains open to interpretation based on his future actions.",
+      "Metaphorical/Psychological Meaning": "The Ego is fully restored to its true nature (all white, strong wings). It now faces a choice: how to integrate this newfound wholeness. Attend to the new Self-potential (egg)? Attempt to salvage the relationship with the (now chastened) Anima? Or embrace its freedom (open sky)? The individuation journey leads to new levels of conscious choice and responsibility.",
+      "Sentence": "The swan, now fully white and strong of wing, stretched his pinions wide. He looked at the precious egg in the nest, then at his wife who was clambering indignantly onto a slippery log, and then up at the wide, open sky.",
+      "Chapter Number": 10,
+      "Sentence Number": 99
+    },
+    {
+      "Plot Function": "The story ends with him making a powerful beat of his wings, ready for action, but his ultimate decision (stay, go, care for egg alone) is unstated, leaving his 'second chance' open.",
+      "Grimm Style": "Ends on an image of potential action, not a concluded one. 'The air thrummed with the promise of his flight' is evocative but not definitive. Classic ambiguous but hopeful fairy tale ending possibility.",
+      "Moral Implication": "He has regained his power and has a chance to fulfill his true responsibilities. The future is unwritten but holds the promise of true 'swan-hood' if he chooses wisely, having learned the 'heavy price' of his past 'light step' and slack duties. The greatest responsibility (father's care) is now his to fulfill, with or without his wife.",
+      "Metaphorical/Psychological Meaning": "The story concludes with the Ego poised for action, fully empowered by its restored Self. The 'promise of his flight' is the promise of a newly integrated and functional conscious life. His ultimate choices remain open, symbolizing the ongoing nature of individuation and the continuous choices faced by a more conscious Ego. He has a second chance to live authentically.",
+      "Sentence": "Then, with a sound like rushing wind, he beat his great, white wings once, twice, and the air thrummed with the promise of his flight, though where he would first direct it, only the silent reeds seemed to know.",
+      "Chapter Number": 10,
+      "Sentence Number": 100
+    }
+  ],
+  "The Complete Story": {
+    "Title": "The Swan with Black Feathers",
+    "Chapters": [
+      "There lived once a swan in a reedy marsh, and each morn when he awoke, he found one new black feather upon his white wing, which gave him great trouble. His wife, who preened herself nearby, said only, 'It is but a feather, and a small one at that.' The swan plucked it out, and tried to hide it under a stone, but before he had smoothed his other feathers, another black one grew straightway in its place. Their little ones, meanwhile, tumbled about the messy nest, untidy and peeping thinly, for neither parent had yet brought them fresh reeds or morning grubs. 'Today,' said the swan, looking at the black feather with a sigh, 'I shall build a new nest, stronger and finer than any in this marsh.' 'That is too much work,' said his wife, fluffing her feathers, 'and the sun is pleasant here by the old water-lily.' So the swan set off alone to gather stout reeds and soft down, though the many black feathers now made one wing heavy, and his flight was lopsided. Not far from where he searched, a blind mole had dug his hole carelessly near the water's edge, patting the loose earth with his paws. As the swan bent to pull a particularly fine reed, the blind mole, sensing a tremor, pushed a large clod of mud from his doorway, which caused the swan to slip and drop his hard-won bundle. The swan returned with but three reeds as dusk fell, his heavy wing aching, to find his wife still preening and the little ones crying for food.",
+      "The next morn, the sun rose on yet another black feather, and the swan saw that his wing drooped lower still. 'Perhaps if you hide it under your other wing, no one will notice,' said his wife, pecking idly at a water snail. The swan ignored her, for the sight of his drooping wing filled him with a dull ache, and said, 'Today, I must find food, for the little ones are thin.' He beat the air with great effort, for his wings were now sorely unbalanced, and he flew crookedly, like a wounded bird, towards the muddy shallows where fat grubs might be found. The blind mole, digging vigorously for roots nearby, sent a shower of dark earth and wriggling grubs flying into the air just as the swan landed heavily. The swan, startled, snatched at the scattered grubs as best he could, his fine white feathers becoming draggled with mud in his haste. Below him, in the disturbed earth, two earthworms poked out their heads and whispered one to another, 'A heavy price for a light step, indeed.' The swan heard their faint murmur but paid them no mind, for his beak was full and his wing ached more than ever. He made his way back to the nest and fed the little ones the few muddy grubs, while his wife watched from her sunny spot by the water-lily. The little ones ate greedily, but they still looked small for their age and their down was thin in places.",
+      "Another dawn, more black feathers, and this time the swan cried out, for they appeared now on both wings, and he found he could scarcely lift himself from the ground. 'Perhaps the water is too dark here,' said his wife, squinting at her reflection. 'Clearer water might make for whiter feathers.' The swan, with a heavy heart which the story does not mention, said, 'Today, before I lose all flight, I shall teach the little ones to swim.' He half-hopped, half-flapped towards the water's edge, the little ones trailing uncertainly behind him, pecking at his dark-tipped tail feathers. Just as they reached the bank, the earth beneath the mole's carelessly dug tunnel, weakened by the damp, gave way with a soft sigh, and two of the cygnets tumbled into the collapsing muddy pit. The swan flapped uselessly with his heavy, darkened wings, trying to reach them, but he could not gain purchase on the crumbling edge, and his wife, at that moment, was nowhere to be seen. 'Ah, the scent of fine truffles!' mumbled the blind mole from deeper in his ruined burrow, mistaking the cygnets' frightened peeps for something delicious. The earthworms below, however, poked out their heads once more and sang in a low chorus, 'When wings grow black, for duties slack, the pit claims its own, and a father's groan.' The swan heard them this time, and as the last soft crumbling of earth sealed the pit, he could do naught but watch, his own black feathers seeming to drag him to the ground. Then his wife ambled over, looked at the disturbed earth, and said with a frown, 'Such a mess, it has quite spoiled my lovely view of the water-lilies.'",
+      "When the next day dawned, the black feathers on the swan's wings were thick as a crow's, and flight was now a memory he could only sorrowfully recall. 'Husband,' said his wife, polishing a stray white feather of her own, 'fetch me that particularly shiny pebble from the far bank; it would look well in the nest I hope you soon finish.' The swan looked at his useless wings, then at his wife, and with a great effort, began to waddle and drag himself towards the far bank, a sorry sight for any creature to behold. The blind mole, whose hearing was sharp, was busy clearing a new blockage in his tunnel and called out, 'Some folk take all day to cross a simple patch of mud, humming a tune to himself.' It took him till noon to reach the far bank, his once-white breast now mud-caked, his breath coming in ragged gasps as he searched for the shiny stone. He found a pebble, no shinier than any other, but when he tried to pick it up, he found he was too weak from his journey to carry it properly in his beak. And from the earth beside him, the two worms emerged again, and they sang clearly, 'A vow ignored, a mate deplored, brings feathers of night, and ends all flight.' The swan heard these words clearly, and a great shudder went through him, so much so that he let the pebble fall from his clumsy beak. He returned to the nest with nothing, his body trembling, to find his wife attempting to chase a brightly coloured dragonfly that flitted over the water. The swan sat heavily by the messy, unfinished nest, the black feathers a heavy cloak upon him, and the worms' song echoing in his troubled mind.",
+      "On the morrow, the swan did not even attempt to count the new black feathers that covered him almost entirely like a sooty shroud; his wings were like lead. 'Since you are so dark now,' his wife observed, stirring the muddy water with her beak, 'perhaps you should wallow in the black mud of the far shallows; then all your feathers might at least match.' The swan looked at her and said, with a voice rough from disuse, 'And yet our nest remains half-built, and the shiny pebble unretrieved.' 'It is rather draughty,' she replied, shivering delicately though the sun was warm, 'and I have quite lost my appetite for dragonflies.' Meanwhile, the blind mole, convinced that winter was arriving early, was diligently pushing a small mountain of pebbles and smooth stones towards the entrance of his precarious burrow for insulation. One particularly large stone, dislodged by his efforts, rolled down and caused a small landslide from the bank, further narrowing the swans' path to the deeper water. The swan, watching the pebbles scatter, thought not of his wife's desired stone, but only that the path was now obstructed, and said quietly, 'I will clear that much, at least.' He pushed with his breast against one of the smaller fallen stones, then nudged it with his beak, and strained with his legs, but moved it but an inch. The earthworms, witnessing his struggle, sang a new, softer tune: 'The root of the trouble lies not in the stone, but in vision lost and a truth unknown; seek the deep root, with eyes of true sight, to turn back the dark and restore the light.' The swan gave up the effort, his head drooping against his black-feathered breast, and the earthworms' song about a 'root' and 'true sight' remained with him as the light faded.",
+      "Dawn arrived, and the swan looked upon himself in the still water; no white feather remained, and he was entirely black, more like a great, clumsy crow than a swan of the reeds. His wife, seeing him thus, cried out in fright and scuttled away to the furthest clump of reeds, saying, 'You are no swan of mine! Keep away from me, dark creature!' Left alone, the black swan felt a dull curiosity and began to stumble towards the mole's ruined burrow, for there was nowhere else that seemed to draw him. He found the blind mole within, humming cheerlessly as he attempted to sort his collection of pebbles into three distinct piles based on imagined smoothness. The black swan watched this for a time, then, with the tip of one black wing, he idly nudged the three piles so that many pebbles rolled together again. 'My pebbles! My beautiful, sorted pebbles!' wailed the blind mole, flailing his paws in the air. 'A lifetime of careful judgment, ruined, all ruined!' At this, the two earthworms, who seemed to be able to travel anywhere beneath the soil, poked their heads through the floor of the mole's burrow and sang, 'Pebble judgment, light and small, counts for naught when shadows fall; only by the heart's true measure, is revealed life's lasting treasure.' The black swan heard this, and the phrase 'heart's true measure' struck him, and he looked down at his own black breast as if seeing it for the first time. Then, with a strange, harsh cry that was not a swan's call nor a crow's caw, he pecked hard at his own black-feathered breast, once, twice. And where he had pecked, not blood, but one tiny, almost invisible, new white feather, like a fleck of snow, began to push through the black.",
+      "The black swan stared and stared at this tiny white fleck upon his breast, too astonished to move or make a sound. His wife, hearing his earlier strange cry, cautiously approached him from behind a clump of ferns, but she saw only his blackness and the way he hunched over himself. 'There is no use moping like a wet hen, even if you are a black one,' she said sharply. 'The sun is high, and I desire some tender water-shoots for my luncheon.' The black swan did not look up, but with the very tip of his black beak, he touched the tiny white feather as if it were the most delicate thing in the world. Just then, the blind mole, having decided his old burrow was too draughty after all the collapses, tunnelled experimentally upwards and bumped his nose against the black swan's leg, crying, 'Aha! A fine, sturdy tree root for my new ceiling support!' Startled, the black swan hopped back a step, and as his black breast feathers ruffled, the tiny white feather was joined by two or three more, making a small, distinct patch. 'Curious!' muttered the mole, feeling the 'root' shift. 'This root seems curiously mobile!' And he began to pat earth firmly around the swan's feet to secure it. From a fresh molehill nearby, the earthworms lifted their heads and sang with unusual sweetness, 'One black spot, a truth forgot; but white may bloom, dispelling gloom, if heart's true gift, freely given, lifts the sorrow up to heaven.' The black swan, his feet now uncomfortably packed with earth by the diligent mole, heard the worms' new song and looked across the reeds towards his wife, who was now trying to catch a water beetle. The small patch of white feathers on his breast seemed to pulse faintly as he pondered the meaning of a 'heart's true gift,' while his wife finally caught the beetle with a triumphant splash.",
+      "As he sat, the image of the worms' 'heart's true gift' brought a painful memory to the black swan: a promise made long ago to his first wife, before she vanished in a great storm, concerning their last, precious egg hidden in the deepest reeds. He had hidden it well when the storm threatened, meaning to return at once, but then his grief had clouded his mind, and with his new, foolish wife, he had forgotten all about it. 'The egg!' he croaked, the sound raw with dawning understanding. 'The gift must be to find and care for our lost egg!' His wife, who had tired of beetle-chasing, paddled closer and asked, 'An egg, did you say? For me? Oh, I do hope it is fresh for my breakfast.' The black swan ignored her and, with renewed, desperate strength, struggled to rise on his earth-packed feet, his gaze fixed on the tangled growth of the deepest reeds at the marsh's far end. The mole, exclaiming, 'This root is most uncooperative!' gave a great heave on what he thought was a loose fibre, which was in fact a stray black feather near the swan's foot, dislodging some of the packed earth as the swan pulled away. This loosening of the earth around his feet gave the black swan enough purchase to begin his slow and painful journey towards the far reeds, his dark plumage now seeming less a shroud and more a pilgrim's somber cloak. The earthworms, sensing his changed course, sang from the muddy bank he left behind, 'From bitter root, a fragile shoot; if lost is found, on sacred ground, then hope may spring, and new birds sing.' His wife, seeing him actually leaving, called out in annoyance, 'Well, if you are going all that way, do not forget my shiny pebble this time!' But the black swan did not reply nor look back; he had a promise to keep, and the memory of a tiny white feather against his dark breast spurred him onward into the deepest, most tangled part of the marsh.",
+      "After many hours of painful searching through tangled roots and sharp reeds, the black swan came to a part of the marsh he vaguely remembered; it was overgrown and thorny, and the place looked ill-favoured. He pushed through the thorns which tore at his black feathers, showing raw skin beneath, and where the skin was touched by his true grief and effort, more small white feathers were now clearly visible upon his breast. Suddenly, from a mound of disturbed earth nearby, the blind mole's voice grumbled, 'Too many roots in this part of the marsh! And the pebbles are all jagged here, entirely unsuitable for proper insulation!' He gave an angry shove with his snout to a particularly stubborn root, and as it tore free, it revealed a small, dry hollow beneath, and in that hollow lay one large, pale egg, still whole. The black swan let out a cry, a sound no longer harsh, but filled with a terrible, breaking joy, and he stumbled towards the hollow, his dark eyes fixed on the treasure. As he gently touched the cool, smooth shell with his beak, a great drift of black feathers fell from his body to the ground, and his wings, when he hesitantly stretched them, were now more white than black. 'Hark!' cried the mole, mistaking the swan's emotional cries and the rustle of falling feathers for an approaching predator. 'A fox or a weasel, I'll be bound! You noisy root, you will be the death of us all!' But the earthworms, now appearing beside the revealed egg, sang a triumphant yet cautionary tune, 'A promise kept, the white has swept, through darkest night, restoring light! Yet balance true, for old and new, may hang upon one feather's weight, to seal thy fate.' The swan, now more white than black, carefully took the precious egg in his beak and, with a surge of clumsy but strong wing-beats, lifted himself into the air and flew slowly towards his old, messy nest. As he flew, a few remaining black feathers still dotted his wings, and he wondered what 'one feather's weight' the earthworms had meant, the pale egg held gently and safely.",
+      "He landed by the messy nest where his wife was attempting to spear a small fish with a sharp reed; she looked up, her eyes widened at his mostly white plumage and then at the large, pale egg he carefully set down. The swan looked from the egg to his wife, then at the few stubborn black feathers still upon his own wings, and the worms' words about 'one feather's weight' echoed in his mind. He then gently but firmly nudged the egg with his white breast towards the very centre of the messy, half-built nest, covering it slightly with a few dry reeds he found there. 'Well!' huffed his wife, dropping her fishing-reed. 'If that egg is not for eating soon, nor for looking pretty, then I daresay this whole marsh is a disappointment, and I shall find a gander with a proper sense of style!' At her very words, the blind mole, who had been diligently piling wet mud and heavy pebbles around where the swan's leg *had* been, suddenly cried in triumph, 'There, solid as a mountain!' – and that entire section of the bank, overburdened and undermined, slid with a great sigh into the water. The wife, who had been standing right on that precarious edge during her pronouncement, squawked in surprise as she, the half-speared fish, and her sharp reed all tumbled into the muddy water with a loud splash. The swan, now almost entirely white, watched her spluttering indignation, and as he did, the very last, stubborn black feather at the tip of his right wing loosened and floated away on the breeze. The earthworms, witnessing this, rose higher than ever from the soil and sang with great feeling, 'The vow renewed, the past subdued! The true mate sought is the hope unbought! Let style be drowned, where truth is crowned, and a father's care finds all things fair!' The swan, now fully white and strong of wing, stretched his pinions wide. He looked at the precious egg in the nest, then at his wife who was clambering indignantly onto a slippery log, and then up at the wide, open sky. Then, with a sound like rushing wind, he beat his great, white wings once, twice, and the air thrummed with the promise of his flight, though where he would first direct it, only the silent reeds seemed to know."
+    ]
+  }
+}

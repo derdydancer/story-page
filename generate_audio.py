@@ -3,14 +3,13 @@ import edge_tts
 import os
 
 VOICE = "en-US-AvaMultilingualNeural"
-OUTPUT_FILE = "audio.mp3"
 
 
-def main(text, dir) -> None:
+def main(text, dir, output_file) -> None:
     """Main function"""
      
     communicate = edge_tts.Communicate(text, VOICE)
-    communicate.save_sync(dir + '\\' + OUTPUT_FILE)
+    communicate.save_sync(dir + '\\' + output_file)
 
 
 if __name__ == "__main__":
@@ -21,6 +20,8 @@ if __name__ == "__main__":
         print("Missing the file name")
         exit
   
-
     dir = os.path.dirname(sys.argv[1])
-    main(text, dir)
+
+    output_file = os.path.basename(sys.argv[1]).split('.')[0] + '.mp3'
+
+    main(text, dir, output_file)
