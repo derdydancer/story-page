@@ -217,12 +217,6 @@ for file in files:
         f.write(title + '\n')
         for chapter in chapters:
             f.write(chapter + '\n')
-
-    # Check if there are no .mp3 files and generate audio if necessary
-    if not os.path.exists(mp3_filename):
-        generate_audio_script = os.path.join(os.getcwd(), 'generate_audio.py')
-        if os.path.exists(generate_audio_script):
-            os.system(f'python "{generate_audio_script}" "{txt_filename}"')
     
     # Generate audio HTML
     audio_html = ''
@@ -301,6 +295,7 @@ for root, dirs, files in os.walk(os.getcwd()):
                 with open(creation_time_file, 'w') as f:
                     f.write(time.strftime('%Y-%m-%d'))
             html_files.append((display_title, creation_date_str, relative_path))
+
 
 # Sort links first by date and then alphabetically by display title
 html_files.sort(key=lambda x: (x[1], x[0].lower()), reverse=True)

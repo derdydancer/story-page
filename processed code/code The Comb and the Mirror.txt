@@ -1,0 +1,209 @@
+{
+  "Analysis": [
+    {
+      "Plot Function": "Introduction of the main characters (personified objects: comb and mirror) and the setting (a lady's chamber). Establishes their inherent qualities and potential for interaction.",
+      "Grimm Style": "The sentence adheres to Grimm style with its simple, declarative structure and use of functional adjectives ('fine ivory,' 'small hand-mirror,' 'silver frame'). 'Lady's chamber' is an archetypal setting. The language is concrete and direct. The inversion ('In a lady's chamber lay...') adds a slightly formal, archaic flavour, fitting the style.",
+      "Moral Implication": "Sets a neutral stage but hints at the value and status of the objects, which can be a precursor to themes of pride or vanity, common in fables.",
+      "Metaphorical/Psychological Meaning": "The 'lady's chamber' represents an intimate, private world. The comb and mirror, as objects of personal grooming, are inherently tied to appearance and self-perception. They symbolize different aspects of self-awareness: the comb (active, shaping) and the mirror (passive, reflecting).",
+      "Sentence": "In a lady's chamber lay a fine ivory comb and a small hand-mirror with a silver frame.",
+      "Chapter Number": 1,
+      "Sentence Number": 1
+    },
+    {
+      "Plot Function": "Initiates the narrative action and introduces the comb's character flaw: vanity. The act of 'preening' after use signifies self-admiration.",
+      "Grimm Style": "Follows Grimm style with a clear action and simple language. 'Preening itself' directly communicates the comb's vanity without complex psychological description. The temporal marker 'One morning' is typical. The participial phrase 'having just smoothed the lady's hair' is acceptable complexity.",
+      "Moral Implication": "Introduces the theme of pride and self-satisfaction. The comb's recent utility ('smoothed the lady's hair') fuels its self-congratulatory behavior, a common setup for a moral lesson about hubris.",
+      "Metaphorical/Psychological Meaning": "The 'sunbeam' can symbolize a moment of perceived glory or a spotlight for the comb's ego. 'Preening' is a direct manifestation of narcissism. The comb's self-worth is visibly tied to its function and its perception of its own importance.",
+      "Sentence": "One morning, the comb, having just smoothed the lady's hair, sat preening itself in a sunbeam.",
+      "Chapter Number": 2,
+      "Sentence Number": 2
+    },
+    {
+      "Plot Function": "The comb begins its boast, initiating the central conflict and expressing its pride to the mirror. This is rising action.",
+      "Grimm Style": "Classic Grimm style dialogue: direct, with a simple tag ('said the comb to the mirror'). The exclamation mark conveys emotion plainly. The language is simple and focuses on the comb's perceived utility.",
+      "Moral Implication": "Explicit demonstration of pride ('See how useful I am!'). This boastfulness is a hallmark of characters destined for a fall in didactic tales.",
+      "Metaphorical/Psychological Meaning": "The comb represents the vocal, assertive Ego, proclaiming its achievements and seeking validation or dominance. It measures its worth by its actions and impact.",
+      "Sentence": "‘See how useful I am!’ said the comb to the mirror.",
+      "Chapter Number": 3,
+      "Sentence Number": 3
+    },
+    {
+      "Plot Function": "The comb elaborates on its function, providing justification for its pride and emphasizing its role in creating order.",
+      "Grimm Style": "Direct statement of its capabilities. The vocabulary ('tangled locks,' 'smooth and orderly') is concrete and functional, aligning with Grimm's descriptive style.",
+      "Moral Implication": "Reinforces the comb's pride in its ability to bring order and civility. It highlights the value the comb places on its specific contribution.",
+      "Metaphorical/Psychological Meaning": "The comb sees itself as an agent of transformation, turning chaos ('tangled locks') into desirable order. This reflects a psychological need to control and structure, which, while positive, is here tainted by arrogance.",
+      "Sentence": "‘I take the tangled locks and make them smooth and orderly.",
+      "Chapter Number": 3,
+      "Sentence Number": 4
+    },
+    {
+      "Plot Function": "The comb culminates its point about its usefulness by suggesting its indispensability, thereby inflating its own importance.",
+      "Grimm Style": "A simple, direct assertion. 'Quite wild' is a functional, slightly dramatic descriptor consistent with the style. The sentence clearly shows the comb's inflated self-view.",
+      "Moral Implication": "This highlights the comb's arrogance and its belief that it is essential. Such a high self-valuation often precedes a humbling experience in fables.",
+      "Metaphorical/Psychological Meaning": "The comb defines its value by contrasting its effect with a negative alternative ('wild'). This is a common ego mechanism: self-aggrandizement by emphasizing the supposed chaos that would ensue in its absence.",
+      "Sentence": "Without me, the lady would look quite wild.’",
+      "Chapter Number": 3,
+      "Sentence Number": 5
+    },
+    {
+      "Plot Function": "Introduces the mirror's contrasting character: passive, silent, and reflective. It doesn't engage with the comb's boasting.",
+      "Grimm Style": "Simple, declarative sentence. The mirror's silence is a common trait for wise or detached characters in fables. 'Reflecting the sunbeam' adds a serene, impartial image. Aligns well.",
+      "Moral Implication": "The mirror's silence can be interpreted as wisdom, patience, or simply an adherence to its nature. It offers a stark contrast to the comb's vocal pride.",
+      "Metaphorical/Psychological Meaning": "The mirror symbolizes objectivity, impartial observation, or a deeper consciousness that does not participate in ego-driven displays. Reflecting the 'sunbeam' connects it to truth or enlightenment, untroubled by the comb's assertions.",
+      "Sentence": "The mirror remained silent, reflecting the sunbeam.",
+      "Chapter Number": 4,
+      "Sentence Number": 6
+    },
+    {
+      "Plot Function": "The comb, undeterred by the mirror's silence, shifts its boast from utility to its physical beauty, further revealing its vanity.",
+      "Grimm Style": "Direct dialogue with a simple tag. 'Waggling its teeth slightly' is a concrete, simple action that effectively conveys the comb's smugness and self-admiration, a good example of showing character through simple action.",
+      "Moral Implication": "The comb's vanity is deep-seated, encompassing both function and appearance. This escalation of pride makes its eventual downfall more impactful.",
+      "Metaphorical/Psychological Meaning": "The comb's ego seeks validation on multiple fronts. When utility isn't acknowledged, it emphasizes its aesthetic qualities. The 'waggling' suggests a self-conscious, almost flirtatious display of its perceived charms.",
+      "Sentence": "‘And I am beautiful too,’ continued the comb, waggling its teeth slightly.",
+      "Chapter Number": 5,
+      "Sentence Number": 7
+    },
+    {
+      "Plot Function": "The comb provides specific details to support its claim of beauty, emphasizing its material quality and perfect form.",
+      "Grimm Style": "Simple, descriptive language. Adjectives like 'white,' 'polished,' and 'perfectly formed' are functional and directly convey the comb's perception of its beauty. Aligns with the direct descriptive style.",
+      "Moral Implication": "Highlights an overvaluation of physical attributes and perfection. This sets up the irony of its later broken state.",
+      "Metaphorical/Psychological Meaning": "The comb identifies deeply with its external form. Its self-worth is predicated on these superficial, material qualities ('ivory,' 'polished,' 'perfectly formed'), making it inherently vulnerable to physical damage or decay.",
+      "Sentence": "‘My ivory is white and polished, each tooth perfectly formed.",
+      "Chapter Number": 5,
+      "Sentence Number": 8
+    },
+    {
+      "Plot Function": "The comb directly demeans the mirror, contrasting its own active role and inherent beauty with the mirror's perceived passive function.",
+      "Grimm Style": "Direct address and a simple, dismissive statement. The word 'only' is key in conveying the comb's contempt. This is typical of how a proud character might try to diminish another.",
+      "Moral Implication": "The comb demonstrates ignorance or willful devaluation of the mirror's true nature (reflecting truth). This is a form of intellectual pride, assuming its own values are paramount.",
+      "Metaphorical/Psychological Meaning": "The comb's ego projects its own criteria for value (active creation, inherent properties) onto the mirror and finds it lacking. It cannot comprehend the profound value of passive reflection or the impartial presentation of truth.",
+      "Sentence": "You, mirror, only show what is put before you.",
+      "Chapter Number": 5,
+      "Sentence Number": 9
+    },
+    {
+      "Plot Function": "The comb delivers its ultimate judgment on the mirror, claiming it lacks intrinsic beauty, thus asserting its own superiority.",
+      "Grimm Style": "A blunt, concise, and cruel assertion, very much in line with the straightforward dialogue of fables. The finality of the statement emphasizes the comb's arrogance.",
+      "Moral Implication": "This is the zenith of the comb's hubris. It fails to see that the mirror's 'beauty' might lie in its truthfulness or its capacity to reflect all forms of beauty without possessing one itself.",
+      "Metaphorical/Psychological Meaning": "The comb is blind to any form of value or 'beauty' that doesn't conform to its own materialistic and ego-centric definition. This represents a profound lack of insight and an inability to appreciate different forms of existence or purpose.",
+      "Sentence": "You have no beauty of your own.’",
+      "Chapter Number": 5,
+      "Sentence Number": 10
+    },
+    {
+      "Plot Function": "The mirror maintains its characteristic silence and continues to reflect reality, now showing the 'proud comb' itself. This subtly foreshadows that the comb's pride will be its undoing.",
+      "Grimm Style": "Simple sentence structure, reinforcing the mirror's consistent, passive nature. 'Reflected the proud comb' is a direct and factual statement with an underlying layer of dramatic irony.",
+      "Moral Implication": "The mirror's impartiality is emphasized. It reflects the comb's psychological state (pride) as clearly as it would reflect physical objects, offering a silent commentary on the comb's character.",
+      "Metaphorical/Psychological Meaning": "The mirror serves as an unflinching witness to the comb's ego. It embodies the principle that reality often reflects back our own attitudes and states of being, whether we are aware of it or not.",
+      "Sentence": "The mirror still said nothing, but reflected the proud comb.",
+      "Chapter Number": 6,
+      "Sentence Number": 11
+    },
+    {
+      "Plot Function": "Marks the turning point of the story. The arrival of the lady, an external agent of chance, disrupts the comb's self-absorbed world.",
+      "Grimm Style": "'Just then' is a common fairy tale transition signaling an imminent change. The lady's 'haste' is a simple motivation for the accidental event to follow. The detail 'seeking her gloves' adds a touch of mundane realism that contrasts with the objects' dialogue.",
+      "Moral Implication": "Illustrates the precariousness of pride and material possessions. External forces, often mundane and accidental, can swiftly alter fortunes. Haste can lead to unintended consequences.",
+      "Metaphorical/Psychological Meaning": "The 'lady' represents fate, external reality, or the unpredictable nature of life, indifferent to the comb's inflated self-importance. Her simple, hurried action is about to shatter the comb's world.",
+      "Sentence": "Just then, the lady returned in haste, seeking her gloves.",
+      "Chapter Number": 7,
+      "Sentence Number": 12
+    },
+    {
+      "Plot Function": "The direct cause of the comb's downfall. The lady's hurry, an unintentional act, leads to the accident.",
+      "Grimm Style": "Simple cause-and-effect narration. The active voice ('she knocked') and direct description are characteristic of Grimm style. The event is presented factually.",
+      "Moral Implication": "Emphasizes how easily pride and physical perfection can be undone by chance or carelessness. The comb's high position ('on the table') made it vulnerable.",
+      "Metaphorical/Psychological Meaning": "A sudden, unexpected blow from reality. The ego, no matter how self-important, is subject to the whims of external forces and the consequences of others' actions, even minor ones.",
+      "Sentence": "In her hurry, she knocked the comb from the table.",
+      "Chapter Number": 7,
+      "Sentence Number": 13
+    },
+    {
+      "Plot Function": "The climax of the comb's misfortune: its fall and breakage, destroying its prized physical perfection.",
+      "Grimm Style": "Direct, unembellished description of the event and its consequences. 'Hard floor' and 'fine teeth snapped off' are concrete and factual. The use of 'and' to link the clauses is simple and effective.",
+      "Moral Implication": "Material beauty and perfection are fragile and transient. The very 'fine teeth' that were a source of the comb's pride are now broken, illustrating the vanity of such attachments.",
+      "Metaphorical/Psychological Meaning": "The 'fall' represents a literal and metaphorical descent from a state of pride. The 'hard floor' symbolizes harsh, unforgiving reality. The broken teeth signify the shattering of the comb's idealized self-image and the loss of its perceived perfection and utility.",
+      "Sentence": "It fell to the hard floor, and two of its fine teeth snapped off.",
+      "Chapter Number": 7,
+      "Sentence Number": 14
+    },
+    {
+      "Plot Function": "The comb's immediate, despairing reaction to its physical damage. 'Alas' signals its distress and recognition of loss.",
+      "Grimm Style": "The use of 'Alas!' is an archaic exclamation fitting the fable style and is recommended in the author's guide. The simple tag 'cried the comb' directly conveys its emotion.",
+      "Moral Implication": "The anguish experienced when one's vanity is wounded and prized possessions or qualities are lost. It shows the depth of the comb's attachment to its former state.",
+      "Metaphorical/Psychological Meaning": "The ego's cry of pain upon confronting its own imperfection and vulnerability. The idealized self-image has been shattered, leading to immediate distress.",
+      "Sentence": "‘Alas!’ cried the comb.",
+      "Chapter Number": 8,
+      "Sentence Number": 15
+    },
+    {
+      "Plot Function": "The comb expresses its shock and wants its misfortune to be acknowledged, still focused on the external manifestation of its damage.",
+      "Grimm Style": "A simple, direct exclamation. The language is plain and effectively communicates the comb's horror at its changed state.",
+      "Moral Implication": "A natural reaction to sudden loss, seeking validation or witness to one's suffering. It highlights the comb's continued outward focus.",
+      "Metaphorical/Psychological Meaning": "The ego is overwhelmed by the sudden change in its condition and struggles to process it. It draws attention to the damage, perhaps seeking pity or a reversal of fate.",
+      "Sentence": "‘Look what has happened!",
+      "Chapter Number": 8,
+      "Sentence Number": 16
+    },
+    {
+      "Plot Function": "The comb's dramatic self-assessment of its situation: it believes its value is entirely gone due to the damage.",
+      "Grimm Style": "A short, emphatic, and despairing statement. This direct expression of its perceived state is characteristic of the style.",
+      "Moral Implication": "Shows how completely the comb's identity and self-worth were tied to its physical wholeness and beauty. Partial damage is perceived as total ruin, a lesson against such narrow definitions of value.",
+      "Metaphorical/Psychological Meaning": "The ego experiences a collapse of self-worth. Because its identity was so heavily invested in external attributes (perfection, beauty), their loss translates into a feeling of complete annihilation or uselessness.",
+      "Sentence": "I am ruined!’",
+      "Chapter Number": 8,
+      "Sentence Number": 17
+    },
+    {
+      "Plot Function": "The mirror continues its unchanging role, reflecting the comb's new, broken reality without comment or alteration.",
+      "Grimm Style": "A simple, declarative sentence. Its consistency in reflecting 'what is' is a key element of its character, presented in a straightforward Grimm manner.",
+      "Moral Implication": "Truth and reality are impartial; they reflect our state whether we are proud or humbled, whole or broken. The mirror does not judge, it merely shows.",
+      "Metaphorical/Psychological Meaning": "The mirror embodies objective reality or an impartial aspect of consciousness. It unflinchingly reflects the comb's diminished state, just as it previously reflected its pride, emphasizing its role as a pure conduit of 'what is.'",
+      "Sentence": "The mirror reflected the broken comb lying on the floor.",
+      "Chapter Number": 9,
+      "Sentence Number": 18
+    },
+    {
+      "Plot Function": "The comb, in its distress, lashes out and projects its suffering onto the mirror, blaming it for showing the unpleasant truth.",
+      "Grimm Style": "Direct dialogue filled with emotion ('wept the comb'). The accusation is simple and direct. The comb's continued misunderstanding ('you just show') is evident.",
+      "Moral Implication": "This illustrates a common human tendency to 'shoot the messenger' or blame external sources for revealing uncomfortable truths about oneself or one's situation.",
+      "Metaphorical/Psychological Meaning": "The comb's ego, unable to bear the painful truth of its own brokenness, resorts to projection. It externalizes its pain by accusing the mirror (objective reality/truth) of causing its misfortune by merely reflecting it.",
+      "Sentence": "‘And you,’ wept the comb, ‘you just show my misfortune!",
+      "Chapter Number": 10,
+      "Sentence Number": 19
+    },
+    {
+      "Plot Function": "The comb culminates its accusation by labeling the mirror 'cruel,' attributing negative intent to its impartial reflection.",
+      "Grimm Style": "A short, direct, and emotionally charged accusation. This simplicity in expressing strong emotion is typical of the style.",
+      "Moral Implication": "Highlights the subjective nature of perception when one is suffering. What is merely factual (the reflection) is interpreted as malicious due to the comb's own pain and lack of self-awareness.",
+      "Metaphorical/Psychological Meaning": "The ego, deeply wounded, perceives objective truth as an attack. By labeling the mirror 'cruel,' the comb attempts to invalidate the painful reality it is being shown, a common defense mechanism.",
+      "Sentence": "You are cruel.’",
+      "Chapter Number": 10,
+      "Sentence Number": 20
+    },
+    {
+      "Plot Function": "Resolution of the story. The mirror (or the narrative voice through it) states its fundamental nature, delivering the story's core message. The comb's fate is sealed as it is discarded.",
+      "Grimm Style": "The mirror's line, 'I show only what is,' is a profound yet simply stated moral. 'Reflected silently' is a clever phrase, as mirrors reflect and this is its silent articulation. The maid's swift, matter-of-fact disposal of the comb ('swept away with the dust') is a typical Grimm-style ending for something that has lost its value – stark and unsentimental.",
+      "Moral Implication": "The ultimate moral: truth is objective and simply 'is,' regardless of our feelings. Pride based on transient qualities like physical perfection leads to downfall and eventual insignificance. The comb becomes mere refuse.",
+      "Metaphorical/Psychological Meaning": "The mirror embodies pure, detached awareness or objective truth, which remains constant. The comb, fixated on its external form and unable to find value beyond it, is deemed useless and discarded. This symbolizes how an inflexible ego or attachment to superficialities can lead to being rendered irrelevant by life's changes. Being 'swept away with the dust' signifies a return to insignificance, the fate of vanity that cannot adapt or find deeper meaning.",
+      "Sentence": "‘I show only what is,’ the mirror reflected silently, as the maid came in and swept the broken comb away with the dust.",
+      "Chapter Number": 11,
+      "Sentence Number": 21
+    }
+  ],
+  "The Complete Story": {
+    "Title": "The Comb and the Mirror",
+    "Chapters": [
+      "In a lady's chamber lay a fine ivory comb and a small hand-mirror with a silver frame.",
+      "One morning, the comb, having just smoothed the lady's hair, sat preening itself in a sunbeam.",
+      "‘See how useful I am!’ said the comb to the mirror. ‘I take the tangled locks and make them smooth and orderly. Without me, the lady would look quite wild.’",
+      "The mirror remained silent, reflecting the sunbeam.",
+      "‘And I am beautiful too,’ continued the comb, waggling its teeth slightly. ‘My ivory is white and polished, each tooth perfectly formed. You, mirror, only show what is put before you. You have no beauty of your own.’",
+      "The mirror still said nothing, but reflected the proud comb.",
+      "Just then, the lady returned in haste, seeking her gloves. In her hurry, she knocked the comb from the table. It fell to the hard floor, and two of its fine teeth snapped off.",
+      "‘Alas!’ cried the comb. ‘Look what has happened! I am ruined!’",
+      "The mirror reflected the broken comb lying on the floor.",
+      "‘And you,’ wept the comb, ‘you just show my misfortune! You are cruel.’",
+      "‘I show only what is,’ the mirror reflected silently, as the maid came in and swept the broken comb away with the dust."
+    ]
+  }
+}

@@ -196,3 +196,8 @@ if __name__ == "__main__":
     new_file_name_used = f"unprocessed code/code {generated_story_name} (prompt used).txt"
     os.rename(output_file, new_file_name)
     os.rename(output_file_prompt, new_file_name_used)
+
+    #print the name of the file
+    print(f"Generated story saved as: {new_file_name}")
+    print(f"Generated story prompt used saved as: {new_file_name_used}")
+    
