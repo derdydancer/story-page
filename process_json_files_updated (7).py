@@ -5,6 +5,7 @@ import os
 import shutil
 import time
 import chardet
+import re
 
 # Function to sanitize title for filename and folder name
 def sanitize_title(title):
@@ -246,12 +247,47 @@ for file in files:
             sentences_html += f'<span class="sentence" data-index="{i}">{words_html}</span>'
         chapters_html += f'<div class="chapter">{sentences_html}</div>\n'
     
+    # Dynamically determine all unique analysis keys
+    all_analysis_keys = set()
+    for item in analysis:
+        all_analysis_keys.update(item.keys())
+    # Remove 'Sentence' key (since it's shown in the story), keep order for display
+    display_keys = [k for k in all_analysis_keys if k != 'Sentence']
+
+    # Generate analysis fields HTML for template
+    analysis_fields_html = ''
+    for key in display_keys:
+        safe_id = key.lower().replace(' ', '-').replace('/', '-').replace(':', '').replace('.', '')
+        analysis_fields_html += f'<p><strong>{html.escape(key)}:</strong> <span id="{safe_id}"></span></p>\n'
+
+    # Generate JS code to update all fields
+    js_update_fields = ''
+    for key in display_keys:
+        safe_id = key.lower().replace(' ', '-').replace('/', '-').replace(':', '').replace('.', '')
+        js_update_fields += f"    document.getElementById('{safe_id}').textContent = data['{key}'] || '';\n"
+
+    # Prepare a new story_html_template with only dynamic analysis fields and JS
+    # Remove all static <p> fields from the template
+    story_html_dynamic = re.sub(
+        r'<div class="analysis">.*?</div>',
+        f'<div class="analysis">\n{analysis_fields_html}</div>',
+        story_html_template,
+        flags=re.DOTALL
+    )
+    # Replace the JS update block
+    story_html_dynamic = re.sub(
+        r'document\.getElementById\(\'plot-function\'\).*?document\.getElementById\(\'sentence-number\'\).*?;',
+        js_update_fields.rstrip(),
+        story_html_dynamic,
+        flags=re.DOTALL
+    )
+
     # Generate analysis data JSON
     analysis_data_json = json.dumps(analysis)
-    
+
     # Write story HTML file
     with open(html_filename, 'w', errors='replace') as f:
-        f.write(story_html_template.format(
+        f.write(story_html_dynamic.format(
             title=html.escape(title),
             audio_html=audio_html,
             chapters_html=chapters_html,
