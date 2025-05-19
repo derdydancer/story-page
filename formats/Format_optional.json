@@ -1,0 +1,51 @@
+{
+  "type": "object",
+  "properties": {
+    "Analysis": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Plot Function": {
+            "type": "string"
+          },
+          "Grimm Style": {
+            "type": "string"
+          },
+          "Moral Implication": {
+            "type": "string"
+          },
+          "Metaphorical/Psychological Meaning": {
+            "type": "string"
+          },
+          "Sentence": {
+            "type": "string"
+          },
+          "Chapter Number": {
+            "type": "integer"
+          },
+          "Sentence Number": {
+            "type": "integer"
+          }
+        }
+      }
+    },
+    "The Complete Story": {
+      "type": "object",
+      "properties": {
+        "Title": {
+          "type": "string"
+        },
+        "Chapters": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "required": [
+    "Analysis"
+  ]
+}
