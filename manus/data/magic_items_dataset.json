@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "name": "Magic Items Dataset",
+    "description": "Magical objects and elements from Grimms' Fairy Tales",
+    "lastModified": "2025-05-20",
+    "color": "#e63946"
+  },
+  "categories": {
+    "golden_objects": [
+      { "id": 1, "text": "Golden apples that attract magical creatures" },
+      { "id": 2, "text": "Golden bird with feathers that grant wishes" },
+      { "id": 3, "text": "Golden horse that runs as swiftly as the wind" },
+      { "id": 4, "text": "Golden cage that triggers magical alarms when used" },
+      { "id": 5, "text": "Golden ball that falls into a spring, initiating a magical encounter" }
+    ],
+    "magical_animals": [
+      { "id": 6, "text": "Talking fox that offers counsel and reveals hidden truths" },
+      { "id": 7, "text": "Enchanted frog that can retrieve items from depths" },
+      { "id": 8, "text": "Talking horse that speaks truth even after death" },
+      { "id": 9, "text": "Queen bee who can identify the true princess" },
+      { "id": 10, "text": "Magical birds that perform impossible tasks for the protagonist" }
+    ],
+    "enchanted_objects": [
+      { "id": 11, "text": "Cursed spindle that causes deep sleep upon pricking" },
+      { "id": 12, "text": "Magic looking-glass that speaks truth and reveals the fairest in the land" },
+      { "id": 13, "text": "Poisoned comb that causes unconsciousness upon contact" },
+      { "id": 14, "text": "Magic wand that transforms people or objects" },
+      { "id": 15, "text": "Enchanted lock of hair that speaks warnings to the true owner" }
+    ],
+    "magical_clothing": [
+      { "id": 16, "text": "Invisibility cloak that allows wearer to follow unseen" },
+      { "id": 17, "text": "Many-league boots that cover great distances quickly" },
+      { "id": 18, "text": "Magical rings taken as tokens from entranced knights" },
+      { "id": 19, "text": "Enchanted slippers that dance of their own accord" },
+      { "id": 20, "text": "Cap of knowledge that grants wisdom to the wearer" }
+    ],
+    "magical_food": [
+      { "id": 21, "text": "Poisoned apple with one deadly half" },
+      { "id": 22, "text": "Water of life that heals mortal illness" },
+      { "id": 23, "text": "Magic bread that quiets enchanted beasts" },
+      { "id": 24, "text": "Inexhaustible loaf that provides endless food" },
+      { "id": 25, "text": "White snake flesh that grants understanding of animal language" }
+    ],
+    "magical_weapons": [
+      { "id": 26, "text": "Magic sword that can slay whole armies at a blow" },
+      { "id": 27, "text": "Enchanted bow that never misses its target" },
+      { "id": 28, "text": "Magic fiddle that compels the listener to dance uncontrollably" },
+      { "id": 29, "text": "Iron wand that magically opens enchanted doors" },
+      { "id": 30, "text": "Magic stick that breaks any lock it strikes" }
+    ],
+    "magical_helpers": [
+      { "id": 31, "text": "Dwarfs who create magical items or perform impossible tasks" },
+      { "id": 32, "text": "Elves who make shoes or clothes while humans sleep" },
+      { "id": 33, "text": "Magical fish that grants wishes when spared" },
+      { "id": 34, "text": "Enchanted prince disguised as a beast or animal" },
+      { "id": 35, "text": "Fairy godmother who transforms ordinary objects" }
+    ]
+  }
+}

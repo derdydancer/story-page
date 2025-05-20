@@ -1,0 +1,1068 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fairy Tale Prompt Builder</title>
+    <style>
+        :root {
+            --primary-color: #4a6da7;
+            --secondary-color: #8a9db5;
+            --accent-color: #d4a373;
+            --background-color: #f5f5f5;
+            --card-color: #ffffff;
+            --text-color: #333333;
+            --border-color: #dddddd;
+            --hover-color: #e9ecef;
+            --active-color: #d4e4f7;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--background-color);
+            padding: 20px;
+            transition: all 0.3s ease;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 10px 20px;
+            background-color: var(--card-color);
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+        }
+
+        h1 {
+            color: var(--primary-color);
+            margin-bottom: 10px;
+            transition: color 0.3s ease;
+        }
+
+        .header-controls {
+            display: flex;
+            gap: 10px;
+        }
+
+        .tabs {
+            display: flex;
+            margin-bottom: 20px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .tab {
+            padding: 10px 20px;
+            cursor: pointer;
+            border: 1px solid transparent;
+            border-bottom: none;
+            border-radius: 5px 5px 0 0;
+            background-color: var(--card-color);
+            margin-right: 5px;
+            transition: all 0.3s ease;
+        }
+
+        .tab:hover {
+            background-color: var(--hover-color);
+        }
+
+        .tab.active {
+            border-color: var(--border-color);
+            border-bottom-color: var(--card-color);
+            background-color: var(--card-color);
+            font-weight: bold;
+            color: var(--primary-color);
+        }
+
+        .tab-content {
+            display: none;
+            padding: 20px;
+            background-color: var(--card-color);
+            border-radius: 0 0 8px 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+        }
+
+        .tab-content.active {
+            display: flex;
+        }
+
+        button, select {
+            padding: 8px 16px;
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #3a5a8f;
+        }
+
+        button:focus, select:focus {
+            outline: 2px solid var(--accent-color);
+        }
+
+        select {
+            background-color: white;
+            color: var(--text-color);
+            border: 1px solid var(--border-color);
+        }
+
+        .builder-container {
+            display: flex;
+            gap: 20px;
+            width: 100%;
+        }
+
+        .categories-panel {
+            flex: 1;
+            max-width: 50%;
+            overflow-y: auto;
+            max-height: 70vh;
+        }
+
+        .selection-panel {
+            flex: 1;
+            max-width: 50%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .category {
+            margin-bottom: 10px;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .category-header {
+            padding: 10px 15px;
+            background-color: var(--secondary-color);
+            color: white;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: background-color 0.3s ease;
+        }
+
+        .category-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease;
+        }
+
+        .category.open .category-content {
+            max-height: 500px;
+            overflow-y: auto;
+        }
+
+        .prompt-item {
+            padding: 8px 15px;
+            border-bottom: 1px solid var(--border-color);
+            cursor: pointer;
+            transition: background-color 0.2s ease;
+        }
+
+        .prompt-item:hover {
+            background-color: var(--hover-color);
+        }
+
+        .prompt-item.selected {
+            background-color: var(--active-color);
+        }
+
+        .prompt-item:last-child {
+            border-bottom: none;
+        }
+
+        .selected-prompts {
+            flex: 1;
+            overflow-y: auto;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 10px;
+            margin-bottom: 10px;
+            transition: all 0.3s ease;
+        }
+
+        .selected-prompt {
+            margin-bottom: 10px;
+            padding: 10px;
+            background-color: var(--hover-color);
+            border-radius: 4px;
+            position: relative;
+            transition: background-color 0.3s ease;
+        }
+
+        .selected-prompt textarea {
+            width: 100%;
+            min-height: 60px;
+            padding: 8px;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            resize: vertical;
+            font-family: inherit;
+            margin-bottom: 5px;
+        }
+
+        .prompt-controls {
+            display: flex;
+            gap: 5px;
+        }
+
+        .prompt-controls button {
+            padding: 4px 8px;
+            font-size: 0.8rem;
+        }
+
+        .selection-controls {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        .manage-container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .manage-category {
+            margin-bottom: 20px;
+        }
+
+        .manage-prompts {
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .manage-prompt {
+            padding: 10px;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .manage-prompt:last-child {
+            border-bottom: none;
+        }
+
+        .manage-controls {
+            display: flex;
+            gap: 5px;
+        }
+
+        .status-bar {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: var(--card-color);
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: all 0.3s ease;
+        }
+
+        .keyboard-shortcuts {
+            margin-top: 10px;
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .shortcut {
+            display: inline-block;
+            background-color: #f1f1f1;
+            padding: 2px 6px;
+            border-radius: 3px;
+            margin: 0 2px;
+            font-family: monospace;
+        }
+
+        /* For file input styling */
+        .file-input-wrapper {
+            position: relative;
+            overflow: hidden;
+            display: inline-block;
+        }
+
+        .file-input-wrapper input[type=file] {
+            position: absolute;
+            left: 0;
+            top: 0;
+            opacity: 0;
+            width: 100%;
+            height: 100%;
+            cursor: pointer;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .builder-container {
+                flex-direction: column;
+            }
+            
+            .categories-panel, .selection-panel {
+                max-width: 100%;
+            }
+            
+            .header-controls {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Fairy Tale Prompt Builder</h1>
+        <div class="header-controls">
+            <select id="dataset-selector">
+                <option value="main_dataset.json">Main Fairy Tale Prompts</option>
+                <option value="secondary_dataset.json">Author's Guide Do's and Don'ts</option>
+                <option value="narrative_structures_dataset.json">Narrative Structures Dataset</option>
+                <option value="magic_items_dataset.json">Magic Items Dataset</option>
+                <option value="language_style_dataset.json">Language and Style Dataset</option>
+                <option value="character_archetypes_dataset.json">Character Archetypes Dataset</option>
+            </select>
+            <div class="file-input-wrapper">
+                <button>Import Dataset</button>
+                <input type="file" id="import-dataset" accept=".json">
+            </div>
+            <button id="export-dataset">Export Dataset</button>
+        </div>
+    </header>
+
+    <div class="tabs">
+        <div class="tab active" data-tab="builder">Prompt Builder</div>
+        <div class="tab" data-tab="manage">Manage Prompts</div>
+    </div>
+
+    <div id="builder" class="tab-content active">
+        <div class="builder-container">
+            <div class="categories-panel" id="categories-container">
+                <!-- Categories will be populated here -->
+            </div>
+            <div class="selection-panel">
+                <h3>Selected Prompts</h3>
+                <div class="selected-prompts" id="selected-prompts-container">
+                    <!-- Selected prompts will be added here -->
+                </div>
+                <div class="selection-controls">
+                    <button id="add-new-prompt">Add New Prompt</button>
+                    <button id="copy-all">Copy All</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="manage" class="tab-content">
+        <div class="manage-container">
+            <div class="manage-category">
+                <select id="manage-category-selector">
+                    <!-- Categories will be populated here -->
+                </select>
+                <button id="add-prompt-to-category">Add New Prompt to Category</button>
+            </div>
+            <div class="manage-prompts" id="manage-prompts-container">
+                <!-- Prompts will be populated here -->
+            </div>
+        </div>
+    </div>
+
+    <div class="status-bar">
+        <div id="status-message">Ready</div>
+        <div class="keyboard-shortcuts">
+            <span>Shortcuts: <span class="shortcut">Tab</span> Navigate, <span class="shortcut">Enter</span> Select, <span class="shortcut">N</span> New Prompt, <span class="shortcut">C</span> Copy All</span>
+        </div>
+    </div>
+
+    <script>
+        // Global variables
+        let currentDataset = null;
+        let selectedPrompts = [];
+        let nextPromptId = 0;
+
+        // DOM Elements
+        const datasetSelector = document.getElementById('dataset-selector');
+        const categoriesContainer = document.getElementById('categories-container');
+        const selectedPromptsContainer = document.getElementById('selected-prompts-container');
+        const manageCategorySelector = document.getElementById('manage-category-selector');
+        const managePromptsContainer = document.getElementById('manage-prompts-container');
+        const statusMessage = document.getElementById('status-message');
+        const tabs = document.querySelectorAll('.tab');
+        const tabContents = document.querySelectorAll('.tab-content');
+
+        // Initialize the application
+        document.addEventListener('DOMContentLoaded', () => {
+            // Load the default dataset
+            loadDataset(datasetSelector.value);
+
+            // Set up event listeners
+            setupEventListeners();
+        });
+
+        // Set up all event listeners
+        function setupEventListeners() {
+            // Dataset selector change
+            datasetSelector.addEventListener('change', () => {
+                loadDataset(datasetSelector.value);
+            });
+
+            // Import dataset
+            document.getElementById('import-dataset').addEventListener('change', handleImportDataset);
+
+            // Export dataset
+            document.getElementById('export-dataset').addEventListener('click', handleExportDataset);
+
+            // Add new prompt button
+            document.getElementById('add-new-prompt').addEventListener('click', () => {
+                addNewPromptToSelection();
+            });
+
+            // Copy all button
+            document.getElementById('copy-all').addEventListener('click', copyAllPrompts);
+
+            // Add prompt to category button
+            document.getElementById('add-prompt-to-category').addEventListener('click', () => {
+                addPromptToCategory();
+            });
+
+            // Tab switching
+            tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    const tabId = tab.getAttribute('data-tab');
+                    switchTab(tabId);
+                });
+            });
+
+            // Keyboard shortcuts
+            document.addEventListener('keydown', handleKeyboardShortcuts);
+        }
+
+        // Load a dataset from file
+        async function loadDataset(filename) {
+            try {
+                const response = await fetch(`data/${filename}`);
+                if (!response.ok) {
+                    throw new Error(`Failed to load dataset: ${response.statusText}`);
+                }
+                
+                const data = await response.json();
+                currentDataset = data;
+                
+                // Update the UI
+                renderCategories();
+                renderManageCategories();
+                
+                // Find the highest ID to set nextPromptId
+                nextPromptId = findHighestId(data) + 1;
+                
+                // Apply dataset color theme
+                applyDatasetTheme(data);
+                
+                updateStatus(`Loaded dataset: ${data.metadata.name}`);
+            } catch (error) {
+                console.error('Error loading dataset:', error);
+                updateStatus(`Error: ${error.message}`);
+            }
+        }
+
+        // Apply color theme from dataset
+        function applyDatasetTheme(data) {
+            if (data.metadata && data.metadata.color) {
+                const color = data.metadata.color;
+                
+                // Update CSS variables
+                document.documentElement.style.setProperty('--primary-color', color);
+                
+                // Calculate secondary color (slightly lighter)
+                const secondaryColor = calculateSecondaryColor(color);
+                document.documentElement.style.setProperty('--secondary-color', secondaryColor);
+                
+                // Calculate active color (much lighter version of primary)
+                const activeColor = calculateActiveColor(color);
+                document.documentElement.style.setProperty('--active-color', activeColor);
+                
+                // Update all category headers
+                document.querySelectorAll('.category-header').forEach(header => {
+                    header.style.backgroundColor = secondaryColor;
+                });
+                
+                // Update all buttons
+                document.querySelectorAll('button').forEach(button => {
+                    button.style.backgroundColor = color;
+                });
+                
+                // Update heading color
+                document.querySelector('h1').style.color = color;
+            }
+        }
+
+        // Calculate a lighter version of a color for secondary elements
+        function calculateSecondaryColor(hexColor) {
+            // Convert hex to RGB
+            let r = parseInt(hexColor.slice(1, 3), 16);
+            let g = parseInt(hexColor.slice(3, 5), 16);
+            let b = parseInt(hexColor.slice(5, 7), 16);
+            
+            // Lighten by mixing with white
+            r = Math.floor(r * 0.7 + 255 * 0.3);
+            g = Math.floor(g * 0.7 + 255 * 0.3);
+            b = Math.floor(b * 0.7 + 255 * 0.3);
+            
+            // Convert back to hex
+            return `#${r.toString(16).padStart(2, '0')}${g.toString(16).padStart(2, '0')}${b.toString(16).padStart(2, '0')}`;
+        }
+
+        // Calculate a much lighter version of a color for active elements
+        function calculateActiveColor(hexColor) {
+            // Convert hex to RGB
+            let r = parseInt(hexColor.slice(1, 3), 16);
+            let g = parseInt(hexColor.slice(3, 5), 16);
+            let b = parseInt(hexColor.slice(5, 7), 16);
+            
+            // Lighten significantly by mixing with white
+            r = Math.floor(r * 0.2 + 255 * 0.8);
+            g = Math.floor(g * 0.2 + 255 * 0.8);
+            b = Math.floor(b * 0.2 + 255 * 0.8);
+            
+            // Convert back to hex
+            return `#${r.toString(16).padStart(2, '0')}${g.toString(16).padStart(2, '0')}${b.toString(16).padStart(2, '0')}`;
+        }
+
+        // Find the highest ID in the dataset
+        function findHighestId(data) {
+            let highestId = 0;
+            
+            for (const category in data.categories) {
+                for (const prompt of data.categories[category]) {
+                    if (prompt.id > highestId) {
+                        highestId = prompt.id;
+                    }
+                }
+            }
+            
+            return highestId;
+        }
+
+        // Render categories in the builder tab
+        function renderCategories() {
+            if (!currentDataset) return;
+            
+            categoriesContainer.innerHTML = '';
+            
+            for (const category in currentDataset.categories) {
+                const categoryElement = document.createElement('div');
+                categoryElement.className = 'category';
+                categoryElement.setAttribute('data-category', category);
+                
+                const displayName = formatCategoryName(category);
+                
+                categoryElement.innerHTML = `
+                    <div class="category-header">
+                        <span>${displayName}</span>
+                        <span>▼</span>
+                    </div>
+                    <div class="category-content">
+                        ${currentDataset.categories[category].map(prompt => `
+                            <div class="prompt-item" data-id="${prompt.id}" data-category="${category}">
+                                ${prompt.text}
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+                
+                categoriesContainer.appendChild(categoryElement);
+                
+                // Add click event for category header
+                const header = categoryElement.querySelector('.category-header');
+                header.addEventListener('click', () => {
+                    categoryElement.classList.toggle('open');
+                    const arrow = header.querySelector('span:last-child');
+                    arrow.textContent = categoryElement.classList.contains('open') ? '▲' : '▼';
+                });
+                
+                // Add click events for prompt items
+                const promptItems = categoryElement.querySelectorAll('.prompt-item');
+                promptItems.forEach(item => {
+                    item.addEventListener('click', () => {
+                        const id = parseInt(item.getAttribute('data-id'));
+                        const category = item.getAttribute('data-category');
+                        const prompt = currentDataset.categories[category].find(p => p.id === id);
+                        
+                        if (prompt) {
+                            addPromptToSelection(prompt.text, category);
+                            updateStatus(`Added prompt: ${prompt.text.substring(0, 30)}...`);
+                        }
+                    });
+                });
+            }
+            
+            // Apply dataset theme to category headers
+            if (currentDataset.metadata && currentDataset.metadata.color) {
+                const secondaryColor = calculateSecondaryColor(currentDataset.metadata.color);
+                document.querySelectorAll('.category-header').forEach(header => {
+                    header.style.backgroundColor = secondaryColor;
+                });
+            }
+        }
+
+        // Render categories in the manage tab
+        function renderManageCategories() {
+            if (!currentDataset) return;
+            
+            manageCategorySelector.innerHTML = '';
+            
+            for (const category in currentDataset.categories) {
+                const option = document.createElement('option');
+                option.value = category;
+                option.textContent = formatCategoryName(category);
+                manageCategorySelector.appendChild(option);
+            }
+            
+            // Trigger change to load prompts for the first category
+            renderManagePrompts(manageCategorySelector.value);
+            
+            // Add change event
+            manageCategorySelector.addEventListener('change', () => {
+                renderManagePrompts(manageCategorySelector.value);
+            });
+        }
+
+        // Render prompts for a category in the manage tab
+        function renderManagePrompts(category) {
+            if (!currentDataset || !currentDataset.categories[category]) return;
+            
+            managePromptsContainer.innerHTML = '';
+            
+            currentDataset.categories[category].forEach(prompt => {
+                const promptElement = document.createElement('div');
+                promptElement.className = 'manage-prompt';
+                promptElement.innerHTML = `
+                    <div>${prompt.text}</div>
+                    <div class="manage-controls">
+                        <button class="edit-prompt" data-id="${prompt.id}" data-category="${category}">Edit</button>
+                        <button class="delete-prompt" data-id="${prompt.id}" data-category="${category}">Delete</button>
+                    </div>
+                `;
+                
+                managePromptsContainer.appendChild(promptElement);
+            });
+            
+            // Add event listeners for edit and delete buttons
+            document.querySelectorAll('.edit-prompt').forEach(button => {
+                button.addEventListener('click', handleEditPrompt);
+            });
+            
+            document.querySelectorAll('.delete-prompt').forEach(button => {
+                button.addEventListener('click', handleDeletePrompt);
+            });
+            
+            // Apply dataset theme to buttons
+            if (currentDataset.metadata && currentDataset.metadata.color) {
+                document.querySelectorAll('button').forEach(button => {
+                    button.style.backgroundColor = currentDataset.metadata.color;
+                });
+            }
+        }
+
+        // Add a prompt to the selection
+        function addPromptToSelection(text = '', category = '') {
+            const promptId = `selected-${Date.now()}`;
+            const promptElement = document.createElement('div');
+            promptElement.className = 'selected-prompt';
+            promptElement.setAttribute('data-id', promptId);
+            promptElement.setAttribute('data-category', category);
+            
+            promptElement.innerHTML = `
+                <textarea>${text}</textarea>
+                <div class="prompt-controls">
+                    <button class="move-up">↑</button>
+                    <button class="move-down">↓</button>
+                    <button class="add-as-new">Add as New</button>
+                    <button class="remove-prompt">Remove</button>
+                </div>
+            `;
+            
+            selectedPromptsContainer.appendChild(promptElement);
+            
+            // Add event listeners for the controls
+            promptElement.querySelector('.move-up').addEventListener('click', () => {
+                movePromptUp(promptId);
+            });
+            
+            promptElement.querySelector('.move-down').addEventListener('click', () => {
+                movePromptDown(promptId);
+            });
+            
+            promptElement.querySelector('.add-as-new').addEventListener('click', () => {
+                const textarea = promptElement.querySelector('textarea');
+                const category = promptElement.getAttribute('data-category');
+                
+                if (textarea.value.trim() && category) {
+                    addNewPromptToDataset(textarea.value, category);
+                } else if (textarea.value.trim()) {
+                    // If no category, ask user to select one
+                    const categoryName = prompt('Select a category for this prompt:', Object.keys(currentDataset.categories).join(', '));
+                    if (categoryName && currentDataset.categories[categoryName]) {
+                        addNewPromptToDataset(textarea.value, categoryName);
+                    } else {
+                        alert('Invalid category name');
+                    }
+                }
+            });
+            
+            promptElement.querySelector('.remove-prompt').addEventListener('click', () => {
+                promptElement.remove();
+                updateStatus('Removed prompt from selection');
+            });
+            
+            // Focus the textarea if it's a new empty prompt
+            if (!text) {
+                promptElement.querySelector('textarea').focus();
+            }
+            
+            // Update the selected prompts array
+            selectedPrompts.push({
+                id: promptId,
+                text: text,
+                category: category
+            });
+            
+            // Apply dataset theme to buttons
+            if (currentDataset.metadata && currentDataset.metadata.color) {
+                promptElement.querySelectorAll('button').forEach(button => {
+                    button.style.backgroundColor = currentDataset.metadata.color;
+                });
+            }
+        }
+
+        // Add a new prompt to the current dataset
+        function addNewPromptToDataset(text, category) {
+            if (!currentDataset || !currentDataset.categories[category]) {
+                updateStatus('Error: Invalid category');
+                return;
+            }
+            
+            const newPrompt = {
+                id: nextPromptId++,
+                text: text
+            };
+            
+            currentDataset.categories[category].push(newPrompt);
+            
+            // Update the UI
+            renderCategories();
+            renderManagePrompts(manageCategorySelector.value);
+            
+            updateStatus(`Added new prompt to ${formatCategoryName(category)}`);
+            
+            // Save the dataset
+            saveDataset();
+        }
+
+        // Add a new prompt to a category (from manage tab)
+        function addPromptToCategory() {
+            const category = manageCategorySelector.value;
+            const text = prompt('Enter the new prompt text:');
+            
+            if (text && text.trim()) {
+                addNewPromptToDataset(text, category);
+            }
+        }
+
+        // Handle editing a prompt
+        function handleEditPrompt(event) {
+            const button = event.target;
+            const id = parseInt(button.getAttribute('data-id'));
+            const category = button.getAttribute('data-category');
+            
+            const prompt = currentDataset.categories[category].find(p => p.id === id);
+            if (!prompt) return;
+            
+            const newText = prompt('Edit prompt:', prompt.text);
+            if (newText && newText.trim()) {
+                prompt.text = newText;
+                
+                // Update the UI
+                renderCategories();
+                renderManagePrompts(category);
+                
+                updateStatus('Updated prompt');
+                
+                // Save the dataset
+                saveDataset();
+            }
+        }
+
+        // Handle deleting a prompt
+        function handleDeletePrompt(event) {
+            const button = event.target;
+            const id = parseInt(button.getAttribute('data-id'));
+            const category = button.getAttribute('data-category');
+            
+            if (confirm('Are you sure you want to delete this prompt?')) {
+                const index = currentDataset.categories[category].findIndex(p => p.id === id);
+                if (index !== -1) {
+                    currentDataset.categories[category].splice(index, 1);
+                    
+                    // Update the UI
+                    renderCategories();
+                    renderManagePrompts(category);
+                    
+                    updateStatus('Deleted prompt');
+                    
+                    // Save the dataset
+                    saveDataset();
+                }
+            }
+        }
+
+        // Move a prompt up in the selection
+        function movePromptUp(id) {
+            const promptElement = document.querySelector(`.selected-prompt[data-id="${id}"]`);
+            const previousElement = promptElement.previousElementSibling;
+            
+            if (previousElement) {
+                selectedPromptsContainer.insertBefore(promptElement, previousElement);
+                updateStatus('Moved prompt up');
+            }
+        }
+
+        // Move a prompt down in the selection
+        function movePromptDown(id) {
+            const promptElement = document.querySelector(`.selected-prompt[data-id="${id}"]`);
+            const nextElement = promptElement.nextElementSibling;
+            
+            if (nextElement) {
+                selectedPromptsContainer.insertBefore(nextElement, promptElement);
+                updateStatus('Moved prompt down');
+            }
+        }
+
+        // Copy all selected prompts to clipboard
+        function copyAllPrompts() {
+            const prompts = Array.from(selectedPromptsContainer.querySelectorAll('textarea'))
+                .map(textarea => textarea.value)
+                .filter(text => text.trim())
+                .join('\n\n');
+            
+            if (prompts) {
+                navigator.clipboard.writeText(prompts)
+                    .then(() => {
+                        updateStatus('Copied all prompts to clipboard');
+                    })
+                    .catch(err => {
+                        console.error('Failed to copy: ', err);
+                        
+                        // Fallback for browsers that don't support clipboard API
+                        const textarea = document.createElement('textarea');
+                        textarea.value = prompts;
+                        document.body.appendChild(textarea);
+                        textarea.select();
+                        document.execCommand('copy');
+                        document.body.removeChild(textarea);
+                        
+                        updateStatus('Copied all prompts to clipboard (fallback method)');
+                    });
+            } else {
+                updateStatus('No prompts to copy');
+            }
+        }
+
+        // Add a new empty prompt to the selection
+        function addNewPromptToSelection() {
+            addPromptToSelection();
+            updateStatus('Added new empty prompt to selection');
+        }
+
+        // Handle importing a dataset
+        function handleImportDataset(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const data = JSON.parse(e.target.result);
+                    
+                    // Validate the dataset structure
+                    if (!data.metadata || !data.categories) {
+                        throw new Error('Invalid dataset format');
+                    }
+                    
+                    // Ensure the dataset has a color
+                    if (!data.metadata.color) {
+                        data.metadata.color = generateRandomColor();
+                    }
+                    
+                    currentDataset = data;
+                    
+                    // Update the UI
+                    renderCategories();
+                    renderManageCategories();
+                    
+                    // Apply the dataset theme
+                    applyDatasetTheme(data);
+                    
+                    // Find the highest ID to set nextPromptId
+                    nextPromptId = findHighestId(data) + 1;
+                    
+                    updateStatus(`Imported dataset: ${data.metadata.name}`);
+                    
+                    // Save the dataset with a new name
+                    const filename = prompt('Enter a filename for this dataset:', 'custom_dataset.json');
+                    if (filename) {
+                        saveDataset(filename);
+                        
+                        // Add to the dataset selector
+                        const option = document.createElement('option');
+                        option.value = filename;
+                        option.textContent = data.metadata.name;
+                        datasetSelector.appendChild(option);
+                        datasetSelector.value = filename;
+                    }
+                } catch (error) {
+                    console.error('Error parsing dataset:', error);
+                    updateStatus(`Error: ${error.message}`);
+                }
+            };
+            reader.readAsText(file);
+        }
+
+        // Generate a random color for imported datasets without colors
+        function generateRandomColor() {
+            const letters = '0123456789ABCDEF';
+            let color = '#';
+            for (let i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+            return color;
+        }
+
+        // Handle exporting the current dataset
+        function handleExportDataset() {
+            if (!currentDataset) {
+                updateStatus('No dataset to export');
+                return;
+            }
+            
+            const dataStr = JSON.stringify(currentDataset, null, 2);
+            const dataUri = 'data:application/json;charset=utf-8,' + encodeURIComponent(dataStr);
+            
+            const exportName = `${currentDataset.metadata.name.replace(/\s+/g, '_').toLowerCase()}.json`;
+            
+            const linkElement = document.createElement('a');
+            linkElement.setAttribute('href', dataUri);
+            linkElement.setAttribute('download', exportName);
+            linkElement.click();
+            
+            updateStatus(`Exported dataset: ${currentDataset.metadata.name}`);
+        }
+
+        // Save the current dataset
+        function saveDataset(filename = null) {
+            if (!currentDataset) return;
+            
+            // Update the last modified date
+            currentDataset.metadata.lastModified = new Date().toISOString().split('T')[0];
+            
+            // In a real application, this would send the data to a server
+            // For this demo, we'll just log it to the console
+            console.log('Saving dataset:', currentDataset);
+            
+            // If we're in a real environment with server access, we would save the file
+            // For now, we'll just update the status
+            updateStatus(`Dataset saved: ${currentDataset.metadata.name}`);
+            
+            // In a real application with server access:
+            // const dataStr = JSON.stringify(currentDataset, null, 2);
+            // const file = new Blob([dataStr], {type: 'application/json'});
+            // const formData = new FormData();
+            // formData.append('file', file, filename || datasetSelector.value);
+            // fetch('/save-dataset', {
+            //     method: 'POST',
+            //     body: formData
+            // });
+        }
+
+        // Switch between tabs
+        function switchTab(tabId) {
+            tabs.forEach(tab => {
+                tab.classList.toggle('active', tab.getAttribute('data-tab') === tabId);
+            });
+            
+            tabContents.forEach(content => {
+                content.classList.toggle('active', content.id === tabId);
+            });
+            
+            updateStatus(`Switched to ${tabId} tab`);
+        }
+
+        // Handle keyboard shortcuts
+        function handleKeyboardShortcuts(event) {
+            // Only handle shortcuts when not in an input field
+            if (event.target.tagName === 'INPUT' || event.target.tagName === 'TEXTAREA') {
+                return;
+            }
+            
+            switch (event.key) {
+                case 'n':
+                case 'N':
+                    // Add new prompt
+                    addNewPromptToSelection();
+                    break;
+                    
+                case 'c':
+                case 'C':
+                    // Copy all prompts
+                    copyAllPrompts();
+                    break;
+                    
+                case '1':
+                    // Switch to builder tab
+                    switchTab('builder');
+                    break;
+                    
+                case '2':
+                    // Switch to manage tab
+                    switchTab('manage');
+                    break;
+            }
+        }
+
+        // Format a category name for display
+        function formatCategoryName(category) {
+            return category
+                .replace(/_/g, ' ')
+                .split(' ')
+                .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                .join(' ');
+        }
+
+        // Update the status message
+        function updateStatus(message) {
+            statusMessage.textContent = message;
+            console.log(message);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "name": "Narrative Structures Dataset",
+    "description": "Story structures and patterns from Grimms' Fairy Tales",
+    "lastModified": "2025-05-20",
+    "color": "#6d597a"
+  },
+  "categories": {
+    "linear_quest": [
+      { "id": 1, "text": "Protagonist sets out to find a specific magical object (Golden Bird, Water of Life)" },
+      { "id": 2, "text": "Character must search for missing or kidnapped siblings or loved ones" },
+      { "id": 3, "text": "Hero must discover the name or true identity of a magical being" },
+      { "id": 4, "text": "Youngest sibling embarks on journey where older siblings have failed" },
+      { "id": 5, "text": "Character must travel to a distant, dangerous location to obtain a cure or remedy" }
+    ],
+    "trial_task_structure": [
+      { "id": 6, "text": "Protagonist must complete three impossible tasks to win a prize or break a spell" },
+      { "id": 7, "text": "Character must watch over something for three consecutive nights" },
+      { "id": 8, "text": "Hero must answer three riddles or questions to save their life" },
+      { "id": 9, "text": "Tasks test virtue (kindness, obedience) rather than strength or skill" },
+      { "id": 10, "text": "Each task is more difficult than the previous one" }
+    ],
+    "transformation_restoration": [
+      { "id": 11, "text": "Character is transformed into an animal due to a curse or enchantment" },
+      { "id": 12, "text": "Person is turned to stone and must be restored by specific action" },
+      { "id": 13, "text": "Transformation occurs through breaking a taboo or disobeying instructions" },
+      { "id": 14, "text": "Restoration requires an act of true love or faithfulness" },
+      { "id": 15, "text": "Character moves between social states (poverty to royalty) through magical intervention" }
+    ],
+    "punishment_reward": [
+      { "id": 16, "text": "Kindness to strangers or animals is rewarded with magical assistance" },
+      { "id": 17, "text": "Pride, greed, or cruelty leads to fitting supernatural punishment" },
+      { "id": 18, "text": "Breaking promises results in immediate negative consequences" },
+      { "id": 19, "text": "Humility and honesty are rewarded with marriage to royalty" },
+      { "id": 20, "text": "Punishment often mirrors the crime (greedy person drowns in gold)" }
+    ],
+    "cause_effect": [
+      { "id": 21, "text": "Simple action triggers significant, immediate magical consequences" },
+      { "id": 22, "text": "Uttering a rash wish causes supernatural events" },
+      { "id": 23, "text": "Interacting with a magical object sets the plot in motion" },
+      { "id": 24, "text": "Breaking a taboo unleashes supernatural forces" },
+      { "id": 25, "text": "Small kindness to magical being leads to life-changing reward" }
+    ],
+    "cyclical_repetition": [
+      { "id": 26, "text": "Character attends an event (ball, market) three times with escalating stakes" },
+      { "id": 27, "text": "Villain makes multiple attempts to harm protagonist, each more dangerous" },
+      { "id": 28, "text": "Helper fails multiple times before succeeding on final attempt" },
+      { "id": 29, "text": "Pattern of three brothers or sisters attempting the same task" },
+      { "id": 30, "text": "Repeated magical phrases or actions with slight variations each time" }
+    ],
+    "hidden_identity": [
+      { "id": 31, "text": "Royal character disguised as commoner (goose-girl, gardener's boy)" },
+      { "id": 32, "text": "Enchanted prince/princess in animal form seeking to break spell" },
+      { "id": 33, "text": "True identity revealed at climactic moment through token or birthmark" },
+      { "id": 34, "text": "Character in disguise tests loyalty of others" },
+      { "id": 35, "text": "Magical being conceals true nature until specific conditions are met" }
+    ],
+    "simpleton_success": [
+      { "id": 36, "text": "Character deemed foolish by family succeeds where clever siblings fail" },
+      { "id": 37, "text": "Success comes through inherent goodness rather than intelligence" },
+      { "id": 38, "text": "Simple character follows instructions literally when others overthink" },
+      { "id": 39, "text": "Kindness to nature/magical beings brings unexpected aid to the simpleton" },
+      { "id": 40, "text": "Apparent foolishness reveals itself as wisdom by story's end" }
+    ]
+  }
+}
