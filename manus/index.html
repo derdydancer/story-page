@@ -106,6 +106,7 @@
             setupEventListeners();
         });
 
+
         // Set up all event listeners
         function setupEventListeners() {
             // Dataset selector change
@@ -388,68 +389,71 @@
         }
 
         // Add a prompt to the selection
-        function addPromptToSelection(text = '', category = '', dataset = null, emoji = '') {
+       function addPromptToSelection(text = '', category = '', dataset = null, emoji = '') {
             const promptId = `selected-${Date.now()}`;
-            const promptElement = document.createElement('div');
-            promptElement.className = 'selected-prompt';
-            promptElement.setAttribute('data-id', promptId);
-            promptElement.setAttribute('data-category', category);
             
+            // Create wrapper div
+            const wrapper = document.createElement('div');
+            wrapper.className = 'prompt-wrapper';
+
             // Store dataset information
             const datasetInfo = dataset || currentDataset;
             const datasetName = datasetInfo.metadata.name;
             const datasetColor = datasetInfo.metadata.color;
-            
-            // Create dataset label with dataset color
-            const labelHtml = dataset ? 
-                `<div class="dataset-label" style="background-color: ${datasetColor}">${datasetName}</div><span class="prompt-emoji">${emoji}</span>` : 
-                '<span class="prompt-emoji">${emoji}</span>';
-            
+
+            // Create the dataset label element
+            const datasetLabel = document.createElement('div');
+            datasetLabel.className = 'dataset-label';
+            datasetLabel.textContent = datasetName;
+
+            // Create the selected prompt element
+            const promptElement = document.createElement('div');
+            promptElement.className = 'selected-prompt';
+            promptElement.setAttribute('data-id', promptId);
+            promptElement.setAttribute('data-category', category);
+
+            // Inner HTML for the selected prompt
             promptElement.innerHTML = `
-                <div class="drag-handle" title="Drag to reorder">☰</div>
-                ${labelHtml}
+                <span class="prompt-emoji">${emoji}</span>
                 <textarea>${text}</textarea>
                 <div class="prompt-controls">
-                    <button class="move-top">⇈</button>
-                    <button class="move-up">↑</button>
-                    <button class="move-down">↓</button>
-                    <button class="move-bottom">⇊</button>
+                    <button class="move-top" title="Move to Top">⇈</button>
+                    <button class="move-up" title="Move Up">↑</button>
+                    <button class="move-down" title="Move Down">↓</button>
+                    <button class="move-bottom" title="Move to Bottom">⇊</button>
                     <button class="add-as-new">Add as New</button>
                     <button class="remove-prompt">Remove</button>
                 </div>
             `;
-            
-            selectedPromptsContainer.appendChild(promptElement);
-            
+
+            // Append dataset label and prompt element to wrapper
+            wrapper.appendChild(datasetLabel);
+            wrapper.appendChild(promptElement);
+            selectedPromptsContainer.appendChild(wrapper);
+
             // Apply dataset-specific styling if available
             if (dataset) {
-                // Style the prompt background with a lighter version of the dataset color
                 const lightBgColor = calculateActiveColor(datasetColor);
                 promptElement.style.backgroundColor = lightBgColor;
-                
-                // Style the buttons with the dataset color
+
                 promptElement.querySelectorAll('button').forEach(button => {
                     button.style.backgroundColor = datasetColor;
                 });
             }
-            
-            // Add event listeners for the controls
-            promptElement.querySelector('.move-up').addEventListener('click', () => {
-                movePromptUp(promptId);
-            });
-            
-            promptElement.querySelector('.move-down').addEventListener('click', () => {
-                movePromptDown(promptId);
-            });
-            
+
+            // Attach control events
+            promptElement.querySelector('.move-up').addEventListener('click', () => movePromptUp(promptId));
+            promptElement.querySelector('.move-down').addEventListener('click', () => movePromptDown(promptId));
+            promptElement.querySelector('.move-top').addEventListener('click', () => movePromptToTop(promptId));
+            promptElement.querySelector('.move-bottom').addEventListener('click', () => movePromptToBottom(promptId));
+
             promptElement.querySelector('.add-as-new').addEventListener('click', () => {
                 const textarea = promptElement.querySelector('textarea');
                 const category = promptElement.getAttribute('data-category');
-                
+
                 if (textarea.value.trim() && category) {
                     addNewPromptToDataset(textarea.value, category);
                 } else if (textarea.value.trim()) {
-                    // If no category, ask user to select one
                     const categoryName = prompt('Select a category for this prompt:', Object.keys(currentDataset.categories).join(', '));
                     if (categoryName && currentDataset.categories[categoryName]) {
                         addNewPromptToDataset(textarea.value, categoryName);
@@ -458,24 +462,16 @@
                     }
                 }
             });
-            
+
             promptElement.querySelector('.remove-prompt').addEventListener('click', () => {
-                promptElement.remove();
+                wrapper.remove();
                 updateStatus('Removed prompt from selection');
             });
-            
-            promptElement.querySelector('.move-top').addEventListener('click', () => {
-                movePromptToTop(promptId);
-            });
-            promptElement.querySelector('.move-bottom').addEventListener('click', () => {
-                movePromptToBottom(promptId);
-            });
-            
-            // Focus the textarea if it's a new empty prompt
+
             if (!text) {
                 promptElement.querySelector('textarea').focus();
             }
-            
+
             // Update the selected prompts array
             selectedPrompts.push({
                 id: promptId,
@@ -487,6 +483,7 @@
                 } : null
             });
         }
+
 
         // Add a new prompt to the current dataset
         function addNewPromptToDataset(text, category) {
@@ -572,37 +569,95 @@
         // Move a prompt up in the selection
         function movePromptUp(id) {
             const promptElement = document.querySelector(`.selected-prompt[data-id="${id}"]`);
-            const previousElement = promptElement.previousElementSibling;
-            
-            if (previousElement) {
-                selectedPromptsContainer.insertBefore(promptElement, previousElement);
-                updateStatus('Moved prompt up');
+            if (!promptElement) return;
+            const wrapper = promptElement.closest('.prompt-wrapper');
+            if (!wrapper) return;
+            const previousWrapper = wrapper.previousElementSibling;
+            if (previousWrapper) {
+            selectedPromptsContainer.insertBefore(wrapper, previousWrapper);
+            animateMove(promptElement);
+            updateStatus('Moved prompt up');
             }
         }
 
         // Move a prompt down in the selection
         function movePromptDown(id) {
             const promptElement = document.querySelector(`.selected-prompt[data-id="${id}"]`);
-            const nextElement = promptElement.nextElementSibling;
-            
-            if (nextElement) {
-                selectedPromptsContainer.insertBefore(nextElement, promptElement);
+            if (!promptElement) return;
+            const wrapper = promptElement.closest('.prompt-wrapper');
+            if (!wrapper) return;
+            const nextWrapper = wrapper.nextElementSibling;
+            if (nextWrapper) {
+                selectedPromptsContainer.insertBefore(nextWrapper, wrapper);
+                animateMove(promptElement);
                 updateStatus('Moved prompt down');
             }
         }
 
-        // Move a prompt to the top in the selection
+
         function movePromptToTop(id) {
             const promptElement = document.querySelector(`.selected-prompt[data-id="${id}"]`);
-            selectedPromptsContainer.insertBefore(promptElement, selectedPromptsContainer.firstChild);
-            updateStatus('Moved prompt to top');
+            if (promptElement) {
+            const wrapper = promptElement.closest('.prompt-wrapper');
+            if (wrapper) {
+                selectedPromptsContainer.insertBefore(wrapper, selectedPromptsContainer.firstChild);
+                animateMove(promptElement);
+                updateStatus('Moved prompt to top');
+            }
+            }
         }
 
-        // Move a prompt to the bottom in the selection
         function movePromptToBottom(id) {
             const promptElement = document.querySelector(`.selected-prompt[data-id="${id}"]`);
-            selectedPromptsContainer.appendChild(promptElement);
-            updateStatus('Moved prompt to bottom');
+            if (promptElement) {
+            const wrapper = promptElement.closest('.prompt-wrapper');
+            if (wrapper) {
+                selectedPromptsContainer.appendChild(wrapper);
+                animateMove(promptElement);
+                updateStatus('Moved prompt to bottom');
+            }
+            }
+        }
+
+        // Animate the movement of a prompt element from its old position to its new position
+        function animateMove(element) {
+            // Get the wrapper (for more accurate movement)
+            const wrapper = element.closest('.prompt-wrapper');
+            if (!wrapper) return;
+
+            // Get the previous position
+            const firstRect = wrapper.getBoundingClientRect();
+
+            // Force reflow to ensure the DOM is up to date
+            wrapper.offsetHeight;
+
+            // After DOM changes, get the new position
+            requestAnimationFrame(() => {
+            const lastRect = wrapper.getBoundingClientRect();
+
+            // Calculate the delta
+            const deltaY = firstRect.top - lastRect.top;
+
+            // Only animate if there is a movement
+            if (deltaY !== 0) {
+                // Apply transform to start at the old position
+                wrapper.style.transition = 'none';
+                wrapper.style.transform = `translateY(${deltaY}px)`;
+
+                // Force reflow
+                wrapper.offsetHeight;
+
+                // Animate to the new position
+                wrapper.style.transition = 'transform 0.3s cubic-bezier(.4,2,.6,1)';
+                wrapper.style.transform = '';
+
+                // Remove the transition after animation
+                wrapper.addEventListener('transitionend', function cleanup() {
+                wrapper.style.transition = '';
+                wrapper.removeEventListener('transitionend', cleanup);
+                });
+            }
+            });
         }
 
         // Copy all selected prompts to clipboard
