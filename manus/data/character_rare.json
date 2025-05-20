@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "name": "Character Archetypes (Rare Ones Expansion)",
+    "description": "Uncommon and distinctive character archetypes for fairy tales",
+    "lastModified": "2025-05-20",
+    "color": "#bc6c25"
+  },
+  "categories": {
+    "liminal_figures": [
+      { "id": 1, "text": "The Threshold Guardian who appears human but exists to test worthiness at crossroads" },
+      { "id": 2, "text": "The Twilight Merchant who trades only during the transition between day and night" },
+      { "id": 3, "text": "The Bridge Keeper who knows every traveler's true destination better than they do" },
+      { "id": 4, "text": "The Season Straddler who lives half the year above ground and half below" },
+      { "id": 5, "text": "The Echo Collector who gathers words never meant to be heard" }
+    ],
+    "knowledge_bearers": [
+      { "id": 6, "text": "The Cartographer of Forgotten Places who maps locations that exist only in memory" },
+      { "id": 7, "text": "The Pattern Reader who sees connections between seemingly unrelated events" },
+      { "id": 8, "text": "The Dream Archivist who catalogs and interprets collective dreams" },
+      { "id": 9, "text": "The Keeper of Discarded Names who remembers what everyone else has forgotten" },
+      { "id": 10, "text": "The Translator of Silent Languages who understands what objects and places would say" }
+    ],
+    "transformed_beings": [
+      { "id": 11, "text": "The Partially Restored who remains half-transformed after an incomplete spell" },
+      { "id": 12, "text": "The Voluntary Exile who chose to become something other than human" },
+      { "id": 13, "text": "The Composite Being made from parts of different creatures but with a unified consciousness" },
+      { "id": 14, "text": "The Seasonal Shifter whose form changes with each solstice and equinox" },
+      { "id": 15, "text": "The Echo of Someone who exists as an impression left behind by a departed person" }
+    ],
+    "burden_bearers": [
+      { "id": 16, "text": "The Collector of Sorrows who absorbs grief from others but cannot release their own" },
+      { "id": 17, "text": "The Promise Keeper bound by oaths made by ancestors generations ago" },
+      { "id": 18, "text": "The Debt Inheritor who must repay what others borrowed from magical forces" },
+      { "id": 19, "text": "The Secret Vessel containing knowledge too dangerous to be spoken aloud" },
+      { "id": 20, "text": "The Curse Diluter who takes portions of others' curses upon themselves" }
+    ],
+    "paradoxical_figures": [
+      { "id": 21, "text": "The Blind Seer who perceives truth precisely because they cannot see appearances" },
+      { "id": 22, "text": "The Immortal Seeker of Death who cannot die but helps others find peaceful endings" },
+      { "id": 23, "text": "The Benevolent Trickster whose deceptions ultimately reveal deeper truths" },
+      { "id": 24, "text": "The Wealthy Beggar who possesses treasures no one else recognizes as valuable" },
+      { "id": 25, "text": "The Eloquent Mute who communicates profound ideas without speaking" }
+    ],
+    "boundary_crossers": [
+      { "id": 26, "text": "The Dream Walker who can enter and influence others' dreams" },
+      { "id": 27, "text": "The Memory Thief who can extract and collect specific memories from others" },
+      { "id": 28, "text": "The Between-Worlds Child raised in multiple realms simultaneously" },
+      { "id": 29, "text": "The Time Skimmer who experiences moments out of sequence" },
+      { "id": 30, "text": "The Shadow Borrower who can temporarily take on aspects of others" }
+    ],
+    "catalysts": [
+      { "id": 31, "text": "The Unintentional Prophet whose casual words always come true in unexpected ways" },
+      { "id": 32, "text": "The Fate Tangler whose presence causes improbable coincidences" },
+      { "id": 33, "text": "The Gift Giver whose presents always transform the recipient's life" },
+      { "id": 34, "text": "The Question Asker whose inquiries reveal truths people hide from themselves" },
+      { "id": 35, "text": "The Spark Carrier who inadvertently awakens dormant magic in others" }
+    ]
+  }
+}

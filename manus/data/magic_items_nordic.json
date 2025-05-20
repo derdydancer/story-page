@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "name": "Magic Items (Nordic Expansion)",
+    "description": "Magical artifacts inspired by Nordic mythology and folklore",
+    "lastModified": "2025-05-20",
+    "color": "#5e60ce"
+  },
+  "categories": {
+    "weapons_and_armor": [
+      { "id": 1, "text": "Spear that never misses but returns with knowledge from wherever it strikes" },
+      { "id": 2, "text": "Axe that can split mountains but grows heavier with each swing" },
+      { "id": 3, "text": "Shield made of frozen light that turns attackers to ice sculptures" },
+      { "id": 4, "text": "Helm that grants foresight in battle but blindness to peaceful solutions" },
+      { "id": 5, "text": "Gauntlets that can catch lightning and reshape it into weapons" }
+    ],
+    "fate_objects": [
+      { "id": 6, "text": "Thread that, when woven into clothing, binds the wearer's fate to a specific purpose" },
+      { "id": 7, "text": "Well water that shows reflections of possible futures when drunk" },
+      { "id": 8, "text": "Runestone that rearranges its markings to answer one question per season" },
+      { "id": 9, "text": "Loom that weaves the life threads of those nearby, allowing manipulation of their destinies" },
+      { "id": 10, "text": "Bone dice that always predict the outcome of the next important choice" }
+    ],
+    "transformation_items": [
+      { "id": 11, "text": "Cloak of raven feathers that transforms the wearer into a bird at twilight" },
+      { "id": 12, "text": "Belt that grants the strength of ten warriors but the hunger of twenty" },
+      { "id": 13, "text": "Necklace of bear teeth that allows shapeshifting during the full moon" },
+      { "id": 14, "text": "Drinking horn that fills with mead that transforms drinkers according to their true nature" },
+      { "id": 15, "text": "Boots that turn the wearer's footsteps into whatever terrain they most need" }
+    ],
+    "elemental_artifacts": [
+      { "id": 16, "text": "Hammer that summons storms but requires a personal sacrifice with each use" },
+      { "id": 17, "text": "Cauldron that brews potions from emotions poured into it" },
+      { "id": 18, "text": "Torch that burns with the cold fire of the underworld, freezing instead of burning" },
+      { "id": 19, "text": "Stone that controls the tides when placed in water" },
+      { "id": 20, "text": "Flute carved from a world-tree branch that can summon or dismiss winds" }
+    ],
+    "binding_objects": [
+      { "id": 21, "text": "Chain forged from whispers that can bind anything, even concepts or ideas" },
+      { "id": 22, "text": "Ribbon woven from moonlight that, once tied, cannot be broken until a specific condition is met" },
+      { "id": 23, "text": "Ring that binds the wearer's life force to another person, sharing wounds and healing" },
+      { "id": 24, "text": "Rope made from a sea serpent's beard that can capture creatures from any realm" },
+      { "id": 25, "text": "Shackles that bind not the body but the shadow, preventing the captive from leaving" }
+    ],
+    "wisdom_artifacts": [
+      { "id": 26, "text": "Eye in a jar that grants visions of hidden knowledge when gazed upon" },
+      { "id": 27, "text": "Mead that bestows poetic ability but takes a memory with each sip" },
+      { "id": 28, "text": "Severed head that speaks wisdom but only through riddles" },
+      { "id": 29, "text": "Staff carved with runes that reveal themselves only to those who have suffered greatly" },
+      { "id": 30, "text": "Bowl that fills with water showing the reflection of those who possess knowledge you seek" }
+    ],
+    "journey_items": [
+      { "id": 31, "text": "Boat that can sail through earth and air as easily as water" },
+      { "id": 32, "text": "Compass that points to the holder's greatest desire rather than north" },
+      { "id": 33, "text": "Shoes that leave no tracks but take the wearer on unexpected detours" },
+      { "id": 34, "text": "Map that shows not where things are but where they will be" },
+      { "id": 35, "text": "Walking stick that knows the way to any destination but chooses whether to reveal it" }
+    ]
+  }
+}

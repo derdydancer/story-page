@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "name": "Character Archetypes (Modern Literature Expansion)",
+    "description": "Contemporary character archetypes adapted for fairy tales",
+    "lastModified": "2025-05-20",
+    "color": "#8338ec"
+  },
+  "categories": {
+    "reluctant_heroes": [
+      { "id": 1, "text": "The Ordinary Person thrust into extraordinary circumstances against their will" },
+      { "id": 2, "text": "The Imposter Syndrome Sufferer who doubts their abilities despite evidence of their gifts" },
+      { "id": 3, "text": "The Retired Veteran called back for one last quest or mission" },
+      { "id": 4, "text": "The Accidental Chosen One who fulfills a prophecy through coincidence rather than destiny" },
+      { "id": 5, "text": "The Inheritance Rejector who initially refuses their birthright or legacy" }
+    ],
+    "complex_villains": [
+      { "id": 6, "text": "The Fallen Idealist whose noble goals became corrupted by extreme methods" },
+      { "id": 7, "text": "The Sympathetic Antagonist whose backstory explains their seemingly evil actions" },
+      { "id": 8, "text": "The Reluctant Enforcer who carries out villainous orders while questioning their morality" },
+      { "id": 9, "text": "The Mirror Villain who represents what the protagonist could become with different choices" },
+      { "id": 10, "text": "The System Rather Than Person where institutional forces rather than individuals cause harm" }
+    ],
+    "moral_ambiguity": [
+      { "id": 11, "text": "The Antihero who does right things for wrong reasons or through questionable methods" },
+      { "id": 12, "text": "The Necessary Evil who commits terrible acts that ultimately prevent greater suffering" },
+      { "id": 13, "text": "The Tarnished Paragon whose public virtue masks private flaws" },
+      { "id": 14, "text": "The Ethical Shapeshifter who adapts their moral code to different situations" },
+      { "id": 15, "text": "The Compromised Authority whose position requires betraying their principles" }
+    ],
+    "identity_explorers": [
+      { "id": 16, "text": "The Code Switcher who presents different personas in different contexts" },
+      { "id": 17, "text": "The Cultural Bridge who navigates between different worlds or communities" },
+      { "id": 18, "text": "The Self-Reinventor who deliberately transforms their identity" },
+      { "id": 19, "text": "The Heritage Seeker searching for connections to their roots or ancestry" },
+      { "id": 20, "text": "The Identity Integrator working to reconcile conflicting aspects of themselves" }
+    ],
+    "technological_beings": [
+      { "id": 21, "text": "The Sentient Creation who develops consciousness beyond their creator's intentions" },
+      { "id": 22, "text": "The Human-Technology Hybrid whose enhancements raise questions about humanity" },
+      { "id": 23, "text": "The Digital Entity trapped between virtual and physical existence" },
+      { "id": 24, "text": "The Technological Animist who perceives spirits or consciousness in machines" },
+      { "id": 25, "text": "The Memory Curator who preserves or manipulates digital records of the past" }
+    ],
+    "psychological_archetypes": [
+      { "id": 26, "text": "The Unreliable Narrator whose perception of reality cannot be trusted" },
+      { "id": 27, "text": "The Trauma Survivor whose past experiences shape their current behavior" },
+      { "id": 28, "text": "The Projection Carrier onto whom others impose their expectations and fears" },
+      { "id": 29, "text": "The Inner Child Embodiment representing unresolved aspects of another character" },
+      { "id": 30, "text": "The Shadow Self who manifests repressed qualities of the protagonist" }
+    ],
+    "relationship_innovators": [
+      { "id": 31, "text": "The Chosen Family Builder who creates meaningful bonds beyond blood relations" },
+      { "id": 32, "text": "The Emotional Translator who helps others understand their feelings" },
+      { "id": 33, "text": "The Boundary Setter who redefines relationship expectations" },
+      { "id": 34, "text": "The Connection Catalyst who brings people together in unexpected ways" },
+      { "id": 35, "text": "The Relationship Anarchist who rejects traditional power dynamics in connections" }
+    ]
+  }
+}

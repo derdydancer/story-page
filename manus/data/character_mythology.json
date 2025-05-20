@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "name": "Character Archetypes (Ancient Mythology Expansion)",
+    "description": "Character types from ancient mythological traditions",
+    "lastModified": "2025-05-20",
+    "color": "#9b2226"
+  },
+  "categories": {
+    "cosmic_originators": [
+      { "id": 1, "text": "The Primordial Pair whose union or separation creates the world" },
+      { "id": 2, "text": "The Cosmic Weaver who spins the fabric of reality from primordial elements" },
+      { "id": 3, "text": "The World Shaper who forms landscapes from their own body" },
+      { "id": 4, "text": "The First Sacrifice whose dismemberment creates different realms" },
+      { "id": 5, "text": "The Void Dweller who existed before creation and remains outside its laws" }
+    ],
+    "divine_mediators": [
+      { "id": 6, "text": "The Fire Bringer who steals divine power to benefit humanity" },
+      { "id": 7, "text": "The Divine Messenger who travels between realms with cosmic news" },
+      { "id": 8, "text": "The Celestial Scribe who records the fates of gods and mortals" },
+      { "id": 9, "text": "The Divine Child raised among mortals, unaware of their true nature" },
+      { "id": 10, "text": "The Oath Keeper who enforces promises made between gods and humans" }
+    ],
+    "cosmic_challengers": [
+      { "id": 11, "text": "The Divine Usurper who overthrows an established cosmic order" },
+      { "id": 12, "text": "The Bound Power whose imprisonment maintains cosmic balance" },
+      { "id": 13, "text": "The Chaos Bringer who disrupts order to enable new creation" },
+      { "id": 14, "text": "The Cosmic Trickster whose pranks have world-altering consequences" },
+      { "id": 15, "text": "The Elder Power who predates current gods and resents their dominance" }
+    ],
+    "fate_figures": [
+      { "id": 16, "text": "The Destiny Weavers who spin, measure, and cut the threads of mortal lives" },
+      { "id": 17, "text": "The Prophecy Speaker whose words inevitably come true despite attempts to avoid them" },
+      { "id": 18, "text": "The Doom Assigner who determines how each person will meet their end" },
+      { "id": 19, "text": "The Cosmic Judge who weighs souls against universal principles" },
+      { "id": 20, "text": "The Fate Challenger who defies predetermined destiny" }
+    ],
+    "threshold_guardians": [
+      { "id": 21, "text": "The Underworld Ferryman who transports souls across the boundary of death" },
+      { "id": 22, "text": "The Gate Keeper who controls access to sacred or forbidden realms" },
+      { "id": 23, "text": "The Trial Master who tests those seeking to enter divine spaces" },
+      { "id": 24, "text": "The Dream Guardian who protects the boundary between waking and sleeping worlds" },
+      { "id": 25, "text": "The Cosmic Hound who hunts those who transgress natural boundaries" }
+    ],
+    "divine_embodiments": [
+      { "id": 26, "text": "The Dying and Rising God whose death and rebirth mirrors seasonal cycles" },
+      { "id": 27, "text": "The Divine Twins representing complementary cosmic principles" },
+      { "id": 28, "text": "The Triple Deity manifesting as maiden, mother, and crone (or youth, warrior, sage)" },
+      { "id": 29, "text": "The Sacred Marriage Couple whose union ensures fertility and prosperity" },
+      { "id": 30, "text": "The Divine Androgyne who transcends and unifies gender polarities" }
+    ],
+    "mortal_exemplars": [
+      { "id": 31, "text": "The Culture Hero who brings civilization's gifts to humanity" },
+      { "id": 32, "text": "The First Practitioner who discovers and teaches a crucial skill or art" },
+      { "id": 33, "text": "The Monster Slayer who defeats primordial threats to human existence" },
+      { "id": 34, "text": "The Divine Beloved whose beauty or virtue attracts immortal attention" },
+      { "id": 35, "text": "The Hubristic Challenger who competes against gods with tragic results" }
+    ]
+  }
+}

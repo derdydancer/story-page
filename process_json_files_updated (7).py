@@ -163,6 +163,8 @@ a:hover {{
 </style>
 </head>
 <body>
+<h1>Tools</h1>
+<ul><li><a href="manus/index.html" target="_blank">Fairy Tale Prompt Builder</a></li></ul>
 <h1>Story Index</h1>
 <ul>
 {links_html}
