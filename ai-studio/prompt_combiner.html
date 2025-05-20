@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Prompt Builder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>AI Prompt Builder</h1>
+
+        <div class="input-group">
+            <label for="format-select">Select Format File:</label>
+            <select id="format-select">
+                <option value="">-- Select Format --</option>
+            </select>
+        </div>
+
+        <div class="input-group">
+            <label for="seed-select">Select Seed File:</label>
+            <select id="seed-select">
+                <option value="">-- Select Seed --</option>
+            </select>
+        </div>
+
+        <div class="preview-area">
+            <h3>Seed Preview:</h3>
+            <pre id="seed-preview">Select a seed file to see its preview.</pre>
+        </div>
+
+        <div class="input-group">
+            <label for="chapters-count">Number of Chapters:</label>
+            <input type="number" id="chapters-count" value="7" min="1">
+        </div>
+
+        <div class="input-group">
+            <label for="sentences-per-chapter">Sentences per Chapter:</label>
+            <input type="number" id="sentences-per-chapter" value="10" min="1">
+        </div>
+        
+        <div class="input-group">
+            <h3>Received Prompt Text Object:</h3>
+            <p id="received-prompt-text">(Will be loaded from URL)</p>
+        </div>
+
+        <button id="generate-prompt-btn">Generate Combined Prompt</button>
+
+        <div class="action-buttons">
+            <button id="download-prompt-btn" disabled>Download Full Prompt</button>
+            <button id="copy-full-prompt-btn" disabled>Copy Full Prompt</button>
+            <button id="copy-no-format-btn" disabled>Copy Prompt (No Format)</button>
+            <button id="copy-format-only-btn" disabled>Copy Format Only</button>
+            <button id="copy-prompt-only-btn" disabled>Copy Prompt Only</button>
+        </div>
+
+        <div class="output-area">
+            <h3>Combined Prompt:</h3>
+            <textarea id="combined-prompt" rows="20" readonly></textarea>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

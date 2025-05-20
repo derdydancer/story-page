@@ -310,6 +310,20 @@ for file in files:
     if os.path.exists(file_prompt):
         shutil.move(file_prompt, os.path.join(processed_dir, f'code{file_number} (prompt used).txt'))
 
+# For directories formats, seeds: read their contents and write each file's relative path (only files directly in the directory, not subdirectories) to contents.txt in their folder
+for special_dir in ['formats', 'seeds']:
+    dir_path = os.path.join(os.getcwd(), special_dir)
+    if os.path.isdir(dir_path):
+        contents = []
+        for file in os.listdir(dir_path):
+            file_path = os.path.join(dir_path, file)
+            if os.path.isfile(file_path) and file != 'contents.txt':
+                contents.append(file)
+        contents_txt_path = os.path.join(dir_path, 'contents.txt')
+        with open(contents_txt_path, 'w', encoding='utf-8') as f:
+            for line in sorted(contents):
+                f.write(line + '\n')
+
 
 # Generate main.html with links to all HTML files in subfolders
 links_html = ''
@@ -318,7 +332,9 @@ html_files = []
 # Scan all subdirectories for .html files
 for root, dirs, files in os.walk(os.getcwd()):
     for file in files:
-        if file.endswith('.html') and root != os.getcwd():  # Exclude HTML files in current directory
+        # Only include .html files that are inside the 'stories' directory (not in current dir or other folders)
+        stories_dir = os.path.join(os.getcwd(), 'stories')
+        if file.endswith('.html') and os.path.commonpath([stories_dir, root]) == stories_dir:
             relative_path = os.path.relpath(os.path.join(root, file), os.getcwd()).replace('\\', '/')
             # Derive display title from folder name
             folder_name = os.path.basename(root)
@@ -348,6 +364,6 @@ for title, date, path in html_files:
     has_mp3 = ' 📝' if os.path.exists(mp3_file) else ''
     links_html += f'<li><a href="{html.escape(path)}">{html.escape(title)}{has_mp3}</a></li>\n'
 
-# Write main.html
-with open('main.html', 'w', encoding='utf-8') as f:
+# Write index.html
+with open('index.html', 'w', encoding='utf-8') as f:
     f.write(main_html_template.format(links_html=links_html))

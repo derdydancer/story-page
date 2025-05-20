@@ -1,0 +1,65 @@
+/* ... (previous CSS) ... */
+
+button {
+    display: block; /* Make generate button full width */
+    width: 100%;
+    padding: 10px 15px;
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 10px; /* Adjusted margin */
+}
+
+button:hover {
+    background-color: #4cae4c;
+}
+
+button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
+
+.action-buttons {
+    display: flex;
+    flex-wrap: wrap; /* Allow buttons to wrap on smaller screens */
+    gap: 10px; /* Space between buttons */
+    margin-bottom: 20px;
+}
+
+.action-buttons button {
+    flex-grow: 1; /* Allow buttons to grow and share space */
+    min-width: 180px; /* Minimum width for each button */
+    background-color: #007bff; /* Different color for action buttons */
+    width: auto; /* Override the 100% width from the general button style */
+}
+
+.action-buttons button:hover {
+    background-color: #0056b3;
+}
+
+.action-buttons button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
+
+
+.output-area textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: monospace;
+    font-size: 0.9em;
+    background-color: #f9f9f9;
+}
+#received-prompt-text {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    white-space: pre-wrap; /* Preserve formatting if any */
+}

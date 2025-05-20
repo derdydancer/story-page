@@ -53,6 +53,7 @@
                 <div class="selection-controls">
                     <button id="add-new-prompt">Add New Prompt</button>
                     <button id="copy-all">Copy All</button>
+                    <button id="combine-prompts">Combine prompts for AI studio</button>
                 </div>
             </div>
         </div>
@@ -125,6 +126,9 @@
 
             // Copy all button
             document.getElementById('copy-all').addEventListener('click', copyAllPrompts);
+
+            // Combine prompts button
+            document.getElementById('combine-prompts').addEventListener('click', combinePrompts);
 
             // Add prompt to category button
             document.getElementById('add-prompt-to-category').addEventListener('click', () => {
@@ -402,11 +406,14 @@
                 '<span class="prompt-emoji">${emoji}</span>';
             
             promptElement.innerHTML = `
+                <div class="drag-handle" title="Drag to reorder">☰</div>
                 ${labelHtml}
                 <textarea>${text}</textarea>
                 <div class="prompt-controls">
+                    <button class="move-top">⇈</button>
                     <button class="move-up">↑</button>
                     <button class="move-down">↓</button>
+                    <button class="move-bottom">⇊</button>
                     <button class="add-as-new">Add as New</button>
                     <button class="remove-prompt">Remove</button>
                 </div>
@@ -455,6 +462,13 @@
             promptElement.querySelector('.remove-prompt').addEventListener('click', () => {
                 promptElement.remove();
                 updateStatus('Removed prompt from selection');
+            });
+            
+            promptElement.querySelector('.move-top').addEventListener('click', () => {
+                movePromptToTop(promptId);
+            });
+            promptElement.querySelector('.move-bottom').addEventListener('click', () => {
+                movePromptToBottom(promptId);
             });
             
             // Focus the textarea if it's a new empty prompt
@@ -577,6 +591,20 @@
             }
         }
 
+        // Move a prompt to the top in the selection
+        function movePromptToTop(id) {
+            const promptElement = document.querySelector(`.selected-prompt[data-id="${id}"]`);
+            selectedPromptsContainer.insertBefore(promptElement, selectedPromptsContainer.firstChild);
+            updateStatus('Moved prompt to top');
+        }
+
+        // Move a prompt to the bottom in the selection
+        function movePromptToBottom(id) {
+            const promptElement = document.querySelector(`.selected-prompt[data-id="${id}"]`);
+            selectedPromptsContainer.appendChild(promptElement);
+            updateStatus('Moved prompt to bottom');
+        }
+
         // Copy all selected prompts to clipboard
         function copyAllPrompts() {
             const prompts = Array.from(selectedPromptsContainer.querySelectorAll('textarea'))
@@ -605,6 +633,23 @@
             } else {
                 updateStatus('No prompts to copy');
             }
+        }
+
+        function combinePrompts() {
+            const combinedPrompts = Array.from(selectedPromptsContainer.querySelectorAll('textarea'))
+                .map(textarea => textarea.value)
+                .filter(text => text.trim())
+                .join('\n- ');
+            const combinedPromptsWithDash = combinedPrompts ? '- ' + combinedPrompts : '';
+            
+            const encodedPromptText = encodeURIComponent(combinedPromptsWithDash);
+            
+            const url = `../ai-studio/prompt_combiner.html?prompt_text_object=${encodedPromptText}`;
+            const linkElement = document.createElement('a');
+            linkElement.setAttribute('href', url);
+            linkElement.setAttribute('target', '_blank');
+            linkElement.click();
+
         }
         
         // Add a new empty prompt to the selection
