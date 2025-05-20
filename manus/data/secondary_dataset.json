@@ -7,49 +7,49 @@
   },
   "categories": {
     "language_style": [
-      { "id": 1, "text": "Use direct, simple language with an archaic flavor" },
-      { "id": 2, "text": "Use common, concrete words rather than complex vocabulary" },
-      { "id": 3, "text": "Employ functional adjectives (beautiful, poor, old, golden, little, great, wicked, faithful)" },
-      { "id": 4, "text": "Use archaic but understandable terms occasionally (prithee, nay, alas, whither)" },
-      { "id": 5, "text": "Avoid complex, abstract, scientific, or modern vocabulary" }
+      { "id": 1, "text": "Use direct, simple language with an archaic flavor", "emoji": "🗣️" },
+      { "id": 2, "text": "Use common, concrete words rather than complex vocabulary", "emoji": "🪨" },
+      { "id": 3, "text": "Employ functional adjectives (beautiful, poor, old, golden, little, great, wicked, faithful)", "emoji": "🔤" },
+      { "id": 4, "text": "Use archaic but understandable terms occasionally (prithee, nay, alas, whither)", "emoji": "📜" },
+      { "id": 5, "text": "Avoid complex, abstract, scientific, or modern vocabulary", "emoji": "🚫🔬" }
     ],
     "sentence_structure": [
-      { "id": 6, "text": "Use primarily simple and compound sentences" },
-      { "id": 7, "text": "Link clauses frequently with 'and,' 'but,' 'so,' 'then'" },
-      { "id": 8, "text": "Avoid complex sentence structures with multiple subordinate clauses" },
-      { "id": 9, "text": "Follow Subject-Verb-Object pattern frequently" },
-      { "id": 10, "text": "Use active voice heavily over passive voice" }
+      { "id": 6, "text": "Use primarily simple and compound sentences", "emoji": "✍️" },
+      { "id": 7, "text": "Link clauses frequently with 'and,' 'but,' 'so,' 'then'", "emoji": "🔗" },
+      { "id": 8, "text": "Avoid complex sentence structures with multiple subordinate clauses", "emoji": "🚫🧩" },
+      { "id": 9, "text": "Follow Subject-Verb-Object pattern frequently", "emoji": "➡️" },
+      { "id": 10, "text": "Use active voice heavily over passive voice", "emoji": "🏃" }
     ],
     "narrative_tone": [
-      { "id": 11, "text": "Maintain a matter-of-fact, declarative, and unadorned tone" },
-      { "id": 12, "text": "Report events, even magical or gruesome ones, with little explicit emotional coloring" },
-      { "id": 13, "text": "Avoid irony, overt sentimentality, or deep psychological exploration" },
-      { "id": 14, "text": "Use omniscient but rarely intrusive or interpretive narration" }
+      { "id": 11, "text": "Maintain a matter-of-fact, declarative, and unadorned tone", "emoji": "📝" },
+      { "id": 12, "text": "Report events, even magical or gruesome ones, with little explicit emotional coloring", "emoji": "😐" },
+      { "id": 13, "text": "Avoid irony, overt sentimentality, or deep psychological exploration", "emoji": "🚫🎭" },
+      { "id": 14, "text": "Use omniscient but rarely intrusive or interpretive narration", "emoji": "👁️" }
     ],
     "poetic_elements": [
-      { "id": 15, "text": "Include rhyming couplets/quatrains for spells, messages, or significant cries" },
-      { "id": 16, "text": "Use simple AABB or ABCB rhymes for magical elements" },
-      { "id": 17, "text": "Incorporate repetitive phrases/songs for characters or magical elements" },
-      { "id": 18, "text": "Create incantatory rhythm through simple prose and repeated sentence structures" }
+      { "id": 15, "text": "Include rhyming couplets/quatrains for spells, messages, or significant cries", "emoji": "🪄" },
+      { "id": 16, "text": "Use simple AABB or ABCB rhymes for magical elements", "emoji": "🎶" },
+      { "id": 17, "text": "Incorporate repetitive phrases/songs for characters or magical elements", "emoji": "🔁" },
+      { "id": 18, "text": "Create incantatory rhythm through simple prose and repeated sentence structures", "emoji": "🥁" }
     ],
     "story_patterns": [
-      { "id": 19, "text": "Structure as a linear quest where protagonist seeks something or someone" },
-      { "id": 20, "text": "Include trial/task structures, often in threes (three nights, three tasks)" },
-      { "id": 21, "text": "Feature transformation and restoration of characters through specific actions" },
-      { "id": 22, "text": "Implement clear punishment and reward for character actions" },
-      { "id": 23, "text": "Use cause and effect with immediate magical consequences" },
-      { "id": 24, "text": "Create cyclical structure with repetition and variation" },
-      { "id": 25, "text": "Include grateful animals or supernatural helpers who aid the protagonist" },
-      { "id": 26, "text": "Feature a trickster who outwits more powerful adversaries" },
-      { "id": 27, "text": "Use hidden identity/revelation at climactic moments" },
-      { "id": 28, "text": "Let the simpleton or overlooked character succeed through goodness" }
+      { "id": 19, "text": "Structure as a linear quest where protagonist seeks something or someone", "emoji": "🛤️" },
+      { "id": 20, "text": "Include trial/task structures, often in threes (three nights, three tasks)", "emoji": "3️⃣" },
+      { "id": 21, "text": "Feature transformation and restoration of characters through specific actions", "emoji": "🦋" },
+      { "id": 22, "text": "Implement clear punishment and reward for character actions", "emoji": "⚖️" },
+      { "id": 23, "text": "Use cause and effect with immediate magical consequences", "emoji": "✨" },
+      { "id": 24, "text": "Create cyclical structure with repetition and variation", "emoji": "🔄" },
+      { "id": 25, "text": "Include grateful animals or supernatural helpers who aid the protagonist", "emoji": "🦊" },
+      { "id": 26, "text": "Feature a trickster who outwits more powerful adversaries", "emoji": "🃏" },
+      { "id": 27, "text": "Use hidden identity/revelation at climactic moments", "emoji": "🎭" },
+      { "id": 28, "text": "Let the simpleton or overlooked character succeed through goodness", "emoji": "🌱" }
     ],
     "magic_items": [
-      { "id": 29, "text": "Include golden objects with magical properties (apples, feathers, birds)" },
-      { "id": 30, "text": "Feature talking animals that offer counsel or aid" },
-      { "id": 31, "text": "Use enchanted or cursed everyday objects (spindles, combs)" },
-      { "id": 32, "text": "Include magical clothing or accessories (cloaks, boots)" },
-      { "id": 33, "text": "Feature magical food or drink with transformative properties" }
+      { "id": 29, "text": "Include golden objects with magical properties (apples, feathers, birds)", "emoji": "🍏" },
+      { "id": 30, "text": "Feature talking animals that offer counsel or aid", "emoji": "🦉" },
+      { "id": 31, "text": "Use enchanted or cursed everyday objects (spindles, combs)", "emoji": "🧶" },
+      { "id": 32, "text": "Include magical clothing or accessories (cloaks, boots)", "emoji": "🧥" },
+      { "id": 33, "text": "Feature magical food or drink with transformative properties", "emoji": "🥤" }
     ]
   }
 }

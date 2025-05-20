@@ -7,53 +7,53 @@
   },
   "categories": {
     "afterlife_objects": [
-      { "id": 1, "text": "Scarab amulet that can temporarily resurrect the recently deceased for conversation" },
-      { "id": 2, "text": "Scale that weighs intentions rather than physical objects" },
-      { "id": 3, "text": "Papyrus scroll that records the true deeds of a person's life, regardless of reputation" },
-      { "id": 4, "text": "Ankh that transfers life force between two beings when held between them" },
-      { "id": 5, "text": "Canopic jar that preserves not organs but cherished memories" }
+      { "id": 1, "text": "Scarab amulet that can temporarily resurrect the recently deceased for conversation", "emoji": "🪲" },
+      { "id": 2, "text": "Scale that weighs intentions rather than physical objects", "emoji": "⚖️" },
+      { "id": 3, "text": "Papyrus scroll that records the true deeds of a person's life, regardless of reputation", "emoji": "📜" },
+      { "id": 4, "text": "Ankh that transfers life force between two beings when held between them", "emoji": "☥" },
+      { "id": 5, "text": "Canopic jar that preserves not organs but cherished memories", "emoji": "⚱️" }
     ],
     "divine_instruments": [
-      { "id": 6, "text": "Scepter that controls the movement of sand, creating or dispersing dunes" },
-      { "id": 7, "text": "Sistrum that, when shaken, causes plants to grow rapidly in barren soil" },
-      { "id": 8, "text": "Crook that can guide and control the minds of animals" },
-      { "id": 9, "text": "Flail that harvests truth instead of grain when swung" },
-      { "id": 10, "text": "Headpiece that allows the wearer to perceive through the eyes of birds" }
+      { "id": 6, "text": "Scepter that controls the movement of sand, creating or dispersing dunes", "emoji": "🔱" },
+      { "id": 7, "text": "Sistrum that, when shaken, causes plants to grow rapidly in barren soil", "emoji": "🎼" },
+      { "id": 8, "text": "Crook that can guide and control the minds of animals", "emoji": "🐑" },
+      { "id": 9, "text": "Flail that harvests truth instead of grain when swung", "emoji": "🌾" },
+      { "id": 10, "text": "Headpiece that allows the wearer to perceive through the eyes of birds", "emoji": "🦅" }
     ],
     "protective_talismans": [
-      { "id": 11, "text": "Eye of Horus pendant that makes the wearer invisible to those with harmful intent" },
-      { "id": 12, "text": "Woven reed bracelet that absorbs poison from food or drink" },
-      { "id": 13, "text": "Lotus flower carving that purifies water and reveals hidden currents" },
-      { "id": 14, "text": "Cobra figurine that comes alive to defend its owner when danger approaches" },
-      { "id": 15, "text": "Knot amulet that untangles any problem when held in meditation" }
+      { "id": 11, "text": "Eye of Horus pendant that makes the wearer invisible to those with harmful intent", "emoji": "👁️" },
+      { "id": 12, "text": "Woven reed bracelet that absorbs poison from food or drink", "emoji": "🧿" },
+      { "id": 13, "text": "Lotus flower carving that purifies water and reveals hidden currents", "emoji": "🌸" },
+      { "id": 14, "text": "Cobra figurine that comes alive to defend its owner when danger approaches", "emoji": "🐍" },
+      { "id": 15, "text": "Knot amulet that untangles any problem when held in meditation", "emoji": "🪢" }
     ],
     "transformation_artifacts": [
-      { "id": 16, "text": "Mask that transforms the wearer into the animal it depicts during moonlight" },
-      { "id": 17, "text": "Oil that, when applied, allows the user to become living stone until sunrise" },
-      { "id": 18, "text": "Headdress that grants the wisdom of ancestors when worn during important decisions" },
-      { "id": 19, "text": "Sandals that allow walking on any surface, including water and air" },
-      { "id": 20, "text": "Kohl that, when applied to the eyes, reveals the true form of shapeshifters" }
+      { "id": 16, "text": "Mask that transforms the wearer into the animal it depicts during moonlight", "emoji": "🎭" },
+      { "id": 17, "text": "Oil that, when applied, allows the user to become living stone until sunrise", "emoji": "🪨" },
+      { "id": 18, "text": "Headdress that grants the wisdom of ancestors when worn during important decisions", "emoji": "👑" },
+      { "id": 19, "text": "Sandals that allow walking on any surface, including water and air", "emoji": "🥾" },
+      { "id": 20, "text": "Kohl that, when applied to the eyes, reveals the true form of shapeshifters", "emoji": "👁️‍🗨️" }
     ],
     "creation_tools": [
-      { "id": 21, "text": "Chisel that can carve life-like statues that animate under specific conditions" },
-      { "id": 22, "text": "Brush that paints scenes that become reality at the next dawn" },
-      { "id": 23, "text": "Clay that forms itself into whatever the holder needs most" },
-      { "id": 24, "text": "Loom that weaves cloth depicting future events" },
-      { "id": 25, "text": "Potter's wheel that creates vessels that fill with whatever the creator desires" }
+      { "id": 21, "text": "Chisel that can carve life-like statues that animate under specific conditions", "emoji": "🪓" },
+      { "id": 22, "text": "Brush that paints scenes that become reality at the next dawn", "emoji": "🖌️" },
+      { "id": 23, "text": "Clay that forms itself into whatever the holder needs most", "emoji": "🧱" },
+      { "id": 24, "text": "Loom that weaves cloth depicting future events", "emoji": "🧵" },
+      { "id": 25, "text": "Potter's wheel that creates vessels that fill with whatever the creator desires", "emoji": "🏺" }
     ],
     "river_magic": [
-      { "id": 26, "text": "Reed boat that navigates to the source of any river without guidance" },
-      { "id": 27, "text": "Water clock that controls the flow of time for those who drink from it" },
-      { "id": 28, "text": "Fishing net that catches secrets instead of fish when cast at night" },
-      { "id": 29, "text": "Nilometer that predicts fortunes rather than floods" },
-      { "id": 30, "text": "Amphora that fills with water that heals any ailment but causes temporary amnesia" }
+      { "id": 26, "text": "Reed boat that navigates to the source of any river without guidance", "emoji": "🛶" },
+      { "id": 27, "text": "Water clock that controls the flow of time for those who drink from it", "emoji": "⏳" },
+      { "id": 28, "text": "Fishing net that catches secrets instead of fish when cast at night", "emoji": "🎣" },
+      { "id": 29, "text": "Nilometer that predicts fortunes rather than floods", "emoji": "📏" },
+      { "id": 30, "text": "Amphora that fills with water that heals any ailment but causes temporary amnesia", "emoji": "🫗" }
     ],
     "tomb_treasures": [
-      { "id": 31, "text": "Ushabti figurine that comes to life to complete one task before turning to dust" },
-      { "id": 32, "text": "Funerary mask that shows the wearer's face as it will appear in old age" },
-      { "id": 33, "text": "Sarcophagus that preserves anything placed inside in perfect condition" },
-      { "id": 34, "text": "Book of spells that can only be read by candlelight and forgotten by daylight" },
-      { "id": 35, "text": "Mummified cat that guides the owner through the realm of dreams" }
+      { "id": 31, "text": "Ushabti figurine that comes to life to complete one task before turning to dust", "emoji": "🗿" },
+      { "id": 32, "text": "Funerary mask that shows the wearer's face as it will appear in old age", "emoji": "🥸" },
+      { "id": 33, "text": "Sarcophagus that preserves anything placed inside in perfect condition", "emoji": "⚰️" },
+      { "id": 34, "text": "Book of spells that can only be read by candlelight and forgotten by daylight", "emoji": "📖" },
+      { "id": 35, "text": "Mummified cat that guides the owner through the realm of dreams", "emoji": "🐈‍⬛" }
     ]
   }
 }

@@ -7,53 +7,53 @@
   },
   "categories": {
     "opening_formulas": [
-      { "id": 1, "text": "Begin with a child protagonist facing a small, relatable problem" },
-      { "id": 2, "text": "Start with a question that directly addresses the young reader" },
-      { "id": 3, "text": "Open with a whimsical description of an ordinary setting made magical" },
-      { "id": 4, "text": "Introduce a talking animal character who befriends a lonely child" },
-      { "id": 5, "text": "Begin with a child discovering something unusual in a familiar place" }
+      { "id": 1, "text": "Begin with a child protagonist facing a small, relatable problem", "emoji": "🧒" },
+      { "id": 2, "text": "Start with a question that directly addresses the young reader", "emoji": "❓" },
+      { "id": 3, "text": "Open with a whimsical description of an ordinary setting made magical", "emoji": "✨" },
+      { "id": 4, "text": "Introduce a talking animal character who befriends a lonely child", "emoji": "🐻" },
+      { "id": 5, "text": "Begin with a child discovering something unusual in a familiar place", "emoji": "🔍" }
     ],
     "sensory_language": [
-      { "id": 6, "text": "Describe foods with exaggerated deliciousness and magical properties" },
-      { "id": 7, "text": "Use onomatopoeia for animal sounds, weather, and magical effects" },
-      { "id": 8, "text": "Include tactile descriptions that children can imagine feeling" },
-      { "id": 9, "text": "Create vivid color descriptions using similes from a child's experience" },
-      { "id": 10, "text": "Describe smells that trigger curiosity or comfort" }
+      { "id": 6, "text": "Describe foods with exaggerated deliciousness and magical properties", "emoji": "🍰" },
+      { "id": 7, "text": "Use onomatopoeia for animal sounds, weather, and magical effects", "emoji": "🔊" },
+      { "id": 8, "text": "Include tactile descriptions that children can imagine feeling", "emoji": "🤲" },
+      { "id": 9, "text": "Create vivid color descriptions using similes from a child's experience", "emoji": "🌈" },
+      { "id": 10, "text": "Describe smells that trigger curiosity or comfort", "emoji": "👃" }
     ],
     "dialogue_patterns": [
-      { "id": 11, "text": "Include repeated phrases that children can anticipate and join in with" },
-      { "id": 12, "text": "Create distinct speech patterns for different character types" },
-      { "id": 13, "text": "Use simple but clever wordplay in character conversations" },
-      { "id": 14, "text": "Include misunderstandings that young readers can recognize before characters do" },
-      { "id": 15, "text": "Write dialogue that alternates between humor and gentle life lessons" }
+      { "id": 11, "text": "Include repeated phrases that children can anticipate and join in with", "emoji": "🔁" },
+      { "id": 12, "text": "Create distinct speech patterns for different character types", "emoji": "🗣️" },
+      { "id": 13, "text": "Use simple but clever wordplay in character conversations", "emoji": "💬" },
+      { "id": 14, "text": "Include misunderstandings that young readers can recognize before characters do", "emoji": "🤔" },
+      { "id": 15, "text": "Write dialogue that alternates between humor and gentle life lessons", "emoji": "😄" }
     ],
     "emotional_scaffolding": [
-      { "id": 16, "text": "Name feelings explicitly to help children identify emotions" },
-      { "id": 17, "text": "Show characters working through fears with simple coping strategies" },
-      { "id": 18, "text": "Include moments of wonder that pause the narrative for appreciation" },
-      { "id": 19, "text": "Create safe moments of tension that resolve quickly and reassuringly" },
-      { "id": 20, "text": "Show friendship forming through small acts of kindness" }
+      { "id": 16, "text": "Name feelings explicitly to help children identify emotions", "emoji": "😊" },
+      { "id": 17, "text": "Show characters working through fears with simple coping strategies", "emoji": "💪" },
+      { "id": 18, "text": "Include moments of wonder that pause the narrative for appreciation", "emoji": "😲" },
+      { "id": 19, "text": "Create safe moments of tension that resolve quickly and reassuringly", "emoji": "🤗" },
+      { "id": 20, "text": "Show friendship forming through small acts of kindness", "emoji": "🤝" }
     ],
     "magical_logic": [
-      { "id": 21, "text": "Establish simple, consistent rules for how magic works in the story" },
-      { "id": 22, "text": "Connect magical elements to natural phenomena children understand" },
-      { "id": 23, "text": "Create magical consequences that teach gentle lessons" },
-      { "id": 24, "text": "Include magical helpers with specific limitations or conditions" },
-      { "id": 25, "text": "Show magic responding to kindness, honesty, or creativity" }
+      { "id": 21, "text": "Establish simple, consistent rules for how magic works in the story", "emoji": "📜" },
+      { "id": 22, "text": "Connect magical elements to natural phenomena children understand", "emoji": "🌦️" },
+      { "id": 23, "text": "Create magical consequences that teach gentle lessons", "emoji": "🪄" },
+      { "id": 24, "text": "Include magical helpers with specific limitations or conditions", "emoji": "🧚" },
+      { "id": 25, "text": "Show magic responding to kindness, honesty, or creativity", "emoji": "❤️" }
     ],
     "rhythm_and_sound": [
-      { "id": 26, "text": "Create sentences with bouncy, singable rhythms for exciting moments" },
-      { "id": 27, "text": "Use shorter sentences for action and longer ones for description" },
-      { "id": 28, "text": "Include rhyming elements for magical spells or special moments" },
-      { "id": 29, "text": "Repeat sounds within sentences to create memorable phrases" },
-      { "id": 30, "text": "Vary sentence beginnings to maintain young listeners' attention" }
+      { "id": 26, "text": "Create sentences with bouncy, singable rhythms for exciting moments", "emoji": "🎶" },
+      { "id": 27, "text": "Use shorter sentences for action and longer ones for description", "emoji": "✂️" },
+      { "id": 28, "text": "Include rhyming elements for magical spells or special moments", "emoji": "🔮" },
+      { "id": 29, "text": "Repeat sounds within sentences to create memorable phrases", "emoji": "🔔" },
+      { "id": 30, "text": "Vary sentence beginnings to maintain young listeners' attention", "emoji": "👂" }
     ],
     "resolution_patterns": [
-      { "id": 31, "text": "Resolve conflicts through cooperation rather than defeating villains" },
-      { "id": 32, "text": "Include a moment of recognition where the protagonist realizes a truth" },
-      { "id": 33, "text": "Show characters returning home changed but comforted" },
-      { "id": 34, "text": "End with a small, achievable act of bravery or kindness" },
-      { "id": 35, "text": "Close with a gentle question or invitation for the reader to imagine beyond the ending" }
+      { "id": 31, "text": "Resolve conflicts through cooperation rather than defeating villains", "emoji": "🤝" },
+      { "id": 32, "text": "Include a moment of recognition where the protagonist realizes a truth", "emoji": "💡" },
+      { "id": 33, "text": "Show characters returning home changed but comforted", "emoji": "🏡" },
+      { "id": 34, "text": "End with a small, achievable act of bravery or kindness", "emoji": "🌟" },
+      { "id": 35, "text": "Close with a gentle question or invitation for the reader to imagine beyond the ending", "emoji": "🌙" }
     ]
   }
 }

@@ -18,7 +18,8 @@ def generate(story_name, story_analysis, story_text):
         # Please ensure that the file is available in local system working direrctory or change the file path.
         client.files.upload(file="prompt/Authors guide short.md"),
     ]
-    model = "gemini-2.5-pro-exp-03-25"
+    #model = "gemini-2.5-pro-exp-03-25" 
+    model = "gemini-2.5-flash-preview-04-17"
     contents = [
         types.Content(
             role="user",

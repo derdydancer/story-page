@@ -7,53 +7,53 @@
   },
   "categories": {
     "enchanted_containers": [
-      { "id": 1, "text": "Bottle that captures and stores specific sounds to be released later" },
-      { "id": 2, "text": "Basket that multiplies any food placed inside it, but only at midnight" },
-      { "id": 3, "text": "Pouch that contains an entire meadow accessible by reaching inside" },
-      { "id": 4, "text": "Jar that preserves memories as swirling colored mists" },
-      { "id": 5, "text": "Box that translates anything placed inside it into another language" }
+      { "id": 1, "text": "Bottle that captures and stores specific sounds to be released later", "emoji": "🔊" },
+      { "id": 2, "text": "Basket that multiplies any food placed inside it, but only at midnight", "emoji": "🧺" },
+      { "id": 3, "text": "Pouch that contains an entire meadow accessible by reaching inside", "emoji": "🌾" },
+      { "id": 4, "text": "Jar that preserves memories as swirling colored mists", "emoji": "🫙" },
+      { "id": 5, "text": "Box that translates anything placed inside it into another language", "emoji": "📦" }
     ],
     "illuminating_objects": [
-      { "id": 6, "text": "Candle that burns with the color of its holder's current emotion" },
-      { "id": 7, "text": "Lamp that casts shadows of events happening far away" },
-      { "id": 8, "text": "Crystal that glows brighter the more truths are spoken near it" },
-      { "id": 9, "text": "Torch that reveals hidden writing on any surface it illuminates" },
-      { "id": 10, "text": "Firefly lantern that guides the holder to whatever they're seeking" }
+      { "id": 6, "text": "Candle that burns with the color of its holder's current emotion", "emoji": "🕯️" },
+      { "id": 7, "text": "Lamp that casts shadows of events happening far away", "emoji": "🏮" },
+      { "id": 8, "text": "Crystal that glows brighter the more truths are spoken near it", "emoji": "🔮" },
+      { "id": 9, "text": "Torch that reveals hidden writing on any surface it illuminates", "emoji": "🔥" },
+      { "id": 10, "text": "Firefly lantern that guides the holder to whatever they're seeking", "emoji": "🪟" }
     ],
     "protective_items": [
-      { "id": 11, "text": "Shield that absorbs insults and converts them to strength in battle" },
-      { "id": 12, "text": "Bracelet that warns of danger by growing cold against the skin" },
-      { "id": 13, "text": "Scarf that becomes as hard as steel when someone tries to harm the wearer" },
-      { "id": 14, "text": "Amulet that creates a duplicate of the wearer to confuse attackers" },
-      { "id": 15, "text": "Ring that makes the wearer forgettable to anyone with ill intentions" }
+      { "id": 11, "text": "Shield that absorbs insults and converts them to strength in battle", "emoji": "🛡️" },
+      { "id": 12, "text": "Bracelet that warns of danger by growing cold against the skin", "emoji": "🧊" },
+      { "id": 13, "text": "Scarf that becomes as hard as steel when someone tries to harm the wearer", "emoji": "🧣" },
+      { "id": 14, "text": "Amulet that creates a duplicate of the wearer to confuse attackers", "emoji": "🪬" },
+      { "id": 15, "text": "Ring that makes the wearer forgettable to anyone with ill intentions", "emoji": "💍" }
     ],
     "communication_devices": [
-      { "id": 16, "text": "Conch shell that carries messages across vast distances when whispered into" },
-      { "id": 17, "text": "Pair of books where writing in one appears in the other" },
-      { "id": 18, "text": "Earrings that allow the wearer to understand any spoken language" },
-      { "id": 19, "text": "Pendant that translates animal speech when held to the ear" },
-      { "id": 20, "text": "Mirror that shows the face of whoever is thinking about the user" }
+      { "id": 16, "text": "Conch shell that carries messages across vast distances when whispered into", "emoji": "🐚" },
+      { "id": 17, "text": "Pair of books where writing in one appears in the other", "emoji": "📚" },
+      { "id": 18, "text": "Earrings that allow the wearer to understand any spoken language", "emoji": "🦻" },
+      { "id": 19, "text": "Pendant that translates animal speech when held to the ear", "emoji": "📿" },
+      { "id": 20, "text": "Mirror that shows the face of whoever is thinking about the user", "emoji": "🪞" }
     ],
     "botanical_magic": [
-      { "id": 21, "text": "Seeds that grow plants shaped like meaningful objects from the planter's life" },
-      { "id": 22, "text": "Flower that blooms with petals showing scenes from the past" },
-      { "id": 23, "text": "Thorn that, when pricked, causes the victim to speak only in rhymes" },
-      { "id": 24, "text": "Leaf that never withers and can be used as a map to anywhere once visited" },
-      { "id": 25, "text": "Fruit that tastes like the eater's happiest memory" }
+      { "id": 21, "text": "Seeds that grow plants shaped like meaningful objects from the planter's life", "emoji": "🌱" },
+      { "id": 22, "text": "Flower that blooms with petals showing scenes from the past", "emoji": "🌸" },
+      { "id": 23, "text": "Thorn that, when pricked, causes the victim to speak only in rhymes", "emoji": "🌵" },
+      { "id": 24, "text": "Leaf that never withers and can be used as a map to anywhere once visited", "emoji": "🍃" },
+      { "id": 25, "text": "Fruit that tastes like the eater's happiest memory", "emoji": "🍎" }
     ],
     "liquid_enchantments": [
-      { "id": 26, "text": "Vial of water that can dissolve lies when sprinkled on written words" },
-      { "id": 27, "text": "Ink that changes color to reflect the truth of what's written with it" },
-      { "id": 28, "text": "Oil that makes objects weightless when applied" },
-      { "id": 29, "text": "Perfume that makes the wearer appear as whoever the observer most trusts" },
-      { "id": 30, "text": "Elixir that allows the drinker to understand the language of objects" }
+      { "id": 26, "text": "Vial of water that can dissolve lies when sprinkled on written words", "emoji": "💧" },
+      { "id": 27, "text": "Ink that changes color to reflect the truth of what's written with it", "emoji": "🖋️" },
+      { "id": 28, "text": "Oil that makes objects weightless when applied", "emoji": "🛢️" },
+      { "id": 29, "text": "Perfume that makes the wearer appear as whoever the observer most trusts", "emoji": "🌺" },
+      { "id": 30, "text": "Elixir that allows the drinker to understand the language of objects", "emoji": "🧪" }
     ],
     "crafting_tools": [
-      { "id": 31, "text": "Needle that can sew emotions into garments, affecting whoever wears them" },
-      { "id": 32, "text": "Hammer that builds structures according to the wielder's thoughts" },
-      { "id": 33, "text": "Scissors that cut doorways between locations when used on empty air" },
-      { "id": 34, "text": "Chisel that reveals the true form hidden within any material" },
-      { "id": 35, "text": "Loom shuttle that weaves patterns predicting future events" }
+      { "id": 31, "text": "Needle that can sew emotions into garments, affecting whoever wears them", "emoji": "🪡" },
+      { "id": 32, "text": "Hammer that builds structures according to the wielder's thoughts", "emoji": "🔨" },
+      { "id": 33, "text": "Scissors that cut doorways between locations when used on empty air", "emoji": "✂️" },
+      { "id": 34, "text": "Chisel that reveals the true form hidden within any material", "emoji": "🪓" },
+      { "id": 35, "text": "Loom shuttle that weaves patterns predicting future events", "emoji": "🧵" }
     ]
   }
 }

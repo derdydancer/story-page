@@ -7,53 +7,53 @@
   },
   "categories": {
     "protagonist_types": [
-      { "id": 1, "text": "The youngest child who succeeds where older siblings fail" },
-      { "id": 2, "text": "The simpleton who proves wiser than the clever" },
-      { "id": 3, "text": "The mistreated stepdaughter who endures hardship with virtue" },
-      { "id": 4, "text": "The brave tailor or craftsman who outwits giants and kings" },
-      { "id": 5, "text": "The faithful servant who completes impossible tasks" }
+      { "id": 1, "text": "The youngest child who succeeds where older siblings fail", "emoji": "🧒" },
+      { "id": 2, "text": "The simpleton who proves wiser than the clever", "emoji": "🤪" },
+      { "id": 3, "text": "The mistreated stepdaughter who endures hardship with virtue", "emoji": "👧" },
+      { "id": 4, "text": "The brave tailor or craftsman who outwits giants and kings", "emoji": "🧵" },
+      { "id": 5, "text": "The faithful servant who completes impossible tasks", "emoji": "🧑‍🍳" }
     ],
     "royal_characters": [
-      { "id": 6, "text": "The king who sets impossible tasks or makes rash promises" },
-      { "id": 7, "text": "The princess whose hand is offered as reward for heroic deeds" },
-      { "id": 8, "text": "The prince transformed into animal or monster by enchantment" },
-      { "id": 9, "text": "The queen jealous of a younger woman's beauty" },
-      { "id": 10, "text": "The royal child promised to magical being before birth" }
+      { "id": 6, "text": "The king who sets impossible tasks or makes rash promises", "emoji": "🤴" },
+      { "id": 7, "text": "The princess whose hand is offered as reward for heroic deeds", "emoji": "👸" },
+      { "id": 8, "text": "The prince transformed into animal or monster by enchantment", "emoji": "🐸" },
+      { "id": 9, "text": "The queen jealous of a younger woman's beauty", "emoji": "👑" },
+      { "id": 10, "text": "The royal child promised to magical being before birth", "emoji": "👶" }
     ],
     "magical_beings": [
-      { "id": 11, "text": "The dwarf who demands firstborn child as payment" },
-      { "id": 12, "text": "The witch who lives in forest and entraps children" },
-      { "id": 13, "text": "The fairy godmother who rewards virtue with magical gifts" },
-      { "id": 14, "text": "The enchanter who transforms people into animals" },
-      { "id": 15, "text": "The magical helper who appears at moment of greatest need" }
+      { "id": 11, "text": "The dwarf who demands firstborn child as payment", "emoji": "🧙‍♂️" },
+      { "id": 12, "text": "The witch who lives in forest and entraps children", "emoji": "🧙‍♀️" },
+      { "id": 13, "text": "The fairy godmother who rewards virtue with magical gifts", "emoji": "🧚‍♀️" },
+      { "id": 14, "text": "The enchanter who transforms people into animals", "emoji": "🪄" },
+      { "id": 15, "text": "The magical helper who appears at moment of greatest need", "emoji": "✨" }
     ],
     "animal_characters": [
-      { "id": 16, "text": "The talking fox who offers wise counsel" },
-      { "id": 17, "text": "The grateful animals who return kindness with magical aid" },
-      { "id": 18, "text": "The enchanted bird revealing hidden truths through song" },
-      { "id": 19, "text": "The wolf representing danger and predatory nature" },
-      { "id": 20, "text": "The horse as loyal companion and status symbol" }
+      { "id": 16, "text": "The talking fox who offers wise counsel", "emoji": "🦊" },
+      { "id": 17, "text": "The grateful animals who return kindness with magical aid", "emoji": "🐻" },
+      { "id": 18, "text": "The enchanted bird revealing hidden truths through song", "emoji": "🐦" },
+      { "id": 19, "text": "The wolf representing danger and predatory nature", "emoji": "🐺" },
+      { "id": 20, "text": "The horse as loyal companion and status symbol", "emoji": "🐴" }
     ],
     "villains": [
-      { "id": 21, "text": "The wicked stepmother who plots against her stepchildren" },
-      { "id": 22, "text": "The jealous siblings who sabotage the protagonist" },
-      { "id": 23, "text": "The false hero who claims credit for another's deeds" },
-      { "id": 24, "text": "The ogre or giant who threatens with brute strength" },
-      { "id": 25, "text": "The devil who makes bargains for souls" }
+      { "id": 21, "text": "The wicked stepmother who plots against her stepchildren", "emoji": "😈" },
+      { "id": 22, "text": "The jealous siblings who sabotage the protagonist", "emoji": "😒" },
+      { "id": 23, "text": "The false hero who claims credit for another's deeds", "emoji": "🦹" },
+      { "id": 24, "text": "The ogre or giant who threatens with brute strength", "emoji": "👹" },
+      { "id": 25, "text": "The devil who makes bargains for souls", "emoji": "😈" }
     ],
     "family_roles": [
-      { "id": 26, "text": "The father who remarries, bringing misfortune to his children" },
-      { "id": 27, "text": "The mother who dies, leaving children vulnerable" },
-      { "id": 28, "text": "The siblings who journey together but face different fates" },
-      { "id": 29, "text": "The wise grandmother who provides crucial advice" },
-      { "id": 30, "text": "The godfather or godmother with supernatural connections" }
+      { "id": 26, "text": "The father who remarries, bringing misfortune to his children", "emoji": "👨" },
+      { "id": 27, "text": "The mother who dies, leaving children vulnerable", "emoji": "👩" },
+      { "id": 28, "text": "The siblings who journey together but face different fates", "emoji": "👫" },
+      { "id": 29, "text": "The wise grandmother who provides crucial advice", "emoji": "👵" },
+      { "id": 30, "text": "The godfather or godmother with supernatural connections", "emoji": "🧙" }
     ],
     "occupational_characters": [
-      { "id": 31, "text": "The poor miller who trades his child for wealth" },
-      { "id": 32, "text": "The clever tailor who uses wit instead of strength" },
-      { "id": 33, "text": "The huntsman who spares lives and receives rewards" },
-      { "id": 34, "text": "The soldier returning from war with magical objects" },
-      { "id": 35, "text": "The fisherman who catches magical fish" }
+      { "id": 31, "text": "The poor miller who trades his child for wealth", "emoji": "🧑‍🌾" },
+      { "id": 32, "text": "The clever tailor who uses wit instead of strength", "emoji": "🪡" },
+      { "id": 33, "text": "The huntsman who spares lives and receives rewards", "emoji": "🏹" },
+      { "id": 34, "text": "The soldier returning from war with magical objects", "emoji": "🪖" },
+      { "id": 35, "text": "The fisherman who catches magical fish", "emoji": "🎣" }
     ]
   }
 }

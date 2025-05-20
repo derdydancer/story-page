@@ -7,53 +7,53 @@
   },
   "categories": {
     "vocabulary_choices": [
-      { "id": 1, "text": "Use concrete nouns over abstract concepts (forest, castle, gold vs. anxiety, philosophy)" },
-      { "id": 2, "text": "Choose simple, direct verbs (went, said, saw vs. proceeded, articulated, observed)" },
-      { "id": 3, "text": "Employ functional adjectives (beautiful, poor, old, golden, little, great, wicked)" },
-      { "id": 4, "text": "Include occasional archaic terms (prithee, nay, alas, whither, hark ye, dwelt)" },
-      { "id": 5, "text": "Avoid scientific, technical, or modern vocabulary entirely" }
+      { "id": 1, "text": "Use concrete nouns over abstract concepts (forest, castle, gold vs. anxiety, philosophy)", "emoji": "🌲" },
+      { "id": 2, "text": "Choose simple, direct verbs (went, said, saw vs. proceeded, articulated, observed)", "emoji": "👣" },
+      { "id": 3, "text": "Employ functional adjectives (beautiful, poor, old, golden, little, great, wicked)", "emoji": "✨" },
+      { "id": 4, "text": "Include occasional archaic terms (prithee, nay, alas, whither, hark ye, dwelt)", "emoji": "📜" },
+      { "id": 5, "text": "Avoid scientific, technical, or modern vocabulary entirely", "emoji": "🚫" }
     ],
     "sentence_patterns": [
-      { "id": 6, "text": "Use simple Subject-Verb-Object structure for most sentences" },
-      { "id": 7, "text": "Connect clauses with 'and,' 'but,' 'so,' 'then' rather than complex conjunctions" },
-      { "id": 8, "text": "Begin many sentences with 'Then' or 'So' to create rhythmic progression" },
-      { "id": 9, "text": "Limit sentence length, avoiding multiple subordinate clauses" },
-      { "id": 10, "text": "Use active voice almost exclusively, with passive voice only for emphasis" }
+      { "id": 6, "text": "Use simple Subject-Verb-Object structure for most sentences", "emoji": "🔤" },
+      { "id": 7, "text": "Connect clauses with 'and,' 'but,' 'so,' 'then' rather than complex conjunctions", "emoji": "➕" },
+      { "id": 8, "text": "Begin many sentences with 'Then' or 'So' to create rhythmic progression", "emoji": "⏩" },
+      { "id": 9, "text": "Limit sentence length, avoiding multiple subordinate clauses", "emoji": "✂️" },
+      { "id": 10, "text": "Use active voice almost exclusively, with passive voice only for emphasis", "emoji": "🏃" }
     ],
     "narrative_voice": [
-      { "id": 11, "text": "Maintain a matter-of-fact, declarative tone throughout" },
-      { "id": 12, "text": "Report magical or gruesome events without emotional commentary" },
-      { "id": 13, "text": "Avoid irony, sarcasm, or modern self-awareness" },
-      { "id": 14, "text": "Use omniscient narration but rarely interpret characters' thoughts" },
-      { "id": 15, "text": "Present moral judgments through consequences, not narrator commentary" }
+      { "id": 11, "text": "Maintain a matter-of-fact, declarative tone throughout", "emoji": "🗣️" },
+      { "id": 12, "text": "Report magical or gruesome events without emotional commentary", "emoji": "🧙" },
+      { "id": 13, "text": "Avoid irony, sarcasm, or modern self-awareness", "emoji": "🚫🤔" },
+      { "id": 14, "text": "Use omniscient narration but rarely interpret characters' thoughts", "emoji": "👁️" },
+      { "id": 15, "text": "Present moral judgments through consequences, not narrator commentary", "emoji": "⚖️" }
     ],
     "dialogue_patterns": [
-      { "id": 16, "text": "Keep dialogue brief and functional rather than conversational" },
-      { "id": 17, "text": "Use direct speech markers ('he said', 'she replied') without variation" },
-      { "id": 18, "text": "Include formal or ritualistic speech patterns for magical beings" },
-      { "id": 19, "text": "Differentiate social classes through speech patterns (royalty vs. peasants)" },
-      { "id": 20, "text": "Employ repeated dialogue phrases for emphasis or magical effect" }
+      { "id": 16, "text": "Keep dialogue brief and functional rather than conversational", "emoji": "💬" },
+      { "id": 17, "text": "Use direct speech markers ('he said', 'she replied') without variation", "emoji": "🗨️" },
+      { "id": 18, "text": "Include formal or ritualistic speech patterns for magical beings", "emoji": "🔮" },
+      { "id": 19, "text": "Differentiate social classes through speech patterns (royalty vs. peasants)", "emoji": "👑" },
+      { "id": 20, "text": "Employ repeated dialogue phrases for emphasis or magical effect", "emoji": "🔁" }
     ],
     "poetic_devices": [
-      { "id": 21, "text": "Insert rhyming couplets for spells, magical messages, or significant moments" },
-      { "id": 22, "text": "Use simple AABB or ABCB rhyme schemes for magical verses" },
-      { "id": 23, "text": "Create repetitive phrases that recur throughout the narrative" },
-      { "id": 24, "text": "Employ rule of three in descriptions, actions, and plot elements" },
-      { "id": 25, "text": "Develop incantatory rhythm through parallel sentence structures" }
+      { "id": 21, "text": "Insert rhyming couplets for spells, magical messages, or significant moments", "emoji": "🎶" },
+      { "id": 22, "text": "Use simple AABB or ABCB rhyme schemes for magical verses", "emoji": "📝" },
+      { "id": 23, "text": "Create repetitive phrases that recur throughout the narrative", "emoji": "🔂" },
+      { "id": 24, "text": "Employ rule of three in descriptions, actions, and plot elements", "emoji": "3️⃣" },
+      { "id": 25, "text": "Develop incantatory rhythm through parallel sentence structures", "emoji": "🔔" }
     ],
     "description_techniques": [
-      { "id": 26, "text": "Focus on action and function rather than appearance in descriptions" },
-      { "id": 27, "text": "Describe characters through simple, defining traits (youngest son, beautiful princess)" },
-      { "id": 28, "text": "Use minimal setting details, focusing on story-relevant elements" },
-      { "id": 29, "text": "Avoid extended metaphors or complex imagery" },
-      { "id": 30, "text": "Describe emotional states through external actions rather than internal feelings" }
+      { "id": 26, "text": "Focus on action and function rather than appearance in descriptions", "emoji": "🎬" },
+      { "id": 27, "text": "Describe characters through simple, defining traits (youngest son, beautiful princess)", "emoji": "👦👸" },
+      { "id": 28, "text": "Use minimal setting details, focusing on story-relevant elements", "emoji": "🏞️" },
+      { "id": 29, "text": "Avoid extended metaphors or complex imagery", "emoji": "🚫🎨" },
+      { "id": 30, "text": "Describe emotional states through external actions rather than internal feelings", "emoji": "🤲" }
     ],
     "time_and_transitions": [
-      { "id": 31, "text": "Use vague time markers ('once upon a time', 'after some time passed')" },
-      { "id": 32, "text": "Employ direct transitions between scenes without elaborate bridges" },
-      { "id": 33, "text": "Signal the passage of time through simple phrases ('the next day', 'for many years')" },
-      { "id": 34, "text": "Create episodic structure with clear beginnings and endings to scenes" },
-      { "id": 35, "text": "Use formulaic opening and closing phrases to frame the narrative" }
+      { "id": 31, "text": "Use vague time markers ('once upon a time', 'after some time passed')", "emoji": "⏳" },
+      { "id": 32, "text": "Employ direct transitions between scenes without elaborate bridges", "emoji": "➡️" },
+      { "id": 33, "text": "Signal the passage of time through simple phrases ('the next day', 'for many years')", "emoji": "🕰️" },
+      { "id": 34, "text": "Create episodic structure with clear beginnings and endings to scenes", "emoji": "📖" },
+      { "id": 35, "text": "Use formulaic opening and closing phrases to frame the narrative", "emoji": "🔚" }
     ]
   }
 }

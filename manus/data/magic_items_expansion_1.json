@@ -7,53 +7,53 @@
   },
   "categories": {
     "sentient_objects": [
-      { "id": 1, "text": "Mirror of Selective Truth that shows only what the viewer secretly hopes to see" },
-      { "id": 2, "text": "Teapot that brews emotions instead of tea, each flavor creating a different feeling" },
-      { "id": 3, "text": "Quill that writes in invisible ink only the intended recipient can read" },
-      { "id": 4, "text": "Loom that weaves dreams into physical tapestries while its user sleeps" },
-      { "id": 5, "text": "Compass that points to what the holder has lost but forgotten about" }
+      { "id": 1, "text": "Mirror of Selective Truth that shows only what the viewer secretly hopes to see", "emoji": "🪞" },
+      { "id": 2, "text": "Teapot that brews emotions instead of tea, each flavor creating a different feeling", "emoji": "🫖" },
+      { "id": 3, "text": "Quill that writes in invisible ink only the intended recipient can read", "emoji": "🪶" },
+      { "id": 4, "text": "Loom that weaves dreams into physical tapestries while its user sleeps", "emoji": "🧵" },
+      { "id": 5, "text": "Compass that points to what the holder has lost but forgotten about", "emoji": "🧭" }
     ],
     "transformative_items": [
-      { "id": 6, "text": "Gloves that allow the wearer to reshape any natural material by touch" },
-      { "id": 7, "text": "Mask that changes not the wearer's appearance but how others perceive themselves" },
-      { "id": 8, "text": "Hourglass that ages or rejuvenates anything placed inside its glass chamber" },
-      { "id": 9, "text": "Paintbrush that brings painted objects to life for one hour per day" },
-      { "id": 10, "text": "Thimble that shrinks the wearer to the size of an insect when pricked" }
+      { "id": 6, "text": "Gloves that allow the wearer to reshape any natural material by touch", "emoji": "🧤" },
+      { "id": 7, "text": "Mask that changes not the wearer's appearance but how others perceive themselves", "emoji": "🎭" },
+      { "id": 8, "text": "Hourglass that ages or rejuvenates anything placed inside its glass chamber", "emoji": "⏳" },
+      { "id": 9, "text": "Paintbrush that brings painted objects to life for one hour per day", "emoji": "🖌️" },
+      { "id": 10, "text": "Thimble that shrinks the wearer to the size of an insect when pricked", "emoji": "🧵" }
     ],
     "boundary_objects": [
-      { "id": 11, "text": "Doorknob that can be attached to any surface, creating a door to elsewhere" },
-      { "id": 12, "text": "Lantern that reveals hidden pathways between worlds when lit at twilight" },
-      { "id": 13, "text": "Bridge made of moonlight that appears only to those who are truly lost" },
-      { "id": 14, "text": "Key that unlocks forgotten memories instead of physical locks" },
-      { "id": 15, "text": "Spectacles that allow the wearer to see into parallel realities" }
+      { "id": 11, "text": "Doorknob that can be attached to any surface, creating a door to elsewhere", "emoji": "🚪" },
+      { "id": 12, "text": "Lantern that reveals hidden pathways between worlds when lit at twilight", "emoji": "🏮" },
+      { "id": 13, "text": "Bridge made of moonlight that appears only to those who are truly lost", "emoji": "🌉" },
+      { "id": 14, "text": "Key that unlocks forgotten memories instead of physical locks", "emoji": "🗝️" },
+      { "id": 15, "text": "Spectacles that allow the wearer to see into parallel realities", "emoji": "👓" }
     ],
     "weather_items": [
-      { "id": 16, "text": "Umbrella that creates a small localized weather system beneath it" },
-      { "id": 17, "text": "Bellows that can capture and release winds from different seasons" },
-      { "id": 18, "text": "Snowglobe that controls the weather in the area depicted inside it" },
-      { "id": 19, "text": "Flute that summons specific clouds when different melodies are played" },
-      { "id": 20, "text": "Cloak that absorbs rainfall and can release it as a concentrated deluge" }
+      { "id": 16, "text": "Umbrella that creates a small localized weather system beneath it", "emoji": "🌂" },
+      { "id": 17, "text": "Bellows that can capture and release winds from different seasons", "emoji": "💨" },
+      { "id": 18, "text": "Snowglobe that controls the weather in the area depicted inside it", "emoji": "🧊" },
+      { "id": 19, "text": "Flute that summons specific clouds when different melodies are played", "emoji": "🎶" },
+      { "id": 20, "text": "Cloak that absorbs rainfall and can release it as a concentrated deluge", "emoji": "🧥" }
     ],
     "time_objects": [
-      { "id": 21, "text": "Pocketwatch that can pause time for everyone except the holder for one minute per day" },
-      { "id": 22, "text": "Calendar where crossing out a day makes that day repeat" },
-      { "id": 23, "text": "Sundial that casts shadows showing events from yesterday or tomorrow" },
-      { "id": 24, "text": "Metronome that speeds up or slows down local time with each tick" },
-      { "id": 25, "text": "Spinning wheel that can unravel time from objects, returning them to earlier states" }
+      { "id": 21, "text": "Pocketwatch that can pause time for everyone except the holder for one minute per day", "emoji": "⌚" },
+      { "id": 22, "text": "Calendar where crossing out a day makes that day repeat", "emoji": "📅" },
+      { "id": 23, "text": "Sundial that casts shadows showing events from yesterday or tomorrow", "emoji": "🕰️" },
+      { "id": 24, "text": "Metronome that speeds up or slows down local time with each tick", "emoji": "🎵" },
+      { "id": 25, "text": "Spinning wheel that can unravel time from objects, returning them to earlier states", "emoji": "🧶" }
     ],
     "musical_artifacts": [
-      { "id": 26, "text": "Harp with strings made from moonbeams that plays itself when touched by starlight" },
-      { "id": 27, "text": "Drum that beats in time with the heart of whoever the drummer thinks about" },
-      { "id": 28, "text": "Bell that can only be heard by those who share a secret with the ringer" },
-      { "id": 29, "text": "Violin that plays the thoughts of whoever listens to its music" },
-      { "id": 30, "text": "Music box that creates illusions corresponding to the melody it plays" }
+      { "id": 26, "text": "Harp with strings made from moonbeams that plays itself when touched by starlight", "emoji": "🎼" },
+      { "id": 27, "text": "Drum that beats in time with the heart of whoever the drummer thinks about", "emoji": "🥁" },
+      { "id": 28, "text": "Bell that can only be heard by those who share a secret with the ringer", "emoji": "🔔" },
+      { "id": 29, "text": "Violin that plays the thoughts of whoever listens to its music", "emoji": "🎻" },
+      { "id": 30, "text": "Music box that creates illusions corresponding to the melody it plays", "emoji": "🪙" }
     ],
     "deceptive_treasures": [
-      { "id": 31, "text": "Coins that always return to their owner's purse by the next sunrise" },
-      { "id": 32, "text": "Jewel that appears as the most valuable gem to each viewer" },
-      { "id": 33, "text": "Chest that contains exactly what was last stolen from its owner" },
-      { "id": 34, "text": "Crown that makes subjects see the wearer as their ideal ruler" },
-      { "id": 35, "text": "Pearl necklace where each pearl contains a captured lie told by its wearer" }
+      { "id": 31, "text": "Coins that always return to their owner's purse by the next sunrise", "emoji": "🪙" },
+      { "id": 32, "text": "Jewel that appears as the most valuable gem to each viewer", "emoji": "💎" },
+      { "id": 33, "text": "Chest that contains exactly what was last stolen from its owner", "emoji": "🧰" },
+      { "id": 34, "text": "Crown that makes subjects see the wearer as their ideal ruler", "emoji": "👑" },
+      { "id": 35, "text": "Pearl necklace where each pearl contains a captured lie told by its wearer", "emoji": "📿" }
     ]
   }
 }

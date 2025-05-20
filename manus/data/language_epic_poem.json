@@ -7,53 +7,53 @@
   },
   "categories": {
     "invocation_patterns": [
-      { "id": 1, "text": "Begin with a direct appeal to a muse or supernatural force for inspiration" },
-      { "id": 2, "text": "Establish the central theme as a question posed to higher powers" },
-      { "id": 3, "text": "Open with a statement of the work's grand purpose and scope" },
-      { "id": 4, "text": "Introduce the hero through their lineage and divine connections" },
-      { "id": 5, "text": "Start in medias res with a pivotal moment, then circle back to origins" }
+      { "id": 1, "text": "Begin with a direct appeal to a muse or supernatural force for inspiration", "emoji": "🧚" },
+      { "id": 2, "text": "Establish the central theme as a question posed to higher powers", "emoji": "❓" },
+      { "id": 3, "text": "Open with a statement of the work's grand purpose and scope", "emoji": "📜" },
+      { "id": 4, "text": "Introduce the hero through their lineage and divine connections", "emoji": "👑" },
+      { "id": 5, "text": "Start in medias res with a pivotal moment, then circle back to origins", "emoji": "⏳" }
     ],
     "epic_similes": [
-      { "id": 6, "text": "Compare character actions to natural phenomena spanning multiple lines" },
-      { "id": 7, "text": "Describe emotional states through extended comparisons to seasonal changes" },
-      { "id": 8, "text": "Liken battle scenes to cosmic events with elaborate detail" },
-      { "id": 9, "text": "Draw parallels between human endeavors and animal behaviors in detailed passages" },
-      { "id": 10, "text": "Connect character transformations to mythological metamorphoses" }
+      { "id": 6, "text": "Compare character actions to natural phenomena spanning multiple lines", "emoji": "🌩️" },
+      { "id": 7, "text": "Describe emotional states through extended comparisons to seasonal changes", "emoji": "🍂" },
+      { "id": 8, "text": "Liken battle scenes to cosmic events with elaborate detail", "emoji": "🌌" },
+      { "id": 9, "text": "Draw parallels between human endeavors and animal behaviors in detailed passages", "emoji": "🦁" },
+      { "id": 10, "text": "Connect character transformations to mythological metamorphoses", "emoji": "🦋" }
     ],
     "epithets_and_naming": [
-      { "id": 11, "text": "Assign recurring descriptive phrases to major characters (e.g., 'swift-footed')" },
-      { "id": 12, "text": "Create compound adjectives that capture essential character traits" },
-      { "id": 13, "text": "Use patronymics and matronymics to emphasize heritage and destiny" },
-      { "id": 14, "text": "Refer to characters by their defining achievements rather than names" },
-      { "id": 15, "text": "Employ place-based identifiers that connect characters to their lands" }
+      { "id": 11, "text": "Assign recurring descriptive phrases to major characters (e.g., 'swift-footed')", "emoji": "🏷️" },
+      { "id": 12, "text": "Create compound adjectives that capture essential character traits", "emoji": "🔗" },
+      { "id": 13, "text": "Use patronymics and matronymics to emphasize heritage and destiny", "emoji": "🌳" },
+      { "id": 14, "text": "Refer to characters by their defining achievements rather than names", "emoji": "🏆" },
+      { "id": 15, "text": "Employ place-based identifiers that connect characters to their lands", "emoji": "🗺️" }
     ],
     "divine_machinery": [
-      { "id": 16, "text": "Include supernatural interventions that alter the course of events" },
-      { "id": 17, "text": "Depict divine councils where immortals debate the fate of mortals" },
-      { "id": 18, "text": "Show gods taking disguises to interact directly with human characters" },
-      { "id": 19, "text": "Present omens and prophecies that foreshadow key developments" },
-      { "id": 20, "text": "Create divine conflicts that mirror and influence human struggles" }
+      { "id": 16, "text": "Include supernatural interventions that alter the course of events", "emoji": "⚡" },
+      { "id": 17, "text": "Depict divine councils where immortals debate the fate of mortals", "emoji": "🏛️" },
+      { "id": 18, "text": "Show gods taking disguises to interact directly with human characters", "emoji": "🎭" },
+      { "id": 19, "text": "Present omens and prophecies that foreshadow key developments", "emoji": "🔮" },
+      { "id": 20, "text": "Create divine conflicts that mirror and influence human struggles", "emoji": "⚔️" }
     ],
     "formal_speech": [
-      { "id": 21, "text": "Craft lengthy, formal speeches before battles or important decisions" },
-      { "id": 22, "text": "Include ritualized exchanges between adversaries before conflict" },
-      { "id": 23, "text": "Compose funeral orations that reflect on mortality and legacy" },
-      { "id": 24, "text": "Write formal supplications to higher powers in moments of crisis" },
-      { "id": 25, "text": "Create wisdom speeches from elder characters that reveal cultural values" }
+      { "id": 21, "text": "Craft lengthy, formal speeches before battles or important decisions", "emoji": "🗣️" },
+      { "id": 22, "text": "Include ritualized exchanges between adversaries before conflict", "emoji": "🤝" },
+      { "id": 23, "text": "Compose funeral orations that reflect on mortality and legacy", "emoji": "⚰️" },
+      { "id": 24, "text": "Write formal supplications to higher powers in moments of crisis", "emoji": "🙏" },
+      { "id": 25, "text": "Create wisdom speeches from elder characters that reveal cultural values", "emoji": "🦉" }
     ],
     "metrical_patterns": [
-      { "id": 26, "text": "Maintain consistent metrical structure with occasional variations for emphasis" },
-      { "id": 27, "text": "Use caesuras (mid-line pauses) to create dramatic tension" },
-      { "id": 28, "text": "Employ enjambment to carry thought across line boundaries for flowing narrative" },
-      { "id": 29, "text": "Create sonic patterns through alliteration in moments of high emotion" },
-      { "id": 30, "text": "Vary rhythm to match action—swift for battles, measured for ceremonies" }
+      { "id": 26, "text": "Maintain consistent metrical structure with occasional variations for emphasis", "emoji": "📏" },
+      { "id": 27, "text": "Use caesuras (mid-line pauses) to create dramatic tension", "emoji": "⏸️" },
+      { "id": 28, "text": "Employ enjambment to carry thought across line boundaries for flowing narrative", "emoji": "↩️" },
+      { "id": 29, "text": "Create sonic patterns through alliteration in moments of high emotion", "emoji": "🔊" },
+      { "id": 30, "text": "Vary rhythm to match action—swift for battles, measured for ceremonies", "emoji": "🥁" }
     ],
     "catalog_technique": [
-      { "id": 31, "text": "Include detailed lists of participants in major events" },
-      { "id": 32, "text": "Enumerate possessions or treasures with their histories and significance" },
-      { "id": 33, "text": "Catalog genealogies that connect characters to mythic ancestors" },
-      { "id": 34, "text": "Detail geographic features of the setting with cultural associations" },
-      { "id": 35, "text": "List sequential events or prophecies in formal, parallel structures" }
+      { "id": 31, "text": "Include detailed lists of participants in major events", "emoji": "📋" },
+      { "id": 32, "text": "Enumerate possessions or treasures with their histories and significance", "emoji": "💎" },
+      { "id": 33, "text": "Catalog genealogies that connect characters to mythic ancestors", "emoji": "👨‍👩‍👧‍👦" },
+      { "id": 34, "text": "Detail geographic features of the setting with cultural associations", "emoji": "🏞️" },
+      { "id": 35, "text": "List sequential events or prophecies in formal, parallel structures", "emoji": "🔢" }
     ]
   }
 }

@@ -205,12 +205,12 @@
                 });
                 
                 // Update all buttons (except those in selected prompts that have their own dataset color)
-                document.querySelectorAll('button:not(.prompt-controls button)').forEach(button => {
-                    button.style.backgroundColor = color;
-                });
+                //document.querySelectorAll('button:not(.prompt-controls button)').forEach(button => {
+                //    button.style.backgroundColor = color;
+                //});
                 
                 // Update heading color
-                document.querySelector('h1').style.color = color;
+                //document.querySelector('h1').style.color = color;
             }
         }
 
@@ -273,6 +273,7 @@
                 categoryElement.setAttribute('data-category', category);
                 
                 const displayName = formatCategoryName(category);
+                const description = currentDataset.categories[category].description || '';
                 
                 categoryElement.innerHTML = `
                     <div class="category-header">
@@ -282,7 +283,7 @@
                     <div class="category-content">
                         ${currentDataset.categories[category].map(prompt => `
                             <div class="prompt-item" data-id="${prompt.id}" data-category="${category}">
-                                ${prompt.text}
+                                ${prompt.emoji} - ${prompt.text} 
                             </div>
                         `).join('')}
                     </div>
@@ -307,7 +308,7 @@
                         const prompt = currentDataset.categories[category].find(p => p.id === id);
                         
                         if (prompt) {
-                            addPromptToSelection(prompt.text, category, currentDataset);
+                            addPromptToSelection(prompt.text, category, currentDataset, prompt.emoji);
                             updateStatus(`Added prompt: ${prompt.text.substring(0, 30)}...`);
                         }
                     });
@@ -375,15 +376,15 @@
             });
             
             // Apply dataset theme to buttons
-            if (currentDataset.metadata && currentDataset.metadata.color) {
-                document.querySelectorAll('button').forEach(button => {
-                    button.style.backgroundColor = currentDataset.metadata.color;
-                });
-            }
+            //if (currentDataset.metadata && currentDataset.metadata.color) {
+            //    document.querySelectorAll('button').forEach(button => {
+            //        button.style.backgroundColor = currentDataset.metadata.color;
+            //    });
+            //}
         }
 
         // Add a prompt to the selection
-        function addPromptToSelection(text = '', category = '', dataset = null) {
+        function addPromptToSelection(text = '', category = '', dataset = null, emoji = '') {
             const promptId = `selected-${Date.now()}`;
             const promptElement = document.createElement('div');
             promptElement.className = 'selected-prompt';
@@ -397,8 +398,8 @@
             
             // Create dataset label with dataset color
             const labelHtml = dataset ? 
-                `<div class="dataset-label" style="background-color: ${datasetColor}">${datasetName}</div>` : 
-                '';
+                `<div class="dataset-label" style="background-color: ${datasetColor}">${datasetName}</div><span class="prompt-emoji">${emoji}</span>` : 
+                '<span class="prompt-emoji">${emoji}</span>';
             
             promptElement.innerHTML = `
                 ${labelHtml}
@@ -581,7 +582,7 @@
             const prompts = Array.from(selectedPromptsContainer.querySelectorAll('textarea'))
                 .map(textarea => textarea.value)
                 .filter(text => text.trim())
-                .join('\n\n');
+                .join('\n- ');
             
             if (prompts) {
                 navigator.clipboard.writeText(prompts)
@@ -605,7 +606,7 @@
                 updateStatus('No prompts to copy');
             }
         }
-
+        
         // Add a new empty prompt to the selection
         function addNewPromptToSelection() {
             addPromptToSelection();
