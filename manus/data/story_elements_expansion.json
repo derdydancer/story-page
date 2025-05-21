@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "name": "Story Elements Expansion",
+    "description": "Elements extracted from the provided story analysis",
+    "lastModified": "2025-05-21",
+    "color": "#2a9d8f"
+  },
+  "categories": {
+    "character_archetypes": [
+      { "id": 1, "text": "The troubled Queen with a shadow on her heart", "emoji": "👑" },
+      { "id": 2, "text": "The loving King who sacrifices for his Queen's happiness", "emoji": "🤴" },
+      { "id": 3, "text": "The manipulative Sorcerer who offers relief at a hidden cost", "emoji": "🧙‍♂️" },
+      { "id": 4, "text": "The thoughtful Prince who observes and analyzes", "emoji": "🤔" },
+      { "id": 5, "text": "The quiet Prince who keeps his own counsel", "emoji": "🤫" },
+      { "id": 6, "text": "The loyal courtier who brings gifts and news", "emoji": "🧎" },
+      { "id": 7, "text": "The wise elder who recognizes the curse's nature", "emoji": "🧓" },
+      { "id": 8, "text": "The innocent subjects who suffer from another's bargain", "emoji": "👨‍👩‍👧‍👦" }
+    ],
+    "setting_elements": [
+      { "id": 9, "text": "A kingdom blessed with sunshine and prosperity", "emoji": "☀️" },
+      { "id": 10, "text": "A desolate shore marking the boundary to darkness", "emoji": "🏝️" },
+      { "id": 11, "text": "A stark, black tower housing dark magic", "emoji": "🏰" },
+      { "id": 12, "text": "A royal palace gradually losing its luster", "emoji": "🏛️" },
+      { "id": 13, "text": "A kingdom where colors and joy slowly fade", "emoji": "🌫️" },
+      { "id": 14, "text": "A court blind to the subtle changes around them", "emoji": "👁️‍🗨️" },
+      { "id": 15, "text": "A land where shadows grow longer each day", "emoji": "🌑" }
+    ],
+    "magical_elements": [
+      { "id": 16, "text": "A curse that steals joy from beautiful things", "emoji": "✨" },
+      { "id": 17, "text": "A shadow tether connecting the cursed to the curse-maker", "emoji": "🧵" },
+      { "id": 18, "text": "Magic that requires a specific price for its working", "emoji": "💰" },
+      { "id": 19, "text": "A crown with gems that visibly dim when joy is stolen", "emoji": "👑" },
+      { "id": 20, "text": "A spell that brings peace at the cost of others' happiness", "emoji": "🧿" },
+      { "id": 21, "text": "An invisible bond that drains energy from the kingdom", "emoji": "⛓️" },
+      { "id": 22, "text": "A bargain with consequences beyond the bargainer's understanding", "emoji": "📜" }
+    ],
+    "plot_functions": [
+      { "id": 23, "text": "Exposition establishing an idealized kingdom before trouble", "emoji": "📖" },
+      { "id": 24, "text": "Inciting incident of inner shadow/pain that cannot be understood", "emoji": "💔" },
+      { "id": 25, "text": "Journey to seek external solution for internal problem", "emoji": "🚶‍♀️" },
+      { "id": 26, "text": "Bargain with a dark force offering easy relief", "emoji": "🤝" },
+      { "id": 27, "text": "Misunderstanding the true cost of the bargain", "emoji": "❓" },
+      { "id": 28, "text": "Triggering the curse through genuine appreciation of beauty", "emoji": "🔮" },
+      { "id": 29, "text": "Gradual realization of the curse's true nature", "emoji": "💡" },
+      { "id": 30, "text": "Kingdom-wide suffering from one person's choice", "emoji": "😔" },
+      { "id": 31, "text": "Denial and rationalization of supernatural effects", "emoji": "🙈" }
+    ],
+    "symbolic_objects": [
+      { "id": 32, "text": "A magnificent crown symbolizing unity and collective joy", "emoji": "👑" },
+      { "id": 33, "text": "Flawless gems representing pure happiness and beauty", "emoji": "💎" },
+      { "id": 34, "text": "A thin thread of shadow representing the curse's connection", "emoji": "🕸️" },
+      { "id": 35, "text": "Dimming lights representing the draining of joy and vitality", "emoji": "💫" },
+      { "id": 36, "text": "The black tower representing externalized darkness", "emoji": "🗼" },
+      { "id": 37, "text": "The desolate shore representing the boundary between light and dark", "emoji": "🌊" },
+      { "id": 38, "text": "The Sorcerer's cold eyes representing emotionless manipulation", "emoji": "👁️" }
+    ],
+    "moral_implications": [
+      { "id": 39, "text": "Love involves sacrifice, even painful ones", "emoji": "❤️" },
+      { "id": 40, "text": "Seeking easy solutions to internal problems leads to greater harm", "emoji": "⚖️" },
+      { "id": 41, "text": "Desperation can lead to rash promises with far-reaching consequences", "emoji": "😰" },
+      { "id": 42, "text": "The price of magic always exceeds its apparent cost", "emoji": "✨" },
+      { "id": 43, "text": "One person's choices can affect an entire community", "emoji": "🌍" },
+      { "id": 44, "text": "Denying uncomfortable truths doesn't make them disappear", "emoji": "🙉" },
+      { "id": 45, "text": "External beauty can mask internal corruption", "emoji": "🎭" },
+      { "id": 46, "text": "True healing comes from within, not external sources", "emoji": "🧘‍♀️" }
+    ],
+    "psychological_meanings": [
+      { "id": 47, "text": "The shadow on the heart representing unresolved trauma or depression", "emoji": "🖤" },
+      { "id": 48, "text": "The journey across the sea as confronting the unconscious", "emoji": "🌊" },
+      { "id": 49, "text": "The Sorcerer as the externalized shadow self or tempter", "emoji": "👤" },
+      { "id": 50, "text": "The bargain representing self-destructive coping mechanisms", "emoji": "🔄" },
+      { "id": 51, "text": "The dimming kingdom as collective depression or emotional contagion", "emoji": "🌫️" },
+      { "id": 52, "text": "The tether as the ongoing connection to past trauma", "emoji": "⛓️" },
+      { "id": 53, "text": "The stolen joy as emotional vampirism or energy drain", "emoji": "🧛" },
+      { "id": 54, "text": "The King's denial as psychological defense mechanism", "emoji": "🛡️" }
+    ],
+    "narrative_patterns": [
+      { "id": 55, "text": "Classic fairy tale opening establishing an idealized world", "emoji": "📚" },
+      { "id": 56, "text": "Journey to a dark place representing internal descent", "emoji": "🌑" },
+      { "id": 57, "text": "Magical bargain with hidden, terrible cost", "emoji": "🤝" },
+      { "id": 58, "text": "Curse that spreads beyond the original target", "emoji": "☠️" },
+      { "id": 59, "text": "Gradual darkening of the environment reflecting spiritual corruption", "emoji": "🌆" },
+      { "id": 60, "text": "Moment of realization when the true nature of the bargain becomes clear", "emoji": "😱" },
+      { "id": 61, "text": "Royal family as microcosm of the kingdom's health", "emoji": "👑" },
+      { "id": 62, "text": "Symbolic object that visibly manifests the curse's effects", "emoji": "🔮" }
+    ]
+  }
+}

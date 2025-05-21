@@ -1,3 +1,4 @@
 Format compact.json
+Format_manus.json
 Format_optional.json
 Format_original.json
