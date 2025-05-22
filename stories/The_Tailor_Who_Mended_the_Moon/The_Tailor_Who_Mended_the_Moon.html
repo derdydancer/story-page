@@ -194,6 +194,40 @@ document.querySelectorAll('.sentence').forEach(function(el) {
 if (analysisData.length > 0) {
     selectSentence(0);
 }
+// Add Copy JSON to Clipboard button if .code.json file exists in the same directory
+(function() {
+    // Get the current HTML file name (without extension)
+    var htmlFile = location.pathname.split('/').pop();
+    var baseName = htmlFile.replace(/\.html$/, '');
+    baseName = baseName.replace(/_/g, ' ');
+    var jsonFile = baseName + '.code.json';
+    // Try to fetch the .code.json file
+    fetch(jsonFile)
+        .then(function(response) {
+            if (!response.ok) throw new Error('No code.json');
+            return response.text();
+        })
+        .then(function(jsonText) {
+            // Create the button
+            var btn = document.createElement('button');
+            btn.textContent = 'Copy JSON to Clipboard';
+            btn.style.margin = '10px auto';
+            btn.style.display = 'inline-block';
+            btn.onclick = function() {
+                navigator.clipboard.writeText(jsonText).then(function() {
+                    btn.textContent = 'Copied!';
+                    setTimeout(function() { btn.textContent = 'Copy JSON to Clipboard'; }, 1500);
+                }, function() {
+                    btn.textContent = 'Copy Failed!';
+                    setTimeout(function() { btn.textContent = 'Copy JSON to Clipboard'; }, 1500);
+                });
+            };
+            document.getElementById('copy-json-container').appendChild(btn);
+        })
+        .catch(function() {
+            // No .code.json file found, do nothing
+        });
+})();
 </script>
 </body>
 </html>

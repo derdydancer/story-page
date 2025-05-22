@@ -1,0 +1,593 @@
+{
+  "Analysis": [
+    {
+      "Nested Analysis": {
+        "Primary Function": "Introduction of the setting and initial situation, establishing the fairy tale world.",
+        "Secondary Function": "Establishing the humble origins of the protagonists.",
+        "Stylistic Element": "Direct, matter-of-fact introduction of characters by their role rather than name.",
+        "Symbolic Thematic Significance": "The beginning of the hero's journey, representing the universal quest for identity and purpose."
+      },
+      "Bridge Function": "Introduces the three brothers who will be the protagonists and establishes their humble but harmonious starting situation.",
+      "Context Tracker": ["Three brothers living in a small cottage", "Edge of a great forest", "Humble origins"],
+      "Sentence": "Once upon a time, there lived three brothers in a small cottage at the edge of a great forest, and though they had little to eat, they shared what they had with kindness and good cheer.",
+      "Chapter Number": 1,
+      "Sentence Number": 1,
+      "Narrative Phase": "Introduction"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Introduction of the inciting incident that will propel the protagonists into action.",
+        "Secondary Function": "Establishing the motivation for the brothers' journey.",
+        "Stylistic Element": "Introduction of hardship as a catalyst for the journey, common in Grimm tales.",
+        "Symbolic Thematic Significance": "The push from the familiar into the unknown, representing life transitions."
+      },
+      "Bridge Function": "Creates the motivation for the brothers to leave home and begin their adventure.",
+      "Context Tracker": ["Three brothers living in a small cottage", "Edge of a great forest", "Humble origins", "Winter hardship", "Decision to seek fortune"],
+      "Sentence": "When winter came harsh and food grew scarce, the brothers decided they must seek their fortune in the world beyond their home.",
+      "Chapter Number": 1,
+      "Sentence Number": 2,
+      "Narrative Phase": "Introduction"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Introduction of the first brother and his distinguishing characteristic.",
+        "Secondary Function": "Establishing a magical or unusual trait that will be important later.",
+        "Stylistic Element": "Characters defined by a single notable trait or ability, typical of fairy tale simplicity.",
+        "Symbolic Thematic Significance": "The constraints of honesty in a world that often rewards deception."
+      },
+      "Bridge Function": "Introduces the special ability of the first brother that will be crucial to his individual journey.",
+      "Context Tracker": ["Three brothers seeking fortune", "Eldest brother can only speak truth on odd-numbered days"],
+      "Sentence": "The eldest brother was known throughout the village for his strange condition: on odd-numbered days he could speak only the truth, while on even-numbered days he could say whatever he wished.",
+      "Chapter Number": 1,
+      "Sentence Number": 3,
+      "Narrative Phase": "Introduction"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Introduction of the second brother and his distinguishing characteristic.",
+        "Secondary Function": "Establishing a practical skill that will be important later.",
+        "Stylistic Element": "Practical skills valued in Grimm tales, showing characters with useful trades.",
+        "Symbolic Thematic Significance": "The hands as symbols of creation and capability."
+      },
+      "Bridge Function": "Introduces the special skill of the second brother that will be crucial to his individual journey.",
+      "Context Tracker": ["Three brothers seeking fortune", "Eldest brother speaks only truth on odd days", "Middle brother is a skilled cobbler"],
+      "Sentence": "The middle brother was a cobbler who crafted the finest shoes in seven kingdoms, with hands so skilled they seemed to work of their own accord.",
+      "Chapter Number": 1,
+      "Sentence Number": 4,
+      "Narrative Phase": "Introduction"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Introduction of the third brother and his distinguishing characteristic.",
+        "Secondary Function": "Establishing a perceptive ability that will be important later.",
+        "Stylistic Element": "The youngest sibling often possessing a seemingly useless or peculiar trait that later proves valuable.",
+        "Symbolic Thematic Significance": "The quiet observer who perceives what others miss."
+      },
+      "Bridge Function": "Introduces the special ability of the third brother that will be crucial to his individual journey.",
+      "Context Tracker": ["Three brothers seeking fortune", "Eldest brother speaks only truth on odd days", "Middle brother is a skilled cobbler", "Youngest brother can hear whispers others cannot"],
+      "Sentence": "The youngest brother spoke rarely but listened well, and could hear whispers that others could not, whether from people, animals, or even the wind through leaves.",
+      "Chapter Number": 1,
+      "Sentence Number": 5,
+      "Narrative Phase": "Introduction"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Establishment of the father's role and the inheritance that will serve as magical objects.",
+        "Secondary Function": "Introducing the magical objects that will aid each brother.",
+        "Stylistic Element": "The dying parent bestowing gifts or wisdom, a common fairy tale trope.",
+        "Symbolic Thematic Significance": "Parental legacy as both blessing and challenge."
+      },
+      "Bridge Function": "Introduces the magical objects that each brother will use on their journey.",
+      "Context Tracker": ["Three brothers with special abilities", "Father giving magical gifts", "Golden key for eldest", "Leather boots for middle", "Silver needle for youngest"],
+      "Sentence": "Before the brothers departed, their father, old and bent with years, called them to his bedside and presented each with a gift: a small golden key for the eldest, a pair of worn leather boots for the middle brother, and a silver needle for the youngest.",
+      "Chapter Number": 1,
+      "Sentence Number": 6,
+      "Narrative Phase": "Introduction"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Mysterious advice that foreshadows future events and establishes rules.",
+        "Secondary Function": "Providing cryptic instructions about the magical objects.",
+        "Stylistic Element": "Cryptic instructions that must be followed, with consequences for disobedience.",
+        "Symbolic Thematic Significance": "The guidance that accompanies us even when we leave home."
+      },
+      "Bridge Function": "Establishes the magical properties of each object while creating mystery about how they will function.",
+      "Context Tracker": ["Three brothers with special abilities", "Magical gifts with cryptic instructions", "Key opens more than locks", "Boots walk toward heart's desire", "Needle binds what eyes cannot see"],
+      "Sentence": "\"These simple things may seem of little worth,\" said the father, \"but each will serve you well if you remember this: the key opens more than locks, the boots walk toward heart's desire, and the needle binds what eyes cannot see.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 7,
+      "Narrative Phase": "Introduction"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Departure of the protagonists on their journey.",
+        "Secondary Function": "Establishing the timing that will be important for the eldest brother's truth-telling.",
+        "Stylistic Element": "The farewell scene, marking the transition from home to adventure.",
+        "Symbolic Thematic Significance": "Separation as a prerequisite for growth and individuation."
+      },
+      "Bridge Function": "Transitions from the setup to the journey, noting it's the first day of the month (odd-numbered day) which will be significant for the eldest brother.",
+      "Context Tracker": ["Three brothers departing on journey", "First day of month (odd-numbered day)", "Each brother has magical object"],
+      "Sentence": "At dawn the next day, which happened to be the first day of the month, the brothers embraced their father, packed their few belongings, and set out on the road that led into the forest.",
+      "Chapter Number": 1,
+      "Sentence Number": 8,
+      "Narrative Phase": "Introduction"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Introduction of the first challenge and the brothers' different approaches.",
+        "Secondary Function": "Setting up the separation of the brothers.",
+        "Stylistic Element": "The fork in the road, a common motif representing choice and destiny.",
+        "Symbolic Thematic Significance": "The divergence of lives even among those who begin together."
+      },
+      "Bridge Function": "Creates the situation that will separate the brothers, allowing for parallel storylines.",
+      "Context Tracker": ["Three brothers on journey", "Path splits three ways", "Brothers must choose different paths"],
+      "Sentence": "They had not walked far when they came to a place where the path split into three: one broad and well-trodden, one narrow and winding, and one nearly hidden by thorns and brambles.",
+      "Chapter Number": 1,
+      "Sentence Number": 9,
+      "Narrative Phase": "Introduction"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The separation of the brothers, setting up parallel storylines.",
+        "Secondary Function": "Establishing which brother takes which path.",
+        "Stylistic Element": "The rule of three, with siblings taking different paths.",
+        "Symbolic Thematic Significance": "The individuation process requires separation from the familiar."
+      },
+      "Bridge Function": "Completes the separation of the brothers and sets up the three parallel storylines that will follow.",
+      "Context Tracker": ["Brothers separate", "Middle brother takes broad path", "Eldest takes narrow path", "Youngest takes hidden path"],
+      "Sentence": "\"I shall take the broad path,\" said the middle brother, while the eldest chose the narrow way, leaving the youngest to push aside the thorns and follow the hidden trail into the deepest part of the forest.",
+      "Chapter Number": 1,
+      "Sentence Number": 10,
+      "Narrative Phase": "Introduction"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Focus on the youngest brother's journey, introducing the magical forest.",
+        "Secondary Function": "Establishing the setting for the youngest brother's adventure.",
+        "Stylistic Element": "Nature as a living, sentient force with its own agency.",
+        "Symbolic Thematic Significance": "The unconscious mind as a wild, untamed landscape full of hidden wisdom."
+      },
+      "Bridge Function": "Transitions to following the youngest brother's journey, introducing the magical whispering forest.",
+      "Context Tracker": ["Youngest brother in deep forest", "Trees that whisper", "Journey continues through day"],
+      "Sentence": "The youngest brother walked until the sun hung high overhead, and as he ventured deeper into the forest, he began to hear strange whispers from the ancient trees that lined his path.",
+      "Chapter Number": 2,
+      "Sentence Number": 11,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Revelation of the forest's magical nature and the brother's special ability.",
+        "Secondary Function": "Introducing the contest between sun and moon.",
+        "Stylistic Element": "Communication with nature, revealing hidden knowledge.",
+        "Symbolic Thematic Significance": "Intuition as a form of wisdom that speaks in whispers."
+      },
+      "Bridge Function": "Shows the youngest brother's ability to hear the trees' whispers and introduces the dangerous clearing ahead.",
+      "Context Tracker": ["Youngest brother can hear trees", "Warning about clearing ahead", "Sun and moon contest", "Danger of being trapped in twilight"],
+      "Sentence": "\"Beware the clearing ahead,\" rustled the leaves of an old oak, \"for there the sun and moon meet to contest the length of day and night, and mortals who wander between them may be trapped in twilight forever.\"",
+      "Chapter Number": 2,
+      "Sentence Number": 12,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The protagonist encounters the central conflict of the tale.",
+        "Secondary Function": "Description of the magical clearing and its inhabitants.",
+        "Stylistic Element": "Cosmic forces personified, engaged in an eternal struggle.",
+        "Symbolic Thematic Significance": "The tension between opposing forces in life and within the self."
+      },
+      "Bridge Function": "Shows the youngest brother entering the clearing despite the warning, discovering the contest between sun and moon.",
+      "Context Tracker": ["Youngest brother enters clearing", "Sun and moon visible simultaneously", "Figure in cloak of stars"],
+      "Sentence": "Despite the warning, the youngest brother's curiosity drew him forward until he reached a perfect circular clearing where, impossibly, the sun shone from one half of the sky while the moon glowed from the other, and between them stood a tall figure in a cloak of stars.",
+      "Chapter Number": 2,
+      "Sentence Number": 13,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Introduction of a powerful magical being who will set a task.",
+        "Secondary Function": "Explanation of the figure's role and weariness.",
+        "Stylistic Element": "The mysterious stranger who tests the protagonist.",
+        "Symbolic Thematic Significance": "The encounter with the higher self or wisdom figure."
+      },
+      "Bridge Function": "Introduces the figure who judges the contest between sun and moon and explains their desire for a replacement.",
+      "Context Tracker": ["Figure judges contest between sun and moon", "Figure seeks replacement", "Youngest brother's hearing ability noted"],
+      "Sentence": "\"For a thousand years I have judged the contest between sun and moon,\" said the figure in a voice like distant thunder, \"but I grow weary and seek someone to take my place, someone who can hear what others cannot.\"",
+      "Chapter Number": 2,
+      "Sentence Number": 14,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The magical being recognizes the protagonist's special ability.",
+        "Secondary Function": "Establishment of the three tasks challenge.",
+        "Stylistic Element": "The humble protagonist being singled out for a great task.",
+        "Symbolic Thematic Significance": "Recognition of one's unique qualities by a higher authority."
+      },
+      "Bridge Function": "The figure identifies the youngest brother as a potential replacement but establishes that he must prove himself through three tasks.",
+      "Context Tracker": ["Figure recognizes youngest brother's ability", "Three tasks to prove worthiness", "Potential to become new judge"],
+      "Sentence": "The figure pointed a long finger at the youngest brother and said, \"You, who can hear the whispers of trees, might have the wisdom to judge fairly, but first you must prove yourself worthy through three tasks.\"",
+      "Chapter Number": 2,
+      "Sentence Number": 15,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Establishment of the first task, creating tension and challenge.",
+        "Secondary Function": "Introducing an impossible-seeming task.",
+        "Stylistic Element": "The impossible task that requires magical thinking to solve.",
+        "Symbolic Thematic Significance": "The need to transcend conventional thinking to solve life's deepest problems."
+      },
+      "Bridge Function": "Presents the first seemingly impossible task: capturing the sound of silence.",
+      "Context Tracker": ["First task assigned", "Capture the sound of silence", "Deadline of next dawn"],
+      "Sentence": "\"First,\" said the cloaked figure, \"you must capture the sound of silence and bring it to me before the next dawn.\"",
+      "Chapter Number": 2,
+      "Sentence Number": 16,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The protagonist's initial reaction of doubt and confusion.",
+        "Secondary Function": "Highlighting the seemingly impossible nature of the task.",
+        "Stylistic Element": "The seemingly impossible task that tests the hero's resolve.",
+        "Symbolic Thematic Significance": "Self-doubt as a natural response to overwhelming demands."
+      },
+      "Bridge Function": "Shows the youngest brother's confusion and doubt about how to complete such an impossible task.",
+      "Context Tracker": ["Youngest brother confused by task", "Silence cannot be heard or held", "Apparent impossibility"],
+      "Sentence": "The youngest brother stood bewildered, for how could one capture something that by its nature could not be heard, much less held in one's hands?",
+      "Chapter Number": 2,
+      "Sentence Number": 17,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The protagonist remembers the magical gift that will help solve the problem.",
+        "Secondary Function": "Connecting back to the father's cryptic advice.",
+        "Stylistic Element": "The seemingly insignificant object that proves magical and crucial.",
+        "Symbolic Thematic Significance": "The resources within us that we often overlook."
+      },
+      "Bridge Function": "The youngest brother remembers his father's gift (the silver needle) and the cryptic advice about binding what eyes cannot see.",
+      "Context Tracker": ["Youngest brother remembers silver needle", "Father's words about binding what eyes cannot see", "Potential solution emerges"],
+      "Sentence": "As twilight deepened around him, the youngest brother remembered the silver needle his father had given him and the strange words: \"the needle binds what eyes cannot see.\"",
+      "Chapter Number": 2,
+      "Sentence Number": 18,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Creative use of the magical object to solve the impossible task.",
+        "Secondary Function": "Demonstration of the protagonist's ingenuity.",
+        "Stylistic Element": "Magical objects working in unexpected ways when properly used.",
+        "Symbolic Thematic Significance": "The creative act as a form of magic that transforms reality."
+      },
+      "Bridge Function": "Shows how the youngest brother uses the needle to sew the silence between sounds, creating something from nothing.",
+      "Context Tracker": ["Youngest brother uses silver needle", "Sewing the empty air", "Binding silence between heartbeats", "Creating something from nothing"],
+      "Sentence": "With trembling fingers, he took out the silver needle and, closing his eyes to listen for the moments between sounds, began to sew the empty air with careful stitches, binding the silence between heartbeats into a small, shimmering pocket of still air.",
+      "Chapter Number": 2,
+      "Sentence Number": 19,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Successful completion of the first task, setting up the next challenge.",
+        "Secondary Function": "Description of the magical result of the protagonist's efforts.",
+        "Stylistic Element": "The magical transformation of the ordinary through ritual action.",
+        "Symbolic Thematic Significance": "The materialization of the intangible through focused intention."
+      },
+      "Bridge Function": "Shows the successful result of the youngest brother's efforts: a pouch of silence that absorbs all sound around it.",
+      "Context Tracker": ["Task completed successfully", "Pouch of silence created", "Silver thread pouch absorbs sound", "First task accomplished"],
+      "Sentence": "When he opened his eyes, the needle glinted in the moonlight, and hanging from its point was a tiny pouch woven of silver thread that seemed to absorb all sound around it, creating a small space where not even the rustle of leaves could be heard.",
+      "Chapter Number": 2,
+      "Sentence Number": 20,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Transition to the eldest brother's journey, creating parallel storylines.",
+        "Secondary Function": "Introduction of the village setting for the eldest brother.",
+        "Stylistic Element": "Alternating between the fates of separated siblings.",
+        "Symbolic Thematic Significance": "The different aspects of the self exploring different potentials."
+      },
+      "Bridge Function": "Shifts focus to the eldest brother's journey, introducing the fearful village he encounters.",
+      "Context Tracker": ["Shift to eldest brother's journey", "Narrow winding path", "Village of fearful people", "People speaking in whispers"],
+      "Sentence": "Meanwhile, the eldest brother had followed the narrow, winding path until he came to a small village where the people moved about with downcast eyes and spoke in whispers, as though afraid of being overheard.",
+      "Chapter Number": 3,
+      "Sentence Number": 21,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Introduction of a problem in the village that the protagonist might solve.",
+        "Secondary Function": "Reminder of the eldest brother's truth-telling condition.",
+        "Stylistic Element": "The community in distress, awaiting a hero.",
+        "Symbolic Thematic Significance": "Social ills as manifestations of collective dishonesty."
+      },
+      "Bridge Function": "Shows the eldest brother asking about the village's problem, noting it's an odd-numbered day when he can only speak truth.",
+      "Context Tracker": ["Odd-numbered day", "Eldest brother can only speak truth", "Village people fearful", "Brother seeking information"],
+      "Sentence": "It happened to be an odd-numbered day, so when the eldest brother asked an old woman why everyone seemed so fearful, he could speak only truth: \"I am a stranger seeking my fortune, and I wonder what shadow hangs over this place.\"",
+      "Chapter Number": 3,
+      "Sentence Number": 22,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Revelation of the village's problem and the antagonist.",
+        "Secondary Function": "Introduction of the magical mountain that grows with lies.",
+        "Stylistic Element": "The tyrant or monster that oppresses the community.",
+        "Symbolic Thematic Significance": "The shadow of deception that grows when truth is suppressed."
+      },
+      "Bridge Function": "Reveals the village's problem: a mountain that grows taller with each lie and a lord who demands flattery.",
+      "Context Tracker": ["Village ruled by a mountain", "Mountain grows with lies", "Lord demands flattery", "Village threatened by growing mountain"],
+      "Sentence": "\"We are ruled by a mountain,\" whispered the old woman, pointing to a peak that loomed over the village, \"a mountain that grows taller with each lie told in its presence, and our lord demands we praise him with flattery each day, causing the mountain to rise and threaten to crush us all.\"",
+      "Chapter Number": 3,
+      "Sentence Number": 23,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The protagonist recognizes his unique ability to help.",
+        "Secondary Function": "Connection between the brother's condition and the village's problem.",
+        "Stylistic Element": "The hero's special quality becoming relevant to the quest.",
+        "Symbolic Thematic Significance": "The power of honesty to deflate inflated egos and false structures."
+      },
+      "Bridge Function": "The eldest brother realizes his truth-telling condition could help with the mountain problem.",
+      "Context Tracker": ["Eldest brother realizes his truth-telling ability could help", "Mountain shimmers strangely", "Odd-numbered day means he can only speak truth"],
+      "Sentence": "The eldest brother looked at the mountain, which seemed to shimmer strangely in the afternoon light, and realized that his curse of truth-telling might prove a blessing, for on this odd-numbered day, no lie could pass his lips even if he wished it.",
+      "Chapter Number": 3,
+      "Sentence Number": 24,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The protagonist is brought before the antagonist.",
+        "Secondary Function": "Description of the village lord's vanity and excess.",
+        "Stylistic Element": "The confrontation between humble hero and proud villain.",
+        "Symbolic Thematic Significance": "The ego's demand for constant affirmation."
+      },
+      "Bridge Function": "The village lord notices the eldest brother and summons him to the daily ceremony of praise.",
+      "Context Tracker": ["Village lord summons people for praise", "Lord wears excessive jewelry and crown", "Eldest brother noticed standing silent"],
+      "Sentence": "That very afternoon, the village lord, a man with rings on every finger and a crown too large for his head, summoned all villagers to the mountain's base for the daily ceremony of praise, and noticed the eldest brother standing silent among them.",
+      "Chapter Number": 3,
+      "Sentence Number": 25,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The antagonist challenges the protagonist directly.",
+        "Secondary Function": "Setting up the confrontation between truth and vanity.",
+        "Stylistic Element": "The test of character through direct confrontation.",
+        "Symbolic Thematic Significance": "The moment of moral choice that defines character."
+      },
+      "Bridge Function": "The lord directly challenges the eldest brother to praise him, setting up the confrontation.",
+      "Context Tracker": ["Lord challenges eldest brother", "Demands praise and comparison to other lords", "Setting up truth-telling moment"],
+      "Sentence": "\"You there, stranger,\" called the lord, pointing a bejeweled finger, \"step forward and tell me how my splendor compares to all other lords you have seen in your travels.\"",
+      "Chapter Number": 3,
+      "Sentence Number": 26,
+      "Narrative Phase": "Climax"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The protagonist uses his special ability to challenge the antagonist.",
+        "Secondary Function": "The moment of speaking truth to power.",
+        "Stylistic Element": "The clever response that turns the tables on the powerful.",
+        "Symbolic Thematic Significance": "The liberating effect of honest speech in a context of deception."
+      },
+      "Bridge Function": "The eldest brother speaks only truth about the lord's vanity and smallness, challenging his power.",
+      "Context Tracker": ["Eldest brother speaks truth", "Describes lord as small and ruled by crown", "Public declaration of truth"],
+      "Sentence": "The eldest brother stepped forward and, bound by the odd-numbered day to speak only truth, declared in a clear voice that carried to all corners of the gathering: \"I see a small man made smaller by his need for praise, wearing a crown that rules him more than he rules others.\"",
+      "Chapter Number": 3,
+      "Sentence Number": 27,
+      "Narrative Phase": "Climax"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The immediate consequence of the protagonist's action.",
+        "Secondary Function": "Demonstration of truth's effect on the magical mountain.",
+        "Stylistic Element": "The magical effect that follows breaking a spell or speaking truth.",
+        "Symbolic Thematic Significance": "The deflation of falsehood when confronted with reality."
+      },
+      "Bridge Function": "Shows the immediate effect of truth: the mountain shrinks, and the lord reacts with rage.",
+      "Context Tracker": ["Crowd gasps", "Mountain trembles and shrinks", "Lord enraged", "Guards ordered to seize eldest brother"],
+      "Sentence": "A gasp rose from the crowd, and before their eyes, the mountain trembled and shrank several feet, causing the lord to cry out in rage and order his guards to seize the eldest brother.",
+      "Chapter Number": 3,
+      "Sentence Number": 28,
+      "Narrative Phase": "Climax"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The protagonist faces danger but remembers his magical object.",
+        "Secondary Function": "Connection back to the father's gift and advice.",
+        "Stylistic Element": "The moment of peril when magical aid is remembered.",
+        "Symbolic Thematic Significance": "The resistance encountered when challenging established falsehoods."
+      },
+      "Bridge Function": "As danger approaches, the eldest brother remembers his golden key and his father's words.",
+      "Context Tracker": ["Guards approach with swords", "Eldest brother remembers golden key", "Father's words about key opening more than locks"],
+      "Sentence": "As the guards approached with drawn swords, the eldest brother reached into his pocket and felt the small golden key his father had given him, remembering the words: \"the key opens more than locks.\"",
+      "Chapter Number": 3,
+      "Sentence Number": 29,
+      "Narrative Phase": "Climax"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Creative use of the magical object to escape danger.",
+        "Secondary Function": "Demonstration of the key's magical properties.",
+        "Stylistic Element": "The magical object working in an unexpected way.",
+        "Symbolic Thematic Significance": "The key to freedom lies in unlocking our own courage."
+      },
+      "Bridge Function": "Shows how the eldest brother uses the key to create an escape door in empty air.",
+      "Context Tracker": ["Eldest brother uses golden key", "Turns key in empty air", "Doorway appears", "Escape path back to forest"],
+      "Sentence": "With guards just steps away, he held up the golden key and turned it in the air as if unlocking an invisible door, whereupon a doorway appeared in the empty space before him, opening onto a path that led back into the forest.",
+      "Chapter Number": 3,
+      "Sentence Number": 30,
+      "Narrative Phase": "Climax"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Transition to the middle brother's journey, completing the parallel storylines.",
+        "Secondary Function": "Introduction of the setting and contest for the middle brother.",
+        "Stylistic Element": "The rule of three, following each brother in turn.",
+        "Symbolic Thematic Significance": "The different facets of the self encountering different aspects of life."
+      },
+      "Bridge Function": "Shifts focus to the middle brother's journey, introducing the town and the shoe-making contest.",
+      "Context Tracker": ["Shift to middle brother's journey", "Broad well-trodden path", "Prosperous town", "Contest for finest craftsman", "King seeks shoes for princess"],
+      "Sentence": "The middle brother, meanwhile, had followed the broad, well-trodden path until he reached a prosperous town where a grand contest was underway, with heralds announcing that the king sought the finest craftsman in the land to make a pair of shoes for the princess.",
+      "Chapter Number": 4,
+      "Sentence Number": 31,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Introduction of the middle brother's challenge and opportunity.",
+        "Secondary Function": "Establishing the competition the brother faces.",
+        "Stylistic Element": "The contest or tournament as a means to prove worth.",
+        "Symbolic Thematic Significance": "The opportunity to demonstrate one's talents and gain recognition."
+      },
+      "Bridge Function": "The middle brother enters the contest, seeing the many skilled craftsmen he must compete against.",
+      "Context Tracker": ["Middle brother enters contest", "Palace gates", "Great hall of craftsmen", "Beautiful shoes on display"],
+      "Sentence": "Being a cobbler of great skill, the middle brother presented himself at the palace gates, where he was led to a great hall filled with craftsmen from every corner of the kingdom, each displaying shoes of remarkable beauty and design.",
+      "Chapter Number": 4,
+      "Sentence Number": 32,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Revelation of the true nature of the challenge.",
+        "Secondary Function": "Explanation of the princess's unique problem.",
+        "Stylistic Element": "The task with hidden dimensions or unexpected requirements.",
+        "Symbolic Thematic Significance": "The deeper purpose behind surface appearances."
+      },
+      "Bridge Function": "Reveals the true challenge: the princess has never walked due to her feet turning in different directions.",
+      "Context Tracker": ["Princess has never walked", "Feet turn in different directions", "No shoe has fit properly", "Challenge is functional, not just beautiful"],
+      "Sentence": "\"The princess,\" announced the royal steward, \"has never walked a step in her life, for her feet turn to different directions, and no shoe has ever fit her properly or given her the courage to stand.\"",
+      "Chapter Number": 4,
+      "Sentence Number": 33,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The protagonist faces doubt about his abilities.",
+        "Secondary Function": "Contrast between the brother's simple materials and others' luxury.",
+        "Stylistic Element": "The moment of uncertainty before creative inspiration.",
+        "Symbolic Thematic Significance": "The confrontation with inadequacy that precedes breakthrough."
+      },
+      "Bridge Function": "Shows the middle brother's doubt as he compares his simple materials to the luxury of other craftsmen.",
+      "Context Tracker": ["Middle brother doubts his abilities", "Other craftsmen have gold and jewels", "Unusual purpose requires new approach", "Simple materials versus luxury"],
+      "Sentence": "The middle brother looked at his tools and leather and felt a moment of doubt, for he had made many fine shoes but never for such an unusual purpose, and the other craftsmen had brought gold and jewels and exotic materials he could not match.",
+      "Chapter Number": 4,
+      "Sentence Number": 34,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The protagonist remembers the magical gift that will help.",
+        "Secondary Function": "Connection back to the father's gift and advice.",
+        "Stylistic Element": "The humble object revealing its true power.",
+        "Symbolic Thematic Significance": "The recognition of resources we already possess."
+      },
+      "Bridge Function": "The middle brother remembers his father's boots and the words about walking toward heart's desire.",
+      "Context Tracker": ["Middle brother remembers father's boots", "Father's words about boots walking toward heart's desire", "Potential solution emerges"],
+      "Sentence": "As he pondered what to do, he felt the worn leather boots his father had given him, and remembered the words: \"the boots walk toward heart's desire.\"",
+      "Chapter Number": 4,
+      "Sentence Number": 35,
+      "Narrative Phase": "Complication"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Creative use of the magical object to solve the problem.",
+        "Secondary Function": "Demonstration of the brother's skill and insight.",
+        "Stylistic Element": "The transformation of the ordinary into the extraordinary through insight.",
+        "Symbolic Thematic Significance": "Empathy as the foundation of meaningful creation."
+      },
+      "Bridge Function": "Shows how the middle brother transforms his father's boots into special shoes for the princess.",
+      "Context Tracker": ["Middle brother works through night", "Cuts apart father's boots", "Creates shoes to guide feet in different directions", "Function over decoration"],
+      "Sentence": "Through the night, the middle brother worked with steady hands, cutting apart his father's old boots and reshaping them into a pair of shoes unlike any other: not decorated with gold or jewels, but designed to gently guide feet in different directions toward a single path.",
+      "Chapter Number": 4,
+      "Sentence Number": 36,
+      "Narrative Phase": "Climax"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The moment of truth when the creation is tested.",
+        "Secondary Function": "Contrast between appearance and function.",
+        "Stylistic Element": "The presentation of the humble gift that proves magical.",
+        "Symbolic Thematic Significance": "The test that reveals whether we have understood the deeper need."
+      },
+      "Bridge Function": "The craftsmen present their shoes, with the court laughing at the middle brother's plain creation.",
+      "Context Tracker": ["Morning presentation", "Princess with tears", "Many beautiful but useless shoes", "Court laughs at middle brother's plain shoes"],
+      "Sentence": "When morning came and the craftsmen presented their works, the princess sat on her throne with tears in her eyes, for she had seen many beautiful shoes before but none that could help her walk, and when the middle brother knelt before her with his simple leather creation, the court laughed at their plainness.",
+      "Chapter Number": 4,
+      "Sentence Number": 37,
+      "Narrative Phase": "Climax"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The magical effect of the protagonist's creation.",
+        "Secondary Function": "The princess's transformation and first steps.",
+        "Stylistic Element": "The moment of transformation through magical means.",
+        "Symbolic Thematic Significance": "The liberation that comes when our deepest needs are met."
+      },
+      "Bridge Function": "Shows the magical effect of the shoes, allowing the princess to walk for the first time.",
+      "Context Tracker": ["Shoes placed on princess's feet", "Shoes come alive", "Princess stands and walks", "Drawn toward middle brother"],
+      "Sentence": "But when the shoes were placed upon the princess's feet, they seemed to come alive, gently turning her wayward feet toward each other, and for the first time in her life, she stood without assistance and took one step, then another, walking directly toward the middle brother as if drawn by an invisible thread.",
+      "Chapter Number": 4,
+      "Sentence Number": 38,
+      "Narrative Phase": "Climax"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "The reward for the protagonist's success.",
+        "Secondary Function": "The princess's recognition of the shoes' magic.",
+        "Stylistic Element": "The recognition and elevation of the humble hero.",
+        "Symbolic Thematic Significance": "The fulfillment that comes from using one's gifts to help others."
+      },
+      "Bridge Function": "The princess recognizes the magic of the shoes, and the king offers marriage as a reward.",
+      "Context Tracker": ["Princess recognizes shoes know her heart's desire", "Simple desire to walk like others", "King declares middle brother the winner", "Offer of princess's hand in marriage"],
+      "Sentence": "\"These shoes know the desire of my heart,\" said the princess with wonder in her voice, \"which is simply to walk in the world like others do,\" and the king declared that the middle brother had won not only the contest but also, if he wished it, the hand of the princess in marriage.",
+      "Chapter Number": 4,
+      "Sentence Number": 39,
+      "Narrative Phase": "Resolution"
+    },
+    {
+      "Nested Analysis": {
+        "Primary Function": "Resolution of all three brothers' journeys and their reunion.",
+        "Secondary Function": "Summary of each brother's achievement and new status.",
+        "Stylistic Element": "The happy ending with family reunion and elevation of status.",
+        "Symbolic Thematic Significance": "The integration of different aspects of the self into a harmonious whole."
+      },
+      "Bridge Function": "Brings all three brothers' stories to conclusion, showing how each succeeded in their own way.",
+      "Context Tracker": ["Brothers reunited at royal wedding", "Youngest as judge of day and night", "Eldest as village liberator", "Middle brother as prince consort", "Each used their gift successfully"],
+      "Sentence": "And so it came to pass that the three brothers were reunited at the royal wedding: the youngest as the new judge of day and night who had captured silence with his needle, the eldest as a truth-teller who had freed a village from a mountain of lies with his key, and the middle brother as the royal cobbler and prince consort whose boots had walked the princess toward her heart's desire.",
+      "Chapter Number": 4,
+      "Sentence Number": 40,
+      "Narrative Phase": "Resolution"
+    }
+  ],
+  "The Complete Story": {
+    "Title": "The Whispering Forest and the Truthful Brother",
+    "Chapters": [
+      "Once upon a time, there lived three brothers in a small cottage at the edge of a great forest, and though they had little to eat, they shared what they had with kindness and good cheer. When winter came harsh and food grew scarce, the brothers decided they must seek their fortune in the world beyond their home. The eldest brother was known throughout the village for his strange condition: on odd-numbered days he could speak only the truth, while on even-numbered days he could say whatever he wished. The middle brother was a cobbler who crafted the finest shoes in seven kingdoms, with hands so skilled they seemed to work of their own accord. The youngest brother spoke rarely but listened well, and could hear whispers that others could not, whether from people, animals, or even the wind through leaves.\n\nBefore the brothers departed, their father, old and bent with years, called them to his bedside and presented each with a gift: a small golden key for the eldest, a pair of worn leather boots for the middle brother, and a silver needle for the youngest. \"These simple things may seem of little worth,\" said the father, \"but each will serve you well if you remember this: the key opens more than locks, the boots walk toward heart's desire, and the needle binds what eyes cannot see.\" At dawn the next day, which happened to be the first day of the month, the brothers embraced their father, packed their few belongings, and set out on the road that led into the forest. They had not walked far when they came to a place where the path split into three: one broad and well-trodden, one narrow and winding, and one nearly hidden by thorns and brambles. \"I shall take the broad path,\" said the middle brother, while the eldest chose the narrow way, leaving the youngest to push aside the thorns and follow the hidden trail into the deepest part of the forest.",
+      "The youngest brother walked until the sun hung high overhead, and as he ventured deeper into the forest, he began to hear strange whispers from the ancient trees that lined his path. \"Beware the clearing ahead,\" rustled the leaves of an old oak, \"for there the sun and moon meet to contest the length of day and night, and mortals who wander between them may be trapped in twilight forever.\" Despite the warning, the youngest brother's curiosity drew him forward until he reached a perfect circular clearing where, impossibly, the sun shone from one half of the sky while the moon glowed from the other, and between them stood a tall figure in a cloak of stars.\n\n\"For a thousand years I have judged the contest between sun and moon,\" said the figure in a voice like distant thunder, \"but I grow weary and seek someone to take my place, someone who can hear what others cannot.\" The figure pointed a long finger at the youngest brother and said, \"You, who can hear the whispers of trees, might have the wisdom to judge fairly, but first you must prove yourself worthy through three tasks.\" \"First,\" said the cloaked figure, \"you must capture the sound of silence and bring it to me before the next dawn.\"\n\nThe youngest brother stood bewildered, for how could one capture something that by its nature could not be heard, much less held in one's hands? As twilight deepened around him, the youngest brother remembered the silver needle his father had given him and the strange words: \"the needle binds what eyes cannot see.\" With trembling fingers, he took out the silver needle and, closing his eyes to listen for the moments between sounds, began to sew the empty air with careful stitches, binding the silence between heartbeats into a small, shimmering pocket of still air. When he opened his eyes, the needle glinted in the moonlight, and hanging from its point was a tiny pouch woven of silver thread that seemed to absorb all sound around it, creating a small space where not even the rustle of leaves could be heard.",
+      "Meanwhile, the eldest brother had followed the narrow, winding path until he came to a small village where the people moved about with downcast eyes and spoke in whispers, as though afraid of being overheard. It happened to be an odd-numbered day, so when the eldest brother asked an old woman why everyone seemed so fearful, he could speak only truth: \"I am a stranger seeking my fortune, and I wonder what shadow hangs over this place.\" \"We are ruled by a mountain,\" whispered the old woman, pointing to a peak that loomed over the village, \"a mountain that grows taller with each lie told in its presence, and our lord demands we praise him with flattery each day, causing the mountain to rise and threaten to crush us all.\"\n\nThe eldest brother looked at the mountain, which seemed to shimmer strangely in the afternoon light, and realized that his curse of truth-telling might prove a blessing, for on this odd-numbered day, no lie could pass his lips even if he wished it. That very afternoon, the village lord, a man with rings on every finger and a crown too large for his head, summoned all villagers to the mountain's base for the daily ceremony of praise, and noticed the eldest brother standing silent among them. \"You there, stranger,\" called the lord, pointing a bejeweled finger, \"step forward and tell me how my splendor compares to all other lords you have seen in your travels.\"\n\nThe eldest brother stepped forward and, bound by the odd-numbered day to speak only truth, declared in a clear voice that carried to all corners of the gathering: \"I see a small man made smaller by his need for praise, wearing a crown that rules him more than he rules others.\" A gasp rose from the crowd, and before their eyes, the mountain trembled and shrank several feet, causing the lord to cry out in rage and order his guards to seize the eldest brother. As the guards approached with drawn swords, the eldest brother reached into his pocket and felt the small golden key his father had given him, remembering the words: \"the key opens more than locks.\" With guards just steps away, he held up the golden key and turned it in the air as if unlocking an invisible door, whereupon a doorway appeared in the empty space before him, opening onto a path that led back into the forest.",
+      "The middle brother, meanwhile, had followed the broad, well-trodden path until he reached a prosperous town where a grand contest was underway, with heralds announcing that the king sought the finest craftsman in the land to make a pair of shoes for the princess. Being a cobbler of great skill, the middle brother presented himself at the palace gates, where he was led to a great hall filled with craftsmen from every corner of the kingdom, each displaying shoes of remarkable beauty and design. \"The princess,\" announced the royal steward, \"has never walked a step in her life, for her feet turn to different directions, and no shoe has ever fit her properly or given her the courage to stand.\"\n\nThe middle brother looked at his tools and leather and felt a moment of doubt, for he had made many fine shoes but never for such an unusual purpose, and the other craftsmen had brought gold and jewels and exotic materials he could not match. As he pondered what to do, he felt the worn leather boots his father had given him, and remembered the words: \"the boots walk toward heart's desire.\" Through the night, the middle brother worked with steady hands, cutting apart his father's old boots and reshaping them into a pair of shoes unlike any other: not decorated with gold or jewels, but designed to gently guide feet in different directions toward a single path.\n\nWhen morning came and the craftsmen presented their works, the princess sat on her throne with tears in her eyes, for she had seen many beautiful shoes before but none that could help her walk, and when the middle brother knelt before her with his simple leather creation, the court laughed at their plainness. But when the shoes were placed upon the princess's feet, they seemed to come alive, gently turning her wayward feet toward each other, and for the first time in her life, she stood without assistance and took one step, then another, walking directly toward the middle brother as if drawn by an invisible thread. \"These shoes know the desire of my heart,\" said the princess with wonder in her voice, \"which is simply to walk in the world like others do,\" and the king declared that the middle brother had won not only the contest but also, if he wished it, the hand of the princess in marriage. And so it came to pass that the three brothers were reunited at the royal wedding: the youngest as the new judge of day and night who had captured silence with his needle, the eldest as a truth-teller who had freed a village from a mountain of lies with his key, and the middle brother as the royal cobbler and prince consort whose boots had walked the princess toward her heart's desire."
+    ]
+  },
+  "Story Elements": {
+    "Core Elements": [
+      "A forest where the trees whisper forgotten secrets",
+      "A character who can only speak the truth on odd-numbered days",
+      "A pair of boots that walk only toward what the heart truly desires",
+      "A contest between the sun and moon to determine day's length"
+    ],
+    "Additional Details": [
+      "A small golden key that opens more than locks",
+      "A silver needle that binds what eyes cannot see",
+      "Three brothers seeking their fortune",
+      "A princess who cannot walk because her feet turn in different directions",
+      "A mountain that grows taller with each lie told in its presence"
+    ]
+  },
+  "Process Improvements Used": [
+    "Original sentence-by-sentence analysis method",
+    "Fixed analysis categories",
+    "Equal chapter lengths (10 sentences each)"
+  ]
+}

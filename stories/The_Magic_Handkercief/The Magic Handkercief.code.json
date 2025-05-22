@@ -1,0 +1,646 @@
+{
+  "Analysis": [
+    {
+      "Plot Function": "Establishes the initial idyllic state and introduces the main character (the daughter) and her loving mother, setting the scene before the conflict begins.",
+      "Grimm Style": "Uses a simple \"There was once\" opening, typical of the style. Introduces characters by relationship (\"a woodcutter,\" \"his wife,\" \"their daughter\"). Simple, declarative sentence. Concrete details (\"little cottage,\" \"edge of a wood\"). Adheres to archetypal settings and characters.",
+      "Moral Implication": "Establishes a baseline of simple happiness and family love, which will be contrasted later.",
+      "Metaphorical/Psychological Meaning": "Represents the initial state of wholeness or childhood innocence (daughter with loving mother) within a humble but contained world (cottage near the wood - border of consciousness/unconsciousness). The Woodcutter represents the connection to nature/work.",
+      "Sentence": "There was once a poor woodcutter who lived with his wife and their daughter in a little cottage on the edge of a wood.",
+      "Chapter Number": 1,
+      "Sentence Number": 1
+    },
+    {
+      "Plot Function": "Introduces the inciting incident that disrupts the initial state: the mother's illness and impending death. This sets up the loss that leads to the main conflict.",
+      "Grimm Style": "Simple statement of event (\"wife fell ill\"). Uses a common fairy tale trope (mother's death). Direct and matter-of-fact about illness, avoiding emotional description. Sets up the next plot point.",
+      "Moral Implication": "Life involves suffering and loss, even in simple settings. Sets the stage for change and hardship.",
+      "Metaphorical/Psychological Meaning": "The nurturing aspect of the initial state (Mother archetype) becomes weak or withdrawn (\"fell ill\"), signifying the end of the phase of unconscious containment and the beginning of separation and trial for the developing Ego (daughter).",
+      "Sentence": "But one day the wife fell ill, and soon she knew she must die.",
+      "Chapter Number": 1,
+      "Sentence Number": 2
+    },
+    {
+      "Plot Function": "Introduces the magic item (handkerchief) through the dying mother's final gift to her daughter. Establishes its magical property (cleaning any mess) and connects it to the mother's love and care.",
+      "Grimm Style": "Features a dying wish/gift, a common motif. Introduces a magical object with a simple, specific function. Uses direct speech for the mother's instruction. The item is ordinary-seeming but magical (\"linen handkerchief\"). Adheres to the required element list.",
+      "Moral Implication": "A mother's love provides protection/help even after death. The gift is practical yet magical. Importance of keeping promises/following instructions.",
+      "Metaphorical/Psychological Meaning": "The dying Mother archetype bequeaths a tool to the developing Ego (daughter). The handkerchief represents a capacity for restoration, order, or dealing with chaos (\"clean any mess\"), originating from the positive feminine principle. It's a resource for navigating future difficulties, a link to the lost nurturing presence.",
+      "Sentence": "She called her daughter to her side and gave her a plain linen handkerchief, saying, \"Keep this always, child; it can clean any mess, big or small.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 3
+    },
+    {
+      "Plot Function": "Describes the mother's death and the immediate consequence: the woodcutter's grief and subsequent remarriage, introducing the antagonist figure (stepmother).",
+      "Grimm Style": "States death plainly (\"mother died\"). Describes the father's reaction simply through action (\"grieved,\" \"took another wife\"). Uses the archetypal \"Stepmother\" figure. Efficiently moves the plot to the central conflict. Adheres to requirement.",
+      "Moral Implication": "Life moves on, but changes can bring hardship. Remarriage often introduces conflict in these tales.",
+      "Metaphorical/Psychological Meaning": "The positive Mother archetype disappears. The Father principle (woodcutter), perhaps unable to handle the emotional void or practicalities alone, introduces a new feminine figure – the Stepmother, often symbolizing the negative, destructive, or shadow aspect of the feminine or the challenges of integrating a new parental figure.",
+      "Sentence": "Then the mother died, and after a time the woodcutter grieved and took another wife to keep house.",
+      "Chapter Number": 1,
+      "Sentence Number": 4
+    },
+    {
+      "Plot Function": "Introduces the stepmother's own child and establishes the stepmother's immediate dislike and mistreatment of the protagonist, setting up the core antagonistic relationship.",
+      "Grimm Style": "Introduces the stepsister simply (\"had a daughter of her own\"). States the stepmother's attitude directly and through action (\"hated the woodcutter's daughter,\" \"gave her rags,\" \"made her work hard\"). Typical cruel stepmother behaviour.",
+      "Moral Implication": "Highlights envy and cruelty. Unjust treatment of the innocent protagonist.",
+      "Metaphorical/Psychological Meaning": "The negative Stepmother archetype brings her own \"offspring\" (representing her values or perhaps a shadow aspect projected onto the stepsister). She actively persecutes the Ego (daughter), stripping her of status (\"rags\") and burdening her (\"work hard\"), representing the challenges and devaluations the Ego faces from this negative force.",
+      "Sentence": "This new wife had a daughter of her own, and she hated the woodcutter's daughter from the first day, gave her only rags to wear, and made her work hard from morn till night.",
+      "Chapter Number": 1,
+      "Sentence Number": 5
+    },
+    {
+      "Plot Function": "Shows the stepmother giving the daughter an impossible task, designed to make her fail or suffer, leveraging the house environment. This provides an opportunity for the magic handkerchief to be used. Incorporates potential humour through the absurdity of the mess.",
+      "Grimm Style": "Depicts the stepmother's cruelty through an unreasonable demand. The task involves mundane elements (soot, ashes, feathers) made overwhelming. Direct command in dialogue.",
+      "Moral Implication": "Malice expressed through impossible tasks. Testing the protagonist's endurance or resourcefulness.",
+      "Metaphorical/Psychological Meaning": "The negative Stepmother figure imposes chaotic, overwhelming tasks (\"soot, ashes, feathers\") upon the Ego (daughter), symbolizing the projection of internal chaos or the attempt to overwhelm the Ego with negativity and impossible demands.",
+      "Sentence": "One morning the stepmother scattered soot, ashes, and feathers all over the cottage floor and said, \"Clean this perfectly before nightfall, or you get no supper.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 6
+    },
+    {
+      "Plot Function": "Shows the protagonist remembering her mother's gift (the handkerchief) and deciding to use it to solve the problem set by the stepmother.",
+      "Grimm Style": "The protagonist recalls the magical item at the moment of need. Simple action (\"remembered,\" \"took out\"). Links the solution back to the dead mother.",
+      "Moral Implication": "Remembering and utilizing inherited wisdom/tools in times of trouble. Hope provided by the past.",
+      "Metaphorical/Psychological Meaning": "The Ego (daughter), faced with overwhelming chaos (mess) imposed by the negative feminine (Stepmother), remembers the tool (handkerchief) bequeathed by the positive feminine (Mother). This represents accessing inner resources or coping mechanisms derived from positive past experiences or archetypal support when facing negativity.",
+      "Sentence": "The poor girl wept, but then she remembered her mother's handkerchief and took it from her pocket.",
+      "Chapter Number": 1,
+      "Sentence Number": 7
+    },
+    {
+      "Plot Function": "Describes the magical handkerchief in action, effortlessly cleaning the impossible mess. Demonstrates its power.",
+      "Grimm Style": "Magic operates simply and effectively. Describes the action clearly (\"wiped it once,\" \"floor was clean\"). Emphasizes the completeness (\"spotless,\" \"not a speck remained\"). Matter-of-fact tone about the magic.",
+      "Moral Implication": "Magic provides solutions to unjust problems. The mother's gift works as promised.",
+      "Metaphorical/Psychological Meaning": "The inner resource (handkerchief) effectively deals with the imposed chaos (mess). Wiping once signifies the ease with which internal balance or order can sometimes be restored when the right psychic tool is employed. The \"spotless\" result shows the complete resolution of the immediate problem.",
+      "Sentence": "She wiped it once across the dirty floor, and instantly the floor was clean and spotless, so that not a speck remained.",
+      "Chapter Number": 1,
+      "Sentence Number": 8
+    },
+    {
+      "Plot Function": "Shows the stepmother's reaction: astonishment and increased hatred, because her plan to punish the girl failed. This escalates the conflict. Introduces humour through the stepmother's thwarted malice.",
+      "Grimm Style": "Describes the antagonist's reaction simply (\"astonished,\" \"hated her more\"). Shows cause and effect (clean floor leads to more hatred). Sets up future, harsher attempts by the stepmother. Humour derived from the villain's frustration.",
+      "Moral Implication": "Wickedness is frustrated by goodness/magic. Envy and hatred grow when attempts to harm fail.",
+      "Metaphorical/Psychological Meaning": "The negative Stepmother figure is thwarted by the Ego's use of the inner resource. Her failure increases her antagonism, signifying that confronting or negating negative complexes often intensifies their opposition initially. The Ego's success fuels the Shadow's resentment.",
+      "Sentence": "When the stepmother saw the clean floor, she was astonished and hated her stepdaughter all the more for her cleverness, though she knew not how it was done.",
+      "Chapter Number": 1,
+      "Sentence Number": 9
+    },
+    {
+      "Plot Function": "The woodcutter remains oblivious or passive, failing to protect his daughter. This is typical in stepmother tales and isolates the protagonist, forcing her to rely on herself or magical aid.",
+      "Grimm Style": "Briefly explains the father's inaction (\"saw nothing,\" \"stepmother told him lies\"). Keeps the focus on the daughter's plight and the stepmother's deceit. Simple explanation for his passivity.",
+      "Moral Implication": "Parental neglect or blindness can enable abuse. The protagonist cannot rely on conventional authority figures for protection.",
+      "Metaphorical/Psychological Meaning": "The Father principle (woodcutter) remains weak, passive, or deceived (\"saw nothing,\" \"told him lies\") by the negative feminine (Stepmother). This leaves the Ego (daughter) vulnerable within the family structure but forces her towards self-reliance and connection with deeper resources (handkerchief, potentially others later).",
+      "Sentence": "All this time the woodcutter her father saw nothing, for the stepmother told him lies about how lazy and clumsy his daughter was.",
+      "Chapter Number": 1,
+      "Sentence Number": 10
+    },
+    {
+      "Plot Function": "Introduces a new, more difficult task set by the stepmother, involving sorting mixed grains, a classic fairy tale trial often used to test patience, diligence, or to attract magical helpers. Raises the stakes.",
+      "Grimm Style": "Presents another impossible task. Uses mundane items (lentils, peas, barley) in vast quantity. Clear command and threat (\"Sort these... or be turned out\"). Follows pattern of escalating persecution.",
+      "Moral Implication": "Tests endurance and seeming impossibility. Cruelty increases.",
+      "Metaphorical/Psychological Meaning": "The negative feminine (Stepmother) imposes another task demanding discernment and order (\"sort these\") from chaos (mixed grains). This represents a psychic challenge requiring the Ego (daughter) to differentiate aspects of the self or experiences, a task made overwhelming by the sheer volume (\"great sack\"). Failure threatens exile (\"turned out\").",
+      "Sentence": "The next day, the stepmother poured a great sack of lentils, peas, and barley onto the hearth and said, \"Sort these into three neat piles by sunset, or you will be turned out of the house.\"",
+      "Chapter Number": 2,
+      "Sentence Number": 11
+    },
+    {
+      "Plot Function": "The protagonist again despairs but remembers her resource, the magic handkerchief. Reinforces the pattern of facing difficulty and recalling the magical aid.",
+      "Grimm Style": "Repeats the pattern of despair followed by remembrance of the magic item. Simple action (\"took out the handkerchief\"). Consistent character behaviour.",
+      "Moral Implication": "Faith in the proven resource. Not giving up despite the seemingly impossible nature of the task.",
+      "Metaphorical/Psychological Meaning": "Faced with a task requiring discrimination and order (sorting), the Ego (daughter) again turns to the inner resource (handkerchief) derived from the positive feminine, trusting its power to bring order out of chaos.",
+      "Sentence": "The girl thought this task impossible, but she took out the handkerchief her mother had given her.",
+      "Chapter Number": 2,
+      "Sentence Number": 12
+    },
+    {
+      "Plot Function": "Shows the handkerchief working in a new way: not just cleaning, but magically sorting the items. This expands its established power in a logical way related to \"tidying messes\".",
+      "Grimm Style": "Describes the magic simply and effectively. Action (\"waved it thrice\") invokes the Rule of Three. Result is instantaneous and perfect (\"grains flew apart,\" \"three neat piles\").",
+      "Moral Implication": "Magic adapts to the need. The mother's gift provides comprehensive help. The number three signifies magical operation.",
+      "Metaphorical/Psychological Meaning": "The inner resource (handkerchief) demonstrates a more complex ordering capability. Waving it \"thrice\" signifies a complete, symbolic action. It effortlessly achieves the psychic task of differentiation and ordering (sorting grains) that seemed impossible for the Ego alone.",
+      "Sentence": "She waved it thrice over the jumbled grains, and they flew apart as if alive, landing in three neat piles on the floor.",
+      "Chapter Number": 2,
+      "Sentence Number": 13
+    },
+    {
+      "Plot Function": "The stepmother is again thwarted and angered. She reacts by devising an even worse plan, involving sending the girl away on a dangerous errand. This progresses the plot towards the challenges outside the home.",
+      "Grimm Style": "Shows antagonist's reaction (\"more vexed than before\"). Her malice escalates to plotting removal (\"must send her where she will not return\"). Sets up the next phase of the story.",
+      "Moral Implication": "Wickedness doesn't give up easily and escalates its efforts when frustrated. The conflict moves beyond household tasks.",
+      "Metaphorical/Psychological Meaning": "Repeatedly thwarted in imposing chaos/tasks within the immediate environment (home/psyche), the negative feminine (Stepmother) plans to expel the Ego (daughter) into a dangerous external situation, hoping the outer world will destroy her.",
+      "Sentence": "The stepmother returned, saw the neat piles, and was more vexed than before, thinking, \"I must send her where she will not return.\"",
+      "Chapter Number": 2,
+      "Sentence Number": 14
+    },
+    {
+      "Plot Function": "Introduces the specific dangerous errand: fetching water from a cursed well in the deep forest, known to be perilous. This sets up the first major challenge/journey for the protagonist.",
+      "Grimm Style": "Uses an archetypal dangerous location (\"deep in the wood\"). Introduces a cursed object/place (\"well from which no one returns\"). Gives a specific, dangerous task (\"fetch water\"). Clear instructions and implied threat.",
+      "Moral Implication": "Sending someone knowingly into danger. Tests the protagonist's courage and reliance on her resources in the outside world.",
+      "Metaphorical/Psychological Meaning": "The Ego (daughter) is sent towards a known dangerous point in the unconscious (cursed well in deep wood). Fetching \"water\" often symbolizes seeking life-giving energy or knowledge from the depths, but this source is corrupted or guarded (\"cursed,\" \"no one returns\"), representing a significant peril in the individuation journey.",
+      "Sentence": "So she gave the girl a cracked pitcher and said, \"Go deep into the wood to the well from which no one returns, and fetch me water by morning.\"",
+      "Chapter Number": 2,
+      "Sentence Number": 15
+    },
+    {
+      "Plot Function": "The protagonist obeys and begins her journey into the forest, carrying the inadequate tool (cracked pitcher) provided by the stepmother, but also her secret resource (handkerchief).",
+      "Grimm Style": "Simple obedience and departure (\"girl took the pitcher,\" \"went into the wood\"). Mentions the flawed tool (\"cracked pitcher\"). Sets the scene for the journey and challenges.",
+      "Moral Implication": "Obedience even to dangerous commands (common in these tales). Facing peril with inadequate visible resources.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl) obediently embarks on the dangerous journey into the unconscious (wood), equipped with a faulty tool or damaged capacity (cracked pitcher) inherited from the negative influence (Stepmother) but secretly carrying the true inner resource (handkerchief).",
+      "Sentence": "The girl took the cracked pitcher, though she was afraid, put the handkerchief safely in her pocket, and went into the wood.",
+      "Chapter Number": 2,
+      "Sentence Number": 16
+    },
+    {
+      "Plot Function": "Introduces the first encounter/obstacle on the journey – a creature or entity associated with the dangerous location. Here, introducing the Devil in a disguised form, fitting a required element. He attempts to hinder or trick her. Humour introduced through his petty annoyance.",
+      "Grimm Style": "Encounter with a supernatural being in the woods. The Devil appears disguised (a common trope). His action is obstructive but slightly petty/comical (tripping). Dialogue is simple and taunting.",
+      "Moral Implication": "Dangers and trickery exist in the wild. Evil may appear in mundane or annoying forms. Tests the protagonist's resilience.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl) encounters an aspect of the Shadow or a trickster figure representing destructive or tempting forces within the unconscious (Devil disguised). His attempt to trip her is a minor but irritating obstacle, symbolizing the ways negativity can try to derail progress through petty hindrances or annoyances.",
+      "Sentence": "As she walked, a little man with a goat's foot, hidden ill by his boot, stuck out his leg and tried to trip her, snarling, \"Where do you hurry, clumsy child?\"",
+      "Chapter Number": 2,
+      "Sentence Number": 17
+    },
+    {
+      "Plot Function": "The protagonist reacts calmly and uses the handkerchief to deal with the minor nuisance created by the Devil figure, showing her resourcefulness and the handkerchief's versatility. Humour in the effortless resolution.",
+      "Grimm Style": "Protagonist uses the magic item to overcome the obstacle. Simple action (\"touched his foot,\" \"wiped the path\"). The effect is immediate and slightly comical (Devil stuck). Direct and focuses on action over emotion.",
+      "Moral Implication": "Calmness and resourcefulness in the face of annoyance/trickery. Magic overcomes petty evil.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl) uses her inner resource/ordering principle (handkerchief) not just for cleaning but for imposing order/stasis on the disruptive Shadow element (Devil). Touching his foot binds him, wiping the path clears the way. It shows the power of inner clarity/order to neutralize minor psychic disturbances or negative impulses.",
+      "Sentence": "The girl touched his foot with the handkerchief, then wiped the path before her, and the little man found his foot stuck fast to the ground, unable to move it an inch.",
+      "Chapter Number": 2,
+      "Sentence Number": 18
+    },
+    {
+      "Plot Function": "The Devil figure reacts with impotent rage and reveals his identity in frustration. This confirms who the obstacle was and removes him from the immediate path. Humour in his undignified situation.",
+      "Grimm Style": "Antagonist reveals identity when thwarted (common trope). Expresses anger through simple reported action/speech (\"howled,\" \"cursed\"). Overcome simply by the magic item. Adheres to requirement of including the Devil.",
+      "Moral Implication": "Evil reveals itself when its plans fail. Magic neutralizes threats effectively. Sometimes powerful evil is just stuck and angry.",
+      "Metaphorical/Psychological Meaning": "The Shadow/Trickster figure (Devil), immobilized by the Ego's inner resource, reveals its true nature in frustration. This signifies that confronting and neutralizing negative impulses can lead to their identification. The Ego proceeds, leaving the disruptive element temporarily stuck and powerless.",
+      "Sentence": "The little man howled and cursed, crying \"Let me go, I am the Devil, I say!\" but the girl went on her way, leaving him stuck fast.",
+      "Chapter Number": 2,
+      "Sentence Number": 19
+    },
+    {
+      "Plot Function": "The protagonist reaches her destination, the cursed well, setting the stage for the main challenge of this part of the journey.",
+      "Grimm Style": "Simple statement of arrival at the destination (\"came at last to the well\"). Sets the scene for the next interaction or problem. Archetypal dangerous location.",
+      "Moral Implication": "Perseverance leads to the goal, even if the goal itself is dangerous. Facing the challenge head-on.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl) reaches the designated dangerous point in the unconscious (cursed well), having overcome the initial minor obstacle (Devil). She is now ready to confront the specific peril associated with this psychic location.",
+      "Sentence": "She came at last to a deep, dark well overgrown with thorns, and the air around it felt cold.",
+      "Chapter Number": 2,
+      "Sentence Number": 20
+    },
+    {
+      "Plot Function": "Describes the nature of the curse or danger associated with the well: ghostly hands trying to pull people in. This presents a specific threat the protagonist must overcome to get the water.",
+      "Grimm Style": "Describes the supernatural threat vividly but simply (\"pale hands reached out\"). Clear danger (\"tried to grasp her,\" \"pull her down\"). Explains why no one returns. Focuses on external threat. Adheres to requirement for death/violence (implied fate of others).",
+      "Moral Implication": "Confirms the danger warned about. Requires courage or cleverness to bypass the threat.",
+      "Metaphorical/Psychological Meaning": "The danger of the unconscious source (well) is personified as grasping hands – perhaps representing lingering traumas, unresolved complexes, or the pull towards dissolution or being overwhelmed by the unconscious depths (psychosis). It's the active danger that consumes those who approach unprepared.",
+      "Sentence": "As she peered down, pale hands reached out from the darkness within, and tried to grasp her arms to pull her down into the water.",
+      "Chapter Number": 3,
+      "Sentence Number": 21
+    },
+    {
+      "Plot Function": "The protagonist uses her magic handkerchief again, this time defensively, to repel the ghostly hands. Shows its power extends to protection against supernatural threats.",
+      "Grimm Style": "Heroine uses magic item to counter threat. Simple action (\"held out the handkerchief\"). Clear effect (\"hands drew back\"). Consistent use of the established magical tool.",
+      "Moral Implication": "The mother's gift provides protection against deadly peril. Inner resources shield against external threats.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl) uses the inner resource/ordering principle (handkerchief) as a shield against the dangerous, grasping elements within the unconscious (hands). The inherent order or purity represented by the handkerchief repels the forces of chaos or dissolution.",
+      "Sentence": "But the girl held out the handkerchief, and the pale hands drew back as if burned by its touch.",
+      "Chapter Number": 3,
+      "Sentence Number": 22
+    },
+    {
+      "Plot Function": "Despite repelling the hands, she still faces the practical problem of the cracked pitcher, which cannot hold water. This introduces a secondary problem requiring a different solution.",
+      "Grimm Style": "Introduces a mundane problem immediately after the magical one. Highlights the inadequacy of the tool given by the stepmother (\"cracked pitcher,\" \"water ran out\"). Requires further ingenuity or help.",
+      "Moral Implication": "Magic solves one problem, but practical difficulties remain. Overcoming one obstacle reveals another. The legacy of the stepmother's malice (cracked pitcher) persists.",
+      "Metaphorical/Psychological Meaning": "While the inner resource (handkerchief) protects against the direct psychic threat (hands), the Ego (girl) still struggles with the flawed tool or damaged capacity (cracked pitcher) inherited from the negative influence (Stepmother). Protection doesn't automatically fix inherent flaws or provide the needed substance (water).",
+      "Sentence": "She could now lower the pitcher, but alas, it was cracked, and the water ran out as fast as she drew it up.",
+      "Chapter Number": 3,
+      "Sentence Number": 23
+    },
+    {
+      "Plot Function": "Introduces a helper figure, disguised God as a wanderer (meeting requirement). He appears unexpectedly and offers cryptic advice or a solution to the practical problem.",
+      "Grimm Style": "Appearance of a mysterious helper (\"old wanderer\"). Common archetype (Wise Old Man, disguised deity). Offers unsolicited help/advice. Dialogue is simple, perhaps slightly mysterious. Adheres to requirement.",
+      "Moral Implication": "Help can appear unexpectedly, especially from humble figures. Kindness to strangers may be rewarded. Divine help works subtly.",
+      "Metaphorical/Psychological Meaning": "When the Ego (girl) faces a practical impasse despite its inner resource, a manifestation of the Self or divine grace appears (God as wanderer). This represents synchronicity or guidance emerging from the unconscious when the Ego is stuck but has shown courage and resourcefulness. His appearance signifies help is available beyond the Ego's own tools.",
+      "Sentence": "Just then an old wanderer with kind eyes came by and saw her trouble, asking, \"Why weep by such a dark well, daughter?\"",
+      "Chapter Number": 3,
+      "Sentence Number": 24
+    },
+    {
+      "Plot Function": "The protagonist explains her predicament (the task and the cracked pitcher) to the wanderer. This allows for the helper figure to offer specific aid.",
+      "Grimm Style": "Heroine explains her situation simply and directly. Dialogue conveys the necessary information for the helper to act.",
+      "Moral Implication": "Honesty about one's troubles may elicit help. Articulating the problem is the first step to solving it.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl) articulates her problem to the wise/divine figure (wanderer), explaining the impossible task and the inadequate means. This represents bringing the conscious problem into contact with the higher wisdom or guiding principle.",
+      "Sentence": "The girl told him of her cruel stepmother, the task, and the cracked pitcher that could hold no water.",
+      "Chapter Number": 3,
+      "Sentence Number": 25
+    },
+    {
+      "Plot Function": "The wanderer offers a practical, slightly unusual solution involving the handkerchief, implicitly adding to its power or revealing another aspect of its use (mending/holding).",
+      "Grimm Style": "Helper provides a specific, slightly magical solution using the existing item. Instructions are clear. Focuses on the practical outcome. Wanderer remains mysterious, his power implied.",
+      "Moral Implication": "Solutions may be unconventional. Trusting advice from wise strangers. Existing tools may have hidden uses.",
+      "Metaphorical/Psychological Meaning": "The wise figure (wanderer/God) points to a deeper potential within the Ego's existing inner resource (handkerchief). It can not only clean and protect, but also mend or contain (hold water despite the crack). This represents discovering new applications of inner strengths or talents, guided by wisdom.",
+      "Sentence": "The wanderer smiled gently and said, \"Line the pitcher with your handkerchief; perhaps it holds more than just cleanliness.\"",
+      "Chapter Number": 3,
+      "Sentence Number": 26
+    },
+    {
+      "Plot Function": "The protagonist follows the advice, and it works: the handkerchief allows the cracked pitcher to hold water. The immediate problem is solved through trusting the wanderer's advice.",
+      "Grimm Style": "Protagonist obeys advice. Simple action (\"did as he told her\"). Clear, positive result (\"pitcher held the water\"). Magic works simply based on the instruction.",
+      "Moral Implication": "Trusting wisdom leads to success. Simple solutions can overcome difficult problems. The handkerchief's power is confirmed again.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl) follows the guidance of the Self/wisdom figure (wanderer), applying her inner resource (handkerchief) in a new way. This allows her damaged capacity (cracked pitcher) to function effectively, holding the life-giving substance (water) from the unconscious source. Integrating inner resources with wisdom compensates for flaws.",
+      "Sentence": "The girl did as he told her, lining the cracked pitcher with the linen square, and behold, it held the water perfectly full to the brim.",
+      "Chapter Number": 3,
+      "Sentence Number": 27
+    },
+    {
+      "Plot Function": "The protagonist expresses gratitude, but the helper figure disappears mysteriously, reinforcing his enigmatic nature and the subtlety of the aid received.",
+      "Grimm Style": "Heroine expresses thanks. Helper vanishes without explanation (\"wanderer was gone\"). Typical behaviour for disguised divine helpers or fairy folk. Leaves no trace.",
+      "Moral Implication": "Be grateful for help, even if its source is mysterious. Help may be transient.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl) expresses gratitude, but the manifestation of the Self/wisdom figure (wanderer) withdraws once its guidance is given and integrated. Synchronistic help often feels transient and doesn't linger once the immediate need is met.",
+      "Sentence": "She turned to thank the kind old man, but the wanderer was gone, and she stood alone by the well once more.",
+      "Chapter Number": 3,
+      "Sentence Number": 28
+    },
+    {
+      "Plot Function": "The protagonist successfully returns home with the water just before the deadline, having overcome the dangers of the well and the cracked pitcher.",
+      "Grimm Style": "Simple statement of return journey (\"made her way back\"). Notes the time constraint (\"just as dawn was breaking\"). Successful completion of the dangerous task.",
+      "Moral Implication": "Courage, resourcefulness, and obedience to good advice lead to success against malice. Meeting deadlines.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl) successfully returns from the journey into the unconscious (wood/well), bringing back the needed psychic energy/life substance (water), having navigated the dangers and limitations through inner resources and timely guidance. She reintegrates into the conscious world (home) at the threshold of new awareness (dawn).",
+      "Sentence": "She carefully carried the full pitcher and made her way back through the wood, arriving home just as dawn was breaking.",
+      "Chapter Number": 3,
+      "Sentence Number": 29
+    },
+    {
+      "Plot Function": "The stepmother is furious that the girl returned safely, thwarting her plan completely. Introduces humour through her extreme, almost comical, rage and disbelief. This sets up the next, likely more severe, plot against the protagonist.",
+      "Grimm Style": "Antagonist's reaction is strong but stated simply (\"so angry,\" \"turned purple\"). Humour in the exaggerated reaction (\"nearly burst with rage\"). Failure of the evil plan reinforces the protagonist's resilience/protection.",
+      "Moral Implication": "Evil is enraged by the success of good. Frustration mounts for the villain.",
+      "Metaphorical/Psychological Meaning": "The negative feminine (Stepmother) is infuriated by the Ego's successful return and integration of resources from the unconscious. The failure of her attempt to destroy the Ego through external danger intensifies her negative energy (\"burst with rage\").",
+      "Sentence": "The stepmother saw her safe return with the water and was so angry her face turned purple; she nearly burst with rage that the girl had not perished.",
+      "Chapter Number": 3,
+      "Sentence Number": 30
+    },
+    {
+      "Plot Function": "The stepmother devises a third, seemingly inescapable plot: accusing the girl of theft and having her abandoned in a desolate place far away. This removes her from the home entirely.",
+      "Grimm Style": "Escalation of the villain's cruelty. Uses false accusation (\"stolen my silver locket\"). Manipulates the passive father (\"convinced the woodcutter\"). Abandonment in a wild place (\"barren heath\") is a classic trope.",
+      "Moral Implication": "Malice resorts to lies and manipulation. Injustice suffered by the innocent. The danger moves from tasks to existential threat (abandonment).",
+      "Metaphorical/Psychological Meaning": "Unable to destroy the Ego (girl) through tasks or immediate dangers, the negative feminine (Stepmother) uses deceit to alienate the passive masculine (Father) and arranges for the Ego's complete expulsion from the known world (home) into desolate emptiness (barren heath). This represents profound isolation and confrontation with meaninglessness or lack of external support.",
+      "Sentence": "Now the stepmother falsely accused the girl of stealing her silver locket, convinced the woodcutter it was true, and made him take his daughter far away to a barren heath and leave her there.",
+      "Chapter Number": 4,
+      "Sentence Number": 31
+    },
+    {
+      "Plot Function": "Describes the abandonment. The father complies, albeit perhaps reluctantly (implied by speed), and the girl is left utterly alone in a desolate landscape.",
+      "Grimm Style": "Father carries out the cruel act. Setting described simply (\"barren heath,\" \"no tree or house\"). Emphasizes protagonist's isolation (\"left her there alone\"). Matter-of-fact description of abandonment.",
+      "Moral Implication": "The final failure of the father figure to protect his child. The harshness of the world when one is cast out.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl) is abandoned by the weak Father principle in a place symbolizing psychic desolation, emptiness, or confronting the void. All familiar structures and supports are removed.",
+      "Sentence": "The poor woodcutter did as he was told, drove his daughter in the cart for a whole day to where there was no tree or house, and left her there alone.",
+      "Chapter Number": 4,
+      "Sentence Number": 32
+    },
+    {
+      "Plot Function": "Introduces the second major challenge: survival in the desolate wilderness. The immediate problems are lack of food, water, and shelter.",
+      "Grimm Style": "States the practical problems directly (\"nothing to eat or drink,\" \"nowhere to shelter\"). Focuses on basic survival needs. Simple description of the harsh environment.",
+      "Moral Implication": "Test of endurance and faith in extreme adversity. Facing the consequences of injustice.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl) confronts the challenge of existential survival (food, water, shelter) in a state of psychic barrenness (heath). This is a test of finding inner sustenance and resources when the external world offers nothing. This is the second of the three main challenges.",
+      "Sentence": "The girl looked about; there was nothing to eat or drink, and nowhere to shelter from the wind that blew across the heath.",
+      "Chapter Number": 4,
+      "Sentence Number": 33
+    },
+    {
+      "Plot Function": "The protagonist relies on her magic item again, using the handkerchief in a new way – to procure necessities (food and water). This shows its power extends to creation or summoning.",
+      "Grimm Style": "Heroine turns to the magic item in need. Uses it in a slightly different way than before. Simple action (\"spread the handkerchief,\" \"wished\"). Magic provides basic needs (\"bread, cheese, water appeared\").",
+      "Moral Implication": "Inner resources (mother's love/magic) provide sustenance even in barren situations. Faith is rewarded.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl), in a state of psychic desolation (heath), uses her connection to the positive feminine/inner resource (handkerchief) to generate sustenance. This symbolizes the ability of the psyche to provide for itself from within, drawing on internal reserves or creative power (wishing) when external nourishment is absent.",
+      "Sentence": "She took out her handkerchief, spread it on the ground, and wished for food and drink, and at once a crust of bread, a piece of cheese, and a cup of clear water appeared upon it.",
+      "Chapter Number": 4,
+      "Sentence Number": 34
+    },
+    {
+      "Plot Function": "Having solved the immediate survival need, she faces the problem of shelter and decides to use the handkerchief to create it, further expanding its demonstrated capabilities.",
+      "Grimm Style": "Problem (shelter) leads to another use of the magic item. Action (\"wished again\"). Magic creates a structure (\"small hut\"). Simple, effective solution.",
+      "Moral Implication": "Resourcefulness continues. Magic provides not just sustenance but safety/shelter.",
+      "Metaphorical/Psychological Meaning": "The inner resource (handkerchief) provides not only sustenance but also structure and containment (hut) in the midst of psychic emptiness (heath). This represents the Ego's ability to create its own safe space or internal structure through inner resources when external support is withdrawn.",
+      "Sentence": "After she had eaten, she wished again upon the handkerchief for shelter, and there stood before her a small hut made of woven branches.",
+      "Chapter Number": 4,
+      "Sentence Number": 35
+    },
+    {
+      "Plot Function": "Establishes the protagonist's temporary stability – she lives alone on the heath, sustained by the handkerchief. This phase allows for the next plot development or encounter.",
+      "Grimm Style": "Describes a period of stasis (\"lived there for some time\"). Reinforces her reliance on the magic item (\"handkerchief gave her all she needed\"). Simple description of her solitary existence.",
+      "Moral Implication": "Even in isolation, one can survive with the right inner resources. Patience and endurance.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl) establishes a temporary state of self-sufficient survival in isolation (hut on heath), relying entirely on the inner resource (handkerchief). This represents a phase of internal consolidation and self-reliance after being cast out from the collective/family structure.",
+      "Sentence": "She lived there for some time in the little hut, and the handkerchief gave her all she needed each day.",
+      "Chapter Number": 4,
+      "Sentence Number": 36
+    },
+    {
+      "Plot Function": "Introduces the unmarried prince (required element), depicting him engaged in a typical royal activity (hunting) which brings him into the protagonist's vicinity.",
+      "Grimm Style": "Introduces royalty (\"king's son,\" the prince) through his actions (\"out hunting\"). Common fairy tale scenario for encounter. Sets up the meeting between the isolated heroine and the potential rescuer/love interest. Adheres to requirement.",
+      "Moral Implication": "Chance encounters can change fortunes. The outside world intrudes on the isolation.",
+      "Metaphorical/Psychological Meaning": "A potential agent of integration or connection from the broader conscious world (prince/animus figure for a female protagonist) enters the Ego's isolated sphere. Hunting signifies seeking or pursuing something, leading him unconsciously towards the hidden Ego.",
+      "Sentence": "One day the king's son of that country was out hunting with his men and rode across the barren heath.",
+      "Chapter Number": 4,
+      "Sentence Number": 37
+    },
+    {
+      "Plot Function": "The prince discovers the unexpected hut, piquing his curiosity and leading him to investigate, thus discovering the protagonist.",
+      "Grimm Style": "Discovery of the unexpected (\"surprised to see a hut\"). Simple action (\"rode up,\" \"looked inside\"). Drives the plot towards the encounter.",
+      "Moral Implication": "Curiosity leads to discovery. The unusual attracts attention.",
+      "Metaphorical/Psychological Meaning": "The exploring conscious element (prince) discovers the unexpected structure (hut) created by the Ego in its isolation. Curiosity about this anomaly drives him to investigate, initiating contact with the seemingly lost or hidden Ego-figure.",
+      "Sentence": "He was surprised to see a hut in such a lonely place and rode up to look inside.",
+      "Chapter Number": 4,
+      "Sentence Number": 38
+    },
+    {
+      "Plot Function": "Describes the prince finding the protagonist inside the hut. Highlights her simple appearance but perhaps hints at an underlying quality that impresses him (though not stated explicitly).",
+      "Grimm Style": "Simple description of the meeting (\"found the girl sitting\"). Mentions her appearance (\"simple clothes\" - contrasting with rags earlier, perhaps?). Focuses on the external encounter.",
+      "Moral Implication": "Inner worth may shine through humble appearance. Meeting destiny in unexpected places.",
+      "Metaphorical/Psychological Meaning": "The conscious searching principle (prince) finds the Ego (girl) within the self-created structure (hut). Her simple appearance belies the inner resources and journey she has undertaken. This is the beginning of the Ego's potential reintegration into the social/conscious world through relationship.",
+      "Sentence": "There he found the girl sitting quietly, dressed in simple clothes woven by the handkerchief's magic.",
+      "Chapter Number": 4,
+      "Sentence Number": 39
+    },
+    {
+      "Plot Function": "The prince, struck by her presence (or perhaps foreseeing a need), invites her to the castle, offering her a position. This provides the path back to society, albeit initially in a service role again. Adds potential humour in the offered role, contrasting with her hidden magic/potential.",
+      "Grimm Style": "Prince makes a direct offer. The offered role (laundress) is specific and relates ironically to her handkerchief's cleaning power. Provides the means for her return to the central setting (castle). Humour in the irony of the job offer.",
+      "Moral Implication": "Accepting opportunities. Willingness to re-engage with the world. Carrying one's inner resources into new situations.",
+      "Metaphorical/Psychological Meaning": "The conscious principle (prince), recognizing some quality in the Ego (girl), offers her a way back into the structure of collective consciousness (castle). The role of laundress ironically relates to her inner resource (cleaning handkerchief), suggesting the way back involves utilizing her specific gift, even if initially misunderstood or applied mundanely.",
+      "Sentence": "The king's son thought she had a good face and asked if she would come to the castle to serve as a laundress, for they needed one sorely.",
+      "Chapter Number": 4,
+      "Sentence Number": 40
+    },
+    {
+      "Plot Function": "The protagonist agrees to the prince's offer and leaves her isolation, bringing her magic item with her. This transitions her back into the social world and the castle environment.",
+      "Grimm Style": "Simple agreement and action (\"girl agreed,\" \"gathered her hut,\" \"went with him\"). The magical folding of the hut using the handkerchief is stated matter-of-factly. She retains her essential tool.",
+      "Moral Implication": "Accepting opportunities. Willingness to re-engage with the world. Carrying one's inner resources into new situations.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl) agrees to re-enter the structure of collective consciousness (castle) via the offered role. She magically packs away her self-sufficient isolated structure (hut into handkerchief), demonstrating the integration or internalization of that phase, and brings her core inner resource (handkerchief) with her into the new environment.",
+      "Sentence": "The girl agreed readily, wiped her hut with the handkerchief until it folded small enough to fit in her pocket, and went with him to the royal castle.",
+      "Chapter Number": 5,
+      "Sentence Number": 41
+    },
+    {
+      "Plot Function": "Establishes her new role and her exceptional performance due to the magic handkerchief, attracting notice within the castle.",
+      "Grimm Style": "Describes her work and the magical effect (\"washed the clothes,\" \"spotless and bright\"). Notes the positive reaction (\"everyone marvelled\"). Simple cause and effect.",
+      "Moral Implication": "Diligence and hidden gifts lead to recognition, even in humble roles. Excellence stands out.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl) applies her inner resource (handkerchief) to her mundane task (laundry) within the conscious structure (castle). The result is exceptional (\"spotless and bright\"), signifying how bringing inner gifts to bear on outer work leads to outstanding results that attract conscious attention (\"everyone marvelled\").",
+      "Sentence": "There she worked as laundress, and with her handkerchief, the castle's linens were suddenly whiter and cleaner than ever before, so that everyone marvelled.",
+      "Chapter Number": 5,
+      "Sentence Number": 42
+    },
+    {
+      "Plot Function": "Introduces the third major challenge, presented by the King (the prince's father). It's a kingdom-wide problem – a magical blight or stain affecting the land, which defies ordinary solutions. This sets a larger stage for the protagonist's abilities.",
+      "Grimm Style": "Introduces a kingdom-level problem (\"great trouble,\" \"strange stain\"). Describes its magical resistance (\"could not be cleaned\"). Establishes high stakes (blight on the land). Presents a challenge for the hero. This will be the third challenge.",
+      "Moral Implication": "Some problems defy ordinary solutions and require special gifts or magic. A test for the whole kingdom.",
+      "Metaphorical/Psychological Meaning": "A collective problem emerges in the conscious realm (kingdom) – a \"stain\" or blight, representing a pervasive negativity, corruption, or unresolved complex affecting the whole society/psyche, which conventional means (conscious efforts) cannot resolve. This requires a deeper, perhaps counter-intuitive solution.",
+      "Sentence": "Now there was great trouble in that kingdom, for a strange creeping stain, like black mould, was spreading across the land, and no amount of scrubbing by man or beast could clean it.",
+      "Chapter Number": 5,
+      "Sentence Number": 43
+    },
+    {
+      "Plot Function": "The King issues a proclamation offering a great reward (marriage to the prince) for anyone who can solve the problem of the stain. This directly links the solution to the protagonist's potential reward and relationship with the prince.",
+      "Grimm Style": "King makes a proclamation offering a reward. Standard fairy tale device (reward for solving kingdom's problem). Marriage to the prince is the ultimate prize offered. Raises the stakes and focuses the goal.",
+      "Moral Implication": "Great rewards for great deeds. Opportunity for the humble to rise through solving a major crisis. Links problem-solving to marriage/union.",
+      "Metaphorical/Psychological Meaning": "The ruling conscious principle (King) publicly seeks a solution to the collective psychic problem (stain), offering union with the potential integrating masculine/feminine principle (prince/princess role) as the reward. This signifies that resolving the collective shadow issue can lead to psychic wholeness or integration at the highest level.",
+      "Sentence": "The king proclaimed that whoever could cleanse the land of this creeping stain should have his son's hand in marriage and half the kingdom besides.",
+      "Chapter Number": 5,
+      "Sentence Number": 44
+    },
+    {
+      "Plot Function": "Many people try to solve the problem but fail, emphasizing the difficulty of the challenge and setting the stage for the protagonist's success.",
+      "Grimm Style": "Shows the failure of conventional attempts (\"Many tried\"). Reinforces the magical or difficult nature of the problem (\"stain only spread faster\"). Builds suspense before the true hero acts.",
+      "Moral Implication": "Not everyone who tries succeeds. Some problems require unique solutions. Highlights the protagonist's special ability by contrast.",
+      "Metaphorical/Psychological Meaning": "Conventional conscious efforts (\"Many tried\") fail to resolve the collective psychic issue (stain); indeed, they may worsen it (\"spread faster\"). This indicates the problem's roots lie deeper than superficial conscious manipulation can reach.",
+      "Sentence": "Many wise men and bold knights tried their hand, using strange potions and great force, but the stain only spread faster for their efforts.",
+      "Chapter Number": 5,
+      "Sentence Number": 45
+    },
+    {
+      "Plot Function": "The protagonist, hearing of the proclamation and the failures, decides to attempt the challenge, likely seeing it as her duty or opportunity, using her unique tool.",
+      "Grimm Style": "Heroine decides to act. Connects her unique ability (cleaning messes) to the kingdom's problem (stain). Simple statement of resolve (\"I will try\"). Builds towards the climax.",
+      "Moral Implication": "Courage to try where others failed. Willingness to use one's gifts for the greater good. Stepping forward from a humble position.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl), possessing the unique inner resource for purification and order (handkerchief), decides to apply it to the collective psychic problem (stain) that baffles conventional consciousness (wise men, knights). This represents the Ego stepping up to use its specific, perhaps previously hidden or undervalued, gift to heal the collective.",
+      "Sentence": "The little laundress heard of this, and thought of her handkerchief, and said quietly to the prince, \"Let me try, perhaps I can clean this mess.\"",
+      "Chapter Number": 5,
+      "Sentence Number": 46
+    },
+    {
+      "Plot Function": "The prince, recalling her previous laundry miracles or trusting her inherently, grants her permission to try, despite her lowly status. This shows his faith in her or willingness to try anything. Humour may arise from the court's reaction to a laundress trying.",
+      "Grimm Style": "The potential rewarder (prince) grants permission. Shows his openness or desperation. Overrides concerns about status (\"though others scoffed\"). Sets the stage for her public action.",
+      "Moral Implication": "Seeing potential beyond status. Giving the humble a chance. Trusting intuition.",
+      "Metaphorical/Psychological Meaning": "The integrating masculine principle (prince) grants the Ego (laundress) permission to attempt the healing task, perhaps intuitively recognizing her potential or the unique suitability of her gift, despite conventional objections (scoffing). This signifies conscious allowing of the unconventional inner resource to address the collective problem.",
+      "Sentence": "The king's son, remembering the state of his shirts, agreed to let her try, though others at court scoffed that a laundress could succeed where knights had failed.",
+      "Chapter Number": 5,
+      "Sentence Number": 47
+    },
+    {
+      "Plot Function": "Describes the protagonist using the handkerchief on the kingdom-wide stain. She performs a simple action, applying her magic tool to the problem directly.",
+      "Grimm Style": "Simple, decisive action (\"went to the edge,\" \"touched the stain\"). Uses the magic item directly on the large-scale problem. Focus on the critical action.",
+      "Moral Implication": "Applying one's gift directly to the problem, no matter how large. Faith in the tool.",
+      "Metaphorical/Psychological Meaning": "The Ego (girl) applies her core inner resource (handkerchief – purity, order) directly to the edge of the collective psychic blight (stain). This represents the targeted application of inner clarity or healing power to the boundary of the collective shadow problem.",
+      "Sentence": "So the girl went to the edge of the spreading stain where it touched the castle walls, and she knelt and touched the blackness with her linen handkerchief.",
+      "Chapter Number": 5,
+      "Sentence Number": 48
+    },
+    {
+      "Plot Function": "Describes the immediate and dramatic effect: the stain vanishes completely, demonstrating the handkerchief's ultimate power and solving the kingdom's crisis.",
+      "Grimm Style": "Instantaneous, complete magical effect (\"stain vanished,\" \"like mist,\" \"land was clean\"). Clear resolution of the central problem. Emphasizes the power of the magic item.",
+      "Moral Implication": "True solutions can be simple and swift when the right means are used. Inner power cleanses external corruption. Promise fulfilled.",
+      "Metaphorical/Psychological Meaning": "The application of the pure inner resource (handkerchief) instantly dissolves the collective psychic blight (stain). \"Like mist\" suggests the insubstantial nature of the negativity when confronted with true clarity or order. The collective psyche (land) is purified and restored through the Ego's intervention with its unique gift.",
+      "Sentence": "At its touch, the stain vanished like mist in the morning sun; it shrank back from the handkerchief rapidly until the whole land was clean and green again.",
+      "Chapter Number": 5,
+      "Sentence Number": 49
+    },
+    {
+      "Plot Function": "General reaction of amazement and joy. The protagonist is recognized as the savior of the kingdom. Sets up the fulfillment of the reward.",
+      "Grimm Style": "Describes collective reaction simply (\"great amazement and rejoicing\"). Clear statement of the outcome (problem solved, heroine identified). Moves towards the resolution.",
+      "Moral Implication": "Deeds earn recognition and joy. The humble hero is celebrated. Order restored.",
+      "Metaphorical/Psychological Meaning": "The conscious collective (kingdom) reacts with awe and relief as the psychic blight is removed by the Ego's action. The Ego is recognized as the agent of healing and restoration, her true worth acknowledged by all.",
+      "Sentence": "There was great amazement and rejoicing throughout the land, and all knew the little laundress had saved them.",
+      "Chapter Number": 5,
+      "Sentence Number": 50
+    },
+    {
+      "Plot Function": "The King formally acknowledges the protagonist's success and confirms the promised reward: marriage to the prince.",
+      "Grimm Style": "King fulfills his proclamation. Direct speech confirming the reward (\"You have saved us,\" \"shall marry my son\"). Formalizes the happy ending.",
+      "Moral Implication": "Promises kept by authority. Virtue and skill rewarded with the highest prize. Social barriers overcome through deeds.",
+      "Metaphorical/Psychological Meaning": "The ruling conscious principle (King) formally acknowledges the Ego's role in collective healing and decrees the union with the integrating masculine/feminine principle (prince/princess role) – the sacred marriage – as the reward for resolving the collective shadow problem.",
+      "Sentence": "The king himself came down, took her hand, and said, \"You have saved our kingdom, brave girl, and as promised, you shall marry my son.\"",
+      "Chapter Number": 6,
+      "Sentence Number": 51
+    },
+    {
+      "Plot Function": "The prince expresses his own happiness, showing genuine affection beyond the arranged reward, and preparations for the wedding begin.",
+      "Grimm Style": "Shows the prince's positive emotion simply (\"was well pleased\"). Moves swiftly towards the wedding (\"preparations were begun\"). Standard happy resolution element.",
+      "Moral Implication": "Mutual affection validates the arranged marriage. Happiness follows the resolution of conflict.",
+      "Metaphorical/Psychological Meaning": "The integrating masculine principle (prince) willingly and happily accepts union with the Ego (girl), indicating a harmonious integration. The wedding preparations symbolize the process of consolidating this newfound psychic wholeness.",
+      "Sentence": "The king's son was well pleased, for he liked the girl greatly, and soon preparations were begun for a grand wedding feast.",
+      "Chapter Number": 6,
+      "Sentence Number": 52
+    },
+    {
+      "Plot Function": "Shifts back to the stepmother and stepsister, showing their reaction to the protagonist's success: extreme envy and malice, leading them to plot against her again, even at this late stage.",
+      "Grimm Style": "Shows the villains' reaction (\"heard the news,\" \"black with envy\"). Direct statement of their malicious intent (\"plotted wickedness\"). Keeps the antagonists active until the final confrontation.",
+      "Moral Implication": "Envy persists even in the face of others' happiness. Wickedness seeks to destroy good fortune until definitively stopped.",
+      "Metaphorical/Psychological Meaning": "The negative feminine complex (Stepmother/sister), though seemingly defeated, remains active and envious of the Ego's success and integration. This represents the persistence of negative patterns or shadow elements that resist the psyche's move towards wholeness and seek to undermine it.",
+      "Sentence": "But when the cruel stepmother and her daughter heard the news back at the cottage, they grew black with envy and plotted wickedness together.",
+      "Chapter Number": 6,
+      "Sentence Number": 53
+    },
+    {
+      "Plot Function": "Describes the stepmother and stepsister traveling to the castle under the pretense of celebrating, but with the hidden intention of harming the bride-to-be.",
+      "Grimm Style": "Villains travel to the location of the hero's triumph. Their motivation is deceitful (\"pretending joy,\" \"hearts full of malice\" - implied by actions/context, not direct internal description). Builds tension before the wedding.",
+      "Moral Implication": "Evil often disguises itself with false pleasantries. Danger persists even at moments of celebration.",
+      "Metaphorical/Psychological Meaning": "The negative complexes (Stepmother/sister) approach the center of consciousness (castle) where integration is being celebrated (wedding), concealing their destructive intent behind a false facade (pretending joy). The Shadow seeks to infiltrate the celebration of wholeness.",
+      "Sentence": "They journeyed to the castle, pretending great joy for the bride, but carrying sharp pins hidden in their cloaks.",
+      "Chapter Number": 6,
+      "Sentence Number": 54
+    },
+    {
+      "Plot Function": "The stepmother and stepsister attempt to harm the protagonist just before the wedding, using a specific, treacherous method (stabbing with pins during an embrace). Introduces the required element of violence.",
+      "Grimm Style": "Depicts violence directly but briefly (\"embraced her,\" \"stabbed her\"). The method is sneaky and personal (pins in an embrace). Creates a moment of sudden peril. Adheres to violence requirement.",
+      "Moral Implication": "Treachery hidden in supposed affection. The danger of envy and malice, striking at moments of vulnerability or happiness.",
+      "Metaphorical/Psychological Meaning": "The negative complexes (Stepmother/sister) attack the Ego (bride) at the moment of union, using hidden weapons (pins) during a gesture of false intimacy (embrace). This symbolizes how unresolved negative patterns or shadow aspects can wound the psyche precisely when it feels most secure or is about to achieve integration, often through seemingly intimate or trusted channels.",
+      "Sentence": "On the wedding morning, they asked to embrace the bride for luck, and as they held her, they stabbed her secretly with their sharp pins.",
+      "Chapter Number": 6,
+      "Sentence Number": 55
+    },
+    {
+      "Plot Function": "The protagonist is wounded and apparently dies from the treacherous attack, creating a tragic reversal just before the happy ending.",
+      "Grimm Style": "Reports the effect of the violence simply (\"girl gave a cry,\" \"fell down\"). States death directly (\"lay still as if dead\"). Creates shock and suspense. Adheres to death requirement.",
+      "Moral Implication": "Evil can seemingly triumph temporarily. Happiness is fragile. The cost of malice.",
+      "Metaphorical/Psychological Meaning": "The Ego (bride) is severely wounded, seemingly destroyed (\"fell down dead\"), by the attack of the negative complexes just before final integration (wedding). This represents a psychic death or regression caused by the sudden onslaught of the Shadow or unresolved negativity.",
+      "Sentence": "The girl gave a soft cry and fell down upon the floor, and soon she lay still as if dead.",
+      "Chapter Number": 6,
+      "Sentence Number": 56
+    },
+    {
+      "Plot Function": "The stepmother tries to substitute her own daughter as the bride, capitalizing on the apparent death of the protagonist. This is a common trope in \"false bride\" stories.",
+      "Grimm Style": "Villain attempts to usurp the hero's place (\"Quickly,\" \"put the veil\"). Tries to deceive the groom (\"fool the prince\"). Typical stepmother ambition and deceit.",
+      "Moral Implication": "Attempting to steal happiness and reward through deception and murder. Ambition overriding morality.",
+      "Metaphorical/Psychological Meaning": "The negative feminine (Stepmother) attempts to substitute its own offspring (Stepsister – perhaps representing the underdeveloped Shadow or false Self) into the place of the true Ego for the integration/union (marriage). This is an attempt by the negative complex to usurp the rewards of the individuation process.",
+      "Sentence": "Quickly, the stepmother put the wedding veil on her own ugly daughter and tried to hurry her to the altar to fool the prince.",
+      "Chapter Number": 6,
+      "Sentence Number": 57
+    },
+    {
+      "Plot Function": "The magic handkerchief intervenes automatically or acts on its own accord to save its owner and expose the plot. It cleans away the \"mess\" of the faked death/substitution.",
+      "Grimm Style": "Magic item acts independently to save the heroine. Simple action (\"handkerchief flew out\"). Magical effect (\"wiped her face,\" \"cleaned the wounds,\" \"woke her\"). Provides a magical resolution (deus ex machina element).",
+      "Moral Implication": "Protective magic prevails. True worth cannot be easily replaced or hidden. The mother's love continues to protect.",
+      "Metaphorical/Psychological Meaning": "The core inner resource (handkerchief), linked to the positive feminine and the Self, acts autonomously to restore the Ego (girl). It \"cleans the mess\" of the psychic death/attack, heals the wounds inflicted by the negative complex, and brings the Ego back to consciousness (\"woke her\"). This represents the resilient healing power within the psyche.",
+      "Sentence": "But the linen handkerchief flew out from the fallen girl's pocket, wiped her face, cleaned the pinpricks, and woke her at once, unharmed.",
+      "Chapter Number": 6,
+      "Sentence Number": 58
+    },
+    {
+      "Plot Function": "The revived protagonist confronts the villains and reveals their treachery just as the substitution is about to succeed.",
+      "Grimm Style": "Heroine recovers quickly. Direct confrontation (\"stood up,\" \"pointed\"). Simple accusation revealing the plot (\"false bride,\" \"tried to kill me\"). Creates a dramatic courtroom-like scene.",
+      "Moral Implication": "Truth revealed at the critical moment. Justice demanded. Confronting evil directly.",
+      "Metaphorical/Psychological Meaning": "The restored Ego (girl) actively confronts the negative complexes (Stepmother/sister) and exposes their deceitful attempt at usurpation (\"false bride\") just before it solidifies. This represents the conscious self reclaiming its rightful place and exposing the destructive nature of the Shadow elements.",
+      "Sentence": "The true bride stood up, pointed to the stepmother and her daughter, and cried, \"Hold! That is a false bride; these two tried to kill me with pins!\"",
+      "Chapter Number": 6,
+      "Sentence Number": 59
+    },
+    {
+      "Plot Function": "The villains are apprehended, and their tools (the pins) are found, confirming their guilt. Leads directly to their punishment.",
+      "Grimm Style": "Swift justice. Evidence found (\"pins were found\"). Villains captured (\"seized\"). Clear cause (crime) and effect (capture). Moves rapidly to judgment.",
+      "Moral Implication": "Wickedness exposed and caught. Evidence confirms truth. Justice is swift.",
+      "Metaphorical/Psychological Meaning": "The negative complexes (Stepmother/sister) are apprehended by the conscious authorities (guards/court) once their actions are revealed. The evidence (pins) confirms their destructive intent. This represents the binding or containment of the destructive shadow elements once they are fully brought into conscious awareness.",
+      "Sentence": "The guards seized the wicked pair, and indeed the sharp pins were found hidden in their cloaks just as the girl had said.",
+      "Chapter Number": 6,
+      "Sentence Number": 60
+    },
+    {
+      "Plot Function": "The King delivers the judgment and punishment for the stepmother and stepsister, which is typically harsh and fitting in Grimm tales. Adheres to requirement for violence/death.",
+      "Grimm Style": "King pronounces judgment. Punishment is severe and specific (\"put in a barrel,\" \"rolled into the river\"). Fitting punishment for their crime (treachery leading to near-death). Matter-of-fact tone regarding the violence.",
+      "Moral Implication": "Justice is served, harsh but final. Treachery and murder are met with capital punishment. Order restored through elimination of evil.",
+      "Metaphorical/Psychological Meaning": "The ruling conscious principle (King) decrees the definitive containment or dissolution (\"barrel rolled into river\") of the destructive negative complexes (Stepmother/sister) now that they are fully exposed. This represents the necessary neutralization or removal of irredeemable shadow aspects for psychic health.",
+      "Sentence": "The king declared their crime deserved death, so they were put into a barrel stuck full of nails inside and rolled into the river until they were drowned.",
+      "Chapter Number": 7,
+      "Sentence Number": 61
+    },
+    {
+      "Plot Function": "With the villains dispatched, the wedding between the protagonist and the prince finally takes place, signaling the happy resolution.",
+      "Grimm Style": "Standard happy ending element (\"true bride married the king's son\"). Celebration (\"great feast\"). Simple statement of union and joy.",
+      "Moral Implication": "Good triumphs, and the rightful reward (marriage, happiness) is achieved after overcoming final obstacles.",
+      "Metaphorical/Psychological Meaning": "With the destructive complexes neutralized, the union of the Ego and the integrating principle (prince/anima) – the sacred marriage – can finally take place, symbolizing the achievement of psychic wholeness and integration, celebrated by the conscious collective (feast).",
+      "Sentence": "Then the true bride married the king's son, and there was a great feast that lasted many days.",
+      "Chapter Number": 7,
+      "Sentence Number": 62
+    },
+    {
+      "Plot Function": "Briefly mentions the father's fate, showing remorse or consequence for his earlier passivity, providing closure for his character arc. Adds a touch of melancholy or realism to the happy ending.",
+      "Grimm Style": "Ties up loose end regarding the father. Simple statement of his later life (\"lived alone,\" \"often wept\"). Shows consequence for his weakness, even if not direct punishment.",
+      "Moral Implication": "Actions (or inaction) have long-term consequences. Regret for past mistakes. Complicates the simple happy ending slightly.",
+      "Metaphorical/Psychological Meaning": "The weak Father principle (woodcutter) is left in isolation with his regret, suggesting that the passive aspect of the psyche that enables negativity suffers its own form of consequence, even if the Ego achieves wholeness. It represents the sorrow of unrealized potential or failed responsibility.",
+      "Sentence": "Her father, the woodcutter, heard what had happened and lived alone in his cottage thereafter, and often wept for his foolishness.",
+      "Chapter Number": 7,
+      "Sentence Number": 63
+    },
+    {
+      "Plot Function": "Describes the protagonist's life after marriage, specifically highlighting her continued use of the handkerchief, not for magic, but for its original purpose, connecting back to the mother.",
+      "Grimm Style": "Describes the \"happily ever after\" phase. Shows a return to normalcy or integration of the magic item into everyday life (\"used the handkerchief\"). Connects back to the beginning (mother's gift). Simple, domestic detail.",
+      "Moral Implication": "Remembering origins and gifts even in good fortune. Finding value in simple things. Integration of past into present.",
+      "Metaphorical/Psychological Meaning": "The integrated Ego (bride/princess) continues to use the inner resource (handkerchief) but now perhaps more consciously and for ordinary purposes (tidiness), symbolizing the integration of the special gift into everyday life, maintaining inner order without constant crisis.",
+      "Sentence": "The new princess lived happily with her prince, and she often used the handkerchief simply to wipe away a tear or keep her collars neat.",
+      "Chapter Number": 7,
+      "Sentence Number": 64
+    },
+    {
+      "Plot Function": "Explicitly states the presence of the Devil figure, left stuck from the earlier encounter, adding a humorous, unresolved element lingering from the journey.",
+      "Grimm Style": "Returns briefly to a minor character/loose end (the Devil). Humour in his continued predicament (\"still stuck fast\"). Matter-of-fact about his supernatural state. Required element check.",
+      "Moral Implication": "Some evils are persistent but perhaps ultimately impotent or foolish. A reminder of past dangers overcome.",
+      "Metaphorical/Psychological Meaning": "The minor Shadow element (Devil), neutralized earlier, remains contained but still present in the background of the unconscious, a reminder of the potential for disruption but no longer an active threat to the integrated Ego. His stuck state is slightly comical.",
+      "Sentence": "As for the little man with the goat's foot, some say he is still stuck fast by the path near the dark well in the wood.",
+      "Chapter Number": 7,
+      "Sentence Number": 65
+    },
+    {
+      "Plot Function": "Confirms the mysterious identity of the wanderer helper figure, revealing it was God acting subtly, fulfilling a story requirement.",
+      "Grimm Style": "Provides a final piece of information about a mysterious character. Attributes the help to a divine source (\"wanderer was God himself\"). Keeps the divine intervention subtle as experienced by the characters (\"no one knew\"). Required element check.",
+      "Moral Implication": "Divine help is often unseen or unrecognized. God helps those who help themselves (or have the right tools). Faith rewarded implicitly.",
+      "Metaphorical/Psychological Meaning": "Explicitly identifies the wise helper figure as the ultimate source of guidance and synchronicity (God/Self), acting anonymously within the narrative of the psyche's development. Consciousness (characters) remains unaware, highlighting the numinous, often hidden nature of such interventions.",
+      "Sentence": "And though no one knew it then, the kind old wanderer who helped her at the well was God himself, walking the earth a while.",
+      "Chapter Number": 7,
+      "Sentence Number": 66
+    },
+    {
+      "Plot Function": "Reinforces the power and importance of the magic handkerchief, linking it directly to the positive outcome and the mother's legacy.",
+      "Grimm Style": "Summarizes the significance of the magic item (\"magic handkerchief,\" \"saved her many times\"). Explicitly links it to the mother (\"mother's gift\"). Reinforces the core tool of the story.",
+      "Moral Implication": "The enduring power of love, memory, and inherited gifts. Value of simple-seeming objects.",
+      "Metaphorical/Psychological Meaning": "Emphasizes the crucial role of the core inner resource (handkerchief), representing the enduring positive feminine principle or integrated coping mechanisms, in navigating all the trials of the individuation journey.",
+      "Sentence": "The magic handkerchief, her mother's gift, had indeed saved her many times from harm and sorrow.",
+      "Chapter Number": 7,
+      "Sentence Number": 67
+    },
+    {
+      "Plot Function": "Begins the transition to the concluding origin story phrase, reflecting on the handkerchief's core function of dealing with messes.",
+      "Grimm Style": "Broadens the reflection slightly, preparing for the etiological ending. Focuses on the item's function (\"cleaning messes\"). Sets up the final explanatory sentence.",
+      "Moral Implication": "Order can be brought to chaos. Problems (\"messes\") can be dealt with effectively.",
+      "Metaphorical/Psychological Meaning": "Reflects on the core theme of the inner resource's ability to handle psychic chaos or external problems (\"messes\"), preparing to link this narrative outcome to a general principle or saying.",
+      "Sentence": "It proved that even the worst messes, made by wickedness or misfortune, could be wiped clean away.",
+      "Chapter Number": 7,
+      "Sentence Number": 68
+    },
+    {
+      "Plot Function": "Directly sets up the concluding phrase, linking the story's events to a common expression or idea about facing troubles.",
+      "Grimm Style": "Uses a concluding transition (\"And that is why...\"). Clearly signals the etiological purpose of the tale.",
+      "Moral Implication": "Derives a general lesson or saying from the specific story. Connects folklore to everyday wisdom.",
+      "Metaphorical/Psychological Meaning": "Links the specific narrative of psychic healing and integration to a universal human experience or piece of wisdom about managing life's difficulties.",
+      "Sentence": "And that is why, when faced with a terrible muddle or a dreadful spot of bother, people learned to take a deep breath.",
+      "Chapter Number": 7,
+      "Sentence Number": 69
+    },
+    {
+      "Plot Function": "Delivers the final origin story phrase, connecting the handkerchief's power to clean any mess to a saying about tackling problems thoroughly. Fulfills final requirement.",
+      "Grimm Style": "Provides the concluding proverbial phrase, explaining the origin of a common saying or attitude based on the preceding narrative. Simple, memorable phrase. Characteristic etiological ending.",
+      "Moral Implication": "Advises thoroughness and perhaps a touch of optimism (or magical thinking) when dealing with problems. Links the magical cleaning to practical advice.",
+      "Metaphorical/Psychological Meaning": "Concludes by linking the story's demonstration of psychic resilience and the power of inner resources to a piece of folk wisdom, suggesting that the best way to handle psychic or real-world \"messes\" is with thoroughness and perhaps the belief that a clean sweep is possible.",
+      "Sentence": "And that is why we always say, when starting a big clean-up, \"Best wipe it clean down to the bone!\"",
+      "Chapter Number": 7,
+      "Sentence Number": 70
+    }
+  ],
+  "The Complete Story": {
+    "Title": "The Magic Handkercief",
+    "Chapters": [
+      "There was once a poor woodcutter who lived with his wife and their daughter in a little cottage on the edge of a wood. But one day the wife fell ill, and soon she knew she must die. She called her daughter to her side and gave her a plain linen handkerchief, saying, \"Keep this always, child; it can clean any mess, big or small.\" Then the mother died, and after a time the woodcutter grieved and took another wife to keep house. This new wife had a daughter of her own, and she hated the woodcutter's daughter from the first day, gave her only rags to wear, and made her work hard from morn till night. One morning the stepmother scattered soot, ashes, and feathers all over the cottage floor and said, \"Clean this perfectly before nightfall, or you get no supper.\" The poor girl wept, but then she remembered her mother's handkerchief and took it from her pocket. She wiped it once across the dirty floor, and instantly the floor was clean and spotless, so that not a speck remained. When the stepmother saw the clean floor, she was astonished and hated her stepdaughter all the more for her cleverness, though she knew not how it was done. All this time the woodcutter her father saw nothing, for the stepmother told him lies about how lazy and clumsy his daughter was.",
+      "The next day, the stepmother poured a great sack of lentils, peas, and barley onto the hearth and said, \"Sort these into three neat piles by sunset, or you will be turned out of the house.\" The girl thought this task impossible, but she took out the handkerchief her mother had given her. She waved it thrice over the jumbled grains, and they flew apart as if alive, landing in three neat piles on the floor. The stepmother returned, saw the neat piles, and was more vexed than before, thinking, \"I must send her where she will not return.\" So she gave the girl a cracked pitcher and said, \"Go deep into the wood to the well from which no one returns, and fetch me water by morning.\" The girl took the cracked pitcher, though she was afraid, put the handkerchief safely in her pocket, and went into the wood. As she walked, a little man with a goat's foot, hidden ill by his boot, stuck out his leg and tried to trip her, snarling, \"Where do you hurry, clumsy child?\" The girl touched his foot with the handkerchief, then wiped the path before her, and the little man found his foot stuck fast to the ground, unable to move it an inch. The little man howled and cursed, crying \"Let me go, I am the Devil, I say!\" but the girl went on her way, leaving him stuck fast. She came at last to a deep, dark well overgrown with thorns, and the air around it felt cold.",
+      "As she peered down, pale hands reached out from the darkness within, and tried to grasp her arms to pull her down into the water. But the girl held out the handkerchief, and the pale hands drew back as if burned by its touch. She could now lower the pitcher, but alas, it was cracked, and the water ran out as fast as she drew it up. Just then an old wanderer with kind eyes came by and saw her trouble, asking, \"Why weep by such a dark well, daughter?\" The girl told him of her cruel stepmother, the task, and the cracked pitcher that could hold no water. The wanderer smiled gently and said, \"Line the pitcher with your handkerchief; perhaps it holds more than just cleanliness.\" The girl did as he told her, lining the cracked pitcher with the linen square, and behold, it held the water perfectly full to the brim. She turned to thank the kind old man, but the wanderer was gone, and she stood alone by the well once more. She carefully carried the full pitcher and made her way back through the wood, arriving home just as dawn was breaking. The stepmother saw her safe return with the water and was so angry her face turned purple; she nearly burst with rage that the girl had not perished.",
+      "Now the stepmother falsely accused the girl of stealing her silver locket, convinced the woodcutter it was true, and made him take his daughter far away to a barren heath and leave her there. The poor woodcutter did as he was told, drove his daughter in the cart for a whole day to where there was no tree or house, and left her there alone. The girl looked about; there was nothing to eat or drink, and nowhere to shelter from the wind that blew across the heath. She took out her handkerchief, spread it on the ground, and wished for food and drink, and at once a crust of bread, a piece of cheese, and a cup of clear water appeared upon it. After she had eaten, she wished again upon the handkerchief for shelter, and there stood before her a small hut made of woven branches. She lived there for some time in the little hut, and the handkerchief gave her all she needed each day. One day the king's son of that country was out hunting with his men and rode across the barren heath. He was surprised to see a hut in such a lonely place and rode up to look inside. There he found the girl sitting quietly, dressed in simple clothes woven by the handkerchief's magic. The king's son thought she had a good face and asked if she would come to the castle to serve as a laundress, for they needed one sorely.",
+      "The girl agreed readily, wiped her hut with the handkerchief until it folded small enough to fit in her pocket, and went with him to the royal castle. There she worked as laundress, and with her handkerchief, the castle's linens were suddenly whiter and cleaner than ever before, so that everyone marvelled. Now there was great trouble in that kingdom, for a strange creeping stain, like black mould, was spreading across the land, and no amount of scrubbing by man or beast could clean it. The king proclaimed that whoever could cleanse the land of this creeping stain should have his son's hand in marriage and half the kingdom besides. Many wise men and bold knights tried their hand, using strange potions and great force, but the stain only spread faster for their efforts. The little laundress heard of this, and thought of her handkerchief, and said quietly to the prince, \"Let me try, perhaps I can clean this mess.\" The king's son, remembering the state of his shirts, agreed to let her try, though others at court scoffed that a laundress could succeed where knights had failed. So the girl went to the edge of the spreading stain where it touched the castle walls, and she knelt and touched the blackness with her linen handkerchief. At its touch, the stain vanished like mist in the morning sun; it shrank back from the handkerchief rapidly until the whole land was clean and green again. There was great amazement and rejoicing throughout the land, and all knew the little laundress had saved them.",
+      "The king himself came down, took her hand, and said, \"You have saved our kingdom, brave girl, and as promised, you shall marry my son.\" The king's son was well pleased, for he liked the girl greatly, and soon preparations were begun for a grand wedding feast. But when the cruel stepmother and her daughter heard the news back at the cottage, they grew black with envy and plotted wickedness together. They journeyed to the castle, pretending great joy for the bride, but carrying sharp pins hidden in their cloaks. On the wedding morning, they asked to embrace the bride for luck, and as they held her, they stabbed her secretly with their sharp pins. The girl gave a soft cry and fell down upon the floor, and soon she lay still as if dead. Quickly, the stepmother put the wedding veil on her own ugly daughter and tried to hurry her to the altar to fool the prince. But the linen handkerchief flew out from the fallen girl's pocket, wiped her face, cleaned the pinpricks, and woke her at once, unharmed. The true bride stood up, pointed to the stepmother and her daughter, and cried, \"Hold! That is a false bride; these two tried to kill me with pins!\" The guards seized the wicked pair, and indeed the sharp pins were found hidden in their cloaks just as the girl had said.",
+      "The king declared their crime deserved death, so they were put into a barrel stuck full of nails inside and rolled into the river until they were drowned. Then the true bride married the king's son, and there was a great feast that lasted many days. Her father, the woodcutter, heard what had happened and lived alone in his cottage thereafter, and often wept for his foolishness. The new princess lived happily with her prince, and she often used the handkerchief simply to wipe away a tear or keep her collars neat. As for the little man with the goat's foot, some say he is still stuck fast by the path near the dark well in the wood. And though no one knew it then, the kind old wanderer who helped her at the well was God himself, walking the earth a while. The magic handkerchief, her mother's gift, had indeed saved her many times from harm and sorrow. It proved that even the worst messes, made by wickedness or misfortune, could be wiped clean away. And that is why, when faced with a terrible muddle or a dreadful spot of bother, people learned to take a deep breath. And that is why we always say, when starting a big clean-up, \"Best wipe it clean down to the bone!\""
+    ]
+  }
+}

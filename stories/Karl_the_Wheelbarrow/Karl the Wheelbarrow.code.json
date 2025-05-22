@@ -1,0 +1,560 @@
+{
+  "Analysis": [
+    {
+      "Plot Function": "Introduces the protagonist (Karl), his profession (farmer), and his defining characteristic/flaw (terrible temper), which sets the stage for the story's central conflict.",
+      "Grimm Style": "The opening 'There once lived a...' is a classic fairy tale formula, aligning with Grimm style. Naming is simple ('Karl'). 'Terrible temper' is a functional, direct description of a core trait. Vocabulary is simple and direct. Sentence structure is a simple compound sentence. The tone is declarative and matter-of-fact. Adheres well to the Grimm style for an opening.",
+      "Moral Implication": "This sentence immediately establishes anger as a significant and negative trait, hinting that such a temper will lead to problems, introducing the central moral theme of controlling one's anger.",
+      "Metaphorical/Psychological Meaning": "Karl's 'terrible temper' can be seen as an uncontrolled aspect of the Id or the Shadow. The farmer, typically connected to nurturing and growth, is ironically defined by a destructive internal force, suggesting an inner imbalance.",
+      "Sentence": "There once lived a farmer named Karl who had a terrible temper.",
+      "Chapter Number": 1,
+      "Sentence Number": 1
+    },
+    {
+      "Plot Function": "Elaborates on Karl's temper by describing its manifestations and the environment that often provokes it, reinforcing his flaw and the difficulty of his life.",
+      "Grimm Style": "The description of actions ('bellow and roar, kick stones, break his own tools') is concrete and action-oriented. 'Stony farm' is a simple, functional description. 'Fury' is a direct emotional term. The phrase 'which they often did' is a slightly more complex clausal insertion than typical Grimm simplicity but acceptable. Sentence is compound-complex but reads fairly directly. Vocabulary remains simple. Tone is declarative, reporting Karl's common behavior.",
+      "Moral Implication": "Illustrates the destructive and unproductive nature of Karl's anger, showing how it harms his property and likely his well-being. It emphasizes the lack of control and the cyclical nature of his frustration.",
+      "Metaphorical/Psychological Meaning": "The 'stony farm' can symbolize a life full of hardship or internal obstacles that fuel his anger. Breaking his 'own tools' signifies self-sabotage, where his anger turns inward or destroys the means of his own productivity and sustenance. His actions are primal expressions of frustration.",
+      "Sentence": "When things went wrong, which they often did on his stony farm, he would bellow and roar, kick stones, and sometimes even break his own tools in fury.",
+      "Chapter Number": 1,
+      "Sentence Number": 2
+    },
+    {
+      "Plot Function": "Introduces a secondary character (Marta, his wife), contrasts her personality with Karl's (patient), and provides foreshadowing through her dialogue about the consequences of his anger.",
+      "Grimm Style": "'Patient soul' is a simple, archetypal description. Marta's dialogue is direct and serves as a clear warning, a common feature in cautionary tales. 'Oh, Karl' is a gentle, folk-tale-like address. The foreshadowing is explicit, which fits the didactic nature of some Grimm tales. The sentence structure is compound. 'Sighed' is a simple descriptor of her weariness.",
+      "Moral Implication": "Marta's patience highlights Karl's impatience. Her warning, 'your anger will carry you off one day!', directly states the story's central moral lesson: uncontrolled anger can lead to one's undoing or a significant negative transformation. It underscores the idea that actions (or uncontrolled emotions) have consequences.",
+      "Metaphorical/Psychological Meaning": "Marta represents the voice of reason, patience, or perhaps the Anima figure trying to guide the Ego (Karl). Her sigh suggests the burden of living with such uncontrolled emotion. The phrase 'carry you off' metaphorically implies a loss of self or being overwhelmed by one's passion, a journey to an undesirable state.",
+      "Sentence": "His wife, Marta, was a patient soul, but she often sighed, \"Oh, Karl, your anger will carry you off one day!\"",
+      "Chapter Number": 1,
+      "Sentence Number": 3
+    },
+    {
+      "Plot Function": "Sets the scene for the inciting incident, showing Karl engaged in a typical farm task that is prone to frustration.",
+      "Grimm Style": "Simple description of action and setting. 'One afternoon' is a typical time marker. 'Broken fence post' and 'prize pig' are concrete nouns. Sentence structure is straightforward (simple sentence with participial phrase). The language is simple and direct.",
+      "Moral Implication": "Shows an ordinary moment where Karl's temper might be tested, highlighting the everyday nature of the triggers for his flaw.",
+      "Metaphorical/Psychological Meaning": "Fixing a 'broken fence post' can symbolize attempts to maintain order or control in his life, while the 'prize pig,' an animal, represents a less predictable, instinctual element that can disrupt such efforts.",
+      "Sentence": "One afternoon, Karl was trying to fix a broken fence post while his prize pig rooted nearby.",
+      "Chapter Number": 2,
+      "Sentence Number": 4
+    },
+    {
+      "Plot Function": "Provides the direct trigger for Karl's outburst – the pig's careless action leading to a minor accident.",
+      "Grimm Style": "Action is described simply and clearly ('knocked over Karl’s pot of nails'). 'Paying no heed' is a slightly more literary phrase but understandable. Vocabulary is simple. Sentence structure is simple.",
+      "Moral Implication": "Illustrates how minor annoyances can escalate with a pre-existing bad temper. The pig's innocence ('paying no heed') contrasts with Karl's impending overreaction.",
+      "Metaphorical/Psychological Meaning": "The pig, acting on instinct, disrupts Karl's work. This symbolizes how uncontrollable external factors or even perceived slights (the pig is oblivious) can trigger an internal explosion in someone prone to anger. The nails are tools for construction, now scattered and useless, mirroring the scattering of composure.",
+      "Sentence": "The pig, paying no heed, knocked over Karl’s pot of nails.",
+      "Chapter Number": 2,
+      "Sentence Number": 5
+    },
+    {
+      "Plot Function": "Describes the immediate consequence of the pig's action, creating a minor inconvenience that will fuel Karl's anger.",
+      "Grimm Style": "Simple, direct statement of fact. 'Scattered into the long grass' uses concrete imagery. Sentence structure is simple. Adheres well.",
+      "Moral Implication": "The lost nails represent a small loss and frustration, a test of patience that Karl is set up to fail.",
+      "Metaphorical/Psychological Meaning": "The nails scattering in 'long grass' symbolize difficulty, things becoming hidden or hard to retrieve, much like composure or rationality when lost to anger.",
+      "Sentence": "They scattered into the long grass.",
+      "Chapter Number": 2,
+      "Sentence Number": 6
+    },
+    {
+      "Plot Function": "Shows Karl's immediate physical reaction to the incident, indicating his rising anger before he verbalizes it.",
+      "Grimm Style": "'Turned beet-red' is a common idiom, perhaps more colloquial than archaic Grimm, but effectively conveys intense anger with simple imagery. Grimm tales do use simple color imagery (e.g., Snow White 'red as blood'). Sentence structure is simple.",
+      "Moral Implication": "Visually demonstrates the lack of control Karl has over his physiological response to anger, an outward sign of the inner turmoil.",
+      "Metaphorical/Psychological Meaning": "'Beet-red' is a somatic manifestation of rage, the body physically reacting to the emotional surge. It’s a primal, visible signal of losing control.",
+      "Sentence": "Karl turned beet-red.",
+      "Chapter Number": 2,
+      "Sentence Number": 7
+    },
+    {
+      "Plot Function": "Karl verbalizes his anger and shows intent to act on it violently, marking the peak of his temper before the magical intervention.",
+      "Grimm Style": "Dialogue is direct and expresses clear emotion ('You wretched beast!'). 'Roared' is a strong verb, fitting for extreme anger. 'Raising his fist' is a clear, simple action. This is typical of Grimm characters expressing anger.",
+      "Moral Implication": "Shows Karl about to commit an act of violence out of anger towards an innocent animal, highlighting the moral failing of his temper and setting the stage for a just, magical consequence.",
+      "Metaphorical/Psychological Meaning": "The roar and raised fist are primitive, aggressive responses. The 'wretched beast' label projects his inner ugliness onto the pig. This is the moment the uncontrolled Id is about to physically manifest its destructive impulse.",
+      "Sentence": "\"You wretched beast!\" he roared, raising his fist.",
+      "Chapter Number": 2,
+      "Sentence Number": 8
+    },
+    {
+      "Plot Function": "Marks the turning point – the magical intervention begins, preventing Karl's violent act and initiating his transformation. This is the inciting magical event.",
+      "Grimm Style": "'But before he could...' is a common way to introduce an interruption. 'Strange tingling' is a simple sensory detail to herald magic. The sentence structure (compound) builds slight suspense before revealing the nature of the tingling. Use of 'strange' aligns with magical occurrences.",
+      "Moral Implication": "The intervention can be seen as a direct consequence of his intended violent outburst, a magical justice that prevents a worse act by transforming the aggressor.",
+      "Metaphorical/Psychological Meaning": "The 'strange tingling' is the intrusion of the magical or the unconscious, reacting to the peak of his negative emotional state. It’s a physical manifestation of a profound internal shift about to occur, a point of no return forced upon him.",
+      "Sentence": "But before he could strike the pig, a strange tingling ran through him.",
+      "Chapter Number": 2,
+      "Sentence Number": 9
+    },
+    {
+      "Plot Function": "Describes the initial sensations and process of Karl's magical transformation.",
+      "Grimm Style": "The verbs 'shrinking, hardening, changing' are simple, concrete, and describe a physical process. The repetition creates a rhythmic, incantatory feel, which can be found in Grimm descriptions of magic. Active voice ('He felt').",
+      "Moral Implication": "The physical transformation reflects an internal one: his humanity is being stripped away due to his inhuman behavior (uncontrolled rage).",
+      "Metaphorical/Psychological Meaning": "'Shrinking' could symbolize diminishing humanity or status. 'Hardening' suggests becoming unfeeling, rigid, or object-like. 'Changing' signifies a loss of his known self, a descent into an alien state of being.",
+      "Sentence": "He felt himself shrinking, hardening, changing.",
+      "Chapter Number": 2,
+      "Sentence Number": 10
+    },
+    {
+      "Plot Function": "Details the specific physical changes Karl undergoes, transforming him into a wheelbarrow. This is the core of the magical event.",
+      "Grimm Style": "The description is very direct and physical, detailing parts of his body becoming parts of an object. 'Sturdy wooden handles,' 'deep wooden basin,' 'single wheel' are concrete and functional. The transformation is matter-of-factly stated, typical of Grimm magic. Sentence structure is compound, listing the changes.",
+      "Moral Implication": "The transformation into an inanimate, utilitarian object is a fitting punishment for his dehumanizing anger. He becomes a tool, reflecting how his anger perhaps made him less than human, a mere force.",
+      "Metaphorical/Psychological Meaning": "Becoming a wheelbarrow symbolizes objectification, loss of agency, and being reduced to a purely functional, unfeeling state. His limbs becoming handles and his torso a basin represents a profound loss of human form and autonomy, becoming a vessel to be used by others.",
+      "Sentence": "His legs became sturdy wooden handles, his arms vanished, his torso broadened into a deep wooden basin, and a single wheel sprouted beneath him.",
+      "Chapter Number": 2,
+      "Sentence Number": 11
+    },
+    {
+      "Plot Function": "Concludes the transformation, emphasizing its speed and finality. Karl the human is replaced by Karl the object.",
+      "Grimm Style": "'In the space of a breath' is a classic fairy tale expression for swiftness. The contrast 'Karl the farmer was gone, and in his place stood a stout wooden wheelbarrow' is stark and direct, typical of Grimm's unadorned narration of magical events. 'Stout wooden wheelbarrow' is simple description.",
+      "Moral Implication": "The swiftness of the change emphasizes the immediate and total consequence of his peak anger. His identity as a farmer is erased, replaced by that of an object, a direct result of his flaw.",
+      "Metaphorical/Psychological Meaning": "The transformation is a metaphorical death of his current self and a rebirth into a state of helplessness and objectification. It’s a radical stripping away of ego and identity, forced by the magical consequence of his rage.",
+      "Sentence": "In the space of a breath, Karl the farmer was gone, and in his place stood a stout wooden wheelbarrow.",
+      "Chapter Number": 2,
+      "Sentence Number": 12
+    },
+    {
+      "Plot Function": "Marta's appearance creates dramatic irony, as she is unaware of Karl's transformation. Her call for supper highlights his new, helpless state.",
+      "Grimm Style": "Marta's dialogue is simple and domestic ('Karl? Supper is ready!'). Calling a name and stating a fact is direct. Sentence structure is simple. The scene is typical of a household routine interrupted by magic.",
+      "Moral Implication": "Reinforces the isolation Karl now experiences; normal life continues around him, but he cannot participate. His wife's innocent call is a poignant reminder of what he has lost through his anger.",
+      "Metaphorical/Psychological Meaning": "Marta represents the normalcy and human connection Karl has just forfeited. 'Supper is ready' symbolizes nourishment and domestic comfort, now inaccessible to him in his transformed state. The irony underscores his alienation.",
+      "Sentence": "Marta came out, calling, \"Karl? Supper is ready!\"",
+      "Chapter Number": 3,
+      "Sentence Number": 13
+    },
+    {
+      "Plot Function": "Describes Marta's observation of the scene, noting the pig and the newly appeared wheelbarrow, beginning her slight puzzlement.",
+      "Grimm Style": "Simple observation. 'Snuffling happily' gives the pig a simple, unconcerned characteristic. 'Standing oddly' is a subtle hint that something is amiss. Sentence structure is straightforward. Uses simple conjunction 'and'.",
+      "Moral Implication": "The pig's happiness contrasts with Karl's presumed horror, emphasizing that his anger was unjustified and the world moves on without his drama. The 'oddly' placed wheelbarrow is the first hint of the unnatural.",
+      "Metaphorical/Psychological Meaning": "The pig's contentment highlights the natural order, undisturbed by Karl's rage now that he's neutralized. The wheelbarrow's 'odd' placement is a subtle sign of the magical disruption, not yet understood by Marta.",
+      "Sentence": "She saw the pig snuffling happily and the wheelbarrow standing oddly near the fence.",
+      "Chapter Number": 3,
+      "Sentence Number": 14
+    },
+    {
+      "Plot Function": "Marta repeats her call, her puzzlement growing slightly, but she doesn't yet suspect the truth.",
+      "Grimm Style": "Repetition of the call 'Karl?' emphasizes her searching and slight confusion. 'Puzzled' is a direct statement of her emotion. Simple sentence structure.",
+      "Moral Implication": "The lack of response deepens the sense of Karl's isolation and the completeness of his transformation.",
+      "Metaphorical/Psychological Meaning": "Her repeated, unanswered call underscores Karl's loss of voice and presence. She is searching for the human, unaware he is present in an inhuman form.",
+      "Sentence": "\"Karl?\" she called again, puzzled.",
+      "Chapter Number": 3,
+      "Sentence Number": 15
+    },
+    {
+      "Plot Function": "Marta notices subtle, strange details about the wheelbarrow that almost lead her to a realization, creating suspense, but she dismisses them. This is a near-discovery.",
+      "Grimm Style": "The observation of 'wood seemed warm' and handles looking 'strangely like...' adds a touch of eerie magic. Her internal thought 'No, it couldn't be' is a simple way to show dismissal of an unsettling idea. This near-realization and dismissal is a common trope. Sentence structure is compound, linking observation and dismissal.",
+      "Moral Implication": "Shows how reality can be stranger than imagined. Marta's dismissal highlights how people rationalize the uncanny. Karl remains trapped, his true state unrecognized despite the clues.",
+      "Metaphorical/Psychological Meaning": "The 'warm wood' and familiar-looking handles are remnants of Karl's humanity, almost perceptible. Marta's rational mind dismisses the impossible, representing the conscious mind's resistance to believe in profound, magical transformations or the unbelievable truth, even when clues are present.",
+      "Sentence": "The wheelbarrow remained silent, but she noticed the wood seemed warm, and the handles looked strangely like... No, it couldn't be.",
+      "Chapter Number": 3,
+      "Sentence Number": 16
+    },
+    {
+      "Plot Function": "Marta gives up her search and returns inside, leaving Karl to his fate for the night. This ends the immediate scene of discovery.",
+      "Grimm Style": "'Shaking her head' is a simple, common gesture of dismissal or confusion. 'Went back inside' is a straightforward action. Simple sentence structure. Adheres to the matter-of-fact tone.",
+      "Moral Implication": "Karl is left alone in his transformed state, unrecognized and helpless. The ordinary world continues, emphasizing his isolation due to his flaw.",
+      "Metaphorical/Psychological Meaning": "Marta's return inside signifies the closing off of immediate help or recognition. Karl is left to confront his new reality alone, a common stage in transformative journeys where the protagonist must face their changed state in isolation.",
+      "Sentence": "Shaking her head, she went back inside.",
+      "Chapter Number": 3,
+      "Sentence Number": 17
+    },
+    {
+      "Plot Function": "Reveals Karl's internal state in his transformed form – horror and helplessness. This is the first direct insight into his experience as a wheelbarrow.",
+      "Grimm Style": "'Horrified' is a direct emotional descriptor. The description of being 'trapped' is simple. While Grimm tales don't usually delve deep into psychology, a simple statement of horror at such a transformation fits. The language is clear.",
+      "Moral Implication": "The horror is a direct consequence of his anger. His previous power (to roar, to break) is contrasted with his current utter helplessness, a harsh lesson.",
+      "Metaphorical/Psychological Meaning": "Being 'trapped in wheelbarrow form' is a powerful metaphor for being imprisoned by the consequences of one's actions or character flaws. Horror signifies the Ego's reaction to a complete loss of control and identity.",
+      "Sentence": "Karl, trapped in wheelbarrow form, was horrified.",
+      "Chapter Number": 4,
+      "Sentence Number": 18
+    },
+    {
+      "Plot Function": "Emphasizes Karl's loss of agency – he is now dependent on others for movement.",
+      "Grimm Style": "Simple, declarative sentence stating a clear limitation. 'Couldn't move unless pushed' is direct and impactful. Active voice (implied 'He could not move').",
+      "Moral Implication": "His physical immobility is a punishment for his previously uncontrolled, destructive movements and actions fueled by anger.",
+      "Metaphorical/Psychological Meaning": "Loss of self-locomotion symbolizes a complete loss of autonomy and free will. He has become a passive object, subject to the will of others, a stark contrast to his previous aggressive agency.",
+      "Sentence": "He couldn't move unless pushed.",
+      "Chapter Number": 4,
+      "Sentence Number": 19
+    },
+    {
+      "Plot Function": "Highlights another critical loss – his ability to communicate.",
+      "Grimm Style": "Another short, declarative sentence emphasizing his limitations. 'Couldn't speak' is blunt and clear.",
+      "Moral Implication": "His inability to speak is a punishment for his previous angry roars and verbal abuse. He is now silenced.",
+      "Metaphorical/Psychological Meaning": "Loss of speech signifies inability to express himself, ask for help, or assert his identity. It's a profound form of isolation and powerlessness, a common fear.",
+      "Sentence": "He couldn't speak.",
+      "Chapter Number": 4,
+      "Sentence Number": 20
+    },
+    {
+      "Plot Function": "Describes his passive existence and sensory experience as a wheelbarrow, emphasizing his helplessness and exposure.",
+      "Grimm Style": "Simple sensory detail ('evening dew settle on his wooden basin'). 'Could only sit there' emphasizes passivity. The language is concrete. Sentence structure is straightforward.",
+      "Moral Implication": "He is now subject to the elements and the passage of time in a way he wasn't before, a humbling experience. His previous active rage is replaced by passive endurance.",
+      "Metaphorical/Psychological Meaning": "The 'evening dew' settling on him symbolizes the cold reality of his situation and the passage of time in this helpless state. His 'wooden basin' is now what experiences the world for him, a hard, unfeeling surface compared to human skin.",
+      "Sentence": "He could only sit there, feeling the evening dew settle on his wooden basin.",
+      "Chapter Number": 4,
+      "Sentence Number": 21
+    },
+    {
+      "Plot Function": "Shows a shift in Karl's emotional state from his characteristic anger to terror, indicating the beginning of his internal change.",
+      "Grimm Style": "Direct statement of emotional change. 'Anger had cooled into sheer terror' is a more psychologically nuanced phrase than typical Grimm, which might simply state 'he was afraid'. However, 'cooled' is a simple verb. 'Sheer terror' is a strong but direct emotional descriptor.",
+      "Moral Implication": "The terror is a direct result of understanding the severity of his punishment. This fear is the first step towards remorse and change, as his dominant emotion (anger) is replaced.",
+      "Metaphorical/Psychological Meaning": "Anger, a 'hot' emotion, 'cooling' into 'sheer terror,' a 'cold' one, signifies a psychological shift from outward aggression to inward fear and vulnerability. Terror can be a catalyst for profound change when one confronts the dire consequences of their behavior.",
+      "Sentence": "His anger had cooled into sheer terror.",
+      "Chapter Number": 4,
+      "Sentence Number": 22
+    },
+    {
+      "Plot Function": "Karl recalls Marta's prophecy, connecting his current predicament directly to her earlier warning and his own actions. This is a moment of realization.",
+      "Grimm Style": "Recalling a previous statement is a common narrative device. Marta's words are repeated, reinforcing their importance. Sentence structure is simple. This direct linking of prophecy to fulfillment is very Grimm-like.",
+      "Moral Implication": "He acknowledges the truth of the warning, understanding that his fate is a direct result of his uncontrolled anger. This is crucial for his eventual redemption; he recognizes his fault.",
+      "Metaphorical/Psychological Meaning": "Remembering Marta's words signifies the return of wisdom or conscience. The prophecy fulfilled implies an inescapable karmic justice or the inevitable outcome of unchecked negative traits.",
+      "Sentence": "He remembered Marta's words, \"Your anger will carry you off one day!\"",
+      "Chapter Number": 4,
+      "Sentence Number": 23
+    },
+    {
+      "Plot Function": "Karl explicitly understands the nature of his transformation – his anger has turned him into a mundane object. This solidifies his realization.",
+      "Grimm Style": "Simple, direct statement of his understanding. 'Carried him into being a garden tool' is a plain, almost bleakly humorous summary of his fate. The language is unadorned. Fits the matter-of-fact tone for concluding a realization.",
+      "Moral Implication": "The transformation into a 'garden tool' is a humbling reduction from a farmer, a man, to a mere implement. It underscores the debasing effect of his anger.",
+      "Metaphorical/Psychological Meaning": "Being a 'garden tool' symbolizes a fall from human status to that of a mere object, subject to the will of others and the forces of nature. It’s a metaphor for total loss of self-determination due to a character flaw taking over.",
+      "Sentence": "It seemed it had carried him into being a garden tool.",
+      "Chapter Number": 4,
+      "Sentence Number": 24
+    },
+    {
+      "Plot Function": "Shows Marta interacting with the transformed Karl, unknowingly using him as a tool. This begins the phase of his punishment where he experiences life as an object.",
+      "Grimm Style": "'The next morning' is a typical temporal transition. Marta's action is practical and simple. 'Decided it was sturdy enough to use' is a plain assessment. Sentence structure is compound. Adheres to Grimm simplicity.",
+      "Moral Implication": "The irony of being used by his own wife, who is unaware of his identity, is a poignant part of his punishment. He is valued only for his utility as an object.",
+      "Metaphorical/Psychological Meaning": "Marta's utilitarian use of Karl signifies his complete objectification. His 'sturdiness' (a result of his 'hardened' transformation) is now his only perceived value. This is a state of extreme Ego deflation.",
+      "Sentence": "The next morning, Marta came out and, seeing the wheelbarrow, decided it was sturdy enough to use.",
+      "Chapter Number": 5,
+      "Sentence Number": 25
+    },
+    {
+      "Plot Function": "Describes the first instance of Karl being used as a wheelbarrow by Marta, highlighting the indignity of his situation.",
+      "Grimm Style": "Action is described simply ('loaded Karl with weeds and pushed him'). 'Compost heap' is a mundane, earthy detail. The sentence structure is straightforward. Using 'Karl' instead of 'the wheelbarrow' maintains the reader's awareness of his true identity.",
+      "Moral Implication": "Being filled with 'weeds' (unwanted things) and taken to a 'compost heap' (place of decay and transformation for waste) is a humbling and degrading experience, a direct consequence of his 'trashy' behavior when angry.",
+      "Metaphorical/Psychological Meaning": "Weeds symbolize negative or unwanted aspects. Being pushed to the compost heap signifies being treated as refuse or base matter, undergoing a process of decomposition of his old self. It is a state of utter humiliation for his ego.",
+      "Sentence": "She loaded Karl with weeds and pushed him to the compost heap.",
+      "Chapter Number": 5,
+      "Sentence Number": 26
+    },
+    {
+      "Plot Function": "Reveals Karl's internal reaction to this treatment – silent endurance. This shows a change from his previous roaring anger to passive suffering.",
+      "Grimm Style": "'Silently endured the indignity' is a direct statement of his internal experience and action. 'Indignity' is a slightly more sophisticated word, but the concept is clear. Simple sentence.",
+      "Moral Implication": "His silent endurance is part of his penance. He is forced to experience helplessness and humility, emotions opposite to his previous arrogance and rage.",
+      "Metaphorical/Psychological Meaning": "Silent endurance signifies a stage of forced introspection and acceptance of his current state. The inability to express his 'indignity' is part of the punishment, forcing him to internalize the experience rather than react outwardly as he used to.",
+      "Sentence": "Karl silently endured the indignity.",
+      "Chapter Number": 5,
+      "Sentence Number": 27
+    },
+    {
+      "Plot Function": "Shows Karl being used by another person, Fritz, further emphasizing his objectification and the range of his suffering.",
+      "Grimm Style": "'Later' is a simple time transition. 'Young Fritz from the neighbouring farm' introduces a generic, innocent character. 'Borrowed him to carry stones' is a simple description of his use. The phrase 'neighbouring farm' is a common, vague setting detail.",
+      "Moral Implication": "Being used by a cheerful, oblivious boy to carry heavy stones adds to his suffering and highlights his complete loss of status and control. Even a youth now has power over him.",
+      "Metaphorical/Psychological Meaning": "Carrying 'stones'—heavy, burdensome objects—symbolizes the weight of his penance and the hard labor he must endure. Fritz's innocence contrasts with Karl's inner turmoil and past guilt.",
+      "Sentence": "Later, young Fritz from the neighbouring farm borrowed him to carry stones.",
+      "Chapter Number": 5,
+      "Sentence Number": 28
+    },
+    {
+      "Plot Function": "Contrasts Fritz's cheerful ignorance with Karl's silent suffering, heightening the pathos of Karl's situation.",
+      "Grimm Style": "Fritz 'whistled cheerfully' provides a simple, contrasting image. 'Bumped Karl over the rough ground' uses a strong verb for the unpleasant movement. 'Silently groaning' gives Karl an internal voice of suffering, even if unheard. The unawareness of Fritz is key to the dramatic irony.",
+      "Moral Implication": "The cheerful unawareness of his user makes Karl's suffering more acute and private. It highlights the isolation of his experience; his pain is invisible to the world.",
+      "Metaphorical/Psychological Meaning": "The 'rough ground' symbolizes the harshness of his experience. Fritz's cheerful whistling is the sound of an innocent world oblivious to Karl's inner torment. The 'silent groaning' is his repressed suffering and regret, unable to be voiced.",
+      "Sentence": "Fritz whistled cheerfully as he bumped Karl over the rough ground, unaware that the wheelbarrow was silently groaning.",
+      "Chapter Number": 5,
+      "Sentence Number": 29
+    },
+    {
+      "Plot Function": "Indicates the passage of time, showing that Karl's punishment is prolonged.",
+      "Grimm Style": "Short, simple sentence to denote time passing, a common technique in fairy tales ('Days turned into weeks').",
+      "Moral Implication": "The prolonged duration of his suffering emphasizes the seriousness of his flaw and the depth of the lesson he needs to learn.",
+      "Metaphorical/Psychological Meaning": "The passage of time in this state allows for a deeper transformation or processing of his experience. It's a period of enforced stillness and reflection, even if miserable.",
+      "Sentence": "Days turned into weeks.",
+      "Chapter Number": 6,
+      "Sentence Number": 30
+    },
+    {
+      "Plot Function": "Reinforces the continuation of his transformed state.",
+      "Grimm Style": "Simple, declarative statement. Repetition of his state ('remained a wheelbarrow') emphasizes its persistence.",
+      "Moral Implication": "There is no easy escape; the consequences of his anger are lasting, requiring more than just initial shock to overcome.",
+      "Metaphorical/Psychological Meaning": "His continued state as a wheelbarrow shows the persistence of the consequence until a deeper change or external catalyst occurs. He is still stuck in this objectified, helpless form.",
+      "Sentence": "Karl remained a wheelbarrow.",
+      "Chapter Number": 6,
+      "Sentence Number": 31
+    },
+    {
+      "Plot Function": "Karl gains understanding about the magical rules of his transformation, a crucial piece of information for his potential restoration.",
+      "Grimm Style": "'He learned that...' is a simple way to impart new knowledge to the character. The connection 'transformation was tied to his temper' is a direct statement of the magical cause and effect, common in Grimm tales.",
+      "Moral Implication": "Understanding the cause of his plight is the first step towards finding a solution. It links his suffering directly to his temper, reinforcing the moral.",
+      "Metaphorical/Psychological Meaning": "This is a moment of insight. Recognizing the connection between his inner state (temper) and his external reality (transformation) is key to psychological growth. The 'magic' here has an internal logic connected to his psyche.",
+      "Sentence": "He learned that his transformation was tied to his temper.",
+      "Chapter Number": 6,
+      "Sentence Number": 32
+    },
+    {
+      "Plot Function": "Explains a nuance of the magic: external anger offers slight, temporary relief but isn't enough for full transformation back. This introduces a possibility and a complication.",
+      "Grimm Style": "The example ('neighbour’s bull broke loose and the neighbour cursed mightily') is a concrete, rustic scenario. 'Slight easing, a loosening of his wooden form' describes the magical effect simply. The phrasing 'cursed mightily' is somewhat archaic and fitting. The sentence is complex but clearly describes the conditional magic.",
+      "Moral Implication": "This detail suggests that anger itself is the key, but the source matters. It hints that merely witnessing anger isn't sufficient; a personal, powerful emotional experience is needed. It also shows that other people's uncontrolled anger is also a negative force.",
+      "Metaphorical/Psychological Meaning": "The 'loosening' suggests that the grip of his transformed state can be affected by strong emotional energies. However, vicarious anger only provides a partial effect, implying that the transformation is deeply personal and requires a consonant internal shift or a very powerful external trigger of the same emotional quality.",
+      "Sentence": "If someone nearby expressed great anger – like when the neighbour’s bull broke loose and the neighbour cursed mightily – Karl felt a slight easing, a loosening of his wooden form, but it wasn't enough.",
+      "Chapter Number": 6,
+      "Sentence Number": 33
+    },
+    {
+      "Plot Function": "States the specific condition for Karl's re-transformation (his own anger) and presents his current dilemma (inability to feel anger as a wheelbarrow).",
+      "Grimm Style": "The condition 'He needed his *own* anger' is stated clearly. The rhetorical question 'but how could a wheelbarrow feel anger?' highlights his paradoxical situation in a simple way. The emphasis on 'own' is modern textual practice (italics) but conveys the point directly.",
+      "Moral Implication": "The irony is that the very thing that caused his downfall is now needed for his escape, but his current state of suffering has suppressed that emotion. He must, in a sense, reconnect with a part of his former self, but perhaps in a different way.",
+      "Metaphorical/Psychological Meaning": "This is a psychological paradox: the wheelbarrow state, born of excessive anger, has paradoxically numbed him to that same emotion. To become human again, he needs to access that intense emotion, but his current form and emotional state (misery, regret) prevent it. It suggests that the path to healing might involve re-integrating or re-experiencing the problematic emotion in a transformative way.",
+      "Sentence": "He needed his *own* anger to trigger the change back, but how could a wheelbarrow feel anger?",
+      "Chapter Number": 6,
+      "Sentence Number": 34
+    },
+    {
+      "Plot Function": "Describes Karl's dominant emotional state as a wheelbarrow, emphasizing his suffering and remorse rather than anger.",
+      "Grimm Style": "'Misery and regret' are direct emotional terms. Grimm characters often feel sorrow or fear. The simplicity of 'He felt only...' is fitting. This sentence is more explicitly introspective than many Grimm sentences, but the emotions are basic.",
+      "Moral Implication": "His misery and regret show that he is learning from his punishment. He is no longer the angry man he was; his suffering has led to remorse, a key step towards genuine change.",
+      "Metaphorical/Psychological Meaning": "Misery and regret are transformative emotions, breaking down the old ego. This state of sorrow, rather than anger, indicates a shift in his psychological landscape. However, these passive emotions are not the catalyst needed for his physical re-transformation according to the magic's rules.",
+      "Sentence": "He felt only misery and regret.",
+      "Chapter Number": 6,
+      "Sentence Number": 35
+    },
+    {
+      "Plot Function": "Sets the scene for the climax: Marta's trip to the market, providing a reason for Karl (as a wheelbarrow) to be in a new location where the catalyst for his change will occur.",
+      "Grimm Style": "'One market day' is a typical setting/time marker. Marta's intention is stated simply. Simple sentence structure.",
+      "Moral Implication": "Ordinary life events continue, and Karl is still being used as a tool, but this journey will lead to an extraordinary event.",
+      "Metaphorical/Psychological Meaning": "The journey to the market signifies movement towards a place of exchange and social interaction, contrasting with his isolated farm existence. This movement is crucial for encountering the necessary catalyst.",
+      "Sentence": "One market day, Marta decided to take some vegetables to town.",
+      "Chapter Number": 7,
+      "Sentence Number": 36
+    },
+    {
+      "Plot Function": "Reinforces Karl's role as an object, being used by Marta for a practical purpose.",
+      "Grimm Style": "Simple action, clearly stated. 'Loaded them into Karl' again uses his name, reminding the reader of his true identity within the object.",
+      "Moral Implication": "His mundane servitude continues, even as he is moving towards a pivotal moment.",
+      "Metaphorical/Psychological Meaning": "Being loaded with vegetables (produce, sustenance) is a benign form of being used, less degrading than weeds, perhaps subtly indicating a shift or progression in his experience.",
+      "Sentence": "She loaded them into Karl.",
+      "Chapter Number": 7,
+      "Sentence Number": 37
+    },
+    {
+      "Plot Function": "Moves Karl and Marta to the location of the climactic event – the village smithy.",
+      "Grimm Style": "'As she pushed him along the road' describes the journey simply. 'Passed the village smithy' introduces a key archetypal location. Simple sentence structure.",
+      "Moral Implication": "The journey and the new location set the stage for an external event to impact Karl's situation.",
+      "Metaphorical/Psychological Meaning": "The smithy is a place of fire, metal, and transformation, often symbolizing intense energy, creation, or change – an apt place for a catalyst involving powerful emotion like rage.",
+      "Sentence": "As she pushed him along the road, they passed the village smithy.",
+      "Chapter Number": 7,
+      "Sentence Number": 38
+    },
+    {
+      "Plot Function": "Introduces the blacksmith, Otto, and the conflict that will generate the intense anger needed to transform Karl – an argument over payment.",
+      "Grimm Style": "Introduces a new character with a simple name ('Otto') and profession ('blacksmith'). 'Arguing furiously' clearly states the emotional intensity. The cause of the argument ('refused to pay') is a common, understandable grievance. Compound sentence, clearly laying out the scene.",
+      "Moral Implication": "Shows another instance of uncontrolled anger in a different character, creating a parallel to Karl's own flaw. The injustice of not being paid fuels Otto's understandable, yet still furious, rage.",
+      "Metaphorical/Psychological Meaning": "The blacksmith, a figure of fiery energy and transformation, is embroiled in a conflict. 'Arguing furiously' indicates a high level of emotional discharge, the kind of energy Karl's transformation seems attuned to.",
+      "Sentence": "The blacksmith, a large man named Otto, was arguing furiously with a customer who refused to pay.",
+      "Chapter Number": 7,
+      "Sentence Number": 39
+    },
+    {
+      "Plot Function": "Describes Otto's escalating anger and the physical accident (hitting his thumb) that intensifies his rage to an extreme level.",
+      "Grimm Style": "'Roared, swung his hammer, and brought it down mightily' describes strong, violent actions. 'Missing it slightly and striking his own thumb' is a concrete, painful accident. The language is direct and action-oriented. 'Mightily' is a fitting adverb. This is a very vivid, Grimm-like depiction of an accident causing rage.",
+      "Moral Implication": "Otto's accidental self-injury fuels his rage further, demonstrating how pain and frustration can compound anger. This extreme outburst will serve as the catalyst for Karl.",
+      "Metaphorical/Psychological Meaning": "The hammer, a tool of creation and force, becomes an instrument of self-inflicted pain due to the uncontrolled anger of the argument. This symbolizes how anger can backfire. Otto's roar is a primal expression of this intensified rage and pain.",
+      "Sentence": "Otto roared, swung his hammer, and brought it down mightily upon his anvil, missing it slightly and striking his own thumb.",
+      "Chapter Number": 7,
+      "Sentence Number": 40
+    },
+    {
+      "Plot Function": "Emphasizes the intensity and public nature of Otto's pained and furious cry, setting the stage for its magical effect on Karl.",
+      "Grimm Style": "'Bellow of rage and pain echoed through the village' uses strong imagery and sound. 'Echoed' suggests its power and reach. Simple, impactful sentence.",
+      "Moral Implication": "The public display of extreme rage, though from another, creates the powerful emotional atmosphere needed for the magic to work on Karl.",
+      "Metaphorical/Psychological Meaning": "The echoing bellow signifies a massive discharge of raw, powerful emotion—the specific frequency or intensity that Karl’s transformed state is receptive to. It’s an overwhelming wave of the very energy that transformed him.",
+      "Sentence": "His bellow of rage and pain echoed through the village.",
+      "Chapter Number": 7,
+      "Sentence Number": 41
+    },
+    {
+      "Plot Function": "Marks the beginning of Karl's re-transformation, triggered by Otto's intense anger.",
+      "Grimm Style": "'Powerful surge' is a simple way to describe a strong internal sensation heralding magic. 'Went through Karl' is direct. Simple sentence structure.",
+      "Moral Implication": "The external anger acts as a magical catalyst, showing that the conditions for his change are now met.",
+      "Metaphorical/Psychological Meaning": "The 'powerful surge' represents the influx of the resonant emotional energy needed to break the stasis of his transformed state. It's like a shockwave that reawakens his dormant potential for change.",
+      "Sentence": "A powerful surge went through Karl.",
+      "Chapter Number": 8,
+      "Sentence Number": 42
+    },
+    {
+      "Plot Function": "Explains why Otto's fury affects Karl: it resonates with Karl's own (now suppressed) temper, fulfilling the condition for change.",
+      "Grimm Style": "This sentence offers a more explicit psychological explanation ('resonated with his own suppressed temper') than is typical for Grimm, which usually shows rather than explains magical mechanics. However, 'overwhelming fury' and 'suppressed temper' are fairly direct terms. The concept of resonance is somewhat abstract for classic Grimm style.",
+      "Moral Implication": "It implies that a deep connection to the specific emotion (anger) is necessary. His own temper, though suppressed, is still part of him and is re-activated or mirrored by Otto's extreme display.",
+      "Metaphorical/Psychological Meaning": "Resonance implies a sympathetic vibration. Otto's fury acts like a tuning fork, striking the same note as Karl's own deeply buried (or foundational) anger, the emotion that defined his transformation. This re-awakens that core part of him, allowing the magical 'undoing' process to begin.",
+      "Sentence": "The blacksmith's overwhelming fury resonated with his own suppressed temper.",
+      "Chapter Number": 8,
+      "Sentence Number": 43
+    },
+    {
+      "Plot Function": "Describes the initial physical sensations of Karl's re-transformation from wood back to flesh.",
+      "Grimm Style": "Simple, concrete verbs describe the change: 'soften, stretch.' This mirrors the earlier transformation description ('shrinking, hardening'). Short, impactful phrasing.",
+      "Moral Implication": "The reversal of his hardening symbolizes a return to a more natural, human state. The physical change mirrors an internal readiness for restoration.",
+      "Metaphorical/Psychological Meaning": "'Wood soften, stretch' signifies the breaking down of his rigid, objectified state. It’s a return to flexibility and human form, the undoing of the 'hard' lesson he endured.",
+      "Sentence": "He felt the wood soften, stretch.",
+      "Chapter Number": 8,
+      "Sentence Number": 44
+    },
+    {
+      "Plot Function": "Details the specific physical changes as Karl returns to human form.",
+      "Grimm Style": "Direct, physical description of the transformation reversing: 'wheel retracted, legs sprouted, arms reappeared.' This is matter-of-fact, like the initial transformation. Uses simple verbs.",
+      "Moral Implication": "His human attributes are restored, signifying that the magical condition for his return has been met.",
+      "Metaphorical/Psychological Meaning": "The reappearance of human limbs and the retraction of the wheel symbolize the regaining of human agency, form, and autonomy. He is literally 're-membered,' put back together as a human being.",
+      "Sentence": "The wheel retracted, legs sprouted, arms reappeared.",
+      "Chapter Number": 8,
+      "Sentence Number": 45
+    },
+    {
+      "Plot Function": "Concludes the re-transformation: Karl is human again, standing amidst the mundane evidence of his recent journey as a wheelbarrow.",
+      "Grimm Style": "'With a loud crack' is a good sensory detail for a magical transformation. 'The wheelbarrow vanished, and Karl stood there' is a stark, direct statement of the change. 'Dazed and dusty' are simple descriptors. 'Scattered turnips and carrots' provides a concrete, slightly comical image of the aftermath. This is well within Grimm style.",
+      "Moral Implication": "His restoration is sudden and complete, as magical events often are. The scattered vegetables are a reminder of his recent state, grounding the magical event in ordinary reality.",
+      "Metaphorical/Psychological Meaning": "The 'loud crack' signifies a breaking of the enchantment. Standing 'dazed and dusty' suggests disorientation after a profound experience. The vegetables are remnants of his ordeal, symbolic of the 'fruits' of his changed perspective or the mundane tasks he was subjected to.",
+      "Sentence": "With a loud crack, the wheelbarrow vanished, and Karl stood there, dazed and dusty, amidst a pile of scattered turnips and carrots.",
+      "Chapter Number": 8,
+      "Sentence Number": 46
+    },
+    {
+      "Plot Function": "Shows Marta's immediate reaction to Karl's reappearance – shock and surprise.",
+      "Grimm Style": "'Shrieked in surprise' is a direct and strong reaction, fitting for such an event. Simple sentence structure.",
+      "Moral Implication": "Her shock emphasizes the extraordinariness of the event. It's a natural human reaction to witnessing the impossible.",
+      "Metaphorical/Psychological Meaning": "Marta's shriek pierces the ordinariness of the market scene, highlighting the rupture caused by the magical event. It’s the sound of disbelief confronting the unbelievable.",
+      "Sentence": "Marta shrieked in surprise.",
+      "Chapter Number": 9,
+      "Sentence Number": 47
+    },
+    {
+      "Plot Function": "Shows the reaction of the other bystanders (blacksmith and customer) – their argument is forgotten in the face of the magical event.",
+      "Grimm Style": "Their argument stopping and being 'mouths agape' is a classic, simple depiction of astonishment. Short, declarative sentence.",
+      "Moral Implication": "The magical event transcends ordinary conflicts, showing its power and otherworldly nature. Even intense anger (Otto's) is quelled by genuine astonishment and the inexplicable.",
+      "Metaphorical/Psychological Meaning": "The cessation of the argument signifies the power of the marvelous or the sacred to interrupt mundane strife. 'Mouths agape' is a universal sign of speechlessness before the extraordinary.",
+      "Sentence": "The blacksmith and customer stopped arguing, mouths agape.",
+      "Chapter Number": 9,
+      "Sentence Number": 48
+    },
+    {
+      "Plot Function": "Karl confirms his own re-transformation, grounding himself back in his human body.",
+      "Grimm Style": "Simple actions: 'looked down at his hands, felt his face.' These are concrete ways to confirm one's physical self. Simple sentence structure.",
+      "Moral Implication": "His first actions are to reconnect with his physical humanity, appreciating what he had lost and regained.",
+      "Metaphorical/Psychological Meaning": "Touching his hands and face is a primal act of self-recognition and re-embodiment. He is checking the reality of his restored human form after existing as an object.",
+      "Sentence": "Karl looked down at his hands, felt his face.",
+      "Chapter Number": 9,
+      "Sentence Number": 49
+    },
+    {
+      "Plot Function": "Karl's joyful realization of his restored state.",
+      "Grimm Style": "Exclamatory statement of pure relief and joy. 'He was himself again!' is simple and direct. Such exclamations are found in Grimm when a positive resolution occurs.",
+      "Moral Implication": "The joy of being 'himself again' underscores the value of his human form and identity, which he now appreciates after its loss.",
+      "Metaphorical/Psychological Meaning": "This is the moment of full return to self, the ego reconstituted after its dissolution and transformation. It’s a rebirth into his own identity, now presumably altered by the experience.",
+      "Sentence": "He was himself again!",
+      "Chapter Number": 9,
+      "Sentence Number": 50
+    },
+    {
+      "Plot Function": "Highlights a significant internal change in Karl: his characteristic anger is gone, replaced by relief. This is a key outcome of his ordeal.",
+      "Grimm Style": "'Felt no anger, only immense relief' is a direct statement of his changed emotional state. While 'immense relief' is a strong descriptor, the core contrast is simple. This direct emotional reporting, while slightly more explicit than some Grimm, fits the resolution.",
+      "Moral Implication": "His ordeal has purged him of his dominant negative emotion. The relief is not just about being human again, but also about being free from the tyranny of his own temper.",
+      "Metaphorical/Psychological Meaning": "The absence of anger signifies a profound psychological healing or rebalancing. Relief is the natural emotional state after a prolonged period of suffering and the resolution of a deep internal conflict. His core emotional problem has been addressed.",
+      "Sentence": "He felt no anger, only immense relief.",
+      "Chapter Number": 9,
+      "Sentence Number": 51
+    },
+    {
+      "Plot Function": "Karl joyfully reconnects with Marta, his first action being to reach out to his wife.",
+      "Grimm Style": "Direct address ('Marta!') and action ('cried, rushing to her'). Simple, emotional, and direct, fitting for a reunion after a magical ordeal.",
+      "Moral Implication": "His immediate desire to reconnect with Marta shows his renewed appreciation for human connection, which his anger had likely strained.",
+      "Metaphorical/Psychological Meaning": "Rushing to Marta signifies a return to human relationship and emotional connection. She, who patiently endured his temper and unknowingly used him as a tool, is the first to witness his changed self.",
+      "Sentence": "\"Marta!\" he cried, rushing to her.",
+      "Chapter Number": 10,
+      "Sentence Number": 52
+    },
+    {
+      "Plot Function": "Karl begins his explanation to Marta, confirming his identity during the transformation.",
+      "Grimm Style": "Simple, exclamatory statement: 'It was me!' Direct and to the point, conveying his eagerness to explain the miraculous event.",
+      "Moral Implication": "He takes ownership of the experience, ready to share the incredible truth.",
+      "Metaphorical/Psychological Meaning": "This is an affirmation of his continuous identity through the transformation. Despite being a wheelbarrow, 'he' was still present.",
+      "Sentence": "\"It was me!",
+      "Chapter Number": 10,
+      "Sentence Number": 53
+    },
+    {
+      "Plot Function": "Karl explicitly acknowledges Marta's prophecy and the cause of his initial transformation (his own anger).",
+      "Grimm Style": "He directly quotes or refers to Marta's earlier warning ('Your anger carried me off, just as you said!'), confirming the magical cause and effect and her wisdom. This is a very common structural element in tales where a warning is given and then proven true.",
+      "Moral Implication": "Validates Marta's wisdom and reinforces the moral that his anger was the cause of his downfall. He openly admits his flaw and its consequences.",
+      "Metaphorical/Psychological Meaning": "Acknowledging the truth of Marta's words signifies his acceptance of responsibility and his understanding of the psychological dynamic that led to his fate. It’s a verbalization of his learned lesson.",
+      "Sentence": "Your anger carried me off, just as you said!",
+      "Chapter Number": 10,
+      "Sentence Number": 54
+    },
+    {
+      "Plot Function": "Karl explains the catalyst for his return – Otto's anger.",
+      "Grimm Style": "Simple statement of the magical logic ('But Otto's anger brought me back!'). Clear, direct explanation of the second magical event. The exclamation mark conveys his amazement and relief.",
+      "Moral Implication": "Highlights the strange, symmetrical nature of the magic tied to anger. It also subtly implies that even others' uncontrolled anger can have unexpected (in this case, positive for Karl) consequences.",
+      "Metaphorical/Psychological Meaning": "This confirms the 'sympathetic magic' principle at play – a strong external display of the same emotion that caused his transformation was needed to reverse it. It's as if a balance was restored or a condition met through this external burst of anger.",
+      "Sentence": "But Otto's anger brought me back!\"",
+      "Chapter Number": 10,
+      "Sentence Number": 55
+    },
+    {
+      "Plot Function": "States the lasting impact of the ordeal: Karl is permanently changed for the better. This begins the story's resolution.",
+      "Grimm Style": "'From that day on, Karl was a changed man' is a classic fairy tale concluding phrase, signifying a lasting transformation of character. Simple and definitive.",
+      "Moral Implication": "The story demonstrates that profound, lasting change is possible, even for deeply ingrained flaws, often through harsh experience. This is the ultimate moral payoff.",
+      "Metaphorical/Psychological Meaning": "This signifies successful integration of the lessons learned during his ordeal. The 'changed man' is the new self, an Ego that has confronted its Shadow (temper), suffered consequences, and emerged transformed and more whole.",
+      "Sentence": "From that day on, Karl was a changed man.",
+      "Chapter Number": 11,
+      "Sentence Number": 56
+    },
+    {
+      "Plot Function": "Describes the specific way Karl now manages his temper, recalling his suffering as a deterrent.",
+      "Grimm Style": "The memory of his suffering ('feeling of being cold, hard wood, bumped over stones and filled with weeds') is described with simple, concrete sensory details. This direct link between past suffering and current changed behavior is a clear moral lesson. The sentence structure is slightly complex but the meaning is clear.",
+      "Moral Implication": "Traumatic experiences can serve as powerful lessons. Remembering the negative consequences of his anger helps him maintain control. This is a practical application of the learned moral.",
+      "Metaphorical/Psychological Meaning": "The memory acts as an internal regulator. His past suffering as an objectified, helpless thing is now a potent psychological deterrent against reverting to his old, angry self. This is a form of conditioned response born from profound experience.",
+      "Sentence": "Whenever he felt his temper rising, he remembered the feeling of being cold, hard wood, bumped over stones and filled with weeds.",
+      "Chapter Number": 11,
+      "Sentence Number": 57
+    },
+    {
+      "Plot Function": "Details the new, positive behaviors Karl adopts to manage his anger, showing his active effort to remain changed.",
+      "Grimm Style": "Lists simple, constructive actions: 'take deep breaths, to walk away, even to laugh'. These are practical coping mechanisms. 'Laugh when the pig knocked over his nails' shows a complete reversal of his initial trigger behavior. The phrasing is direct and clear.",
+      "Moral Implication": "Shows that change requires not just remembering the bad, but actively practicing new, positive behaviors. He has learned emotional regulation. Laughter signifies a release of tension and a new perspective.",
+      "Metaphorical/Psychological Meaning": "These behaviors represent learned coping strategies, signs of a more mature and resilient Ego. Laughter, in particular, signifies a transformation of perspective – what once caused rage now evokes amusement, indicating significant emotional growth and detachment from the trigger.",
+      "Sentence": "He learned to take deep breaths, to walk away, even to laugh when the pig knocked over his nails.",
+      "Chapter Number": 11,
+      "Sentence Number": 58
+    },
+    {
+      "Plot Function": "Reaffirms Karl's core identity (farmer) but emphasizes his crucial internal transformation, expressing his gratitude for it. This is a summary of his new state.",
+      "Grimm Style": "The contrast between his unchanged external situation ('still a farmer on a stony patch of land') and his profound internal change ('no longer Karl the Wheelbarrow') is a powerful concluding point. 'Eternally grateful' is a strong, simple expression of thankfulness common in tales where a character is saved or restored. Sentence is compound-complex but flows well.",
+      "Moral Implication": "True change is internal, regardless of external circumstances. Gratitude for escaping his cursed state reinforces the value of self-control and his newfound peace. It emphasizes contentment despite hardship.",
+      "Metaphorical/Psychological Meaning": "He retains his external life ('stony patch' - hardships remain) but his internal relationship to it has changed. He is no longer defined by his 'Wheelbarrow' self (his objectified, anger-induced state). This signifies true individuation – self-acceptance and inner peace despite external challenges.",
+      "Sentence": "He was still a farmer on a stony patch of land, but he was no longer Karl the Wheelbarrow, and for that, he was eternally grateful.",
+      "Chapter Number": 11,
+      "Sentence Number": 59
+    },
+    {
+      "Plot Function": "Provides a final, charming detail showing Karl's change extending to compassion for another who suffers from anger (Otto). This is a denouement offering a lasting image of his transformation.",
+      "Grimm Style": "This final act of kindness, sending 'a calming cup of herbal tea,' is a gentle, folksy touch. It brings the story full circle by referencing Otto, whose anger was pivotal. The phrase 'particularly frustrating day' is simple. This kind of quiet, instructive ending is common in fables.",
+      "Moral Implication": "Karl's transformation is so complete that he now actively tries to help others manage their anger, showing empathy and wisdom gained from his experience. He seeks to prevent others from suffering as he did. The 'calming tea' is a symbol of this gentle intervention.",
+      "Metaphorical/Psychological Meaning": "This shows Karl has moved beyond mere self-preservation to a state of compassion and wisdom. He recognizes the destructive potential of anger in others and offers a soothing remedy. This act signifies a well-integrated lesson and a desire to promote harmony, the mark of a truly changed individual.",
+      "Sentence": "And sometimes, when Otto the blacksmith was having a particularly frustrating day, Karl would send Marta over with a calming cup of herbal tea.",
+      "Chapter Number": 11,
+      "Sentence Number": 60
+    }
+  ],
+  "The Complete Story": {
+    "Title": "Karl the Wheelbarrow",
+    "Chapters": [
+      "There once lived a farmer named Karl who had a terrible temper. When things went wrong, which they often did on his stony farm, he would bellow and roar, kick stones, and sometimes even break his own tools in fury. His wife, Marta, was a patient soul, but she often sighed, \"Oh, Karl, your anger will carry you off one day!\"",
+      "One afternoon, Karl was trying to fix a broken fence post while his prize pig rooted nearby. The pig, paying no heed, knocked over Karl’s pot of nails. They scattered into the long grass. Karl turned beet-red. \"You wretched beast!\" he roared, raising his fist. But before he could strike the pig, a strange tingling ran through him. He felt himself shrinking, hardening, changing. His legs became sturdy wooden handles, his arms vanished, his torso broadened into a deep wooden basin, and a single wheel sprouted beneath him. In the space of a breath, Karl the farmer was gone, and in his place stood a stout wooden wheelbarrow.",
+      "Marta came out, calling, \"Karl? Supper is ready!\" She saw the pig snuffling happily and the wheelbarrow standing oddly near the fence. \"Karl?\" she called again, puzzled. The wheelbarrow remained silent, but she noticed the wood seemed warm, and the handles looked strangely like... No, it couldn't be. Shaking her head, she went back inside.",
+      "Karl, trapped in wheelbarrow form, was horrified. He couldn't move unless pushed. He couldn't speak. He could only sit there, feeling the evening dew settle on his wooden basin. His anger had cooled into sheer terror. He remembered Marta's words, \"Your anger will carry you off one day!\" It seemed it had carried him into being a garden tool.",
+      "The next morning, Marta came out and, seeing the wheelbarrow, decided it was sturdy enough to use. She loaded Karl with weeds and pushed him to the compost heap. Karl silently endured the indignity. Later, young Fritz from the neighbouring farm borrowed him to carry stones. Fritz whistled cheerfully as he bumped Karl over the rough ground, unaware that the wheelbarrow was silently groaning.",
+      "Days turned into weeks. Karl remained a wheelbarrow. He learned that his transformation was tied to his temper. If someone nearby expressed great anger – like when the neighbour’s bull broke loose and the neighbour cursed mightily – Karl felt a slight easing, a loosening of his wooden form, but it wasn't enough. He needed his *own* anger to trigger the change back, but how could a wheelbarrow feel anger? He felt only misery and regret.",
+      "One market day, Marta decided to take some vegetables to town. She loaded them into Karl. As she pushed him along the road, they passed the village smithy. The blacksmith, a large man named Otto, was arguing furiously with a customer who refused to pay. Otto roared, swung his hammer, and brought it down mightily upon his anvil, missing it slightly and striking his own thumb. His bellow of rage and pain echoed through the village.",
+      "A powerful surge went through Karl. The blacksmith's overwhelming fury resonated with his own suppressed temper. He felt the wood soften, stretch. The wheel retracted, legs sprouted, arms reappeared. With a loud crack, the wheelbarrow vanished, and Karl stood there, dazed and dusty, amidst a pile of scattered turnips and carrots.",
+      "Marta shrieked in surprise. The blacksmith and customer stopped arguing, mouths agape. Karl looked down at his hands, felt his face. He was himself again! He felt no anger, only immense relief.",
+      "\"Marta!\" he cried, rushing to her. \"It was me! Your anger carried me off, just as you said! But Otto's anger brought me back!\"",
+      "From that day on, Karl was a changed man. Whenever he felt his temper rising, he remembered the feeling of being cold, hard wood, bumped over stones and filled with weeds. He learned to take deep breaths, to walk away, even to laugh when the pig knocked over his nails. He was still a farmer on a stony patch of land, but he was no longer Karl the Wheelbarrow, and for that, he was eternally grateful. And sometimes, when Otto the blacksmith was having a particularly frustrating day, Karl would send Marta over with a calming cup of herbal tea."
+    ]
+  }
+}
