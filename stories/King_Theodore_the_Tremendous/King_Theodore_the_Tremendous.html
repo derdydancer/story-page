@@ -94,7 +94,7 @@ body {
 <div class="chapter"><span class="sentence" data-index="71"><span class="word">He</span> <span class="word">looked</span> <span class="word">at</span> <span class="word">Fumblemore,</span> <span class="word">who</span> <span class="word">beamed</span> <span class="word">nervously.</span> </span><span class="sentence" data-index="72"><span class="word">&quot;Well</span> <span class="word">done,</span> <span class="word">wizard,&quot;</span> <span class="word">the</span> <span class="word">King</span> <span class="word">said,</span> <span class="word">surprisingly</span> <span class="word">calm</span> <span class="word">now</span> <span class="word">his</span> <span class="word">beard</span> <span class="word">was</span> <span class="word">back.</span> </span><span class="sentence" data-index="73"><span class="word">&quot;You</span> <span class="word">are</span> <span class="word">still</span> <span class="word">forgetful,</span> <span class="word">and</span> <span class="word">clumsy,</span> <span class="word">but</span> <span class="word">you</span> <span class="word">fixed</span> <span class="word">it.</span> <span class="word">Now...</span> <span class="word">about</span> <span class="word">those</span> <span class="word">turnips...&quot;</span> </span></div>
 <div class="chapter"><span class="sentence" data-index="74"><span class="word">King</span> <span class="word">Theodore</span> <span class="word">kept</span> <span class="word">Fumblemore</span> <span class="word">as</span> <span class="word">his</span> <span class="word">court</span> <span class="word">wizard,</span> <span class="word">though</span> <span class="word">he</span> <span class="word">made</span> <span class="word">him</span> <span class="word">practice</span> <span class="word">his</span> <span class="word">spells</span> <span class="word">only</span> <span class="word">in</span> <span class="word">the</span> <span class="word">turnip</span> <span class="word">patch.</span> </span><span class="sentence" data-index="75"><span class="word">And</span> <span class="word">the</span> <span class="word">King,</span> <span class="word">while</span> <span class="word">still</span> <span class="word">proud</span> <span class="word">of</span> <span class="word">his</span> <span class="word">beard,</span> <span class="word">perhaps</span> <span class="word">held</span> <span class="word">it</span> <span class="word">a</span> <span class="word">little</span> <span class="word">less</span> <span class="word">tightly,</span> <span class="word">remembering</span> <span class="word">the</span> <span class="word">itchy</span> <span class="word">goat</span> <span class="word">hair</span> <span class="word">and</span> <span class="word">the</span> <span class="word">kindness</span> <span class="word">of</span> <span class="word">a</span> <span class="word">badger</span> <span class="word">with</span> <span class="word">a</span> <span class="word">sweet</span> <span class="word">tooth.</span> </span></div>
 
-    </div>
+    <div id="copy-json-container" style="text-align:center;margin:20px 0;"></div></div>
     <div class="analysis">
         <p><strong>Plot Function:</strong> <span id="plot-function"></span></p>
         <p><strong>Grimm Style:</strong> <span id="grimm-style"></span></p>
@@ -127,6 +127,70 @@ document.querySelectorAll('.sentence').forEach(function(el) {
 if (analysisData.length > 0) {
     selectSentence(0);
 }
+// Add Copy JSON to Clipboard button if .code.json file exists in the same directory
+(function() {
+    // Get the current HTML file name (without extension)
+    var htmlFile = location.pathname.split('/').pop();
+    var baseName = htmlFile.replace(/\.html$/, '');
+    baseName = baseName.replace(/_/g, ' ');
+    var jsonFile = baseName + '.code.json';
+    // Try to fetch the .code.json file
+    fetch(jsonFile)
+        .then(function(response) {
+            if (!response.ok) throw new Error('No code.json');
+            return response.text();
+        })
+        .then(function(jsonText) {
+            // Create the button
+            var btn = document.createElement('button');
+            btn.textContent = 'Copy JSON to Clipboard';
+            btn.style.margin = '10px auto';
+            btn.style.display = 'inline-block';
+            btn.onclick = function() {
+                navigator.clipboard.writeText(jsonText).then(function() {
+                    btn.textContent = 'Copied!';
+                    setTimeout(function() { btn.textContent = 'Copy JSON to Clipboard'; }, 1500);
+                }, function() {
+                    btn.textContent = 'Copy Failed!';
+                    setTimeout(function() { btn.textContent = 'Copy JSON to Clipboard'; }, 1500);
+                });
+            };
+            document.getElementById('copy-json-container').appendChild(btn);
+        })
+        .catch(function() {
+            // No .code.json file found, do nothing
+        });
+})();
+(function() {
+    // Get the current HTML file name (without extension)
+    var htmlFile = location.pathname.split('/').pop();
+    var baseName = htmlFile.replace(/\.html$/, '');
+    baseName = baseName.replace(/_/g, ' ');
+    var jsonFile = baseName + '.code.json';
+    fetch(jsonFile)
+        .then(function(response) {
+            if (!response.ok) throw new Error('No code.json');
+            return response.text();
+        })
+        .then(function(jsonText) {
+            var btn2 = document.createElement('button');
+            btn2.textContent = 'Copy & Annotate';
+            btn2.style.margin = '10px auto 10px 10px';
+            btn2.style.display = 'inline-block';
+            btn2.onclick = function() {
+                navigator.clipboard.writeText(jsonText).then(function() {
+                    btn2.textContent = 'Copied!';
+                    setTimeout(function() { btn2.textContent = 'Copy & Annotate'; }, 1500);
+                    window.open('https://derdydancer.github.io/story-annotator-pro/', '_blank');
+                }, function() {
+                    btn2.textContent = 'Copy Failed!';
+                    setTimeout(function() { btn2.textContent = 'Copy & Annotate'; }, 1500);
+                });
+            };
+            document.getElementById('copy-json-container').appendChild(btn2);
+        })
+        .catch(function() { });
+})();
 </script>
 </body>
 </html>

@@ -83,7 +83,7 @@ body {
 <div class="chapter"><span class="sentence" data-index="89"><span class="word">The</span> <span class="word">wicked</span> <span class="word">one</span> <span class="word">walked</span> <span class="word">around</span> <span class="word">the</span> <span class="word">house</span> <span class="word">several</span> <span class="word">times,</span> <span class="word">and</span> <span class="word">finally</span> <span class="word">jumped</span> <span class="word">onto</span> <span class="word">the</span> <span class="word">roof.</span> </span><span class="sentence" data-index="90"><span class="word">He</span> <span class="word">wanted</span> <span class="word">to</span> <span class="word">wait</span> <span class="word">until</span> <span class="word">Little</span> <span class="word">Red</span> <span class="word">Riding</span> <span class="word">Hood</span> <span class="word">went</span> <span class="word">home</span> <span class="word">that</span> <span class="word">evening,</span> <span class="word">then</span> <span class="word">follow</span> <span class="word">her</span> <span class="word">and</span> <span class="word">eat</span> <span class="word">her</span> <span class="word">up</span> <span class="word">in</span> <span class="word">the</span> <span class="word">darkness.</span> </span><span class="sentence" data-index="91"><span class="word">But</span> <span class="word">the</span> <span class="word">grandmother</span> <span class="word">saw</span> <span class="word">what</span> <span class="word">he</span> <span class="word">was</span> <span class="word">up</span> <span class="word">to.</span> </span><span class="sentence" data-index="92"><span class="word">There</span> <span class="word">was</span> <span class="word">a</span> <span class="word">large</span> <span class="word">stone</span> <span class="word">trough</span> <span class="word">in</span> <span class="word">front</span> <span class="word">of</span> <span class="word">the</span> <span class="word">house.</span> </span><span class="sentence" data-index="93"><span class="word">&quot;Fetch</span> <span class="word">a</span> <span class="word">bucket,</span> <span class="word">Little</span> <span class="word">Red</span> <span class="word">Riding</span> <span class="word">Hood,&quot;</span> <span class="word">she</span> <span class="word">said.</span> </span><span class="sentence" data-index="94"><span class="word">&quot;Yesterday</span> <span class="word">I</span> <span class="word">cooked</span> <span class="word">some</span> <span class="word">sausage.</span> </span><span class="sentence" data-index="95"><span class="word">Carry</span> <span class="word">the</span> <span class="word">water</span> <span class="word">that</span> <span class="word">I</span> <span class="word">boiled</span> <span class="word">them</span> <span class="word">with</span> <span class="word">to</span> <span class="word">the</span> <span class="word">trough.&quot;</span> </span><span class="sentence" data-index="96"><span class="word">Little</span> <span class="word">Red</span> <span class="word">Riding</span> <span class="word">Hood</span> <span class="word">carried</span> <span class="word">water</span> <span class="word">until</span> <span class="word">the</span> <span class="word">large,</span> <span class="word">large</span> <span class="word">trough</span> <span class="word">was</span> <span class="word">clear</span> <span class="word">full.</span> </span><span class="sentence" data-index="97"><span class="word">The</span> <span class="word">smell</span> <span class="word">of</span> <span class="word">sausage</span> <span class="word">arose</span> <span class="word">into</span> <span class="word">the</span> <span class="word">wolf&#x27;s</span> <span class="word">nose.</span> </span><span class="sentence" data-index="98"><span class="word">He</span> <span class="word">sniffed</span> <span class="word">and</span> <span class="word">looked</span> <span class="word">down,</span> <span class="word">stretching</span> <span class="word">his</span> <span class="word">neck</span> <span class="word">so</span> <span class="word">long</span> <span class="word">that</span> <span class="word">he</span> <span class="word">could</span> <span class="word">no</span> <span class="word">longer</span> <span class="word">hold</span> <span class="word">himself,</span> <span class="word">and</span> <span class="word">he</span> <span class="word">began</span> <span class="word">to</span> <span class="word">slide.</span> </span></div>
 <div class="chapter"><span class="sentence" data-index="99"><span class="word">He</span> <span class="word">slid</span> <span class="word">off</span> <span class="word">the</span> <span class="word">roof,</span> <span class="word">fell</span> <span class="word">into</span> <span class="word">the</span> <span class="word">trough,</span> <span class="word">and</span> <span class="word">drowned.</span> </span><span class="sentence" data-index="100"><span class="word">And</span> <span class="word">Little</span> <span class="word">Red</span> <span class="word">Riding</span> <span class="word">Hood</span> <span class="word">returned</span> <span class="word">home</span> <span class="word">happily</span> <span class="word">and</span> <span class="word">safely.</span> </span></div>
 
-    </div>
+    <div id="copy-json-container" style="text-align:center;margin:20px 0;"></div></div>
     <div class="analysis">
         <p><strong>Plot Function:</strong> <span id="plot-function"></span></p>
         <p><strong>Grimm Style:</strong> <span id="grimm-style"></span></p>
@@ -116,6 +116,70 @@ document.querySelectorAll('.sentence').forEach(function(el) {
 if (analysisData.length > 0) {
     selectSentence(0);
 }
+// Add Copy JSON to Clipboard button if .code.json file exists in the same directory
+(function() {
+    // Get the current HTML file name (without extension)
+    var htmlFile = location.pathname.split('/').pop();
+    var baseName = htmlFile.replace(/\.html$/, '');
+    baseName = baseName.replace(/_/g, ' ');
+    var jsonFile = baseName + '.code.json';
+    // Try to fetch the .code.json file
+    fetch(jsonFile)
+        .then(function(response) {
+            if (!response.ok) throw new Error('No code.json');
+            return response.text();
+        })
+        .then(function(jsonText) {
+            // Create the button
+            var btn = document.createElement('button');
+            btn.textContent = 'Copy JSON to Clipboard';
+            btn.style.margin = '10px auto';
+            btn.style.display = 'inline-block';
+            btn.onclick = function() {
+                navigator.clipboard.writeText(jsonText).then(function() {
+                    btn.textContent = 'Copied!';
+                    setTimeout(function() { btn.textContent = 'Copy JSON to Clipboard'; }, 1500);
+                }, function() {
+                    btn.textContent = 'Copy Failed!';
+                    setTimeout(function() { btn.textContent = 'Copy JSON to Clipboard'; }, 1500);
+                });
+            };
+            document.getElementById('copy-json-container').appendChild(btn);
+        })
+        .catch(function() {
+            // No .code.json file found, do nothing
+        });
+})();
+(function() {
+    // Get the current HTML file name (without extension)
+    var htmlFile = location.pathname.split('/').pop();
+    var baseName = htmlFile.replace(/\.html$/, '');
+    baseName = baseName.replace(/_/g, ' ');
+    var jsonFile = baseName + '.code.json';
+    fetch(jsonFile)
+        .then(function(response) {
+            if (!response.ok) throw new Error('No code.json');
+            return response.text();
+        })
+        .then(function(jsonText) {
+            var btn2 = document.createElement('button');
+            btn2.textContent = 'Copy & Annotate';
+            btn2.style.margin = '10px auto 10px 10px';
+            btn2.style.display = 'inline-block';
+            btn2.onclick = function() {
+                navigator.clipboard.writeText(jsonText).then(function() {
+                    btn2.textContent = 'Copied!';
+                    setTimeout(function() { btn2.textContent = 'Copy & Annotate'; }, 1500);
+                    window.open('https://derdydancer.github.io/story-annotator-pro/', '_blank');
+                }, function() {
+                    btn2.textContent = 'Copy Failed!';
+                    setTimeout(function() { btn2.textContent = 'Copy & Annotate'; }, 1500);
+                });
+            };
+            document.getElementById('copy-json-container').appendChild(btn2);
+        })
+        .catch(function() { });
+})();
 </script>
 </body>
 </html>

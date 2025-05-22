@@ -1,7 +1,7 @@
 {
   "Analysis": [
     {
-      "Plot Function": "Introduces the protagonist, a fork, and its unusual, defining characteristic – perpetual thirst. This sets up the central problem/desire that will drive the narrative.",
+      "Plot Function": "Introduces the protagonist, a fork, and its unusual, defining characteristic ï¿½ perpetual thirst. This sets up the central problem/desire that will drive the narrative.",
       "Grimm Style": "Classic fairy tale opening ('There was once a...'). Simple declarative sentence. Concrete noun ('a fork'). Adjective is functional ('thirsty'). The personification of an inanimate object is common in fables within the Grimm collection. Consistent with 'Beginning the Story' Do's.",
       "Moral Implication": "Hints at an unnatural state or desire not aligned with the fork's inherent nature, immediately setting the stage for a cautionary tale about contentment and accepting one's lot. Thirst for a fork is inherently abnormal.",
       "Metaphorical/Psychological Meaning": "The Fork can represent an Ego with a persistent, perhaps misplaced or unfulfillable longing (thirst). Its physical nature (solid, with tines for piercing) is at odds with its desire (liquids/soup). This symbolizes a yearning for something outside one's given capabilities, purpose, or societal role.",
@@ -166,7 +166,7 @@
       "Plot Function": "The fork is abandoned in the garden, a state far removed from its desired soup, representing a low point in its quest.",
       "Grimm Style": "Simple sentence. 'Dropped among the cabbages' is a specific, mundane, and somewhat ignominious location. 'Soon forgot all about it' highlights the child's fleeting attention. Direct and factual.",
       "Moral Implication": "The pursuit of an unsuitable desire can lead to being lost, forgotten, and in an even worse state than before. The fork is now further from any potential soup than it was in the drawer.",
-      "Metaphorical/Psychological Meaning": "The Ego (Fork) is abandoned in an alien environment (garden, among cabbages – earthy, raw nature), far from its desired object (soup – prepared, domestic). This represents a state of being lost, sidetracked, or feeling irrelevant.",
+      "Metaphorical/Psychological Meaning": "The Ego (Fork) is abandoned in an alien environment (garden, among cabbages ï¿½ earthy, raw nature), far from its desired object (soup ï¿½ prepared, domestic). This represents a state of being lost, sidetracked, or feeling irrelevant.",
       "Sentence": "There, the child dropped the fork among the cabbages and soon forgot all about it.",
       "Chapter Number": 2,
       "Sentence Number": 19
@@ -199,7 +199,7 @@
       "Sentence Number": 22
     },
     {
-      "Plot Function": "The gardener, mistaking the fork's purpose, uses it in a new, comically inappropriate way – as a garden tool.",
+      "Plot Function": "The gardener, mistaking the fork's purpose, uses it in a new, comically inappropriate way ï¿½ as a garden tool.",
       "Grimm Style": "Compound sentence. Gardener's thought ('A useful little spike') is a misinterpretation of the fork's function. His action ('used it to mark a row') is practical from his view but absurd for a fork. Simple language.",
       "Moral Implication": "The fork continues to be misunderstood and misused, further highlighting its inability to communicate its true desire or achieve its goal. It's a commentary on how specialized objects can be repurposed, often poorly, by those unaware of their design.",
       "Metaphorical/Psychological Meaning": "The Gardener (representing a pragmatic, perhaps unrefined understanding) misinterprets the Ego's nature and purpose, assigning it a new, unsuitable role ('little spike'). This shows the Ego being subjected to external definitions that don't align with its core identity or desires.",
@@ -256,7 +256,7 @@
       "Plot Function": "The fork is placed on the table where food is served, tantalizingly close to where soup might appear. This builds anticipation.",
       "Grimm Style": "Simple sentence. 'Laid it upon the great kitchen table' is a specific, relevant location. This places the fork in the center of potential food activity. Direct and factual.",
       "Moral Implication": "The fork is now very close to its desired environment. This proximity could be a test of its patience or a setup for either fulfillment or a new form of frustration.",
-      "Metaphorical/Psychological Meaning": "The Ego is returned to the central stage of domestic nourishment (kitchen table), a place of potential fulfillment. This is a critical juncture – opportunity is near.",
+      "Metaphorical/Psychological Meaning": "The Ego is returned to the central stage of domestic nourishment (kitchen table), a place of potential fulfillment. This is a critical juncture ï¿½ opportunity is near.",
       "Sentence": "She wiped it on her apron and laid it upon the great kitchen table.",
       "Chapter Number": 3,
       "Sentence Number": 29
@@ -316,7 +316,7 @@
       "Sentence Number": 35
     },
     {
-      "Plot Function": "The fork, despite the continuous immersion, gets little actual soup, highlighting the tragicomedy of its situation – constantly in soup, yet always thirsty.",
+      "Plot Function": "The fork, despite the continuous immersion, gets little actual soup, highlighting the tragicomedy of its situation ï¿½ constantly in soup, yet always thirsty.",
       "Grimm Style": "Compound sentence. 'Though it was always in the soup' contrasts with 'it caught but a speck or two'. This emphasizes its Sisyphean task. Simple language. Direct statement of its minimal success.",
       "Moral Implication": "Superficial contact with the object of desire, if one is unsuited to it, brings no real satisfaction. The fork is tantalized but unfulfilled, a direct consequence of its nature.",
       "Metaphorical/Psychological Meaning": "The Ego is immersed in the environment of its desire but cannot truly partake or integrate it. It experiences only fleeting, unsatisfying contact, which might even worsen the sense of lack. This is the torment of near-fulfillment without actual satisfaction.",
@@ -397,7 +397,7 @@
       "Sentence Number": 44
     },
     {
-      "Plot Function": "The duration of the fork's immersion in soup is emphasized – 'for three whole days' – setting up its slow 'drowning' or degradation. This is the direct fulfillment of the user's requirement.",
+      "Plot Function": "The duration of the fork's immersion in soup is emphasized ï¿½ 'for three whole days' ï¿½ setting up its slow 'drowning' or degradation. This is the direct fulfillment of the user's requirement.",
       "Grimm Style": "Simple sentence structure. 'This time, however,' signals a change in circumstance. 'The man, his wife, and the child all ate soup' implies a large quantity and extended use. 'For three whole days' uses the symbolic number three to denote a significant, complete period.",
       "Moral Implication": "Excess, even of a desired thing (or proximity to it), can be destructive. The fork's constant, futile immersion becomes its undoing. This is the ultimate cautionary outcome of its unnatural desire.",
       "Metaphorical/Psychological Meaning": "The Ego's exposure to the unfulfillable desire is not brief but prolonged and overwhelming ('three whole days'). This extended, futile immersion leads to its ultimate decline. The entire family partaking suggests a complete societal/environmental focus on this 'soup' experience.",
@@ -406,7 +406,7 @@
       "Sentence Number": 45
     },
     {
-      "Plot Function": "Describes the fork being left continuously in a bowl of soup, beginning its slow 'drowning' – the tragic fulfillment of its wish in the worst way.",
+      "Plot Function": "Describes the fork being left continuously in a bowl of soup, beginning its slow 'drowning' ï¿½ the tragic fulfillment of its wish in the worst way.",
       "Grimm Style": "Compound sentence. 'Between meals' shows constant exposure. 'Left standing in a small bowl of leftover soup' is a specific, sad image. 'To keep it moist' is an ironic, misguided intention by the humans. Simple, direct description.",
       "Moral Implication": "Being constantly immersed in the object of one's unsuitable desire, especially when it's a misguided attempt at 'care' by others, can be fatal. The fork gets its 'wetness' but in a deadly form.",
       "Metaphorical/Psychological Meaning": "The Ego is now perpetually immersed in the 'leftover' (perhaps stagnant, unfulfilling) remnants of its desired object, a constant, passive saturation. The intention 'to keep it moist' is a tragic irony, as this 'moisture' is what destroys it.",
@@ -452,7 +452,7 @@
     }
   ],
   "The Complete Story": {
-    "Title": "The Thirsty Fork",
+    "Title": "The Thirsty Fork TEST",
     "Chapters": [
       "There was once a fork that was always thirsty. It dreamed with all its tines of gulping down hot soup. Now, this fork dwelt in a kitchen drawer, alongside a spoon and a knife. One day, the fork rattled its tines and said, \"Alas, I am so very dry!\" \"Dry?\" answered the spoon, \"But we were washed only this morning with good hot water.\" \"Nay,\" cried the fork, \"not that kind of wet! I long for soup!\" \"Soup?\" said the knife sharply, \"What good is a fork for soup?\" \"I care not!\" declared the fork, \"I am thirsty, and I must try to drink soup!\" Each day, the cook would use the fork to spear meat, or lift beans, or hold steady a pie. But all the while the fork thought only of soup, and it grew ever thirstier.",
       "So it came to pass that the fork thought, \"If I am to drink soup, I must get to the soup bowl when it is full.\" The next time the drawer was opened, the fork contrived to slip out and hide beneath a dishcloth on the counter. Alas, a ginger cat belonging to the cook saw the dishcloth wiggle, and it pounced and batted the fork onto the floor. The fork clattered loudly and landed near the nose of a sleepy dog under the table. The dog opened one eye, sniffed the fork with great interest, and then, finding it not to his taste, licked it with his great tongue. \"Verily, this is not soup!\" cried the fork, \"This is not the wetness I desire at all!\" Then the cook's youngest child, who was crawling by, spied the shiny thing upon the floor. The child picked it up, banged it merrily upon the leg of a stool, and then carried it out into the garden. There, the child dropped the fork among the cabbages and soon forgot all about it. \"Alas,\" thought the fork, \"Never shall I taste soup now, here amongst these dry leaves!\"",

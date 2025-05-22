@@ -113,7 +113,7 @@ body {
 <div class="chapter"><span class="sentence" data-index="41"><span class="word">Her</span> <span class="word">mother</span> <span class="word">was</span> <span class="word">amazed</span> <span class="word">to</span> <span class="word">see</span> <span class="word">her</span> <span class="word">return</span> <span class="word">so</span> <span class="word">soon</span> <span class="word">with</span> <span class="word">the</span> <span class="word">jar</span> <span class="word">full.</span> </span></div>
 <div class="chapter"><span class="sentence" data-index="42"><span class="word">From</span> <span class="word">that</span> <span class="word">day</span> <span class="word">on,</span> <span class="word">whenever</span> <span class="word">Lina</span> <span class="word">went</span> <span class="word">to</span> <span class="word">fetch</span> <span class="word">water,</span> <span class="word">the</span> <span class="word">jar</span> <span class="word">never</span> <span class="word">felt</span> <span class="word">heavy,</span> <span class="word">and</span> <span class="word">there</span> <span class="word">was</span> <span class="word">always</span> <span class="word">enough</span> <span class="word">for</span> <span class="word">whoever</span> <span class="word">asked</span> <span class="word">kindly</span> <span class="word">along</span> <span class="word">the</span> <span class="word">way.</span> </span></div>
 
-    </div>
+    <div id="copy-json-container" style="text-align:center;margin:20px 0;"></div></div>
     <div class="analysis">
         <p><strong>Plot Function:</strong> <span id="plot-function"></span></p>
         <p><strong>Grimm Style:</strong> <span id="grimm-style"></span></p>
@@ -146,6 +146,70 @@ document.querySelectorAll('.sentence').forEach(function(el) {
 if (analysisData.length > 0) {
     selectSentence(0);
 }
+// Add Copy JSON to Clipboard button if .code.json file exists in the same directory
+(function() {
+    // Get the current HTML file name (without extension)
+    var htmlFile = location.pathname.split('/').pop();
+    var baseName = htmlFile.replace(/\.html$/, '');
+    baseName = baseName.replace(/_/g, ' ');
+    var jsonFile = baseName + '.code.json';
+    // Try to fetch the .code.json file
+    fetch(jsonFile)
+        .then(function(response) {
+            if (!response.ok) throw new Error('No code.json');
+            return response.text();
+        })
+        .then(function(jsonText) {
+            // Create the button
+            var btn = document.createElement('button');
+            btn.textContent = 'Copy JSON to Clipboard';
+            btn.style.margin = '10px auto';
+            btn.style.display = 'inline-block';
+            btn.onclick = function() {
+                navigator.clipboard.writeText(jsonText).then(function() {
+                    btn.textContent = 'Copied!';
+                    setTimeout(function() { btn.textContent = 'Copy JSON to Clipboard'; }, 1500);
+                }, function() {
+                    btn.textContent = 'Copy Failed!';
+                    setTimeout(function() { btn.textContent = 'Copy JSON to Clipboard'; }, 1500);
+                });
+            };
+            document.getElementById('copy-json-container').appendChild(btn);
+        })
+        .catch(function() {
+            // No .code.json file found, do nothing
+        });
+})();
+(function() {
+    // Get the current HTML file name (without extension)
+    var htmlFile = location.pathname.split('/').pop();
+    var baseName = htmlFile.replace(/\.html$/, '');
+    baseName = baseName.replace(/_/g, ' ');
+    var jsonFile = baseName + '.code.json';
+    fetch(jsonFile)
+        .then(function(response) {
+            if (!response.ok) throw new Error('No code.json');
+            return response.text();
+        })
+        .then(function(jsonText) {
+            var btn2 = document.createElement('button');
+            btn2.textContent = 'Copy & Annotate';
+            btn2.style.margin = '10px auto 10px 10px';
+            btn2.style.display = 'inline-block';
+            btn2.onclick = function() {
+                navigator.clipboard.writeText(jsonText).then(function() {
+                    btn2.textContent = 'Copied!';
+                    setTimeout(function() { btn2.textContent = 'Copy & Annotate'; }, 1500);
+                    window.open('https://derdydancer.github.io/story-annotator-pro/', '_blank');
+                }, function() {
+                    btn2.textContent = 'Copy Failed!';
+                    setTimeout(function() { btn2.textContent = 'Copy & Annotate'; }, 1500);
+                });
+            };
+            document.getElementById('copy-json-container').appendChild(btn2);
+        })
+        .catch(function() { });
+})();
 </script>
 </body>
 </html>

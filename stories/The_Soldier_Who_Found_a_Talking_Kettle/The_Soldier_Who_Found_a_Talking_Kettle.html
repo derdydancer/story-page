@@ -100,7 +100,7 @@ body {
 <div class="chapter"><span class="sentence" data-index="98"><span class="word">&quot;Keep</span> <span class="word">your</span> <span class="word">gold,&quot;</span> <span class="word">Friedrich</span> <span class="word">said.</span> </span><span class="sentence" data-index="99"><span class="word">&quot;But</span> <span class="word">if</span> <span class="word">you</span> <span class="word">pass</span> <span class="word">this</span> <span class="word">way</span> <span class="word">again,</span> <span class="word">perhaps</span> <span class="word">bring</span> <span class="word">some</span> <span class="word">tea</span> <span class="word">leaves?</span> </span><span class="sentence" data-index="100"><span class="word">My</span> <span class="word">kettle</span> <span class="word">has</span> <span class="word">a</span> <span class="word">fondness</span> <span class="word">for</span> <span class="word">a</span> <span class="word">good</span> <span class="word">brew.&quot;</span> </span></div>
 <div class="chapter"><span class="sentence" data-index="101"><span class="word">Friedrich</span> <span class="word">lived</span> <span class="word">out</span> <span class="word">his</span> <span class="word">days</span> <span class="word">in</span> <span class="word">the</span> <span class="word">quiet</span> <span class="word">forest,</span> <span class="word">a</span> <span class="word">soldier</span> <span class="word">who</span> <span class="word">sought</span> <span class="word">danger</span> <span class="word">but</span> <span class="word">found</span> <span class="word">peace</span> <span class="word">in</span> <span class="word">the</span> <span class="word">company</span> <span class="word">of</span> <span class="word">a</span> <span class="word">talking</span> <span class="word">kettle.</span> </span><span class="sentence" data-index="102"><span class="word">His</span> <span class="word">sword</span> <span class="word">rusted</span> <span class="word">by</span> <span class="word">the</span> <span class="word">hearth,</span> <span class="word">but</span> <span class="word">his</span> <span class="word">kettle</span> <span class="word">gleamed</span> <span class="word">brightly,</span> <span class="word">always</span> <span class="word">ready</span> <span class="word">with</span> <span class="word">a</span> <span class="word">warm</span> <span class="word">coal</span> <span class="word">and</span> <span class="word">a</span> <span class="word">wise</span> <span class="word">word.</span> </span></div>
 
-    </div>
+    <div id="copy-json-container" style="text-align:center;margin:20px 0;"></div></div>
     <div class="analysis">
         <p><strong>Plot Function:</strong> <span id="plot-function"></span></p>
         <p><strong>Grimm Style:</strong> <span id="grimm-style"></span></p>
@@ -133,6 +133,70 @@ document.querySelectorAll('.sentence').forEach(function(el) {
 if (analysisData.length > 0) {
     selectSentence(0);
 }
+// Add Copy JSON to Clipboard button if .code.json file exists in the same directory
+(function() {
+    // Get the current HTML file name (without extension)
+    var htmlFile = location.pathname.split('/').pop();
+    var baseName = htmlFile.replace(/\.html$/, '');
+    baseName = baseName.replace(/_/g, ' ');
+    var jsonFile = baseName + '.code.json';
+    // Try to fetch the .code.json file
+    fetch(jsonFile)
+        .then(function(response) {
+            if (!response.ok) throw new Error('No code.json');
+            return response.text();
+        })
+        .then(function(jsonText) {
+            // Create the button
+            var btn = document.createElement('button');
+            btn.textContent = 'Copy JSON to Clipboard';
+            btn.style.margin = '10px auto';
+            btn.style.display = 'inline-block';
+            btn.onclick = function() {
+                navigator.clipboard.writeText(jsonText).then(function() {
+                    btn.textContent = 'Copied!';
+                    setTimeout(function() { btn.textContent = 'Copy JSON to Clipboard'; }, 1500);
+                }, function() {
+                    btn.textContent = 'Copy Failed!';
+                    setTimeout(function() { btn.textContent = 'Copy JSON to Clipboard'; }, 1500);
+                });
+            };
+            document.getElementById('copy-json-container').appendChild(btn);
+        })
+        .catch(function() {
+            // No .code.json file found, do nothing
+        });
+})();
+(function() {
+    // Get the current HTML file name (without extension)
+    var htmlFile = location.pathname.split('/').pop();
+    var baseName = htmlFile.replace(/\.html$/, '');
+    baseName = baseName.replace(/_/g, ' ');
+    var jsonFile = baseName + '.code.json';
+    fetch(jsonFile)
+        .then(function(response) {
+            if (!response.ok) throw new Error('No code.json');
+            return response.text();
+        })
+        .then(function(jsonText) {
+            var btn2 = document.createElement('button');
+            btn2.textContent = 'Copy & Annotate';
+            btn2.style.margin = '10px auto 10px 10px';
+            btn2.style.display = 'inline-block';
+            btn2.onclick = function() {
+                navigator.clipboard.writeText(jsonText).then(function() {
+                    btn2.textContent = 'Copied!';
+                    setTimeout(function() { btn2.textContent = 'Copy & Annotate'; }, 1500);
+                    window.open('https://derdydancer.github.io/story-annotator-pro/', '_blank');
+                }, function() {
+                    btn2.textContent = 'Copy Failed!';
+                    setTimeout(function() { btn2.textContent = 'Copy & Annotate'; }, 1500);
+                });
+            };
+            document.getElementById('copy-json-container').appendChild(btn2);
+        })
+        .catch(function() { });
+})();
 </script>
 </body>
 </html>

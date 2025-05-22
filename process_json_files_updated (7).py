@@ -287,28 +287,96 @@ for file in files:
     # Generate analysis data JSON
     analysis_data_json = json.dumps(analysis)
 
+    # Add the copy-json-container div at the end of the story div
+    chapters_html += '<div id="copy-json-container" style="text-align:center;margin:20px 0;"></div>'
+    # Escape curly braces in COPY_JSON_SCRIPT for .format()
+    COPY_JSON_SCRIPT = '''// Add Copy JSON to Clipboard button if .code.json file exists in the same directory
+(function() {
+    var htmlFile = location.pathname.split('/').pop();
+    var baseName = htmlFile.replace(/\.html$/, '');
+    var jsonFile = baseName + '.code.json';
+    fetch(jsonFile)
+        .then(function(response) {
+            if (!response.ok) throw new Error('No code.json');
+            return response.text();
+        })
+        .then(function(jsonText) {
+            var btn = document.createElement('button');
+            btn.textContent = 'Copy JSON to Clipboard';
+            btn.style.margin = '10px auto';
+            btn.style.display = 'inline-block';
+            btn.onclick = function() {
+                navigator.clipboard.writeText(jsonText).then(function() {
+                    btn.textContent = 'Copied!';
+                    setTimeout(function() { btn.textContent = 'Copy JSON to Clipboard'; }, 1500);
+                }, function() {
+                    btn.textContent = 'Copy Failed!';
+                    setTimeout(function() { btn.textContent = 'Copy JSON to Clipboard'; }, 1500);
+                });
+            };
+            document.getElementById('copy-json-container').appendChild(btn);
+        })
+        .catch(function() { });
+})();
+(function() {
+    var htmlFile = location.pathname.split('/').pop();
+    var baseName = htmlFile.replace(/\.html$/, '');
+    var jsonFile = baseName + '.code.json';
+    fetch(jsonFile)
+        .then(function(response) {
+            if (!response.ok) throw new Error('No code.json');
+            return response.text();
+        })
+        .then(function(jsonText) {
+            var btn2 = document.createElement('button');
+            btn2.textContent = 'Copy & Annotate';
+            btn2.style.margin = '10px auto 10px 10px';
+            btn2.style.display = 'inline-block';
+            btn2.onclick = function() {
+                navigator.clipboard.writeText(jsonText).then(function() {
+                    btn2.textContent = 'Copied!';
+                    setTimeout(function() { btn2.textContent = 'Copy & Annotate'; }, 1500);
+                    window.open('https://derdydancer.github.io/story-annotator-pro/', '_blank');
+                }, function() {
+                    btn2.textContent = 'Copy Failed!';
+                    setTimeout(function() { btn2.textContent = 'Copy & Annotate'; }, 1500);
+                });
+            };
+            document.getElementById('copy-json-container').appendChild(btn2);
+        })
+        .catch(function() { });
+})();'''
+
     # Write story HTML file
     with open(html_filename, 'w', errors='replace') as f:
-        f.write(story_html_dynamic.format(
+        html_out = story_html_dynamic.format(
             title=html.escape(title),
             audio_html=audio_html,
             chapters_html=chapters_html,
             analysis_data_json=analysis_data_json
-        ))
+        )
+        # Insert the script before </script>
+        html_out = html_out.replace('</script>', COPY_JSON_SCRIPT + '\n</script>')
+        f.write(html_out)
     
     file_number = os.path.basename(file).split('.')[0].replace('code', '')
 
-    # Create processed directory if it doesn't exist
-    processed_dir = os.path.join(os.getcwd(), 'processed code')
-    if not os.path.exists(processed_dir):
-        os.makedirs(processed_dir)
+    # Move the processed code file and prompt file to the story folder, renaming them
+    code_json_filename = os.path.join(folder_path, safe_title + '.code.json')
+    prompt_txt_filename = os.path.join(folder_path, safe_title + '.txt.prompt')
 
-    # Move the file to the processed directory
-    print(f'code{file_number}.txt')
-    shutil.move(file, os.path.join(processed_dir, f'code{file_number}.txt'))
+    # Write the JSON data to .code.json in the story folder
+    with open(code_json_filename, 'w', encoding='utf-8') as f_json:
+        json.dump(data, f_json, ensure_ascii=False, indent=2)
+    
+    # Move the original .txt file as .txt.prompt (if it exists)
     file_prompt = file.rsplit('.', 1)[0] + " (prompt used).txt"
     if os.path.exists(file_prompt):
-        shutil.move(file_prompt, os.path.join(processed_dir, f'code{file_number} (prompt used).txt'))
+        shutil.move(file_prompt, prompt_txt_filename)
+        
+    #Delete the original .txt file
+    if os.path.exists(file):
+        os.remove(file)
 
 # For directories formats, seeds: read their contents and write each file's relative path (only files directly in the directory, not subdirectories) to contents.txt in their folder
 for special_dir in ['formats', 'seeds']:
