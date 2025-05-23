@@ -1,0 +1,121 @@
+{
+  "type": "object",
+  "properties": {
+    "Overall Artstyle": {
+      "type": "string"
+    },
+    "Characters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Character Names/Aliases": {
+            "type": "string"
+          },
+          "Age (exact)": {
+            "type": "string"
+          },
+          "Hairstyle (exakt)": {
+            "type": "string"
+          },
+          "Outfits": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "Visual description (detailed)": {
+                  "type": "string"
+                },
+                "Worn in chapters": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Visual description (detailed)",
+                "Worn in chapters"
+              ]
+            }
+          },
+          "Build (exact)": {
+            "type": "string"
+          },
+          "Facial features (exact)": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "Character Names/Aliases",
+          "Age (exact)",
+          "Hairstyle (exakt)",
+          "Outfits",
+          "Build (exact)",
+          "Facial features (exact)"
+        ]
+      }
+    },
+    "Locations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Description": {
+            "type": "string"
+          },
+          "List of props present": {
+            "type": "string"
+          },
+          "Architectural style (if any)": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "Description",
+          "List of props present"
+        ]
+      }
+    },
+    "Chapter Images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Chapter Number": {
+            "type": "string"
+          },
+          "Characters in image": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "Character": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "Location": {
+            "type": "string"
+          },
+          "Perspective": {
+            "type": "string"
+          },
+          "Prompt to generate Image for Chapter": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "Chapter Number",
+          "Location",
+          "Perspective",
+          "Prompt to generate Image for Chapter"
+        ]
+      }
+    }
+    
+  },
+  "required": [
+    "Characters",
+    "Locations",
+    "Chapter Images"
+  ]
+}

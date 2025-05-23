@@ -1,0 +1,562 @@
+{
+  "Chapter Images": [
+    {
+      "Chapter Number": "1",
+      "Location": "Royal Palace courtyard",
+      "Perspective": "",
+      "Characters in image": [{"Character": "King Peter"}, {"Character": "Queen Anna"}, {"Character": "Elder Prince (child)"}, {"Character": "Younger Prince (child)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "2",
+      "Location": "Palace Gardens",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Queen Anna"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "3",
+      "Location": "Royal Court",
+      "Perspective": "",
+      "Characters in image": [{"Character": "King Peter"}, {"Character": "Queen Anna"}, {"Character": "Royal Physicians"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "4",
+      "Location": "Queen's Chambers (Anna's)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Queen Anna"}, {"Character": "Old Serving Woman"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "5",
+      "Location": "King's Study",
+      "Perspective": "",
+      "Characters in image": [{"Character": "King Peter"}, {"Character": "Queen Anna"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "6",
+      "Location": "Grand Council Chamber",
+      "Perspective": "",
+      "Characters in image": [{"Character": "King Peter"}, {"Character": "Queen Anna"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "7",
+      "Location": "Shore / Quay",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Queen Anna"}, {"Character": "King Peter"}, {"Character": "Elder Prince (child)"}, {"Character": "Younger Prince (child)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "8",
+      "Location": "Desolate Shore",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Queen Anna"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "9",
+      "Location": "Black Tower",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Queen Anna"}, {"Character": "Sorcerer"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "10",
+      "Location": "Black Tower",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Queen Anna"}, {"Character": "Sorcerer"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "11",
+      "Location": "Shore / Quay",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Queen Anna"}, {"Character": "King Peter"}, {"Character": "Elder Prince (child)"}, {"Character": "Younger Prince (child)"}, {"Character": "Courtier"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "12",
+      "Location": "Queen's Chambers (Anna's)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Queen Anna"}, {"Character": "King Peter"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "13",
+      "Location": "Castle Attics",
+      "Perspective": "",
+      "Characters in image": [{"Character": "King Peter"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "14",
+      "Location": "Castle Attics",
+      "Perspective": "",
+      "Characters in image": [{"Character": "King Peter"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "15",
+      "Location": "Castle Attics",
+      "Perspective": "",
+      "Characters in image": [{"Character": "King Peter"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "16",
+      "Location": "West Wing Chambers (Anna's initial confinement)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Queen Anna"}, {"Character": "Elder Prince (youth)"}, {"Character": "Younger Prince (youth)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "17",
+      "Location": "Royal Palace / Secluded Tower (Anna's final confinement)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "King Peter"}, {"Character": "Queen Petra"}, {"Character": "Queen Anna"}, {"Character": "Elder Prince (young man)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "18",
+      "Location": "Secluded Tower (Anna's final confinement)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Queen Anna"}, {"Character": "Elder Prince (young man)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "19",
+      "Location": "Royal Preserve (Moon-dappled Glade)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}, {"Character": "Bard / Wild Man of the Preserve / Grove-King"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "20",
+      "Location": "Royal Preserve",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "21",
+      "Location": "Royal Preserve",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "22",
+      "Location": "Royal Preserve",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "23",
+      "Location": "Royal Preserve (Moon-dappled Glade)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}, {"Character": "Bard / Wild Man of the Preserve / Grove-King"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "24",
+      "Location": "Castle Attics",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "25",
+      "Location": "Castle Attics",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}, {"Character": "Queen Anna (in vision)"}, {"Character": "Sorcerer (in vision)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "26",
+      "Location": "King's Study",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}, {"Character": "King Peter"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "27",
+      "Location": "Armory",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}, {"Character": "Younger Prince (young man)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "28",
+      "Location": "Solar (Queen Petra's)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}, {"Character": "Younger Prince (young man)"}, {"Character": "Queen Petra"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "29",
+      "Location": "Secluded Tower (Anna's final confinement)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}, {"Character": "Queen Anna"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "30",
+      "Location": "Secluded Tower (Anna's final confinement)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}, {"Character": "Queen Anna"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "31",
+      "Location": "Secluded Tower (Anna's final confinement)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}, {"Character": "Queen Anna"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "32",
+      "Location": "Royal Preserve",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "33",
+      "Location": "Royal Preserve (Sacred Grove)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "34",
+      "Location": "Royal Preserve (Sacred Grove)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}, {"Character": "Princess Cut-a-tree-na-na"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "35",
+      "Location": "Royal Preserve (Sacred Grove)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "36",
+      "Location": "Royal Preserve (Sacred Grove)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "37",
+      "Location": "Royal Preserve (Sacred Grove)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "38",
+      "Location": "Royal Preserve (Sacred Grove)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}, {"Character": "Princess Cut-a-tree-na-na"}, {"Character": "Bard / Wild Man of the Preserve / Grove-King"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "39",
+      "Location": "Royal Preserve (Sacred Grove)",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}, {"Character": "Princess Cut-a-tree-na-na"}, {"Character": "Bard / Wild Man of the Preserve / Grove-King"}],
+      "Prompt builder": ""
+    },
+    {
+      "Chapter Number": "40",
+      "Location": "The Kingdom / Royal Preserve",
+      "Perspective": "",
+      "Characters in image": [{"Character": "Elder Prince (young man)"}, {"Character": "Princess Cut-a-tree-na-na"}, {"Character": "Younger Prince (young man)"}],
+      "Prompt builder": ""
+    }
+  ],
+  "Characters": [
+    {
+      "Age (exact)": "Mid-forties at start, aging to late sixties, face deeply lined with sorrow.",
+      "Build (exact)": "Stands 6 feet tall, broad-shouldered, becomes slightly stooped with sorrow.",
+      "Character Names/Aliases": "King / King Peter",
+      "Facial features (exact)": "Square jaw, deep-set grey eyes under heavy brows, initially a ruddy complexion that pales with worry; a neatly trimmed brown beard that greys to white over time.",
+      "Hairstyle (exakt)": "Shoulder-length brown hair, later mostly white, often held back by a thin gold circlet with a single inset sapphire.",
+      "Outfits": [
+        {
+          "Visual description (detailed)": "Royal robes of deep sapphire blue velvet, the edges embroidered with gold thread in intricate patterns of sunbursts and oak leaves, worn over a cream-colored fine linen tunic. A heavy gold chain of office with a lion-head pendant rests on his chest.",
+          "Worn in chapters": "1, 3, 5, 6, 11, 12, 13, 14, 15, 16, 17, 26, 28 (implied)"
+        },
+        {
+          "Visual description (detailed)": "Private attire: A simple dark wool doublet of forest green, high-necked, fastened with five plain polished silver buttons, worn with dark brown trousers of sturdy twill.",
+          "Worn in chapters": "5, 12, 13, 14, 15, 26"
+        }
+      ]
+    },
+    {
+      "Age (exact)": "Early thirties at start, appears mid-fifties in confinement, frail in her late sixties.",
+      "Build (exact)": "Stands 5 feet 7 inches, slender, willowy frame which becomes gaunt and fragile over time.",
+      "Character Names/Aliases": "Queen / Queen Anna / Old Queen Anna",
+      "Facial features (exact)": "Oval face, large expressive hazel eyes that lose their sparkle and become shadowed, a delicate, straight nose, lips that thin with persistent sadness. Her skin is like pale ivory, later almost translucent.",
+      "Hairstyle (exakt)": "Long, wavy auburn hair, initially worn in elaborate updos secured with pearl-tipped pins, later hangs loose and unadorned, streaked with dull grey strands.",
+      "Outfits": [
+        {
+          "Visual description (detailed)": "Royal Gown (early chapters): A flowing gown of sea-foam green silk, with wide, dagged sleeves lined with cream satin, and a silver girdle intricately worked with moonstones.",
+          "Worn in chapters": "1, 2, 3, 4, 5, 6"
+        },
+        {
+          "Visual description (detailed)": "Travelling Clothes: A practical, hooded cloak of dark grey, heavy wool, fastened with a simple bronze clasp, worn over a simple calf-length tunic of undyed, coarse linen and sturdy, dark brown leather boots laced to mid-calf.",
+          "Worn in chapters": "7, 8, 9, 10"
+        },
+        {
+          "Visual description (detailed)": "Return Gown: A gown of bright golden yellow damask, with intricate gold thread embroidery in a motif of intertwined roses and thorns at the wide neckline and cuffs.",
+          "Worn in chapters": "11"
+        },
+        {
+          "Visual description (detailed)": "Confinement Attire: A loose-fitting, high-necked gown of faded lavender-grey linen, devoid of any adornment, the fabric thin from wear.",
+          "Worn in chapters": "12, 16, 17, 18, 29, 30, 31"
+        }
+      ]
+    },
+    {
+      "Age (exact)": "Around ten years old at start, grows into a young man of early twenties.",
+      "Build (exact)": "Average height as a child, grows to 5 feet 11 inches, with a lean and athletic physique.",
+      "Character Names/Aliases": "Elder Prince",
+      "Facial features (exact)": "A high forehead suggesting thoughtfulness, keen, intelligent brown eyes, a defined jawline. Develops a quiet strength and resolute expression as he matures.",
+      "Hairstyle (exakt)": "Dark brown, wavy hair, kept neatly trimmed as a child, slightly longer and often tucked behind his ears as a young man.",
+      "Outfits": [
+        {
+          "Visual description (detailed)": "Princely Attire (child/youth): A tunic of forest green wool, reaching mid-thigh, belted with a tooled brown leather belt with a simple brass buckle, worn with dark grey hose and soft, ankle-high leather shoes.",
+          "Worn in chapters": "1, 7, 11, 16"
+        },
+        {
+          "Visual description (detailed)": "Preserve Attire: A close-fitting jerkin of dark brown, almost black, rough-spun wool over a dark grey linen shirt, faded brown breeches tucked into scuffed, knee-high dark leather boots. A small, plain steel hunting knife with a smooth wooden handle is sheathed in a leather scabbard at his belt.",
+          "Worn in chapters": "18, 19, 20, 21, 22"
+        },
+        {
+          "Visual description (detailed)": "Mature Princely Attire: A tailored doublet of deep crimson brocade patterned with small, repeating silver falcons, fastened with five silver clasps, over a fine white linen shirt with ruffled cuffs, dark grey fitted trousers, and polished black riding boots.",
+          "Worn in chapters": "23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40"
+        }
+      ]
+    },
+    {
+      "Age (exact)": "Around eight years old at start, grows into a young man in his late teens/early twenties.",
+      "Build (exact)": "Slender as a child, develops a muscular, agile build from sword practice, standing around 5 feet 10 inches.",
+      "Character Names/Aliases": "Younger Prince",
+      "Facial features (exact)": "Quiet, watchful dark blue eyes, a firm mouth, often carries a solemn or observant expression. His complexion is fair.",
+      "Hairstyle (exakt)": "Straight, dark blond hair, cut short and practical, often falling slightly over his brow.",
+      "Outfits": [
+        {
+          "Visual description (detailed)": "Princely Attire (child/youth): A tunic of sky blue linen, with simple white cord embroidery at the V-neck collar and cuffs, belted with a woven blue and silver cord.",
+          "Worn in chapters": "1, 7, 11, 16"
+        },
+        {
+          "Visual description (detailed)": "Armory/Later Attire: A plain, dark brown leather jerkin, worn open over a sturdy, cream-colored linen shirt, practical dark grey trousers, and well-worn, calf-high leather boots. Often seen with a simple steel arming sword with a leather-wrapped grip and a plain cross-guard, either in hand or sheathed at his hip.",
+          "Worn in chapters": "18 (implied overhearing), 27, 28, 40"
+        }
+      ]
+    },
+    {
+      "Age (exact)": "Ageless, appears ancient and beyond human years.",
+      "Build (exact)": "Tall, standing over 6 feet 2 inches, with an unnaturally thin, almost skeletal figure beneath his robes.",
+      "Character Names/Aliases": "Sorcerer",
+      "Facial features (exact)": "Completely obscured by a deep, pointed hood that falls far forward, except for two piercing, icy-blue eyes that seem to glow faintly in the dimness. The skin on his visible long-fingered hands is paper-thin, like old parchment, stretched tautly over prominent knuckles, with nails that are yellowed and overly long, slightly curved.",
+      "Hairstyle (exakt)": "Entirely concealed by the deep hood.",
+      "Outfits": [
+        {
+          "Visual description (detailed)": "Long, voluminous robes of a fabric that seems to shift in color between darkest charcoal grey and an oily black, with no visible seams, buttons, or adornment. The sleeves are wide and trail to the floor, and the deep cowl casts his face in permanent, impenetrable shadow.",
+          "Worn in chapters": "9, 10, 15 (in vision), 25 (in vision)"
+        }
+      ]
+    },
+    {
+      "Age (exact)": "Appears in her late seventies, with many years of service.",
+      "Build (exact)": "Stooped from age and work, thin frame, standing about 5 feet 2 inches.",
+      "Character Names/Aliases": "Old Serving Woman",
+      "Facial features (exact)": "Face is a network of fine wrinkles like dried parchment, kind but worried eyes of faded hazel-brown, a few wisps of thin white hair escaping her cap. Her lips are often pursed with concern.",
+      "Hairstyle (exakt)": "Mostly white hair, sparse and fine, pulled back into a tight, small bun at the nape of her neck, almost entirely covered by a simple, clean white linen coif tied under her chin.",
+      "Outfits": [
+        {
+          "Visual description (detailed)": "A long-sleeved, ankle-length dress of coarse, dark brown wool, somewhat faded and worn at the elbows and hem. Over this, she wears a clean but carefully patched linen apron of a faded blue, tied around her waist with a simple cord.",
+          "Worn in chapters": "4"
+        }
+      ]
+    },
+    {
+      "Age (exact)": "Appears mid-fifties as Bard; his age seems indeterminate and ancient as Wild Man and Grove-King.",
+      "Build (exact)": "As Bard: average height, about 5 feet 9 inches, with a wiry frame. As Wild Man/Grove-King: seems taller, more imposing, around 6 feet, with a surprisingly strong build.",
+      "Character Names/Aliases": "Bard / Wild Man of the Preserve / Grove-King / Cut-a-tree-na-na's father",
+      "Facial features (exact)": "As Bard: keen, observant grey eyes with prominent laugh lines at the corners, weathered skin tanned from travel, a slightly crooked nose. As Wild Man: face mostly hidden by tangled hair and beard, but his eyes are visible, like polished grey river stones, unblinking. As Grove-King: a noble, serene face, deeply wise grey eyes that hold a gentle light, skin has a faint, fine texture reminiscent of smooth tree bark.",
+      "Hairstyle (exakt)": "As Bard: grey-streaked dark brown hair, medium length, somewhat untidy and windblown. As Wild Man: long, matted dark brown hair and a full beard interwoven with small twigs, dried leaves, and moss. As Grove-King: flowing silver-grey hair reaching his shoulders and a neatly trimmed beard of the same color, with a simple crown of woven living ivy leaves with tiny, star-like white flowers intertwined.",
+      "Outfits": [
+        {
+          "Visual description (detailed)": "As Bard: A knee-length cloak made of many mismatched, overlapping patches of faded wool in earthy tones (moss green, russet brown, ochre yellow, faded blue), stitched with thick, visible thread. Worn over a simple brown linen tunic and dark trousers. Carries a dark wood lute with a rounded body, its strings worn, and small mother-of-pearl dots inlaid around the soundhole.",
+          "Worn in chapters": "12 (mentioned), 16 (mentioned), 37 (melodies recalled), 38 (revealed)"
+        },
+        {
+          "Visual description (detailed)": "As Wild Man: A roughly fashioned tunic and leggings crudely stitched together from various animal furs (patches of reddish deer hide, soft grey rabbit fur, tawny fox fur) and interwoven with strips of dried leaves and pieces of flexible tree bark.",
+          "Worn in chapters": "19, 20, 21, 22, 23"
+        },
+        {
+          "Visual description (detailed)": "As Grove-King: Robes of a flowing, self-patterned fabric that shifts in color from deep forest green to shimmering silver, like moonlight on wet leaves. The fabric seems to have a texture of fine veins, like a leaf. Wears the crown of woven living ivy leaves.",
+          "Worn in chapters": "38, 39"
+        }
+      ]
+    },
+    {
+      "Age (exact)": "Appears in her late thirties, exuding a calm maturity.",
+      "Build (exact)": "Stands 5 feet 6 inches, with a gentle, somewhat rounded figure suggesting comfort rather than frailty.",
+      "Character Names/Aliases": "Queen Petra / New Queen",
+      "Facial features (exact)": "A calm, kind face with warm, deep-set brown eyes, a soft mouth that often curves into a gentle, understanding smile. Her complexion is fair with a dusting of light freckles across the bridge of her nose and cheeks.",
+      "Hairstyle (exakt)": "Light brown hair, thick and with a slight wave, neatly braided into a single plait that is then coiled at the back of her head, sometimes adorned with a simple dark blue ribbon woven through it.",
+      "Outfits": [
+        {
+          "Visual description (detailed)": "A high-waisted gown of soft, cornflower-blue wool, with long, fitted sleeves that end in a slight point over the hand. The neckline is a simple, rounded scoop. She wears a plain silver circlet, about half an inch wide, in her hair. Her only jewelry is a small, carved wooden pendant in the shape of a dove, hanging from a leather thong.",
+          "Worn in chapters": "17, 28"
+        }
+      ]
+    },
+    {
+      "Age (exact)": "Appears as a young woman of timeless grace, perhaps early twenties in human terms.",
+      "Build (exact)": "Slender and willowy, standing 5 feet 8 inches. She moves with an effortless grace, like a sapling swaying in a gentle breeze.",
+      "Character Names/Aliases": "Princess Cut-a-tree-na-na",
+      "Facial features (exact)": "An oval face of ethereal quality, with large eyes the precise color of clear spring water just after a rain, fringed with long, dark lashes. Her skin seems to possess a faint inner luminosity, like alabaster lit from within. Her lips are naturally rose-tinted, and her expression is one of gentle wisdom and fearless compassion.",
+      "Hairstyle (exakt)": "Very long, dark brown hair, like polished walnut wood, that falls in soft, natural waves almost to her knees. It is unbound and unadorned, save for perhaps a few tiny, star-like wildflowers unknowingly caught in its lengths.",
+      "Outfits": [
+        {
+          "Visual description (detailed)": "A simple, flowing gown made of a fabric that resembles fresh, young leaves, in varying shades of spring green from pale lime to deep emerald. The gown seems to have no visible seams, as if it were grown rather than sewn, and it drapes around her in soft folds, ending at her bare feet.",
+          "Worn in chapters": "33, 34, 35 (watching), 36 (watching), 37 (watching), 38, 39, 40"
+        }
+      ]
+    }
+  ],
+  "Locations": [
+    {
+      "Description": "A sprawling stone castle complex constructed of grey granite blocks. It features a central keep that is three stories high, topped with a single, tall round tower (the King's private tower, an additional two stories). Four shorter, square corner towers, each two stories high with narrow arched windows (one every 10 feet horizontally on each floor), punctuate the main rectangular curtain wall which is 30 feet high. The main gate is a heavy, iron-banded oak double door, 15 feet high, set within a massive rounded archway, and is flanked by two squat, D-shaped guard towers integrated into the wall.",
+      "List of props present": "Heavy, dark red velvet curtains hanging in main halls, often faded and slightly dusty; several polished dark oak tables (rectangular, 8 feet long) and numerous high-backed chairs with carved lion heads on the armrests; multiple wrought iron candelabras, each holding seven thick beeswax candles; large, faded tapestries (10 feet by 15 feet) depicting heroic scenes such as 'The Slaying of the Crimson Gryphon' and 'The Founding of the Kingdom by King Alaric'.",
+      "Name": "Royal Palace",
+      "Architectural style (if any)": "A blend of Norman keep architecture (massive stone walls, rounded arches) with later Gothic elements (taller towers, more refined window tracery in some sections)."
+    },
+    {
+      "Description": "A rectangular walled garden, approximately two acres in size, adjacent to the west wing of the Royal Palace. It is enclosed by a 10-foot high stone wall. Neatly trimmed boxwood hedges, 3 feet high, form intricate knot garden patterns and define pathways around circular rose beds (containing deep red 'King's Ransom', pure white 'Moonbeam', and pale yellow 'Sun's Kiss' roses). A central stone fountain, 8 feet in diameter, depicts three intricately carved stone dolphins spouting water into a wide, shallow basin. Several weathered grey stone benches, their surfaces covered in fine moss, are placed in secluded alcoves formed by yew hedges.",
+      "List of props present": "Numerous rose bushes with vibrant red, white, and yellow blooms; pathways of fine, light grey gravel in intricate patterns; moss-covered grey stone benches with curved backs; the three-dolphin stone fountain with clear water." ,
+      "Name": "Palace Gardens",
+      "Architectural style (if any)": "Formal Renaissance-inspired garden design with symmetrical layouts and sculpted topiary elements."
+    },
+    {
+      "Description": "A circular room, 20 feet in diameter, located within the King's private tower at the top of the central keep. The curved walls are lined from floor to ceiling with tall, dark oak bookshelves crammed with leather-bound volumes. A single, large arched window, 8 feet high, offers a panoramic view of the kingdom. A large, unlit stone fireplace with a carved stone mantelpiece depicting hunting scenes dominates one section of the curved wall.",
+      "List of props present": "A massive, carved oak desk (6 feet long, 3 feet wide) covered with rolled parchments tied with faded red ribbons, several open books bound in dark brown and black leather with faded gold lettering, a tarnished brass astrolabe on a wooden stand, a heavy pewter inkwell with a single white goose quill pen resting beside it, a single tall silver candelabra with three flickering beeswax candles.",
+      "Name": "King's Study",
+      "Architectural style (if any)": "Romanesque tower interior with thick stone walls and deep-set windows, oak paneling on lower walls."
+    },
+    {
+      "Description": "A long, high-ceilinged hall (the Great Hall), 80 feet long and 40 feet wide, with a vaulted timber roof supported by massive oak beams. The floor is made of polished stone flags in alternating dark grey and light cream squares. Tall, narrow stained-glass windows (each 10 feet high, depicting royal crests and stylized mythical beasts like griffins and unicorns) line one long wall, casting shifting patterns of colored light onto the floor. At the far end, a raised dais of three shallow stone steps supports two large, carved oak thrones.",
+      "List of props present": "Two imposing thrones of dark, weathered oak, intricately carved with motifs of lions and eagles, with deep crimson velvet cushions; long banners (6 feet long) hanging from the rafters between the beams, displaying the kingdom's sigil (a golden rampant lion on a deep blue field); several rows of simple, backless wooden benches, each 10 feet long, for courtiers.",
+      "Name": "Royal Court",
+      "Architectural style (if any)": "Early Gothic hall with a high vaulted ceiling, timber hammer-beam roof structure, and lancet-style stained-glass windows."
+    },
+    {
+      "Description": "A suite of two interconnected rooms (a sitting room and a bedchamber) in the main palace keep, each approximately 20 feet square. The sitting room has a large arched window, 6 feet high, with a padded window seat upholstered in faded rose damask, looking out over the Palace Gardens. The walls are hung with pale blue silk tapestries depicting idyllic pastoral scenes of shepherds and shepherdesses.",
+      "List of props present": "In the bedchamber: a four-poster bed of dark oak, draped with embroidered cream linen curtains showing patterns of twining ivy; a polished maplewood dressing table with an oval silver-backed mirror and several small, stoppered crystal perfume bottles; a small, unlit stone fireplace with a simple mantel; a small, heart-shaped silver locket with delicate floral engravings resting on a mahogany bedside table next to a single, unlit beeswax candle in a brass holder.",
+      "Name": "Queen's Chambers (Anna's)",
+      "Architectural style (if any)": "Comfortable Gothic interior with plastered walls, timber-beamed ceilings, and stone window frames."
+    },
+    {
+      "Description": "A rectangular room, 30 feet by 20 feet, with dark oak-paneled walls reaching halfway up, the upper walls plastered and painted a deep wine red. A very long, heavy oak table, 15 feet in length and 4 feet wide, occupies the center of the room, surrounded by twelve high-backed, carved wooden chairs. A large, detailed map of the kingdom, hand-drawn on aged parchment (5 feet by 4 feet), is pinned to one wall with small iron tacks.",
+      "List of props present": "The long oak table with a slightly scarred and ink-stained surface; twelve chairs with seats and backs upholstered in dark green tooled leather, studded with brass nails; a tarnished brass globe, 2 feet in diameter, on a carved wooden stand in one corner; a heavy silver water pitcher and twelve matching silver goblets on a small oak side table.",
+      "Name": "Grand Council Chamber",
+      "Architectural style (if any)": "Manorial Gothic style with wood paneling and a sense of formal gravity."
+    },
+    {
+      "Description": "A vast, low-ceilinged space directly under the castle's main roof, approximately 100 feet long and 60 feet wide, with exposed, rough-hewn wooden support beams thick with grey, trailing cobwebs. Dust motes dance in the few shafts of pale light filtering in from small, round, grimy glass windows set into the sloping roof. The floor is made of bare, uneven, and extremely dusty wooden planks that creak underfoot.",
+      "List of props present": "Stacks of five disused, dented steel shields leaning against a stone support pillar; three large, locked wooden chests bound with rusted iron bands; various pieces of furniture covered in thick white dust sheets (e.g., a tall harp with several broken strings, a child's faded wooden rocking horse with one missing eye); several rolls of faded, moth-eaten tapestries depicting forgotten battles, leaning in a corner; the Magic Mirror: a tall, narrow rectangle of glass (4 feet high, 2 feet wide) that appears as dark and unreflective as polished obsidian, set in a simple, heavily tarnished silver frame, and entirely covered by a heavy, dark purple velvet cloth, also coated in dust.",
+      "Name": "Castle Attics",
+      "Architectural style (if any)": "Utilitarian medieval roof space with rough timber framing and minimal finishing."
+    },
+    {
+      "Description": "A series of three interconnected rooms in a less frequented part of the palace, each about 15 feet square. These rooms receive less direct sunlight due to their northern aspect. Windows are smaller than in the main palace (3 feet high, 2 feet wide) and are barred with simple, vertical iron rods. Furnishings are serviceable but plainer than her original chambers, lacking personal touches.",
+      "List of props present": "A simple wooden bed frame with plain, undyed linen bedding and a single thin woolen blanket; a small, unadorned square wooden table and one matching straight-backed chair; a single, unlit three-branched iron candelabra on the table; bare, plastered walls painted a dull grey.",
+      "Name": "West Wing Chambers (Anna's initial confinement)",
+      "Architectural style (if any)": "Simplified Gothic, functional and somewhat stark."
+    },
+    {
+      "Description": "A solitary, circular stone tower, approximately 15 feet in internal diameter and 50 feet tall, constructed of rough, dark grey stones. It stands at the furthest western edge of the palace grounds, with its few windows directly overlooking the encroaching Dark Forest of Thorns. It has three narrow, slit-like arrow-loop windows, each only 6 inches wide and 2 feet high, set very high in the walls. A single heavy, planked wooden door, reinforced with iron bands and a large iron ring handle, is the only entrance. The interior is one stark, circular room with a cold, uneven flagstone floor and bare stone walls.",
+      "List of props present": "A narrow straw-filled pallet on the stone floor for a bed, covered with a single, thin grey blanket; a small, rough-hewn three-legged wooden stool; a chipped, unglazed clay pitcher containing murky water, resting on the floor; later, a single black thorn, three inches long, sharply pointed and slightly glistening, lying directly on the stone floor between the door and the pallet; the water in the pitcher becomes cloudy and brackish.",
+      "Name": "Secluded Tower (Anna's final confinement)",
+      "Architectural style (if any)": "Austere Romanesque defensive tower, repurposed."
+    },
+    {
+      "Description": "A bright, airy room on an upper floor of the palace, approximately 25 feet by 20 feet, with a large, south-facing bay window composed of many small, leaded panes of clear glass. The walls are plastered and painted a light, cheerful yellow. The floor is covered with a woven rush mat patterned with simple green and brown stripes.",
+      "List of props present": "Three comfortable armchairs upholstered in a floral patterned chintz (roses and bluebells); a small, light-colored maplewood harp with carved floral details on its pillar, leaning against a wall; a low, round oak table strewn with children's wooden toys (e.g., a brightly painted red and blue toy soldier, a roughly carved wooden rabbit, a set of nine wooden building blocks).",
+      "Name": "Solar (Queen Petra's)",
+      "Architectural style (if any)": "Late Gothic domestic interior, designed for light and comfort."
+    },
+    {
+      "Description": "A long, rectangular room (50 feet by 20 feet) located in the castle basement, with rough stone walls and a low, arched ceiling. The air is cool and smells faintly of oil and old leather. The floor is packed earth, heavily scuffed and marked from practice drills.",
+      "List of props present": "Wooden weapon racks lining the walls, holding various steel swords (longswords with cruciform hilts, shorter arming swords), several round and kite-shaped wooden shields with faded painted heraldry, and a few practice blunts; two practice dummies made of straw stuffed into old leather jerkins, mounted on wooden stands; a single long wooden bench against one wall.",
+      "Name": "Armory",
+      "Architectural style (if any)": "Utilitarian Romanesque undercroft or basement."
+    },
+    {
+      "Description": "A realm characterized by rolling green hills, interspersed with small farming villages consisting of timber-framed cottages with steeply pitched, dark brown thatched roofs. Winding dirt roads, often muddy, connect these settlements. Initially, the fields surrounding the villages are golden with ripe wheat or green with young crops; later, these colors become muted, fields appear poorly tended, and a general air of neglect and dimness pervades the landscape.",
+      "List of props present": "Distant views of small villages with thin plumes of grey smoke rising from stone chimneys; fields of wheat (initially golden, later dull brown or greyish) or fallow ground with sparse, weedy growth; a winding dirt road with deep ruts.",
+      "Name": "The Kingdom",
+      "Architectural style (if any)": "Rural medieval European vernacular architecture for villages."
+    },
+    {
+      "Description": "A simple wooden pier, about 50 feet long and 10 feet wide, constructed of weathered grey timbers, extending into a grey, choppy sea. The shoreline itself is a mixture of coarse, dark grey sand and smooth, rounded dark pebbles of various sizes. The air smells of salt and damp wood.",
+      "List of props present": "Thick, weathered wooden pilings supporting the pier, some encrusted with barnacles; several coils of thick, tarred hemp rope lying on the pier deck; a few empty, weathered wooden fish barrels stacked near the shore end of the pier.",
+      "Name": "Shore / Quay",
+      "Architectural style (if any)": "Basic timber pier construction."
+    },
+    {
+      "Description": "A single-masted wooden sailing ship, approximately 60 feet in length from bow to stern, with a beam of 15 feet. It features a raised sterncastle and a smaller forecastle. Its hull is carvel-built and painted a dark, dull blue, showing signs of wear and salt stains. Its single large square sail is made of heavy, patched canvas, a faded tan color.",
+      "List of props present": "Dark, weathered wooden deck planks, visibly worn; thick hemp ropes coiling on deck or running through wooden blocks; a simple wooden ship's wheel at the stern, about 3 feet in diameter; a small, cramped cabin below deck with a narrow wooden bunk built into the hull.",
+      "Name": "Queen's Ship",
+      "Architectural style (if any)": "Fantastical interpretation of a medieval cog or small carrack."
+    },
+    {
+      "Description": "A narrow strip of coarse, black volcanic sand, perhaps 30 feet wide, at the foot of jagged, dark grey cliffs that rise sharply to about 100 feet. The sea here is a tumultuous, dark grey, constantly crashing against sharp, black basaltic rocks that litter the shoreline and extend into the water.",
+      "List of props present": "Black, gritty volcanic sand; sharp, dark grey rocks of varying sizes, some slick with green algae; pieces of driftwood, bleached almost white by sun and salt; a few scattered, sun-bleached bones of seabirds.",
+      "Name": "Desolate Shore",
+      "Architectural style (if any)": "None, a raw and untamed natural volcanic landscape."
+    },
+    {
+      "Description": "A perfectly cylindrical tower constructed of smooth, seamless black stone that seems to absorb light, approximately 100 feet tall and 30 feet in diameter. It has no visible windows or battlements. A single, massive door of charred black wood, 10 feet high and 6 feet wide, deeply set into its base, is the only apparent entrance. The interior is a vast, circular hall, the full diameter of the tower, dimly lit by an unseen, diffuse grey light source. It has a cold, polished black stone floor and walls that curve upwards into shadow, seeming to absorb all sound, creating an oppressive silence.",
+      "List of props present": "A single, unadorned chair made of what appears to be twisted, black, thorn-like wood, placed precisely in the center of the circular hall.",
+      "Name": "Black Tower",
+      "Architectural style (if any)": "Ominous, stark, minimalist dark fantasy architecture, possibly of magical construction due to its seamlessness."
+    },
+    {
+      "Description": "An impenetrable, seemingly endless wall of twisted, gnarled blackish-purple thorny vines and dead-looking, skeletal trees. The thorns are viciously sharp, some as long as a man's finger, and glisten with a faint, oily sheen. The ground beneath this barrier is barren, cracked, dark earth. The forest emits a palpable chill and a faint, sour odor.",
+      "List of props present": "Countless viciously sharp, long black thorns, often hooked; tangled, leafless branches forming a dense lattice; dark, cracked earth with no undergrowth.",
+      "Name": "Dark Forest of Thorns",
+      "Architectural style (if any)": "None, a malevolent, magically-influenced natural growth."
+    },
+    {
+      "Description": "An ancient, sprawling forest with a crumbling, moss-covered dry-stone wall, about 6 feet high in places but often lower or breached, marking its ill-defined boundary. Inside, massive, gnarled oak and beech trees, hundreds of years old, create a dense, shadowy canopy. The air is consistently cool and smells strongly of damp earth, decaying leaves, and fungi. The forest floor is thick with leaf litter. Hidden within are small, sun-dappled glades, winding streams with mossy banks, and rocky defiles where the ground drops away sharply.",
+      "List of props present": "Ancient gnarled oak trees with wide trunks and hollows at their bases; large, moss-covered granite boulders scattered throughout; streams with clear water running over pebbly beds, or in one case, an illusionary uphill flow created by cunningly shaped rocks and channels; a patch of cracked, dry, barren earth near the Dark Forest's edge, about 20 feet square.",
+      "Name": "Royal Preserve",
+      "Architectural style (if any)": "None, an ancient, wild, and minimally disturbed natural temperate forest."
+    },
+    {
+      "Description": "A small, roughly circular clearing within the Royal Preserve, approximately 50 feet across. Moonlight, when present, filters through the high canopy of surrounding ancient trees, creating shifting, dappled patterns of silver light and deep shadow on the mossy ground. A large, flat-topped granite boulder, about 4 feet high and 6 feet across, its surface almost entirely covered in dark green moss, sits near the center of the glade. Beside it stands an immense, ancient oak tree, its bark deeply furrowed and grey, with massive, exposed roots like grasping claws.",
+      "List of props present": "The flat-topped granite boulder covered in dark green, velvety moss; the immense oak tree with deeply furrowed bark and exposed, gnarled roots.",
+      "Name": "Royal Preserve (Moon-dappled Glade)",
+      "Architectural style (if any)": "None, a natural clearing within an old-growth forest."
+    },
+    {
+      "Description": "A perfectly circular grove, perhaps 100 yards in diameter, located in the deepest, most hidden part of the Royal Preserve. It is filled with a soft, warm, golden light that seems to emanate from the air itself or from the flora within. The air is unusually warm and sweet with the scent of unknown, faintly luminescent white and pale blue flowers that grow in clusters on the forest floor. The central feature is a colossal, ancient tree, far larger than any other in the Preserve, with smooth, shimmering silver bark and leaves that constantly shift through all the colors of the rainbow. The ground is covered in soft, vibrant green moss.",
+      "List of props present": "The great silver-barked tree with iridescent, rainbow-hued leaves; clusters of unknown, luminescent white and pale blue flowers; an ancient flat stone tablet (3 feet long by 2 feet wide) of dark grey stone, carved with intricate, swirling, unknown symbols, lying half in shadow, partially covered by a thick, clinging, shadowy vine with dark green, heart-shaped leaves and small, black berries; a dry streambed, about 3 feet wide, and a blockage formed by a massive, moss-covered fallen log (at least 4 feet in diameter) and a jumble of smaller, lichen-covered rocks; a flowering bush with delicate, bell-shaped white flowers and a small, vividly blue-and-gold songbird with dull, listless feathers, perched silently within it.",
+      "Name": "Royal Preserve (Sacred Grove)",
+      "Architectural style (if any)": "None, a magically enhanced, pristine natural sanctuary."
+    }
+  ],
+  "Overall Artstyle": "detailed colorful early 20th century illustration style, reminiscent of Arthur Rackham or Edmund Dulac, with rich textures, soft lighting, and a fantastical yet grounded feel."
+}
