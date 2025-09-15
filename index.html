@@ -14,6 +14,11 @@ h1 {
     text-align: center;
     color: #333;
 }
+h2 {
+    color: #555;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
 ul {
     list-style: none;
     padding: 0;
@@ -32,12 +37,101 @@ a:hover {
     text-decoration: underline;
     color: #add8e6;
 }
+.panel {
+    max-width: 60ch;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.panel h2 {
+    margin-top: 0;
+    color: #333;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.form-group input, .form-group textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.form-group textarea {
+    min-height: 200px;
+    font-family: monospace;
+}
+.btn {
+    background-color: #4682b4;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.btn:hover {
+    background-color: #3a6d9c;
+}
+.btn-secondary {
+    background-color: #6c757d;
+}
+.btn-secondary:hover {
+    background-color: #5a6268;
+}
+.btn-success {
+    background-color: #28a745;
+}
+.btn-success:hover {
+    background-color: #218838;
+}
+.export-btn {
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+}
 </style>
 </head>
 <body>
+<h1>Story Page</h1>
+
+<!-- Story Creation Panel -->
+<div class="panel">
+    <h2>Create New Story</h2>
+    <form id="story-creation-form">
+        <div class="form-group">
+            <label for="story-title">Story Title:</label>
+            <input type="text" id="story-title" name="story-title" required>
+        </div>
+        <div class="form-group">
+            <label for="story-json">Story JSON Data:</label>
+            <textarea id="story-json" name="story-json" placeholder="Paste the complete story JSON data here..." required></textarea>
+        </div>
+        <button type="submit" class="btn">Save Story</button>
+    </form>
+</div>
+
+<!-- Export Button -->
+<div class="export-btn">
+    <button class="btn btn-success" onclick="exportLocalStories()">Export All Local Stories</button>
+</div>
+
 <h1>Tools</h1>
 <ul><li><a href="manus/index.html" target="_blank">Fairy Tale Prompt Builder</a></li></ul>
-<h1>Story Index</h1>
+
+<h1>Local Stories</h1>
+<ul id="local-stories-list">
+    <li>Loading local stories...</li>
+</ul>
+
+<h1>Repository Stories</h1>
 <ul>
 <h2>2025-05-22</h2>
 <li><a href="stories/The_Discarded_Musicians_TEST/The_Discarded_Musicians_TEST.html">The Discarded Musicians TEST</a></li>
@@ -194,5 +288,12 @@ a:hover {
 <li><a href="stories/Iron_John_Grimm/Iron_John_Grimm.html">Iron John Grimm 📝</a></li>
 
 </ul>
+
+<!-- Include JSZip and FileSaver.js for ZIP export functionality -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+
+<!-- Include our custom story tool functionality -->
+<script src="story_tool.js"></script>
 </body>
 </html>
