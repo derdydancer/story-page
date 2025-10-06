@@ -1,0 +1,555 @@
+{
+  "Analysis": [
+    {
+      "Plot Function": "Establishes the 'Ordinary World' and the central problem of the kingdom.",
+      "Grimm Style": "Use of a simple, archetypal comparison ('as round as apples') and a generic setting ('a certain kingdom').",
+      "Moral Implication": "Excess and gluttony affect everyone and have physical consequences.",
+      "Metaphorical/Psychological Meaning": "The kingdom represents a state of being, a soul or society, consumed by a single vice.",
+      "Sentence": "In a certain kingdom, the people grew as round as apples in autumn.",
+      "Chapter Number": 1,
+      "Sentence Number": 1
+    },
+    {
+      "Plot Function": "Introduces the main authority figure and his defining characteristic.",
+      "Grimm Style": "Character is introduced by his function ('The King') with simple, functional adjectives ('good', 'wide').",
+      "Moral Implication": "Even good leaders can be flawed by the prevailing vice.",
+      "Metaphorical/Psychological Meaning": "The King represents the will or leadership of the soul, which is good in intention but corrupted by fleshly desire.",
+      "Sentence": "The King was a good king, but he was also a very wide king.",
+      "Chapter Number": 1,
+      "Sentence Number": 2
+    },
+    {
+      "Plot Function": "Explicitly states the cause and effect of the kingdom's problem.",
+      "Grimm Style": "Use of parataxis, linking clauses with simple conjunctions ('and', 'so') to create a chain of events.",
+      "Moral Implication": "Continuous indulgence leads to decay and the collapse of one's foundation.",
+      "Metaphorical/Psychological Meaning": "The sinking ground symbolizes a loss of stability, a spiritual foundation eroding under the weight of sin.",
+      "Sentence": "Everyone ate all day, and so the very ground began to sink under their weight.",
+      "Chapter Number": 1,
+      "Sentence Number": 3
+    },
+    {
+      "Plot Function": "Illustrates the absurd logic and humor of the afflicted people.",
+      "Grimm Style": "Simple Subject-Verb-Object structure, describing a comical, physical impossibility as a fact.",
+      "Moral Implication": "Gluttony breeds laziness and absurd excuses to avoid effort.",
+      "Metaphorical/Psychological Meaning": "The inability to reach one's own shoes is a metaphor for how sin makes one unable to even begin a spiritual journey.",
+      "Sentence": "A man could not tie his own shoes, for his belly was in the way.",
+      "Chapter Number": 1,
+      "Sentence Number": 4
+    },
+    {
+      "Plot Function": "Introduces the protagonist by his title and relationship.",
+      "Grimm Style": "Use of a generic title ('the Prince') to define the character's role.",
+      "Moral Implication": "Youth or innocence can provide a temporary buffer against pervasive corruption.",
+      "Metaphorical/Psychological Meaning": "The Prince is the last bastion of hope or reason within the corrupted soul, the part that has not yet fully succumbed.",
+      "Sentence": "Only the King's son, the Prince, was still lean.",
+      "Chapter Number": 1,
+      "Sentence Number": 5
+    },
+    {
+      "Plot Function": "Establishes the divine and demonic conflict that underpins the story.",
+      "Grimm Style": "Dialogue is reported simply ('God said to the Devil'), stating intentions clearly.",
+      "Moral Implication": "The fate of humanity is a matter of cosmic concern and spiritual warfare.",
+      "Metaphorical/Psychological Meaning": "The narrative frames the internal struggle against temptation as part of a larger, universal battle between good and evil.",
+      "Sentence": "Up in Heaven, God said to the Devil, 'See that Prince, he will not fall to this gluttony.'",
+      "Chapter Number": 1,
+      "Sentence Number": 6
+    },
+    {
+      "Plot Function": "The antagonist accepts the challenge, setting the main plot in motion.",
+      "Grimm Style": "Direct, functional dialogue with a simple dialogue tag ('the Devil answered').",
+      "Moral Implication": "Evil is arrogant and always believes it can corrupt the good.",
+      "Metaphorical/Psychological Meaning": "The Devil represents the force of temptation, confident in its ability to exploit human weakness.",
+      "Sentence": "And the Devil answered, 'We shall see, for I will tempt him with all the delights of the world.'",
+      "Chapter Number": 1,
+      "Sentence Number": 7
+    },
+    {
+      "Plot Function": "God sets the terms of the spiritual test.",
+      "Grimm Style": "Plainly stated dialogue conveying a divine decree without elaborate language.",
+      "Moral Implication": "Faith is proven through trials, and God allows these tests to occur.",
+      "Metaphorical/Psychological Meaning": "This reflects the concept of free will; the Prince must choose his path, and God will not intervene directly but will allow the test.",
+      "Sentence": "God agreed to the wager, for the Prince's heart was his own to keep or to lose.",
+      "Chapter Number": 1,
+      "Sentence Number": 8
+    },
+    {
+      "Plot Function": "The catalyst for the Prince's journey arrives as a divine prompting.",
+      "Grimm Style": "Describes an internal state simply ('a great sadness') and links it directly to an action.",
+      "Moral Implication": "Spiritual discontent is the first step toward seeking salvation.",
+      "Metaphorical/Psychological Meaning": "The 'sadness' is the call to adventure, a holy dissatisfaction with the sinful 'Ordinary World'.",
+      "Sentence": "Down below, a great sadness fell upon the Prince, so he knew he must leave the castle.",
+      "Chapter Number": 2,
+      "Sentence Number": 9
+    },
+    {
+      "Plot Function": "The King reacts to the Prince's decision, showcasing the kingdom's flawed logic.",
+      "Grimm Style": "Focuses on the external event (the King weeping) rather than the internal experience of his sorrow.",
+      "Moral Implication": "Those consumed by vice cannot understand the need for spiritual change.",
+      "Metaphorical/Psychological Meaning": "The King's reaction is the resistance of the fleshly self to the spirit's desire for purification.",
+      "Sentence": "His father the King wept bitterly.",
+      "Chapter Number": 2,
+      "Sentence Number": 10
+    },
+    {
+      "Plot Function": "The King's dialogue reveals his corrupted priorities.",
+      "Grimm Style": "Simple dialogue tag and direct, functional speech expressing a clear but absurd desire.",
+      "Moral Implication": "Worldly comfort is offered as a foolish alternative to a necessary spiritual quest.",
+      "Metaphorical/Psychological Meaning": "The offer of cake is the temptation of immediate, easy gratification over difficult, meaningful struggle.",
+      "Sentence": "'Do not go, my son,' said the King, 'Stay and have this nice cake with seven layers of cream.'",
+      "Chapter Number": 2,
+      "Sentence Number": 11
+    },
+    {
+      "Plot Function": "The Prince rejects the temptation and states his purpose.",
+      "Grimm Style": "The Prince uses direct address ('dear father') and states his intention plainly.",
+      "Moral Implication": "The path to righteousness requires rejecting the comforts of a corrupt world.",
+      "Metaphorical/Psychological Meaning": "The Prince's refusal is the first active step in his spiritual journey, choosing the unknown path over known indulgence.",
+      "Sentence": "'I cannot, dear father,' said the Prince, 'for my heart is heavy as a stone.'",
+      "Chapter Number": 2,
+      "Sentence Number": 12
+    },
+    {
+      "Plot Function": "The Prince's absurd method of departure, demonstrating the world's cartoon logic.",
+      "Grimm Style": "An impossible action is stated as a simple fact, without explanation.",
+      "Moral Implication": "To escape a corrupt world, one may need to take an unconventional path.",
+      "Metaphorical/Psychological Meaning": "Creating one's own door symbolizes forging a new path where none existed, an act of will and faith.",
+      "Sentence": "He took a piece of chalk and drew a door on the wall, and the door opened for him.",
+      "Chapter Number": 2,
+      "Sentence Number": 13
+    },
+    {
+      "Plot Function": "The Prince physically leaves the old world behind.",
+      "Grimm Style": "Simple, declarative sentence describing a key action without embellishment.",
+      "Moral Implication": "The journey of repentance requires a definitive break from the past.",
+      "Metaphorical/Psychological Meaning": "Stepping through the new door is crossing the threshold from the ordinary world into the world of trials.",
+      "Sentence": "The Prince stepped through the door and onto a long, dusty road.",
+      "Chapter Number": 2,
+      "Sentence Number": 14
+    },
+    {
+      "Plot Function": "The consequence of the Prince's departure within the old world.",
+      "Grimm Style": "States a supernatural or cartoonish event matter-of-factly.",
+      "Moral Implication": "An escape from sin leaves a void that cannot be filled by worldly means.",
+      "Metaphorical/Psychological Meaning": "The door turning back to stone signifies the finality of his decision and the closing of the way back to his old life.",
+      "Sentence": "Behind him, the door turned back into cold stone.",
+      "Chapter Number": 2,
+      "Sentence Number": 15
+    },
+    {
+      "Plot Function": "Begins the journey and introduces the first subtle trial.",
+      "Grimm Style": "Use of a temporal phrase ('After a time') to show the passage of time simply.",
+      "Moral Implication": "Temptation presents itself as an easy, pleasant path.",
+      "Metaphorical/Psychological Meaning": "The forking road is a classic symbol of choice, here between the easy path of indulgence and the hard path of righteousness.",
+      "Sentence": "After a time, the road split in two.",
+      "Chapter Number": 3,
+      "Sentence Number": 16
+    },
+    {
+      "Plot Function": "Describes the first path, representing worldly temptation.",
+      "Grimm Style": "A simple sentence introduces a new element using functional description.",
+      "Moral Implication": "The path of sin is inviting and appears to offer effortless sustenance.",
+      "Metaphorical/Psychological Meaning": "The river of gravy symbolizes worldly pleasures that are unnatural and ultimately unfulfilling.",
+      "Sentence": "One path led to a wide, brown river that smelled of gravy.",
+      "Chapter Number": 3,
+      "Sentence Number": 17
+    },
+    {
+      "Plot Function": "Describes the second path, representing the righteous but difficult way.",
+      "Grimm Style": "Simple, functional adjectives ('narrow', 'stony') are used to describe the setting.",
+      "Moral Implication": "The correct path is often difficult and uninviting.",
+      "Metaphorical/Psychological Meaning": "This directly alludes to the biblical concept of the 'narrow gate' that leads to salvation, which is hard to walk.",
+      "Sentence": "The other path was narrow and stony and went up a steep hill.",
+      "Chapter Number": 3,
+      "Sentence Number": 18
+    },
+    {
+      "Plot Function": "The Prince feels the pull of temptation, a direct result of the Devil's influence.",
+      "Grimm Style": "A physical sensation is stated simply to represent an internal state.",
+      "Moral Implication": "Bodily appetites are the primary tool of temptation.",
+      "Metaphorical/Psychological Meaning": "The stomach's growl is the call of the flesh, the voice of the 'old self' desiring what is easy and pleasurable.",
+      "Sentence": "The Prince's stomach rumbled like thunder.",
+      "Chapter Number": 3,
+      "Sentence Number": 19
+    },
+    {
+      "Plot Function": "The Prince makes his first crucial choice, overcoming temptation.",
+      "Grimm Style": "A compound sentence shows a choice and its immediate consequence (action).",
+      "Moral Implication": "Choosing difficulty over easy indulgence is an act of virtue.",
+      "Metaphorical/Psychological Meaning": "He actively chooses the path of spiritual struggle, rejecting the easy fulfillment of worldly desire.",
+      "Sentence": "But he thought of the sinking kingdom, and he took the stony path up the hill.",
+      "Chapter Number": 3,
+      "Sentence Number": 20
+    },
+    {
+      "Plot Function": "The Prince encounters a helper or guide on his journey.",
+      "Grimm Style": "Introduces an archetypal character ('an old hermit') in a functional setting ('by the side of the road').",
+      "Moral Implication": "Help is found on the difficult path, not the easy one.",
+      "Metaphorical/Psychological Meaning": "The hermit is a spiritual guide, a John the Baptist figure, who lives a life of asceticism and offers true spiritual food.",
+      "Sentence": "At the top of the hill sat an old hermit.",
+      "Chapter Number": 3,
+      "Sentence Number": 21
+    },
+    {
+      "Plot Function": "The helper provides the Prince with the means to continue his journey.",
+      "Grimm Style": "A simple action with a simple object that has symbolic importance.",
+      "Moral Implication": "True sustenance is simple, humble, and must be accepted with gratitude.",
+      "Metaphorical/Psychological Meaning": "The dry bread represents spiritual food (like the Eucharist), which seems plain but provides true strength, unlike the fleeting pleasure of gravy.",
+      "Sentence": "The hermit gave the Prince a single piece of dry bread and a cup of cold water.",
+      "Chapter Number": 3,
+      "Sentence Number": 22
+    },
+    {
+      "Plot Function": "The Prince consumes the 'true food' and experiences its effect.",
+      "Grimm Style": "Simple sequence of actions linked by 'and'.",
+      "Moral Implication": "Accepting spiritual guidance and sustenance satisfies true hunger.",
+      "Metaphorical/Psychological Meaning": "The satisfaction of his hunger is not physical but spiritual; he is strengthened in his resolve.",
+      "Sentence": "The Prince ate the bread and drank the water, and his hunger went away.",
+      "Chapter Number": 3,
+      "Sentence Number": 23
+    },
+    {
+      "Plot Function": "The journey continues, leading to the next trial.",
+      "Grimm Style": "Simple sentence describing travel and arrival at an archetypal location ('a dark wood').",
+      "Moral Implication": "The spiritual path will lead through places of confusion and fear.",
+      "Metaphorical/Psychological Meaning": "The dark wood symbolizes a period of doubt, confusion, or getting lost in the journey of faith.",
+      "Sentence": "He walked on and soon came to a dark wood.",
+      "Chapter Number": 3,
+      "Sentence Number": 24
+    },
+    {
+      "Plot Function": "Presents the second temptation in a cartoonishly absurd form.",
+      "Grimm Style": "A fantastical image is described factually, using simple adjectives and nouns.",
+      "Moral Implication": "Temptation can disguise itself as a miraculous gift, offering pleasure without effort.",
+      "Metaphorical/Psychological Meaning": "The roast chicken trees represent a perversion of nature, where worldly desires grow naturally and are ripe for the picking, a demonic parody of the Garden of Eden.",
+      "Sentence": "In this wood, the trees did not grow leaves, but instead grew hot roasted chickens on every branch.",
+      "Chapter Number": 3,
+      "Sentence Number": 25
+    },
+    {
+      "Plot Function": "The Prince feels the temptation again, showing the persistence of the trial.",
+      "Grimm Style": "A simple statement of physical desire.",
+      "Moral Implication": "The desire for worldly things returns again and again.",
+      "Metaphorical/Psychological Meaning": "His hunger now is not just physical but a longing for the ease and abundance he has renounced.",
+      "Sentence": "A great hunger seized him once more.",
+      "Chapter Number": 3,
+      "Sentence Number": 26
+    },
+    {
+      "Plot Function": "The Prince remembers his purpose and strengthens his resolve.",
+      "Grimm Style": "A simple sentence describing a mental action (remembering) that motivates a physical one.",
+      "Moral Implication": "Remembering the negative consequences of sin helps one resist temptation.",
+      "Metaphorical/Psychological Meaning": "He draws strength not from what lies ahead, but from the memory of the corrupted world he left behind.",
+      "Sentence": "But he remembered the sad, wide face of his father.",
+      "Chapter Number": 3,
+      "Sentence Number": 27
+    },
+    {
+      "Plot Function": "The Prince actively rejects the second temptation.",
+      "Grimm Style": "A compound sentence showing cause (memory) and effect (action).",
+      "Moral Implication": "True strength is shown by walking away from easily obtainable pleasures.",
+      "Metaphorical/Psychological Meaning": "Closing his eyes is a physical act of blocking out temptation, choosing not to see what the world offers.",
+      "Sentence": "So he closed his eyes and walked straight through the wood without touching a single chicken.",
+      "Chapter Number": 3,
+      "Sentence Number": 28
+    },
+    {
+      "Plot Function": "The final stage of the outward journey begins.",
+      "Grimm Style": "The sentence signals a new phase by describing arrival at a final, challenging location.",
+      "Moral Implication": "The ultimate trial often takes place at the highest point, requiring the greatest effort to reach.",
+      "Metaphorical/Psychological Meaning": "The mountain represents the final ascent, the peak of spiritual struggle before enlightenment or confrontation, akin to Mount Sinai or the Mount of Transfiguration.",
+      "Sentence": "At last, the Prince came to the bottom of a great, tall mountain.",
+      "Chapter Number": 4,
+      "Sentence Number": 29
+    },
+    {
+      "Plot Function": "The nature of the final trial is revealed.",
+      "Grimm Style": "A simple declarative sentence stating the challenge with a touch of hyperbole ('no path at all').",
+      "Moral Implication": "The final obstacle may seem utterly impossible to overcome.",
+      "Metaphorical/Psychological Meaning": "The glassy mountain is a classic fairy tale motif for an impossible task, representing a barrier that cannot be overcome by normal human strength.",
+      "Sentence": "The mountain was made of smooth, slippery glass, and there was no path at all.",
+      "Chapter Number": 4,
+      "Sentence Number": 30
+    },
+    {
+      "Plot Function": "The Prince's moment of despair and his turn to faith.",
+      "Grimm Style": "States an emotional state directly ('he grew weary') and is followed by a simple, pious action.",
+      "Moral Implication": "When human effort fails, the only recourse is prayer and humility.",
+      "Metaphorical/Psychological Meaning": "Kneeling is an act of surrender, acknowledging his own weakness and placing his faith in a higher power to overcome the impossible.",
+      "Sentence": "The Prince tried to climb, but for every step he took, he slid back two, and at last he grew weary and knelt upon the ground to pray.",
+      "Chapter Number": 4,
+      "Sentence Number": 31
+    },
+    {
+      "Plot Function": "A divine intervention occurs as a result of his prayer.",
+      "Grimm Style": "An extraordinary event is stated plainly and factually.",
+      "Moral Implication": "Faith is rewarded with divine aid.",
+      "Metaphorical/Psychological Meaning": "The stairway is a direct answer to his prayer, a 'Jacob's Ladder' that provides a path where none existed, signifying that the way to God is through grace, not just effort.",
+      "Sentence": "As he prayed, a great stairway of pure white clouds lowered itself from the sky.",
+      "Chapter Number": 4,
+      "Sentence Number": 32
+    },
+    {
+      "Plot Function": "The Prince uses the divine aid to overcome the final obstacle.",
+      "Grimm Style": "A simple, declarative sentence showing the protagonist's successful action.",
+      "Moral Implication": "With God's help, the impossible becomes possible.",
+      "Metaphorical/Psychological Meaning": "Ascending the cloud stairs is the climax of his spiritual journey, rising above the world and its trials through faith.",
+      "Sentence": "He climbed the cloud-stairs all the way to the top of the glass mountain.",
+      "Chapter Number": 4,
+      "Sentence Number": 33
+    },
+    {
+      "Plot Function": "The Prince reaches his destination and sees the state of his home.",
+      "Grimm Style": "The sentence provides a vantage point to observe the initial problem from a new perspective.",
+      "Moral Implication": "A higher spiritual perspective allows one to see the full extent of worldly corruption.",
+      "Metaphorical/Psychological Meaning": "Seeing the kingdom from the mountaintop gives him a god-like perspective, understanding the true depth of the problem he left behind.",
+      "Sentence": "From the top, he could see his whole kingdom.",
+      "Chapter Number": 4,
+      "Sentence Number": 34
+    },
+    {
+      "Plot Function": "The problem in the kingdom has reached its comical and dire peak.",
+      "Grimm Style": "Uses cartoonish hyperbole to describe the situation matter-of-factly.",
+      "Moral Implication": "Left unchecked, vice leads to complete self-destruction and absurdity.",
+      "Metaphorical/Psychological Meaning": "The castle sinking into the earth is the final stage of spiritual decay, where the foundation has completely given way.",
+      "Sentence": "It had sunk so far into the ground that only the castle's tallest tower was showing.",
+      "Chapter Number": 4,
+      "Sentence Number": 35
+    },
+    {
+      "Plot Function": "The Prince feels compassion, the virtuous fruit of his journey.",
+      "Grimm Style": "A simple statement of emotion that motivates the final action.",
+      "Moral Implication": "A purified soul does not feel scorn for the sinful, but pity and a desire to save them.",
+      "Metaphorical/Psychological Meaning": "His pity is Christ-like, a love for the sinners that drives him to return and save them, rather than just saving himself.",
+      "Sentence": "A great pity filled the Prince's heart, and he knew he must return.",
+      "Chapter Number": 4,
+      "Sentence Number": 36
+    },
+    {
+      "Plot Function": "The Prince begins his return, empowered by his journey.",
+      "Grimm Style": "A simple sentence describing a fantastical action.",
+      "Moral Implication": "The return journey for the enlightened is swift and easy.",
+      "Metaphorical/Psychological Meaning": "Sliding down the mountain shows that overcoming the spiritual peak makes the return to the world effortless. He is no longer subject to its struggles.",
+      "Sentence": "He slid down the other side of the mountain as if on a sheet of ice.",
+      "Chapter Number": 4,
+      "Sentence Number": 37
+    },
+    {
+      "Plot Function": "The Prince arrives back at the castle.",
+      "Grimm Style": "Describes the action of arrival simply and quickly.",
+      "Moral Implication": "The hero must bring his wisdom back to the world he left.",
+      "Metaphorical/Psychological Meaning": "He is re-entering the corrupted world, but now as a saviour figure, not a resident.",
+      "Sentence": "In a moment he was back at the castle walls.",
+      "Chapter Number": 4,
+      "Sentence Number": 38
+    },
+    {
+      "Plot Function": "Confrontation with the source of the problem, embodied by the King.",
+      "Grimm Style": "Focuses on the physical state of the characters in a simple description.",
+      "Moral Implication": "The peak of indulgence is helplessness and misery.",
+      "Metaphorical/Psychological Meaning": "The King, stuck in his throne, is the image of a will completely imprisoned by appetite.",
+      "Sentence": "He found his father, the King, wedged so tightly in his throne that he could not move.",
+      "Chapter Number": 4,
+      "Sentence Number": 39
+    },
+    {
+      "Plot Function": "The Prince offers salvation.",
+      "Grimm Style": "Direct, functional dialogue offering a clear choice.",
+      "Moral Implication": "Salvation is offered, but it must be chosen.",
+      "Metaphorical/Psychological Meaning": "The Prince now takes on the role of the spiritual guide, offering the simple bread of salvation to his father.",
+      "Sentence": "The Prince held out his hand and said, 'Father, do not eat the cake, eat only this.'",
+      "Chapter Number": 4,
+      "Sentence Number": 40
+    },
+    {
+      "Plot Function": "The Prince presents the object of salvation.",
+      "Grimm Style": "A simple, concrete noun is presented as the solution.",
+      "Moral Implication": "The cure for excess is not another indulgence, but simple, honest sustenance.",
+      "Metaphorical/Psychological Meaning": "He pulls from his pocket the memory of his own salvation—the hermit's simple bread—which has miraculously remained.",
+      "Sentence": "From his pocket he pulled a dry crust of the hermit's bread.",
+      "Chapter Number": 4,
+      "Sentence Number": 41
+    },
+    {
+      "Plot Function": "The climax of the spiritual test, a direct confrontation with the Devil.",
+      "Grimm Style": "An antagonist appears suddenly to present the final, greatest temptation.",
+      "Moral Implication": "Just before salvation, evil makes its most tempting offer.",
+      "Metaphorical/Psychological Meaning": "The Devil's appearance makes the subtext text: this is the final battle for the kingdom's soul.",
+      "Sentence": "But just then, the Devil himself appeared in a puff of greasy smoke.",
+      "Chapter Number": 4,
+      "Sentence Number": 42
+    },
+    {
+      "Plot Function": "The Devil presents his ultimate temptation.",
+      "Grimm Style": "The description of the object is simple but appeals to the central vice of the story.",
+      "Moral Implication": "Temptation can look beautiful, perfect, and divine.",
+      "Metaphorical/Psychological Meaning": "The cake that looks like an angel's cloud is a demonic parody of heavenly food, an idol that promises bliss but delivers damnation.",
+      "Sentence": "He held a cake that looked like an angel's cloud, and it smelled of honey and dreams.",
+      "Chapter Number": 4,
+      "Sentence Number": 43
+    },
+    {
+      "Plot Function": "The King, representing the corrupted will, makes his choice.",
+      "Grimm Style": "A simple sentence showing a character's decisive action based on their nature.",
+      "Moral Implication": "The deeply corrupted will choose immediate pleasure even when offered salvation.",
+      "Metaphorical/Psychological Meaning": "The King's choice to reach for the cake is the soul's final turning away from grace toward sin.",
+      "Sentence": "The King's eyes grew wide, and he reached a trembling hand for the Devil's cake.",
+      "Chapter Number": 4,
+      "Sentence Number": 44
+    },
+    {
+      "Plot Function": "The Prince's decisive action to save his father and the kingdom.",
+      "Grimm Style": "A quick, simple action resolves the central conflict.",
+      "Moral Implication": "Righteousness must sometimes act decisively to prevent others from falling into sin.",
+      "Metaphorical/Psychological Meaning": "The Prince's action is an intervention of grace, forcing the correct choice and rejecting the demonic offer on behalf of his father.",
+      "Sentence": "But the Prince was quick and put the dry crust into the King's open mouth.",
+      "Chapter Number": 4,
+      "Sentence Number": 45
+    },
+    {
+      "Plot Function": "The immediate consequence of accepting the 'true food'.",
+      "Grimm Style": "A magical or cartoonish transformation is stated plainly and factually.",
+      "Moral Implication": "Accepting spiritual truth leads to an immediate and profound transformation.",
+      "Metaphorical/Psychological Meaning": "The King shrinking is a physical manifestation of his spiritual purification; the weight of his sin literally falls away.",
+      "Sentence": "The moment the King tasted the bread, he began to shrink.",
+      "Chapter Number": 4,
+      "Sentence Number": 46
+    },
+    {
+      "Plot Function": "The transformation spreads, saving the entire kingdom.",
+      "Grimm Style": "The effect of the climax expands from the individual to the collective.",
+      "Moral Implication": "The righteous act of one can bring salvation to many.",
+      "Metaphorical/Psychological Meaning": "The 'great shrinking' is a collective repentance and purification, a spiritual revival spreading through the kingdom.",
+      "Sentence": "All through the kingdom, people shrank back to their proper size.",
+      "Chapter Number": 4,
+      "Sentence Number": 47
+    },
+    {
+      "Plot Function": "The land itself is restored along with the people.",
+      "Grimm Style": "Cause and effect are shown with cartoonish physics.",
+      "Moral Implication": "When people are spiritually healthy, the world they inhabit becomes healthy too.",
+      "Metaphorical/Psychological Meaning": "The land rising symbolizes the restoration of the spiritual foundation. The world is put right again.",
+      "Sentence": "The ground, now free of its great burden, rose up with a mighty groan.",
+      "Chapter Number": 4,
+      "Sentence Number": 48
+    },
+    {
+      "Plot Function": "The antagonist is defeated by the virtuous act.",
+      "Grimm Style": "The villain's defeat is simple, decisive, and contains a touch of irony.",
+      "Moral Implication": "Evil is defeated not by violence, but by the rejection of its temptations.",
+      "Metaphorical/Psychological Meaning": "The Devil, a being of temptation, cannot bear the presence of true, simple goodness and vanishes.",
+      "Sentence": "The Devil, seeing his prize lost, shrieked in anger.",
+      "Chapter Number": 4,
+      "Sentence Number": 49
+    },
+    {
+      "Plot Function": "The final punishment of the antagonist.",
+      "Grimm Style": "The villain vanishes in a manner befitting their nature.",
+      "Moral Implication": "Evil is self-defeating and ultimately hollow.",
+      "Metaphorical/Psychological Meaning": "He disappears into a smell, signifying the insubstantial and foul nature of evil itself.",
+      "Sentence": "He vanished, leaving behind only the smell of burnt sugar.",
+      "Chapter Number": 4,
+      "Sentence Number": 50
+    },
+    {
+      "Plot Function": "The wager is resolved in Heaven.",
+      "Grimm Style": "A simple sentence describes the reaction of the divine character.",
+      "Moral Implication": "Goodness and faith are pleasing to God.",
+      "Metaphorical/Psychological Meaning": "God's smile is the sign of divine favor, the successful completion of the spiritual test.",
+      "Sentence": "Up in Heaven, God smiled.",
+      "Chapter Number": 4,
+      "Sentence Number": 51
+    },
+    {
+      "Plot Function": "The King is fully restored.",
+      "Grimm Style": "The transformation is completed and described with a simple comparison.",
+      "Moral Implication": "True restoration makes one better than before.",
+      "Metaphorical/Psychological Meaning": "He is now 'lean as a boy', signifying a return to a state of innocence and purity.",
+      "Sentence": "The King was now as lean as a boy and stood up from his throne.",
+      "Chapter Number": 4,
+      "Sentence Number": 52
+    },
+    {
+      "Plot Function": "The King acknowledges his son as the savior.",
+      "Grimm Style": "A simple action (hugging) conveys the resolution and reconciliation.",
+      "Moral Implication": "Gratitude and humility are the proper responses to being saved.",
+      "Metaphorical/Psychological Meaning": "The embrace represents the reconciliation of the will (the King) with the spirit (the Prince).",
+      "Sentence": "He hugged his good son.",
+      "Chapter Number": 4,
+      "Sentence Number": 53
+    },
+    {
+      "Plot Function": "The King decrees a new law for the kingdom, codifying the story's moral.",
+      "Grimm Style": "A royal decree establishes the new, restored order.",
+      "Moral Implication": "Wisdom gained through suffering should become a principle for living.",
+      "Metaphorical/Psychological Meaning": "The law institutionalizes the lesson of the story, making moderation the new foundation of the kingdom.",
+      "Sentence": "'From now on,' said the King, 'we shall eat only what we need, and no more.'",
+      "Chapter Number": 4,
+      "Sentence Number": 54
+    },
+    {
+      "Plot Function": "The people of the kingdom accept the new order.",
+      "Grimm Style": "A simple sentence describes a collective emotion and action.",
+      "Moral Implication": "The people, freed from their vice, rejoice in their newfound health and moderation.",
+      "Metaphorical/Psychological Meaning": "The collective cheer is the harmony of a soul or society now rightly ordered and free from the tyranny of appetite.",
+      "Sentence": "And all the people of the kingdom cheered, for they felt light and happy.",
+      "Chapter Number": 4,
+      "Sentence Number": 55
+    },
+    {
+      "Plot Function": "Illustrates the new, healthy life of the kingdom.",
+      "Grimm Style": "A simple, declarative sentence showing the positive outcome.",
+      "Moral Implication": "With moderation comes energy, productivity, and joy.",
+      "Metaphorical/Psychological Meaning": "The ability to tie one's own shoes is the symbol of the restored person's capability and self-sufficiency.",
+      "Sentence": "Now, every man could tie his own shoes.",
+      "Chapter Number": 4,
+      "Sentence Number": 56
+    },
+    {
+      "Plot Function": "The Prince's reward and the restoration of the proper succession.",
+      "Grimm Style": "States the future outcome simply and clearly.",
+      "Moral Implication": "The virtuous hero is rewarded with leadership and prosperity.",
+      "Metaphorical/Psychological Meaning": "The Prince who saved the kingdom is the rightful heir; the spirit, having mastered the flesh, is now fit to rule.",
+      "Sentence": "The Prince ruled wisely after his father.",
+      "Chapter Number": 4,
+      "Sentence Number": 57
+    },
+    {
+      "Plot Function": "Provides a final, lasting image of the new order.",
+      "Grimm Style": "A simple, positive statement about the state of the kingdom.",
+      "Moral Implication": "A kingdom built on moderation and wisdom is a prosperous one.",
+      "Metaphorical/Psychological Meaning": "The kingdom never sinking again is the final image of a stable and secure spiritual foundation.",
+      "Sentence": "And the kingdom never sank again.",
+      "Chapter Number": 4,
+      "Sentence Number": 58
+    },
+    {
+      "Plot Function": "The classic fairy tale closing, signaling the end of the story.",
+      "Grimm Style": "Use of a formulaic closing to indicate that the story is complete.",
+      "Moral Implication": "The happiness earned through virtue is everlasting.",
+      "Metaphorical/Psychological Meaning": "This formula provides a sense of finality and eternal order, suggesting the restored state is permanent.",
+      "Sentence": "They all lived happily to the end of their days.",
+      "Chapter Number": 4,
+      "Sentence Number": 59
+    },
+    {
+      "Plot Function": "A final, traditional flourish to end the narrative.",
+      "Grimm Style": "A common closing line in German fairy tales that breaks the narrative frame.",
+      "Moral Implication": "The story is a lesson passed down, and its truth is attested to by the narrator.",
+      "Metaphorical/Psychological Meaning": "This stock phrase grounds the fantastic story in a kind of folk reality, connecting the mythical past to the present.",
+      "Sentence": "My tale is done, and see, there runs a mouse; whoever catches it may make a great fur cap of it.",
+      "Chapter Number": 4,
+      "Sentence Number": 60
+    }
+  ],
+  "The Complete Story": {
+    "Title": "The Prince and the Sinking Kingdom",
+    "Chapters": [
+      "Chapter 1. In a certain kingdom, the people grew as round as apples in autumn. The King was a good king, but he was also a very wide king. Everyone ate all day, and so the very ground began to sink under their weight. A man could not tie his own shoes, for his belly was in the way. Only the King's son, the Prince, was still lean. Up in Heaven, God said to the Devil, 'See that Prince, he will not fall to this gluttony.' And the Devil answered, 'We shall see, for I will tempt him with all the delights of the world.' God agreed to the wager, for the Prince's heart was his own to keep or to lose.",
+      "Chapter 2. Down below, a great sadness fell upon the Prince, so he knew he must leave the castle. His father the King wept bitterly. 'Do not go, my son,' said the King, 'Stay and have this nice cake with seven layers of cream.' 'I cannot, dear father,' said the Prince, 'for my heart is heavy as a stone.' He took a piece of chalk and drew a door on the wall, and the door opened for him. The Prince stepped through the door and onto a long, dusty road. Behind him, the door turned back into cold stone.",
+      "Chapter 3. After a time, the road split in two. One path led to a wide, brown river that smelled of gravy. The other path was narrow and stony and went up a steep hill. The Prince's stomach rumbled like thunder. But he thought of the sinking kingdom, and he took the stony path up the hill. At the top of the hill sat an old hermit. The hermit gave the Prince a single piece of dry bread and a cup of cold water. The Prince ate the bread and drank the water, and his hunger went away. He walked on and soon came to a dark wood. In this wood, the trees did not grow leaves, but instead grew hot roasted chickens on every branch. A great hunger seized him once more. But he remembered the sad, wide face of his father. So he closed his eyes and walked straight through the wood without touching a single chicken.",
+      "Chapter 4. At last, the Prince came to the bottom of a great, tall mountain. The mountain was made of smooth, slippery glass, and there was no path at all. The Prince tried to climb, but for every step he took, he slid back two, and at last he grew weary and knelt upon the ground to pray. As he prayed, a great stairway of pure white clouds lowered itself from the sky. He climbed the cloud-stairs all the way to the top of the glass mountain. From the top, he could see his whole kingdom. It had sunk so far into the ground that only the castle's tallest tower was showing. A great pity filled the Prince's heart, and he knew he must return. He slid down the other side of the mountain as if on a sheet of ice. In a moment he was back at the castle walls. He found his father, the King, wedged so tightly in his throne that he could not move. The Prince held out his hand and said, 'Father, do not eat the cake, eat only this.' From his pocket he pulled a dry crust of the hermit's bread. But just then, the Devil himself appeared in a puff of greasy smoke. He held a cake that looked like an angel's cloud, and it smelled of honey and dreams. The King's eyes grew wide, and he reached a trembling hand for the Devil's cake. But the Prince was quick and put the dry crust into the King's open mouth. The moment the King tasted the bread, he began to shrink. All through the kingdom, people shrank back to their proper size. The ground, now free of its great burden, rose up with a mighty groan. The Devil, seeing his prize lost, shrieked in anger. He vanished, leaving behind only the smell of burnt sugar. Up in Heaven, God smiled. The King was now as lean as a boy and stood up from his throne. He hugged his good son. 'From now on,' said the King, 'we shall eat only what we need, and no more.' And all the people of the kingdom cheered, for they felt light and happy. Now, every man could tie his own shoes. The Prince ruled wisely after his father. And the kingdom never sank again. They all lived happily to the end of their days. My tale is done, and see, there runs a mouse; whoever catches it may make a great fur cap of it."
+    ]
+  },
+  "title": "The Prince and the Sinking Kingdom",
+  "timestamp": "2025-10-06T11:31:43.262Z"
+}

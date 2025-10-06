@@ -1,0 +1,552 @@
+{
+  "Analysis": [
+    {
+      "Plot Function": "Formulaic Opening",
+      "Grimm Style": "Use of a stock opening phrase to establish a timeless, archetypal setting.",
+      "Moral Implication": "The narrative begins in a state of established, hierarchical order.",
+      "Metaphorical/Psychological Meaning": "The kingdom represents the conscious, ordered world, the backdrop against which the story's conflict will unfold.",
+      "Sentence": "Once upon a time, there was a king in a rich land.",
+      "Chapter Number": 1,
+      "Sentence Number": 1
+    },
+    {
+      "Plot Function": "Protagonist Introduction",
+      "Grimm Style": "Introduction of a primary character by their function and relationship, not by name.",
+      "Moral Implication": "A character's social duty, such as marriage for a prince, is presented as a natural and pressing concern.",
+      "Metaphorical/Psychological Meaning": "The unmarried prince symbolizes potential that is not yet actualized; a state of incompleteness.",
+      "Sentence": "This king had one son, who was of an age to marry.",
+      "Chapter Number": 1,
+      "Sentence Number": 2
+    },
+    {
+      "Plot Function": "Stating the Initial Lack",
+      "Grimm Style": "Use of a simple conjunction ('but') to highlight the central problem in an otherwise perfect situation.",
+      "Moral Implication": "Material wealth is insufficient; the true lack is a matter of social and familial order.",
+      "Metaphorical/Psychological Meaning": "The absence of a wife represents a missing element of the psyche (the anima), creating an imbalance that drives the narrative.",
+      "Sentence": "The prince had fine clothes and a good horse, but he did not have a wife.",
+      "Chapter Number": 1,
+      "Sentence Number": 3
+    },
+    {
+      "Plot Function": "Establishing the Scene",
+      "Grimm Style": "Description of the setting using a simple, archetypal location ('a great stone castle').",
+      "Moral Implication": "The protagonist's environment reflects his high status and the structured world he inhabits.",
+      "Metaphorical/Psychological Meaning": "The castle is a symbol of the established self, secure but contained, from which the hero must venture forth.",
+      "Sentence": "In his father's great stone castle, the prince was safe and comfortable.",
+      "Chapter Number": 1,
+      "Sentence Number": 4
+    },
+    {
+      "Plot Function": "Describing the Protagonist's Role",
+      "Grimm Style": "Character is defined by their actions and duties, not by internal feelings.",
+      "Moral Implication": "Diligence in one's given role is a primary virtue.",
+      "Metaphorical/Psychological Meaning": "The act of 'judging matters' shows the prince's connection to reason and order, traits he will need on his journey.",
+      "Sentence": "He spent his days judging the matters of the court.",
+      "Chapter Number": 1,
+      "Sentence Number": 5
+    },
+    {
+      "Plot Function": "Expressing the Protagonist's Core Desire",
+      "Grimm Style": "Internal thought is stated simply and directly, focusing on the desired outcome.",
+      "Moral Implication": "The desire for a 'proper' wife reflects the societal value placed on a harmonious and well-ordered marriage.",
+      "Metaphorical/Psychological Meaning": "The prince seeks a balanced union, foreshadowing the conflict between true partnership and subversive independence.",
+      "Sentence": "He often thought, \"I must find a wife who is clever, but not contrary.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 6
+    },
+    {
+      "Plot Function": "Stating the Status Quo",
+      "Grimm Style": "Use of a stock phrase to describe a state of being ('a dutiful son').",
+      "Moral Implication": "Obedience to paternal authority is presented as a foundational good.",
+      "Metaphorical/Psychological Meaning": "The prince's dutifulness establishes his alignment with the established patriarchal order, which will soon be challenged.",
+      "Sentence": "He was a dutiful son in all things.",
+      "Chapter Number": 1,
+      "Sentence Number": 7
+    },
+    {
+      "Plot Function": "Indicating the Passage of Time",
+      "Grimm Style": "Use of a simple transitional phrase to show that the initial state is stagnant.",
+      "Moral Implication": "A state of inaction or lack cannot continue indefinitely; events are poised to change.",
+      "Metaphorical/Psychological Meaning": "This period of stasis represents the calm before the psychic disturbance that will initiate the hero's journey.",
+      "Sentence": "And so things went on for a long time.",
+      "Chapter Number": 1,
+      "Sentence Number": 8
+    },
+    {
+      "Plot Function": "The Inciting Incident",
+      "Grimm Style": "The catalyst for the story is a simple declaration from a figure of authority.",
+      "Moral Implication": "The resolution of the central problem is initiated by a command from a higher power (the King).",
+      "Metaphorical/Psychological Meaning": "The King's decree acts as the 'call to adventure,' an external pressure forcing the protagonist out of his static world.",
+      "Sentence": "Then one day, the king declared that the prince must choose a bride at once.",
+      "Chapter Number": 1,
+      "Sentence Number": 9
+    },
+    {
+      "Plot Function": "First Stage of the Catalyst: The First Test",
+      "Grimm Style": "Repetitive structure begins, with the first of three encounters.",
+      "Moral Implication": "The princess's answer reveals a flawed character; she prioritizes secret wealth over duty to her future husband.",
+      "Metaphorical/Psychological Meaning": "She represents a flawed anima, one that seeks alliance with a shadow figure (the Weaver) rather than the conscious ego (the Prince).",
+      "Sentence": "The first princess was brought, and the prince asked her, \"If I gave you a bolt of fine cloth, what would you make?\"",
+      "Chapter Number": 1,
+      "Sentence Number": 10
+    },
+    {
+      "Plot Function": "The First Failure/Insult",
+      "Grimm Style": "Dialogue is direct and reveals the character's core motivation, which is contrary to the expected norm.",
+      "Moral Implication": "Deceit within marriage and serving a foreign master over one's own household is a grave error.",
+      "Metaphorical/Psychological Meaning": "The Weaver is introduced as a 'shadow authority,' an external force that disrupts the natural psychic order of the marriage.",
+      "Sentence": "She replied, \"I would take it to the Weaver in the woods, for he pays coin for it, and a husband need never know.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 11
+    },
+    {
+      "Plot Function": "Second Stage of the Catalyst: The Second Test",
+      "Grimm Style": "The pattern repeats exactly, emphasizing the thematic importance of the question and the prevalence of the flaw.",
+      "Moral Implication": "The second princess reveals a more sophisticated version of the same flaw: not just deceit, but cunning for personal gain.",
+      "Metaphorical/Psychological Meaning": "This repetition confirms that the flaw is not an isolated incident but a systemic problem within the symbolic world of the story.",
+      "Sentence": "The prince sent her away and asked the second princess the very same question.",
+      "Chapter Number": 1,
+      "Sentence Number": 12
+    },
+    {
+      "Plot Function": "The Second Failure/Insult",
+      "Grimm Style": "Dialogue reveals a character flaw through a simple, practical explanation of their intentions.",
+      "Moral Implication": "This wife is not only disobedient but seeks to subvert the household economy for her own ends.",
+      "Metaphorical/Psychological Meaning": "She represents a more developed but still flawed anima, one that uses cunning to manipulate resources rather than fostering shared growth.",
+      "Sentence": "She said, \"I would trade it to the Weaver for two bolts of lesser cloth, one for the house and one to sell back to him for my own purse.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 13
+    },
+    {
+      "Plot Function": "Third Stage of the Catalyst: The Third Test and Climax of Insult",
+      "Grimm Style": "The third repetition solidifies the theme and presents the most blatant example of the core problem.",
+      "Moral Implication": "The third princess rejects the very premise of marriage as a partnership, preferring total economic independence through secret servitude.",
+      "Metaphorical/Psychological Meaning": "This is the ultimate rejection of the natural order, where the connection to the shadow authority (the Weaver) is valued above the primary relationship.",
+      "Sentence": "He sent her away too, and the third princess declared, \"Why take your cloth when the Weaver gives me coin for my time? A husband's gift is good, but a secret purse is better.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 14
+    },
+    {
+      "Plot Function": "Defining the Quest",
+      "Grimm Style": "The protagonist's internal thought directly leads to his stated quest objective.",
+      "Moral Implication": "The problem is not the women themselves, but the external corrupting influence that must be confronted directly.",
+      "Metaphorical/Psychological Meaning": "The prince correctly identifies that the flawed anima figures are symptoms of a deeper problem—the influence of the miserly Weaver, a destructive shadow archetype.",
+      "Sentence": "The prince was gravely insulted and told his father, \"I will not marry such a wife, but will instead find this Weaver who teaches women such mischief.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 15
+    },
+    {
+      "Plot Function": "Departure on the Quest",
+      "Grimm Style": "The journey begins immediately after the decision is made, with no hesitation.",
+      "Moral Implication": "A true hero acts decisively to restore order.",
+      "Metaphorical/Psychological Meaning": "The departure from the castle signifies the ego leaving the conscious, ordered world to venture into the unconscious (the woods) to confront the shadow.",
+      "Sentence": "And so, the prince set off toward the dark woods.",
+      "Chapter Number": 1,
+      "Sentence Number": 16
+    },
+    {
+      "Plot Function": "Encounter with the Magical Helper",
+      "Grimm Style": "The hero encounters an archetypal helper (an old woman) at a liminal space (a crossroads).",
+      "Moral Implication": "Help appears to those who have committed themselves to a righteous quest.",
+      "Metaphorical/Psychological Meaning": "The 'Wise Old Woman' archetype appears at a point of decision, offering intuition and hidden knowledge.",
+      "Sentence": "After riding for a day, he came to a crossroads where an old woman was gathering sticks.",
+      "Chapter Number": 1,
+      "Sentence Number": 17
+    },
+    {
+      "Plot Function": "The Helper's Test",
+      "Grimm Style": "The helper poses a simple, direct question to test the hero's intentions.",
+      "Moral Implication": "One's purpose must be clear and just to receive supernatural aid.",
+      "Metaphorical/Psychological Meaning": "The question is a test of the hero's conscious awareness of his own quest and its significance.",
+      "Sentence": "\"Whither away, my lord?\" asked the old woman.",
+      "Chapter Number": 1,
+      "Sentence Number": 18
+    },
+    {
+      "Plot Function": "The Protagonist's Worthy Response",
+      "Grimm Style": "The hero answers simply and honestly, without pride or deceit.",
+      "Moral Implication": "Honesty and humility are virtues that unlock aid from the wise.",
+      "Metaphorical/Psychological Meaning": "By stating his quest clearly, the prince shows his ego is aligned with his purpose, making him worthy of help from the unconscious.",
+      "Sentence": "The prince replied honestly, \"I seek the miserly Weaver who spoils the hearts of women.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 19
+    },
+    {
+      "Plot Function": "Receiving the Magical Asset",
+      "Grimm Style": "The hero is given a seemingly mundane object that holds magical properties.",
+      "Moral Implication": "Great power can be hidden in simple things, and wisdom is a greater gift than riches.",
+      "Metaphorical/Psychological Meaning": "The stone represents a piece of focused, solid intuition or a secret knowledge that can disrupt the web of the shadow.",
+      "Sentence": "The woman nodded and gave him a single, smooth river stone.",
+      "Chapter Number": 1,
+      "Sentence Number": 20
+    },
+    {
+      "Plot Function": "The Proscriptive Advisory",
+      "Grimm Style": "The helper provides a crucial piece of advice, often a prohibition, that must be followed exactly.",
+      "Moral Implication": "Obedience to wise counsel is paramount for success; disobedience will lead to failure.",
+      "Metaphorical/Psychological Meaning": "The warning is a rule for engaging with the shadow: do not get entangled in its logic (speech), but act upon it from a distance.",
+      "Sentence": "\"Do not speak to him,\" she said, \"but throw this stone at the shuttle of his loom when it flies.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 21
+    },
+    {
+      "Plot Function": "Continuation of the Journey",
+      "Grimm Style": "Simple transitional sentence showing the hero's progress after receiving aid.",
+      "Moral Implication": "Gratitude and obedience are shown by immediately continuing the quest with the new tools.",
+      "Metaphorical/Psychological Meaning": "Armed with new insight, the hero moves deeper into the unconscious to find its core disturbance.",
+      "Sentence": "Then the prince thanked her, took the stone, and rode on.",
+      "Chapter Number": 1,
+      "Sentence Number": 22
+    },
+    {
+      "Plot Function": "Arrival at the Threshold",
+      "Grimm Style": "The villain's domain is located in a classic supernatural setting: a dark wood.",
+      "Moral Implication": "Evil and corruption isolate themselves from the ordinary, ordered world.",
+      "Metaphorical/Psychological Meaning": "He has reached the heart of the unconscious, the domain of the shadow figure.",
+      "Sentence": "At last he came to the deepest part of the wood, and in its heart was the Weaver's cottage.",
+      "Chapter Number": 1,
+      "Sentence Number": 23
+    },
+    {
+      "Plot Function": "Using the Key to Cross the Threshold",
+      "Grimm Style": "The magical asset is used to overcome the first barrier of the strange new world.",
+      "Moral Implication": "The right tool, earned through virtue, is needed to confront evil.",
+      "Metaphorical/Psychological Meaning": "The thrown stone is an act of conscious will, guided by intuition, used to disrupt the mesmerizing, automatic work of the shadow.",
+      "Sentence": "The prince took out the stone and threw it with all his might, striking the shuttle in mid-air.",
+      "Chapter Number": 1,
+      "Sentence Number": 24
+    },
+    {
+      "Plot Function": "The Threshold Opens",
+      "Grimm Style": "A magical effect occurs simply and without elaborate description; the loom stops and a door appears.",
+      "Moral Implication": "When the source of corruption is disrupted, the way to confront it is revealed.",
+      "Metaphorical/Psychological Meaning": "Breaking the hypnotic rhythm of the shuttle (the compulsive nature of the shadow's work) reveals an entrance into its core.",
+      "Sentence": "The loom fell silent, and a door appeared in the cottage wall where none had been before.",
+      "Chapter Number": 1,
+      "Sentence Number": 25
+    },
+    {
+      "Plot Function": "Entering the New World",
+      "Grimm Style": "The hero acts without hesitation, moving forward into the place of danger.",
+      "Moral Implication": "Courage is demonstrated by moving forward into the unknown.",
+      "Metaphorical/Psychological Meaning": "The prince consciously chooses to enter the shadow's domain to integrate or destroy it.",
+      "Sentence": "The prince stepped inside.",
+      "Chapter Number": 1,
+      "Sentence Number": 26
+    },
+    {
+      "Plot Function": "Confronting the Villain",
+      "Grimm Style": "The villain is described with simple, evocative similes that capture his essence.",
+      "Moral Implication": "The physical appearance of the villain reflects his inner corruption (thin as a needle, grey as wool).",
+      "Metaphorical/Psychological Meaning": "The Weaver is the physical embodiment of the miserly, life-draining shadow archetype.",
+      "Sentence": "There stood the Weaver, a man as thin as a needle and as grey as unwashed wool.",
+      "Chapter Number": 1,
+      "Sentence Number": 27
+    },
+    {
+      "Plot Function": "Revealing the Villain's Secret",
+      "Grimm Style": "The true, supernatural nature of the villain's operation is revealed.",
+      "Moral Implication": "The source of the Weaver's power is not honest work, but a magical, greedy perversion of it (golden threads).",
+      "Metaphorical/Psychological Meaning": "The golden threads represent life-energy, libido, or value, which the shadow is weaving for its own selfish purpose, stealing it from proper relationships.",
+      "Sentence": "The prince saw that the threads of the loom were not wool but shining threads of gold.",
+      "Chapter Number": 1,
+      "Sentence Number": 28
+    },
+    {
+      "Plot Function": "The First Trial is Presented",
+      "Grimm Style": "The villain, unable to defeat the hero outright, resorts to imposing a series of impossible tasks.",
+      "Moral Implication": "Evil works through tricks and unfair bargains.",
+      "Metaphorical/Psychological Meaning": "The tasks are tests imposed by the shadow, designed to enslave the conscious ego through failure.",
+      "Sentence": "The Weaver snarled, \"You have stopped my work, so now you must do three tasks for me or be my servant forever.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 29
+    },
+    {
+      "Plot Function": "An Impossible Objective",
+      "Grimm Style": "The task is described with hyperbole ('as large as a haystack') to emphasize its impossibility for a mortal.",
+      "Moral Implication": "The challenge is a test of more than just diligence; it requires a different kind of power.",
+      "Metaphorical/Psychological Meaning": "Sorting coins represents the need for discernment, for separating different kinds of value—a task the ego cannot do alone on this scale.",
+      "Sentence": "First, you must sort this pile of coins into gold, silver, and copper by sunrise; the pile was as large as a haystack.",
+      "Chapter Number": 1,
+      "Sentence Number": 30
+    },
+    {
+      "Plot Function": "Arrival of Animal Helpers",
+      "Grimm Style": "Animals, representing forces of nature, appear to help the virtuous hero.",
+      "Moral Implication": "Past kindness, or simply inherent virtue, is rewarded by help from the natural world.",
+      "Metaphorical/Psychological Meaning": "The mice represent humble, instinctual energies from the deep unconscious, which come to the aid of the well-intentioned ego.",
+      "Sentence": "Suddenly, from the shadows crept a thousand mice, who whispered, \"You are true of heart, so we shall help you.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 31
+    },
+    {
+      "Plot Function": "The Objective is Met",
+      "Grimm Style": "The impossible task is completed with supernatural speed and efficiency.",
+      "Moral Implication": "With the aid of nature and good will, no task is impossible.",
+      "Metaphorical/Psychological Meaning": "The instinctual powers accomplish the task of sorting and discernment effortlessly, showing the power of the integrated unconscious.",
+      "Sentence": "The mice scurried and sorted, and by morning the coins were in three neat piles.",
+      "Chapter Number": 1,
+      "Sentence Number": 32
+    },
+    {
+      "Plot Function": "The Villain's Reaction",
+      "Grimm Style": "The villain reacts with simple, direct anger to being thwarted.",
+      "Moral Implication": "The wicked cannot comprehend success achieved through virtue and cooperation.",
+      "Metaphorical/Psychological Meaning": "The shadow is enraged when the ego proves capable of commanding other unconscious forces against it.",
+      "Sentence": "When the Weaver saw this, he scowled, for his plan had failed.",
+      "Chapter Number": 1,
+      "Sentence Number": 33
+    },
+    {
+      "Plot Function": "The Second Trial is Presented",
+      "Grimm Style": "Repetition of the structure ('Now you must do a second task') signals the second part of the threefold test.",
+      "Moral Implication": "Evil is persistent and will not be defeated by a single success.",
+      "Metaphorical/Psychological Meaning": "The shadow presents another challenge, testing a different faculty of the hero.",
+      "Sentence": "But he said, \"Now you must do a second task.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 34
+    },
+    {
+      "Plot Function": "A New Impossible Objective",
+      "Grimm Style": "Another seemingly impossible task of counting or sorting, a common fairy tale motif.",
+      "Moral Implication": "The trials test not just strength, but perception and patience.",
+      "Metaphorical/Psychological Meaning": "Counting threads in a tapestry is a task of understanding intricate patterns, of seeing the hidden order in a complex creation.",
+      "Sentence": "\"You must count every thread in that tapestry before the sun sets.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 35
+    },
+    {
+      "Plot Function": "A Moment of Doubt",
+      "Grimm Style": "The hero's despair is stated simply, emphasizing the difficulty of the task.",
+      "Moral Implication": "Even a hero can lose hope when faced with overwhelming odds, highlighting his reliance on external aid.",
+      "Metaphorical/Psychological Meaning": "The ego recognizes the limits of its own perception and is momentarily overwhelmed by the complexity of the shadow's work.",
+      "Sentence": "The prince's heart sank, for the threads were finer than hairs and the patterns were like a maze.",
+      "Chapter Number": 1,
+      "Sentence Number": 36
+    },
+    {
+      "Plot Function": "Recalling the Magical Asset",
+      "Grimm Style": "The hero remembers the tool given to him by the magical helper at the crucial moment.",
+      "Moral Implication": "Wisdom must be remembered and applied at the correct time.",
+      "Metaphorical/Psychological Meaning": "The hero activates his intuition (the stone), which provides a new way of seeing ('glowing with its own light') that transcends normal perception.",
+      "Sentence": "But then he remembered the stone, and when he held it, each thread began to glow with its own light.",
+      "Chapter Number": 1,
+      "Sentence Number": 37
+    },
+    {
+      "Plot Function": "Second Success",
+      "Grimm Style": "The second task is completed instantly once the magical solution is applied.",
+      "Moral Implication": "Supernatural problems require supernatural solutions.",
+      "Metaphorical/Psychological Meaning": "With the aid of intuition, the complex task becomes simple. The pattern is instantly understood.",
+      "Sentence": "In the blink of an eye, the task was done.",
+      "Chapter Number": 1,
+      "Sentence Number": 38
+    },
+    {
+      "Plot Function": "Reporting Success",
+      "Grimm Style": "The hero confronts the villain not with boasts, but with the simple fact of his success.",
+      "Moral Implication": "Action and results are more powerful than words.",
+      "Metaphorical/Psychological Meaning": "The ego presents the solution to the shadow, demonstrating its mastery over the challenge.",
+      "Sentence": "The prince went to the Weaver and told him the number of threads.",
+      "Chapter Number": 1,
+      "Sentence Number": 39
+    },
+    {
+      "Plot Function": "The Villain's Threat",
+      "Grimm Style": "The villain, frustrated, resorts to accusations and boasts about the final task.",
+      "Moral Implication": "Those who rely on tricks accuse others of the same.",
+      "Metaphorical/Psychological Meaning": "The shadow, unable to comprehend the hero's source of power, projects its own malevolence onto it, calling it 'magic' and promising its failure.",
+      "Sentence": "The Weaver shrieked, \"You have magic! But it will not help you with the final task.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 40
+    },
+    {
+      "Plot Function": "The Protagonist's Stoicism",
+      "Grimm Style": "The hero demonstrates wisdom by adhering to the helper's prohibition against speaking.",
+      "Moral Implication": "Silence in the face of evil is a form of strength and wisdom.",
+      "Metaphorical/Psychological Meaning": "The prince refuses to engage the shadow on its own terms (verbal trickery), maintaining his own centeredness.",
+      "Sentence": "The prince stayed silent, remembering the old woman's words.",
+      "Chapter Number": 1,
+      "Sentence Number": 41
+    },
+    {
+      "Plot Function": "The Third Trial is Presented",
+      "Grimm Style": "The final task of a threefold test is announced.",
+      "Moral Implication": "The final test is often creative or restorative, not just a task of endurance.",
+      "Metaphorical/Psychological Meaning": "Mending the shuttle is a task of restoring order and function, but the shadow frames it as an impossible creative act.",
+      "Sentence": "Then the Weaver said, \"You must mend the golden shuttle you broke, and you must do it with a thread of your own making.\"",
+      "Chapter Number": 1,
+      "Sentence Number": 42
+    },
+    {
+      "Plot Function": "The Hardest Challenge",
+      "Grimm Style": "The nature of the final task is revealed to be a seemingly impossible paradox.",
+      "Moral Implication": "The greatest challenges require not just work, but a clever turn or re-framing of the problem.",
+      "Metaphorical/Psychological Meaning": "The task seems to require the hero to replicate the shadow's own power (spinning gold), a test the shadow believes is impossible for the ego.",
+      "Sentence": "This was the hardest task, for how could a man spin a thread of pure gold?",
+      "Chapter Number": 1,
+      "Sentence Number": 43
+    },
+    {
+      "Plot Function": "A Creative, Unexpected Solution",
+      "Grimm Style": "The narrative does not show the hero completing the task, but moves directly to the climactic confrontation, which itself will provide the solution.",
+      "Moral Implication": "The solution to the final problem will come from the villain's own actions.",
+      "Metaphorical/Psychological Meaning": "The story structure bypasses the hero's struggle, implying the solution lies not in his own labor but in turning the shadow's power against itself.",
+      "Sentence": "The prince did not know what to do, and the Weaver, seeing his chance, prepared to trap him.",
+      "Chapter Number": 1,
+      "Sentence Number": 44
+    },
+    {
+      "Plot Function": "End of the Trials",
+      "Grimm Style": "The villain, having exhausted his games, resorts to direct violence.",
+      "Moral Implication": "When trickery fails, the true, violent nature of evil is revealed.",
+      "Metaphorical/Psychological Meaning": "The shadow abandons subterfuge and attempts to directly overpower and assimilate the ego.",
+      "Sentence": "The Weaver was filled with rage and abandoned the tasks.",
+      "Chapter Number": 1,
+      "Sentence Number": 45
+    },
+    {
+      "Plot Function": "The Climactic Confrontation Begins",
+      "Grimm Style": "The climax is initiated with a simple, direct action.",
+      "Moral Implication": "The final battle is joined.",
+      "Metaphorical/Psychological Meaning": "The shadow unleashes its own essence (the golden thread) as a weapon to bind the ego.",
+      "Sentence": "He laughed and grabbed a golden thread from his loom to bind the prince.",
+      "Chapter Number": 1,
+      "Sentence Number": 46
+    },
+    {
+      "Plot Function": "The Antagonist's Power Unleashed",
+      "Grimm Style": "The magical element is used directly as a weapon.",
+      "Moral Implication": "The very thing the villain uses to corrupt others becomes his weapon.",
+      "Metaphorical/Psychological Meaning": "The binding thread symbolizes the entangling, possessive power of greed and subversive attachment.",
+      "Sentence": "He cast the thread, and it flew like a golden snake.",
+      "Chapter Number": 1,
+      "Sentence Number": 47
+    },
+    {
+      "Plot Function": "Apparent Defeat",
+      "Grimm Style": "The hero is placed in a seemingly hopeless situation, physically restrained.",
+      "Moral Implication": "The moment of greatest danger often precedes victory.",
+      "Metaphorical/Psychological Meaning": "The ego is temporarily overcome and bound by the power of the shadow complex.",
+      "Sentence": "The prince was caught and bound tightly in the golden thread.",
+      "Chapter Number": 1,
+      "Sentence Number": 48
+    },
+    {
+      "Plot Function": "The Reversal",
+      "Grimm Style": "The hero uses cleverness ('a trickster' move) to turn the villain's attack into the solution for the final task.",
+      "Moral Implication": "Resourcefulness triumphs over brute force; the villain is undone by his own tools.",
+      "Metaphorical/Psychological Meaning": "The ego, in a moment of insight, re-purposes the shadow's energy. It doesn't fight the binding, but uses it, integrating its power to solve the final riddle.",
+      "Sentence": "But the prince, seeing the solution to the final task, twisted the thread that bound him as if he were spinning it.",
+      "Chapter Number": 1,
+      "Sentence Number": 49
+    },
+    {
+      "Plot Function": "The Decisive Action",
+      "Grimm Style": "A single, deft action turns the tables and defeats the villain.",
+      "Moral Implication": "The solution was not to create something new, but to properly use what was already there.",
+      "Metaphorical/Psychological Meaning": "By looping the thread, the hero closes the circuit, turning the shadow's energy back on itself and completing the act of restoration.",
+      "Sentence": "He pulled the thread taut and looped it through the broken shuttle, making it whole again.",
+      "Chapter Number": 1,
+      "Sentence Number": 50
+    },
+    {
+      "Plot Function": "The Antagonist is Vanquished",
+      "Grimm Style": "The villain suffers a poetic and magical demise, becoming the thing he coveted.",
+      "Moral Implication": "Greed is self-consuming; you become the object of your own obsession.",
+      "Metaphorical/Psychological Meaning": "The shadow is not destroyed but 'fixed' into a static form, its dangerous energy neutralized by becoming a monument to its own defining trait.",
+      "Sentence": "As the shuttle was mended, the Weaver turned to solid gold, a lifeless statue of greed.",
+      "Chapter Number": 1,
+      "Sentence Number": 51
+    },
+    {
+      "Plot Function": "The World is Changed",
+      "Grimm Style": "The villain's magical domain dissolves with his defeat.",
+      "Moral Implication": "When the source of corruption is removed, its works cannot stand.",
+      "Metaphorical/Psychological Meaning": "The dissolution of the cottage symbolizes the collapse of the shadow complex's power and influence over the psyche.",
+      "Sentence": "The cottage and the loom of disobedience then crumbled into dust.",
+      "Chapter Number": 1,
+      "Sentence Number": 52
+    },
+    {
+      "Plot Function": "Seizing the Prize",
+      "Grimm Style": "A beautiful, magical reward appears where the evil once stood.",
+      "Moral Implication": "From the destruction of a corrupt thing, a pure and true thing is born.",
+      "Metaphorical/Psychological Meaning": "The true anima figure, the proper object of the hero's quest, appears once the false, subversive authority of the shadow has been neutralized.",
+      "Sentence": "And where the loom had stood, a young woman now appeared, holding a simple spindle of white thread.",
+      "Chapter Number": 1,
+      "Sentence Number": 53
+    },
+    {
+      "Plot Function": "Restoration",
+      "Grimm Style": "A character is revealed to be an enchanted being, now restored to their true form.",
+      "Moral Implication": "Her purity and beauty are the antithesis of the Weaver's grey corruption.",
+      "Metaphorical/Psychological Meaning": "She is the spirit of right relationship and productive order, freed from her imprisonment within the greedy shadow complex.",
+      "Sentence": "She was the true spirit of the loom, now freed from the Weaver's curse, and she was beautiful and good.",
+      "Chapter Number": 1,
+      "Sentence Number": 54
+    },
+    {
+      "Plot Function": "Celebration",
+      "Grimm Style": "Emotion is stated simply and mutually ('great joy between them').",
+      "Moral Implication": "The union of two virtuous people is a cause for immediate and natural joy.",
+      "Metaphorical/Psychological Meaning": "The successful integration of the anima with the conscious ego results in psychic wholeness and harmony (joy).",
+      "Sentence": "There was great joy between them.",
+      "Chapter Number": 1,
+      "Sentence Number": 55
+    },
+    {
+      "Plot Function": "The Ultimate Boon",
+      "Grimm Style": "Marriage is the ultimate reward and the symbol of a restored social order.",
+      "Moral Implication": "The hero has earned his perfect partner through his deeds.",
+      "Metaphorical/Psychological Meaning": "The union is sealed. The prince, having matured through his journey, is now ready for a proper relationship, symbolizing a new, more integrated state of being.",
+      "Sentence": "The prince knew she was his true bride, and he asked her to be his wife.",
+      "Chapter Number": 1,
+      "Sentence Number": 56
+    },
+    {
+      "Plot Function": "The Journey Home",
+      "Grimm Style": "The return journey is stated in a single sentence, as its difficulties are over.",
+      "Moral Implication": "With the quest completed, the return to the ordinary world is swift and triumphant.",
+      "Metaphorical/Psychological Meaning": "The hero returns from the unconscious to the conscious world, bringing back the boon of his journey (the integrated anima).",
+      "Sentence": "So the prince returned to his father's castle with his new bride.",
+      "Chapter Number": 1,
+      "Sentence Number": 57
+    },
+    {
+      "Plot Function": "Justice is Meted Out",
+      "Grimm Style": "The lesser villains (the foolish princesses) are exposed, their ill-gotten gains vanishing with the source of the magic.",
+      "Moral Implication": "Wealth gained through deceit is illusory and will not last.",
+      "Metaphorical/Psychological Meaning": "The collapse of the central shadow complex causes all its subsidiary manifestations to lose their power.",
+      "Sentence": "The three contrary princesses, whose secret purses had turned to dust, confessed their foolishness.",
+      "Chapter Number": 1,
+      "Sentence Number": 58
+    },
+    {
+      "Plot Function": "The Punishment",
+      "Grimm Style": "The punishment is not cruel, but it is firm: a restoration of the proper order by sending them back to their own place.",
+      "Moral Implication": "The foolish are not destroyed, but are corrected and put back in their proper social context.",
+      "Metaphorical/Psychological Meaning": "The flawed anima figures are dismissed, their incorrect attitudes banished from the now-healed psychic kingdom.",
+      "Sentence": "The king had them sent home with a warning to be true to their own hearths.",
+      "Chapter Number": 1,
+      "Sentence Number": 59
+    },
+    {
+      "Plot Function": "Formulaic Closing",
+      "Grimm Style": "Use of a stock closing phrase ('lived happily ever after') to signify a permanent, positive resolution.",
+      "Moral Implication": "When natural order is restored and virtue triumphs, the result is a lasting state of happiness and stability.",
+      "Metaphorical/Psychological Meaning": "The story ends in a state of psychic equilibrium. The integrated ego and anima rule the conscious world wisely.",
+      "Sentence": "And the prince and his new bride ruled the kingdom with wisdom, and they lived happily ever after.",
+      "Chapter Number": 1,
+      "Sentence Number": 60
+    }
+  ],
+  "The Complete Story": {
+    "Title": "The Weaver in the Woods",
+    "Chapters": [
+      "Once upon a time, there was a king in a rich land. This king had one son, who was of an age to marry. The prince had fine clothes and a good horse, but he did not have a wife. In his father's great stone castle, the prince was safe and comfortable. He spent his days judging the matters of the court. He often thought, \"I must find a wife who is clever, but not contrary.\" He was a dutiful son in all things. And so things went on for a long time. Then one day, the king declared that the prince must choose a bride at once. The first princess was brought, and the prince asked her, \"If I gave you a bolt of fine cloth, what would you make?\" She replied, \"I would take it to the Weaver in the woods, for he pays coin for it, and a husband need never know.\" The prince sent her away and asked the second princess the very same question. She said, \"I would trade it to the Weaver for two bolts of lesser cloth, one for the house and one to sell back to him for my own purse.\" He sent her away too, and the third princess declared, \"Why take your cloth when the Weaver gives me coin for my time? A husband's gift is good, but a secret purse is better.\" The prince was gravely insulted and told his father, \"I will not marry such a wife, but will instead find this Weaver who teaches women such mischief.\" And so, the prince set off toward the dark woods. After riding for a day, he came to a crossroads where an old woman was gathering sticks. \"Whither away, my lord?\" asked the old woman. The prince replied honestly, \"I seek the miserly Weaver who spoils the hearts of women.\" The woman nodded and gave him a single, smooth river stone. \"Do not speak to him,\" she said, \"but throw this stone at the shuttle of his loom when it flies.\" Then the prince thanked her, took the stone, and rode on. At last he came to the deepest part of the wood, and in its heart was the Weaver's cottage. The prince took out the stone and threw it with all his might, striking the shuttle in mid-air. The loom fell silent, and a door appeared in the cottage wall where none had been before. The prince stepped inside. There stood the Weaver, a man as thin as a needle and as grey as unwashed wool. The prince saw that the threads of the loom were not wool but shining threads of gold. The Weaver snarled, \"You have stopped my work, so now you must do three tasks for me or be my servant forever.\" First, you must sort this pile of coins into gold, silver, and copper by sunrise; the pile was as large as a haystack. Suddenly, from the shadows crept a thousand mice, who whispered, \"You are true of heart, so we shall help you.\" The mice scurried and sorted, and by morning the coins were in three neat piles. When the Weaver saw this, he scowled, for his plan had failed. But he said, \"Now you must do a second task.\" \"You must count every thread in that tapestry before the sun sets.\" The prince's heart sank, for the threads were finer than hairs and the patterns were like a maze. But then he remembered the stone, and when he held it, each thread began to glow with its own light. In the blink of an eye, the task was done. The prince went to the Weaver and told him the number of threads. The Weaver shrieked, \"You have magic! But it will not help you with the final task.\" The prince stayed silent, remembering the old woman's words. Then the Weaver said, \"You must mend the golden shuttle you broke, and you must do it with a thread of your own making.\" This was the hardest task, for how could a man spin a thread of pure gold? The prince did not know what to do, and the Weaver, seeing his chance, prepared to trap him. The Weaver was filled with rage and abandoned the tasks. He laughed and grabbed a golden thread from his loom to bind the prince. He cast the thread, and it flew like a golden snake. The prince was caught and bound tightly in the golden thread. But the prince, seeing the solution to the final task, twisted the thread that bound him as if he were spinning it. He pulled the thread taut and looped it through the broken shuttle, making it whole again. As the shuttle was mended, the Weaver turned to solid gold, a lifeless statue of greed. The cottage and the loom of disobedience then crumbled into dust. And where the loom had stood, a young woman now appeared, holding a simple spindle of white thread. She was the true spirit of the loom, now freed from the Weaver's curse, and she was beautiful and good. There was great joy between them. The prince knew she was his true bride, and he asked her to be his wife. So the prince returned to his father's castle with his new bride. The three contrary princesses, whose secret purses had turned to dust, confessed their foolishness. The king had them sent home with a warning to be true to their own hearths. And the prince and his new bride ruled the kingdom with wisdom, and they lived happily ever after."
+    ]
+  },
+  "title": "The Weaver in the Woods",
+  "timestamp": "2025-10-06T10:35:24.137Z"
+}

@@ -1,0 +1,1084 @@
+{
+  "Analysis": [
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 1,
+      "vocabulary": "Employ a standard, formulaic narrative initiation.",
+      "thematic": "Setting (Time): Establish a temporally ambiguous, non-specific context.",
+      "sentenceStructure/poeticStructures": "Construct a simple sentence with a single independent clause.",
+      "Current step of Heroes journey": "The Ordinary World: Introduction",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Lean towards simple, concrete language. Use words readily understood.",
+          "sentenceStructures": "Don't: Strive for complex sentence structures or excessive variety just for stylistic effect. Simplicity is key.",
+          "narrative": "Do: Establish the initial situation or character simply and quickly."
+        }
+      ],
+      "thematic": "Political Aspects: Imply a simple hierarchical social structure.",
+      "moral": "The initial state of the world is set; moral actions will soon disrupt or restore its equilibrium.",
+      "meta": "Do: Use a direct, unobtrusive narrative voice."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 2,
+      "vocabulary": "Describe the central entity using a simple, functional adjective related to status, age, or a core trait.",
+      "thematic": "Setting (Place): Situate the central entity in a simple, archetypal location.",
+      "sentenceStructure/poeticStructures": "Utilize the active voice exclusively.",
+      "Current step of Heroes journey": "The Ordinary World: Protagonist Established",
+      "writingRules": [
+        {
+          "choiceOfWords": "Don't: Provide detailed physical descriptions unless a specific feature is crucial to the plot.",
+          "sentenceStructures": "Do: Use active voice almost exclusively.",
+          "narrative": "Do: Introduce characters by their function or relationship."
+        }
+      ],
+      "thematic": "Political Aspects: Class distinctions are present but are an unquestioned aspect of the established order.",
+      "moral": "A character's initial state will inform their response to future trials.",
+      "meta": "Do: State facts and events clearly."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 3,
+      "vocabulary": "Use concrete nouns to quantify the entity's material or social circumstances.",
+      "thematic": "Moral: The narrative originates from a state of deficiency or a problem requiring resolution.",
+      "sentenceStructure/poeticStructures": "Construct a compound sentence, linking two factual clauses with a simple conjunction.",
+      "Current step of Heroes journey": "The Ordinary World: The Initial Lack",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Refer to characters generically when specific names aren't needed.",
+          "sentenceStructures": "Do: Link clauses mainly with simple conjunctions.",
+          "narrative": "Do: Immediately introduce the core problem or lack."
+        }
+      ],
+      "thematic": "Setting (Place): Maintain geographical ambiguity.",
+      "moral": "Adverse circumstances are presented as a starting condition, not a moral judgment.",
+      "meta": "Don't: Interpret events for the reader. Let the facts speak for themselves."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 4,
+      "vocabulary": "Employ a simple, common comparison to emphasize a qualitative aspect.",
+      "thematic": "Setting (Place): Describe the location with functional, archetypal adjectives.",
+      "sentenceStructure/poeticStructures": "Initiate the sentence with a simple prepositional phrase to establish location.",
+      "Current step of Heroes journey": "The Ordinary World: Establishing the Scene",
+      "writingRules": [
+        {
+          "choiceOfWords": "Don't: Use excessive or flowery adjectives. Stick to simple descriptors.",
+          "sentenceStructures": "Don't: Use complex punctuation like semicolons or em-dashes. Commas and periods are sufficient.",
+          "narrative": "Don't: Engage in lengthy, atmospheric, or poetic descriptions of scenery."
+        }
+      ],
+      "thematic": "Political Aspects: The setting should reflect the character's social standing.",
+      "moral": "The environment can symbolize the initial challenges or the unknown.",
+      "meta": "Do: Maintain an objective, sometimes distant tone."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 5,
+      "vocabulary": "Describe an action using a simple, strong verb.",
+      "thematic": "Moral: Define character through direct, observable action, not internal states.",
+      "sentenceStructure/poeticStructures": "Adhere to a clear Subject-Verb-Object pattern.",
+      "Current step of Heroes journey": "The Ordinary World: Daily Life",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Lean towards simple, concrete language.",
+          "sentenceStructures": "Do: Generally keep clauses relatively short and clear.",
+          "narrative": "Do: Define characters primarily through their actions and direct speech."
+        }
+      ],
+      "thematic": "Moral: Diligence in routine tasks is often a trait of a virtuous character.",
+      "moral": "Virtue is demonstrated through physical acts, such as sharing scarce resources.",
+      "meta": "Don't: Explain character motivations in depth."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 6,
+      "vocabulary": "If representing an internal thought, state it plainly using a simple attribution.",
+      "thematic": "Setting (Time): Refer to the passage of time in simple, non-specific terms.",
+      "sentenceStructure/poeticStructures": "Initiate the sentence with the entity's corresponding pronoun.",
+      "Current step of Heroes journey": "The Ordinary World: A Glimpse of Inner Self",
+      "writingRules": [
+        {
+          "choiceOfWords": "Don't: Use words that imply deep psychological states.",
+          "sentenceStructures": "Do: Start sentences most frequently with the character's name/pronoun.",
+          "narrative": "Don't: Use internal monologue, extensive backstory exposition, or psychological analysis."
+        }
+      ],
+      "thematic": "Moral: Internal thoughts should be direct expressions of desire, fear, or purpose, not complex reflections.",
+      "moral": "A simple aspiration or longing often precedes the narrative catalyst.",
+      "meta": "Do: Report characters' thoughts simply."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 7,
+      "vocabulary": "Use a common, stock phrase to describe a state of being or an emotion.",
+      "thematic": "Political Aspects: Depict the entity's acceptance of their social station as a given.",
+      "sentenceStructure/poeticStructures": "Use a simple sentence to state a fact about their existence.",
+      "Current step of Heroes journey": "The Ordinary World: The Status Quo",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use stock phrases to describe common states of being.",
+          "sentenceStructures": "Don't: Dramatically vary sentence length purely for modern pacing effects. Maintain a consistent rhythm.",
+          "narrative": "Do: Indicate basic emotional states directly."
+        }
+      ],
+      "thematic": "Moral: The narrative often begins in a state of stasis or endurance before the inciting incident.",
+      "moral": "Contentment in adversity can be a virtue, while discontent can be the precursor to greed.",
+      "meta": "Don't: Inject personal opinions or feelings into the narration."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 8,
+      "vocabulary": "Use a transitional phrase to indicate the continuation of a state over time.",
+      "thematic": "Setting (Time): Employ a phrase suggesting timelessness or a long, repeating period.",
+      "sentenceStructure/poeticStructures": "Initiate the sentence with a simple conjunction.",
+      "Current step of Heroes journey": "The Ordinary World: The Calm Before the Change",
+      "writingRules": [
+        {
+          "choiceOfWords": "Don't: Use sophisticated synonyms.",
+          "sentenceStructures": "Do: Employ parataxis (linking clauses with simple conjunctions rather than complex subordination).",
+          "narrative": "Do: Use a simple narrative summary to show time passing."
+        }
+      ],
+      "thematic": "Moral: This sentence establishes the baseline from which the narrative will depart.",
+      "moral": "A long period of stasis often precedes a fated event.",
+      "meta": "Do: Use simple transitions to move the story forward."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 9,
+      "vocabulary": "Introduce the change with a simple transitional phrase.",
+      "thematic": "Moral: The narrative catalyst is an external event that disrupts the ordinary state.",
+      "sentenceStructure/poeticStructures": "Start the sentence with a simple conjunction.",
+      "Current step of Heroes journey": "The Catalyst: The Inciting Incident",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Lean towards simple, concrete language.",
+          "sentenceStructures": "Do: Start sentences most frequently with a simple conjunction.",
+          "narrative": "Do: Describe actions clearly and sequentially. Focus on the chain of events."
+        }
+      ],
+      "thematic": "Political Aspects: The catalyst often originates from a higher authority's action or decree.",
+      "moral": "Destiny intervenes; the protagonist does not choose the inciting incident, it arrives unbidden.",
+      "meta": "Don't: Use explicit foreshadowing."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 10,
+      "vocabulary": "Describe the event using simple, concrete nouns and objective sensory details.",
+      "thematic": "Setting (Place): The disruptive event often originates from a location with supernatural or authoritative associations.",
+      "sentenceStructure/poeticStructures": "Use active voice to describe what transpired.",
+      "Current step of Heroes journey": "The Catalyst: The Event",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use functional adjectives.",
+          "sentenceStructures": "Do: Keep clauses relatively short and clear.",
+          "narrative": "Do: Focus on *what* happens rather than the character's internal *experience* of it."
+        }
+      ],
+      "thematic": "Moral: The appearance of a supernatural element signifies the beginning of the core narrative.",
+      "moral": "An object of great value or beauty can be the source of significant conflict.",
+      "meta": "Don't: Explain the intricate mechanics or 'rules' of magic. It simply works."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 11,
+      "vocabulary": "State the character's reaction directly and simply.",
+      "thematic": "Moral: Emotions are presented as simple and direct consequences of events.",
+      "sentenceStructure/poeticStructures": "Use a simple sentence to declare the resulting emotional state.",
+      "Current step of Heroes journey": "The Catalyst: The Reaction",
+      "writingRules": [
+        {
+          "choiceOfWords": "Don't: Use words that imply deep psychological states.",
+          "sentenceStructures": "Do: Use simple sentences predominantly.",
+          "narrative": "Do: Indicate basic emotional states directly."
+        }
+      ],
+      "thematic": "Political Aspects: The emotion of a person in authority is sufficient to launch a major undertaking.",
+      "moral": "Fear is a common reaction, but the protagonist is defined by their action despite it.",
+      "meta": "Don't: Focus on nuanced internal emotional states."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 12,
+      "vocabulary": "If using dialogue, formulate it as a clear command or declaration, followed by a simple attribution.",
+      "thematic": "Political Aspects: A figure of authority issues a decree or gives an order.",
+      "sentenceStructure/poeticStructures": "Use direct, unadorned dialogue.",
+      "Current step of Heroes journey": "The Catalyst: The Objective is Given",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: In dialogue sprinkle in occasional archaic terms.",
+          "sentenceStructures": "Do: Use reported speech introduced simply.",
+          "narrative": "Do: Keep dialogue direct and functional – it should advance the plot."
+        }
+      ],
+      "thematic": "Moral: The central objective is often a direct order that cannot be refused.",
+      "moral": "Adherence to promises or orders is a primary moral test.",
+      "meta": "Don't: Write naturalistic, rambling, or subtext-heavy conversation."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 13,
+      "vocabulary": "State the potential outcomes plainly using concrete terms for rewards and consequences.",
+      "thematic": "Moral: Actions have clear, binary consequences for success and failure.",
+      "sentenceStructure/poeticStructures": "Use a compound sentence to link the objective with its potential outcomes.",
+      "Current step of Heroes journey": "The Catalyst: Stakes are Established",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use concrete nouns for rewards.",
+          "sentenceStructures": "Do: Link clauses mainly with simple conjunctions.",
+          "narrative": "Do: Make requests and commands explicit."
+        }
+      ],
+      "thematic": "Political Aspects: The ultimate reward is often an elevation in social status.",
+      "moral": "The contrast between reward and punishment is stark and absolute.",
+      "meta": "Don't: Present complex moral dilemmas."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 14,
+      "vocabulary": "Describe the protagonist's acceptance using a simple verb of action or agreement.",
+      "thematic": "Moral: The protagonist accepts their role or duty, demonstrating obedience or courage.",
+      "sentenceStructure/poeticStructures": "Use a simple sentence starting with the protagonist's identifier or pronoun.",
+      "Current step of Heroes journey": "The Catalyst: Acceptance",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Refer to characters generically.",
+          "sentenceStructures": "Do: Use active voice almost exclusively.",
+          "narrative": "Do: Imply character through stark, decisive actions."
+        }
+      ],
+      "thematic": "Moral: Emphasize the importance of adhering to one's word.",
+      "moral": "The first significant action of the protagonist is to accept the call.",
+      "meta": "Do: Focus on action and external events over introspection."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 15,
+      "vocabulary": "Describe the commencement of the journey with a simple, declarative phrase.",
+      "thematic": "Setting (Place): The journey begins on a path leading away from the familiar world.",
+      "sentenceStructure/poeticStructures": "Start the sentence with a conjunction to show progression.",
+      "Current step of Heroes journey": "The Catalyst: Departure",
+      "writingRules": [
+        {
+          "choiceOfWords": "Don't: Use sophisticated synonyms.",
+          "sentenceStructures": "Don't: Overuse passive voice.",
+          "narrative": "Do: Describe journeys simply."
+        }
+      ],
+      "thematic": "Moral: Translocation from the familiar world is the first step toward transformation.",
+      "moral": "The chosen path contains unknown variables and dangers.",
+      "meta": "Do: Keep the plot progression clear and linear."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 16,
+      "vocabulary": "Use a simple temporal marker to introduce the next event in the journey.",
+      "thematic": "Setting (Place): The encounter occurs at a liminal space.",
+      "sentenceStructure/poeticStructures": "Begin with a temporal marker or prepositional phrase.",
+      "Current step of Heroes journey": "Facilitation: An Encounter",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use stock phrases to indicate passage of time.",
+          "sentenceStructures": "Do: Begin occasionally with simple prepositional phrases.",
+          "narrative": "Do: Describe actions clearly and sequentially."
+        }
+      ],
+      "thematic": "Moral: Assistance often appears once the protagonist has committed to the objective.",
+      "moral": "Fate provides guidance for those on the correct path.",
+      "meta": "Don't: Build suspense through narrative tricks like foreshadowing."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 17,
+      "vocabulary": "Introduce the adjunctive entity using an archetypal description.",
+      "thematic": "Moral: Facilitative entities are often disguised or humble; interaction with them is a test of character.",
+      "sentenceStructure/poeticStructures": "Use a simple sentence to state the nature of the encounter.",
+      "Current step of Heroes journey": "Facilitation: The Adjunctive Entity",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Refer to characters generically when names aren't needed.",
+          "sentenceStructures": "Do: Use simple sentences predominantly.",
+          "narrative": "Do: Describe characters briefly, focusing on archetypal traits."
+        }
+      ],
+      "thematic": "Moral: Surface appearances can be deceiving.",
+      "moral": "Wisdom can be found in unconventional sources.",
+      "meta": "Do: Let the story's structure convey meaning implicitly."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 18,
+      "vocabulary": "Optionally, use a simple archaic term within dialogue for flavor.",
+      "thematic": "Moral: The adjunctive entity often tests the protagonist with a simple question or request.",
+      "sentenceStructure/poeticStructures": "Use direct dialogue with a simple attribution.",
+      "Current step of Heroes journey": "Facilitation: The Test/Question",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: In dialogue sprinkle in occasional archaic terms.",
+          "sentenceStructures": "Don't: Embed dialogue within complex narrative sentences often.",
+          "narrative": "Do: Let characters state their intentions or feelings plainly."
+        }
+      ],
+      "thematic": "Moral: The protagonist's response to a request for help determines their eligibility for aid.",
+      "moral": "A simple query can have a profound impact on the protagonist's success.",
+      "meta": "Don't: Write witty banter or clever wordplay."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 19,
+      "vocabulary": "The protagonist's reply should be simple and honest.",
+      "thematic": "Moral: Honesty and humility are rewarded.",
+      "sentenceStructure/poeticStructures": "Use direct dialogue with a simple attribution.",
+      "Current step of Heroes journey": "Facilitation: The Protagonist's Response",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Keep dialogue direct and functional.",
+          "sentenceStructures": "Do: Use simple tags for dialogue.",
+          "narrative": "Don't: Reveal character primarily through subtle conversational cues."
+        }
+      ],
+      "thematic": "Moral: Virtues like kindness, obedience to good advice, and humility are instrumentally valuable.",
+      "moral": "The virtuous protagonist responds differently than an arrogant one would.",
+      "meta": "Do: State facts clearly."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 20,
+      "vocabulary": "Describe the exogenous resource using a simple, concrete noun.",
+      "thematic": "Moral: Positive social interactions with unconventional entities result in supernatural aid.",
+      "sentenceStructure/poeticStructures": "Use a compound sentence to show cause and effect.",
+      "Current step of Heroes journey": "Facilitation: The Asset",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use simple, concrete language.",
+          "sentenceStructures": "Do: Link clauses mainly with simple conjunctions.",
+          "narrative": "Do: Include archetypal magical helpers."
+        }
+      ],
+      "thematic": "Moral: Assets are tools earned through virtue, not by chance.",
+      "moral": "A small, seemingly insignificant object can be the key to victory.",
+      "meta": "Don't: Explain the mechanics of magic."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 21,
+      "vocabulary": "Use dialogue to convey a very specific, crucial proscription.",
+      "thematic": "Moral: Disobedience to warnings given by a facilitative entity will lead to negative outcomes.",
+      "sentenceStructure/poeticStructures": "The dialogue should be a direct command or prohibition.",
+      "Current step of Heroes journey": "Facilitation: The Proscriptive Advisory",
+      "writingRules": [
+        {
+          "choiceOfWords": "Don't: Use contractions – write out the full words.",
+          "sentenceStructures": "Do: Have characters repeat instructions or important information clearly if needed.",
+          "narrative": "Do: Make commands explicit."
+        }
+      ],
+      "thematic": "Moral: The narrative path has clear rules and taboos that must be followed.",
+      "moral": "Negative traits like pride or greed often cause the protagonist to ignore the advisory.",
+      "meta": "Do: Let the outcomes of actions convey the morals."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 22,
+      "vocabulary": "Describe the protagonist taking the asset and continuing the journey with simple verbs.",
+      "thematic": "Setting (Place): The protagonist now moves toward the primary location of their trials.",
+      "sentenceStructure/poeticStructures": "Start the sentence with a conjunction to show the next action.",
+      "Current step of Heroes journey": "Facilitation: Onward",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use functional adjectives.",
+          "sentenceStructures": "Do: Start sentences most frequently with a simple conjunction.",
+          "narrative": "Do: Describe journeys simply."
+        }
+      ],
+      "thematic": "Moral: Equipped with an asset and information, the protagonist is now prepared for the next stage.",
+      "moral": "Gratitude is a virtue.",
+      "meta": "Do: Keep the plot linear."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 23,
+      "vocabulary": "Use a phrase signifying arrival after a long journey.",
+      "thematic": "Setting (Place): The transitional boundary is an archetypal location known for being a barrier.",
+      "sentenceStructure/poeticStructures": "Start with a temporal phrase to signify arrival.",
+      "Current step of Heroes journey": "The Transitional Boundary: Arrival",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Employ simple comparisons.",
+          "sentenceStructures": "Do: Begin occasionally with simple prepositional phrases.",
+          "narrative": "Do: Use simple, archetypal locations."
+        }
+      ],
+      "thematic": "Moral: The transitional boundary represents the point of no return.",
+      "moral": "The entrance to the supernatural realm is always guarded or hidden.",
+      "meta": "Do: Maintain a direct narrative voice."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 24,
+      "vocabulary": "Describe using the acquired asset to pass the boundary.",
+      "thematic": "Moral: The facilitative entity's asset is the key that unlocks the next stage of the journey.",
+      "sentenceStructure/poeticStructures": "Use a simple sentence to describe the action of using the item.",
+      "Current step of Heroes journey": "The Transitional Boundary: The Key",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use simple, concrete nouns.",
+          "sentenceStructures": "Do: Use active voice.",
+          "narrative": "Do: Use clear cause-and-effect logic, even when magic is the cause."
+        }
+      ],
+      "thematic": "Moral: Problems are solved through the application of the right tool, earned earlier.",
+      "moral": "Adherence to the facilitative entity's advice proves its worth.",
+      "meta": "Don't: Explain how the magic works."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 25,
+      "vocabulary": "Describe the new realm with simple, contrasting, and often superlative details.",
+      "thematic": "Setting (Place): The world beyond the boundary operates under different, often supernatural, rules.",
+      "sentenceStructure/poeticStructures": "Use a compound sentence to list two or three unusual features.",
+      "Current step of Heroes journey": "The Transitional Boundary: The New World",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use functional adjectives.",
+          "sentenceStructures": "Do: Link clauses mainly with a simple conjunction.",
+          "narrative": "Do: Describe settings briefly and functionally."
+        }
+      ],
+      "thematic": "Moral: The supernatural world is both alluring and dangerous.",
+      "moral": "The protagonist has now fully entered the realm of the supernatural.",
+      "meta": "Do: Report events without overt emotional colouring from the narrator."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 26,
+      "vocabulary": "The protagonist's action is simple and direct, showing forward movement.",
+      "thematic": "Moral: Courage is demonstrated by proceeding into the unknown.",
+      "sentenceStructure/poeticStructures": "Use a short, simple sentence for pacing.",
+      "Current step of Heroes journey": "The Transitional Boundary: Entering",
+      "writingRules": [
+        {
+          "choiceOfWords": "Don't: Use modern slang or jargon.",
+          "sentenceStructures": "Do: Keep clauses relatively short and clear.",
+          "narrative": "Do: Focus on action and external events over introspection."
+        }
+      ],
+      "thematic": "Moral: The protagonist shows no hesitation once the path is open.",
+      "moral": "The journey must continue, regardless of fear.",
+      "meta": "Don't: Slow down the narrative for emotional reflection."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 27,
+      "vocabulary": "Describe a simple, archetypal obstacle, often a pair of guardian entities.",
+      "thematic": "Setting (Place): Guardians are often placed just inside the boundary.",
+      "sentenceStructure/poeticStructures": "Optionally, use simple inversion for archaic flavor.",
+      "Current step of Heroes journey": "The Transitional Boundary: First Obstacle",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use archetypal creatures as obstacles.",
+          "sentenceStructures": "Do: Occasionally use simple inversion for archaic flavour.",
+          "narrative": "Do: Include functional details like locked doors, or in this case, guards."
+        }
+      ],
+      "thematic": "Moral: Tests are immediate and constant in the new world.",
+      "moral": "Power and danger are the first things one meets in the supernatural realm.",
+      "meta": "Do: State facts clearly."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 28,
+      "vocabulary": "Show the protagonist using the facilitative entity's advice or asset to bypass the obstacle.",
+      "thematic": "Moral: Following the helper's instructions exactly leads to success.",
+      "sentenceStructure/poeticStructures": "Use a compound sentence showing cause and effect.",
+      "Current step of Heroes journey": "The Transitional Boundary: Overcoming",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use simple nouns for magical items.",
+          "sentenceStructures": "Do: Combine very short, consecutive sentences describing closely related actions to improve flow.",
+          "narrative": "Do: Clearly link obedience to rewards."
+        }
+      ],
+      "thematic": "Moral: Disobedience to warnings leads to trouble, but obedience leads to safety.",
+      "moral": "The protagonist proves their worthiness by correctly applying the wisdom they were given.",
+      "meta": "Don't: Justify characters' actions morally from the narrator's perspective."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 29,
+      "vocabulary": "Introduce the first major evaluative challenge or the antagonistic force.",
+      "thematic": "Moral: The central conflict begins. The protagonist must now demonstrate their worth through deeds.",
+      "sentenceStructure/poeticStructures": "Start the sentence with a word that signals a new phase of the story.",
+      "Current step of Heroes journey": "Evaluative Challenges: The First Trial",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Refer to antagonists by archetypal roles.",
+          "sentenceStructures": "Do: Use active voice.",
+          "narrative": "Do: A clear quest, task, or problem to be solved."
+        }
+      ],
+      "thematic": "Moral: Challenges often come in threes, testing different virtues.",
+      "moral": "The antagonistic force represents the core obstacle to be overcome.",
+      "meta": "Do: Use a direct, unobtrusive narrative voice."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 30,
+      "vocabulary": "Articulate an objective with parameters suggesting a high probability of failure.",
+      "thematic": "Moral: The protagonist faces overwhelming odds, requiring external assistance.",
+      "sentenceStructure/poeticStructures": "Use a simple, declarative sentence to state the challenge.",
+      "Current step of Heroes journey": "Evaluative Challenges: An Imposed Objective",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use hyperbole for the scale of the challenge.",
+          "sentenceStructures": "Do: Keep clauses short and clear.",
+          "narrative": "Don't: Explore the character's internal despair. State the difficulty of the objective instead."
+        }
+      ],
+      "thematic": "Moral: The protagonist's own strength is insufficient; they must rely on aid.",
+      "moral": "The objective is a test of spirit, not just physical ability.",
+      "meta": "Don't: Slow down the narrative for suspense in a modern way."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 31,
+      "vocabulary": "Integrate novel adjunctive entities, characteristically manifesting reciprocal affective dynamics.",
+      "thematic": "Moral: Past virtuous actions are now reciprocated.",
+      "sentenceStructure/poeticStructures": "Optionally, use a poetic structure for the arrival of the adjunctive entities.",
+      "Current step of Heroes journey": "Evaluative Challenges: A Cooperative Entity Appears",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Give non-human entities human-like qualities when they are facilitative.",
+          "sentenceStructures": "Do: Occasionally include simple rhymes or verses.",
+          "narrative": "Do: Include archetypal magical helpers."
+        }
+      ],
+      "thematic": "Moral: Highlight the instrumental power of kindness.",
+      "moral": "Entities of small stature can provide the greatest assistance.",
+      "meta": "Do: Embrace elements of magic or the supernatural."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 32,
+      "vocabulary": "Describe the adjunctive entities completing the objective with supernatural celerity.",
+      "thematic": "Moral: With the right assistance, the impossible becomes possible.",
+      "sentenceStructure/poeticStructures": "Use repetition to create a rhythmic, process-oriented quality.",
+      "Current step of Heroes journey": "Evaluative Challenges: The Objective is Met",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use simple, strong verbs.",
+          "sentenceStructures": "Do: Use parataxis, linking clauses with a simple conjunction.",
+          "narrative": "Do: State magical events plainly and quickly."
+        }
+      ],
+      "thematic": "Moral: The protagonist succeeds not through their own power, but by inspiring loyalty and assistance.",
+      "moral": "Natural forces may aid the worthy protagonist.",
+      "meta": "Don't: Explain the mechanics of the magic."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 33,
+      "vocabulary": "Describe the antagonistic force's reaction, often with anger or surprise.",
+      "thematic": "Moral: The antagonist, who relies on direct power, is confounded by the protagonist's success via virtue.",
+      "sentenceStructure/poeticStructures": "Start with a subordinate clause to link the antagonist's observation to their reaction.",
+      "Current step of Heroes journey": "Evaluative Challenges: Antagonist's Reaction",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Indicate basic emotional states directly.",
+          "sentenceStructures": "Do: Occasionally use a slightly more complex sentence with a subordinate clause.",
+          "narrative": "Don't: Give characters complex motivations. The antagonist's nature is sufficient explanation."
+        }
+      ],
+      "thematic": "Moral: Negative traits like cruelty and pride are punished by being outwitted.",
+      "moral": "The antagonist underestimates the power of cooperation.",
+      "meta": "Do: State facts clearly."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 34,
+      "vocabulary": "Use a repetitive phrase to introduce the next challenge in a series.",
+      "thematic": "Moral: Trials are repeated, often with escalating difficulty, following a pattern of three.",
+      "sentenceStructure/poeticStructures": "Use a simple sentence structure similar to the first challenge's introduction.",
+      "Current step of Heroes journey": "Evaluative Challenges: The Second Trial",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use repetition for structure.",
+          "sentenceStructures": "Do: Start the sentence with a conjunction to show sequence.",
+          "narrative": "Do: Use repetition effectively for tasks, journeys, or structure."
+        }
+      ],
+      "thematic": "Moral: The protagonist's resolve is tested multiple times.",
+      "moral": "Repetition emphasizes the ritualistic nature of the trials.",
+      "meta": "Do: Use symbolic numbers, especially three."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 35,
+      "vocabulary": "Describe the second challenge. It should be different in nature but equal in difficulty.",
+      "thematic": "Moral: Each challenge may test a different aspect of the protagonist's character.",
+      "sentenceStructure/poeticStructures": "Use a simple, declarative sentence.",
+      "Current step of Heroes journey": "Evaluative Challenges: A New Challenge",
+      "writingRules": [
+        {
+          "choiceOfWords": "Don't: Use overly complex vocabulary.",
+          "sentenceStructures": "Do: Keep clauses short.",
+          "narrative": "Do: Focus on the chain of events."
+        }
+      ],
+      "thematic": "Moral: The challenges escalate, requiring more from the protagonist.",
+      "moral": "The antagonist's nature is shown in the design of the challenges.",
+      "meta": "Do: Keep the plot moving forward."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 36,
+      "vocabulary": "Describe the protagonist's temporary inability to proceed, stated simply.",
+      "thematic": "Moral: The protagonist faces a moment of doubt, emphasizing their reliance on external assistance.",
+      "sentenceStructure/poeticStructures": "Use a compound sentence to describe the protagonist's impasse.",
+      "Current step of Heroes journey": "Evaluative Challenges: A Moment of Doubt",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: State emotional states plainly.",
+          "sentenceStructures": "Do: Link clauses with a simple conjunction.",
+          "narrative": "Don't: Explore conflicting emotions or internal moral debates."
+        }
+      ],
+      "thematic": "Moral: Even the protagonist has limits.",
+      "moral": "A moment of impasse often precedes the arrival of supernatural aid.",
+      "meta": "Do: Report events without overt emotional colouring."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 37,
+      "vocabulary": "The protagonist recalls the prior advisory or utilizes the acquired asset again.",
+      "thematic": "Moral: The tools and wisdom given to the protagonist have repeated use and importance.",
+      "sentenceStructure/poeticStructures": "Start with a phrase indicating a shift in thought or action.",
+      "Current step of Heroes journey": "Evaluative Challenges: Recalling the Asset",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use simple verbs.",
+          "sentenceStructures": "Do: Start sentences with simple conjunctions or temporal markers.",
+          "narrative": "Do: Use clear cause-and-effect logic."
+        }
+      ],
+      "thematic": "Moral: Wisdom must be remembered and applied at the correct time.",
+      "moral": "The facilitative entity's influence persists even in their absence.",
+      "meta": "Don't: Withhold information in a modern narrative style."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 38,
+      "vocabulary": "The second challenge is completed, often with timely precision.",
+      "thematic": "Moral: Success is achieved again through obedience and the use of supernatural aid.",
+      "sentenceStructure/poeticStructures": "Use a simple sentence to state the successful outcome.",
+      "Current step of Heroes journey": "Evaluative Challenges: Second Success",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use a stock phrase to indicate speed.",
+          "sentenceStructures": "Do: Keep the sentence short and decisive.",
+          "narrative": "Do: Conclude events decisively."
+        }
+      ],
+      "thematic": "Moral: The pattern of trial and supernatural resolution is reinforced.",
+      "moral": "Perseverance is rewarded.",
+      "meta": "Do: Keep the pace brisk."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 39,
+      "vocabulary": "The protagonist now interacts directly with an antagonistic or deceptive entity.",
+      "thematic": "Moral: After passing tests of skill/virtue, the protagonist must pass a test of direct interaction.",
+      "sentenceStructure/poeticStructures": "Use an active sentence showing the protagonist's movement or speech.",
+      "Current step of Heroes journey": "Evaluative Challenges: Confrontation",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Define characters by their actions.",
+          "sentenceStructures": "Do: Use active voice.",
+          "narrative": "Do: Describe actions clearly."
+        }
+      ],
+      "thematic": "Moral: This can be where a deceptive entity's true nature is revealed.",
+      "moral": "Truth must be presented to the antagonistic force.",
+      "meta": "Do: Focus on external events."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 40,
+      "vocabulary": "The antagonistic entity makes a threat or a boast in simple dialogue.",
+      "thematic": "Moral: The antagonist reveals their nature through their own words.",
+      "sentenceStructure/poeticStructures": "Use direct dialogue with a simple attribution.",
+      "Current step of Heroes journey": "Evaluative Challenges: The Threat",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Let characters state their intentions plainly.",
+          "sentenceStructures": "Do: Keep dialogue direct and functional.",
+          "narrative": "Don't: Use subtext-heavy conversation."
+        }
+      ],
+      "thematic": "Moral: Negative traits are expressed through boastful threats.",
+      "moral": "The antagonist's words often prefigure their own doom.",
+      "meta": "Don't: Use witty banter."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 41,
+      "vocabulary": "The protagonist responds with simple courage or a non-obvious methodology.",
+      "thematic": "Moral: The protagonist's cleverness or steadfastness is their primary tool against brute force.",
+      "sentenceStructure/poeticStructures": "Use a simple sentence describing the protagonist's action or a short, defiant line of dialogue.",
+      "Current step of Heroes journey": "Evaluative Challenges: The Protagonist's Cunning",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Show character through action.",
+          "sentenceStructures": "Do: Use simple, declarative language.",
+          "narrative": "Do: Demonstrate that cleverness and resourcefulness can overcome might."
+        }
+      ],
+      "thematic": "Moral: A trickster-like character can outwit the powerful.",
+      "moral": "Bravery is not the absence of fear, but correct action despite it.",
+      "meta": "Do: Maintain a straightforward narrative."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 42,
+      "vocabulary": "The third and final challenge is presented.",
+      "thematic": "Moral: The pattern of three dictates a final, culminating test.",
+      "sentenceStructure/poeticStructures": "Use a repetitive phrase to introduce the final challenge.",
+      "Current step of Heroes journey": "Evaluative Challenges: The Third Trial",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use repetition for structure.",
+          "sentenceStructures": "Do: Use a compound sentence linked by a conjunction.",
+          "narrative": "Do: Use repetition effectively for tasks."
+        }
+      ],
+      "thematic": "Moral: The third challenge is often the one that directly leads to the antagonist's downfall.",
+      "moral": "Completion of the third challenge signifies a complete victory.",
+      "meta": "Do: Use symbolic numbers, especially three."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 43,
+      "vocabulary": "This challenge is described as the most difficult of all.",
+      "thematic": "Moral: The protagonist's trials escalate to a final peak.",
+      "sentenceStructure/poeticStructures": "Use a simple declarative sentence.",
+      "Current step of Heroes journey": "Evaluative Challenges: The Hardest Challenge",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use functional adjectives.",
+          "sentenceStructures": "Do: Keep the sentence simple and direct.",
+          "narrative": "Do: Focus on what happens, not the internal experience of it."
+        }
+      ],
+      "thematic": "Moral: The final test requires the culmination of all skills and alliances.",
+      "moral": "The protagonist must be pushed to their absolute limit.",
+      "meta": "Do: Maintain a brisk pace."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 44,
+      "vocabulary": "The protagonist uses all their adjunctive entities and acquired assets to succeed.",
+      "thematic": "Moral: Success is a collective effort, relying on all the kindness and wisdom gathered along the way.",
+      "sentenceStructure/poeticStructures": "Use a compound sentence listing the contributions of the helpers.",
+      "Current step of Heroes journey": "Evaluative Challenges: Final Success",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use concrete nouns for helpers and items.",
+          "sentenceStructures": "Do: Link clauses with a conjunction to show accumulation of effort.",
+          "narrative": "Do: Conclude events decisively."
+        }
+      ],
+      "thematic": "Moral: The protagonist's journey is validated by the successful integration of all the help they have received.",
+      "moral": "Faithfulness to one's allies is rewarded with victory.",
+      "meta": "Don't: Explain motivations in depth."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 45,
+      "vocabulary": "The antagonist has no more indirect challenges and must now engage the protagonist directly.",
+      "thematic": "Moral: The antagonist's tricks and trials are exhausted, leaving only direct opposition.",
+      "sentenceStructure/poeticStructures": "Use a simple sentence stating the antagonist's emotional state.",
+      "Current step of Heroes journey": "Evaluative Challenges: End of the Trials",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: State emotions plainly.",
+          "sentenceStructures": "Do: Keep the sentence direct.",
+          "narrative": "Don't: Explore complex psychological motivation."
+        }
+      ],
+      "thematic": "Moral: The antagonistic force has run out of cunning and must resort to its fundamental nature.",
+      "moral": "The protagonist has proven their worth and is ready for the climactic conflict.",
+      "meta": "Do: Keep the plot linear and moving toward the climax."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 46,
+      "vocabulary": "Describe the start of the climactic conflict.",
+      "thematic": "Moral: The ultimate opposition between protagonist and antagonist.",
+      "sentenceStructure/poeticStructures": "Start with an action-oriented word.",
+      "Current step of Heroes journey": "The Climactic Conflict: The Confrontation",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use strong, simple verbs of action.",
+          "sentenceStructures": "Do: Use active voice.",
+          "narrative": "Do: Maintain a straightforward, often brisk pace, even during dramatic events."
+        }
+      ],
+      "thematic": "Moral: The protagonist must now risk everything.",
+      "moral": "This is the climax of the story.",
+      "meta": "Don't: Slow down for modern-style suspense."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 47,
+      "vocabulary": "The antagonist acts with their greatest power or malice.",
+      "thematic": "Moral: The true nature of the antagonistic force is fully revealed.",
+      "sentenceStructure/poeticStructures": "Use a simple but powerful sentence to describe the action.",
+      "Current step of Heroes journey": "The Climactic Conflict: The Antagonist's Power",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use functional adjectives.",
+          "sentenceStructures": "Do: Keep the sentence direct.",
+          "narrative": "Do: Describe violence bluntly and factually."
+        }
+      ],
+      "thematic": "Moral: The antagonist's power is destructive and direct.",
+      "moral": "This is the moment of maximum danger.",
+      "meta": "Don't: Linger on gore or suffering."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 48,
+      "vocabulary": "The protagonist is put into a state of maximal disadvantage or is immobilized.",
+      "thematic": "Moral: The 'death' phase of the conflict, where all seems lost.",
+      "sentenceStructure/poeticStructures": "Use a simple sentence to state the protagonist's dire situation.",
+      "Current step of Heroes journey": "The Climactic Conflict: Apparent Defeat",
+      "writingRules": [
+        {
+          "choiceOfWords": "Don't: Use words that imply deep psychological states.",
+          "sentenceStructures": "Do: Use a short sentence for impact.",
+          "narrative": "Do: Focus on the external event, not the internal feeling of despair."
+        }
+      ],
+      "thematic": "Moral: The protagonist's lowest point precedes their greatest triumph.",
+      "moral": "This moment highlights the protagonist's vulnerability.",
+      "meta": "Do: State facts and events clearly."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 49,
+      "vocabulary": "The protagonist employs a final, non-obvious methodology or a recursive application of the antagonist's own force.",
+      "thematic": "Moral: Cleverness, not strength, is often the key to victory.",
+      "sentenceStructure/poeticStructures": "Start with a conjunction to show the turn of events.",
+      "Current step of Heroes journey": "The Climactic Conflict: The Reversal",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Lean towards simple, concrete language.",
+          "sentenceStructures": "Do: Start sentences most frequently with simple conjunctions.",
+          "narrative": "Do: Demonstrate that cleverness and resourcefulness can overcome might."
+        }
+      ],
+      "thematic": "Moral: The negative consequence is often poetically suited to the antagonist's nature.",
+      "moral": "The protagonist's true strength is revealed in their darkest moment.",
+      "meta": "Don't: Build suspense by withholding information; the reveal is sudden."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 50,
+      "vocabulary": "Describe the decisive action that neutralizes the antagonist.",
+      "thematic": "Moral: The protagonist's action directly causes the antagonist's defeat.",
+      "sentenceStructure/poeticStructures": "Use a strong verb in an active voice sentence.",
+      "Current step of Heroes journey": "The Climactic Conflict: The Decisive Action",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use simple but impactful verbs.",
+          "sentenceStructures": "Do: Keep the sentence clear and powerful.",
+          "narrative": "Do: Describe actions clearly and sequentially."
+        }
+      ],
+      "thematic": "Moral: The physical defeat of the antagonist represents the triumph of one principle over another.",
+      "moral": "A single, correct action ends the conflict.",
+      "meta": "Do: Keep the plot linear."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 51,
+      "vocabulary": "State the antagonist's final state bluntly and factually.",
+      "thematic": "Moral: The consequences for antagonistic actions are final and often irreversible.",
+      "sentenceStructure/poeticStructures": "Use a simple, declarative sentence to state the outcome.",
+      "Current step of Heroes journey": "The Climactic Conflict: The Antagonist is Vanquished",
+      "writingRules": [
+        {
+          "choiceOfWords": "Don't: shy away from harsh consequences.",
+          "sentenceStructures": "Do: Use simple sentence structures.",
+          "narrative": "Do: Describe violence bluntly and factually, without sanitizing it."
+        }
+      ],
+      "thematic": "Moral: Consequences are often fitting and poetic.",
+      "moral": "Redemption is not typically offered to antagonistic forces; their removal is the resolution.",
+      "meta": "Don't: Offer alternative interpretations."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 52,
+      "vocabulary": "Describe the dissolution of the negative supernatural effect.",
+      "thematic": "Moral: With the source of antagonism gone, its effects are undone.",
+      "sentenceStructure/poeticStructures": "Use a magical, transformative sentence to describe the effect.",
+      "Current step of Heroes journey": "The Climactic Conflict: The World is Changed",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Employ simple comparisons.",
+          "sentenceStructures": "Do: Combine very short sentences to improve flow.",
+          "narrative": "Do: State magical transformations plainly and quickly."
+        }
+      ],
+      "thematic": "Moral: The defeat of the antagonist restores balance to the world.",
+      "moral": "The protagonist's victory has benefits for the entire environment.",
+      "meta": "Don't: Explain the magic."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 53,
+      "vocabulary": "The protagonist takes possession of the primary objective or asset.",
+      "thematic": "Moral: The protagonist has earned their reward through their trials.",
+      "sentenceStructure/poeticStructures": "Start with a conjunction and describe the simple action of acquiring the asset.",
+      "Current step of Heroes journey": "The Resolution: Seizing the Prize",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use simple, concrete nouns for the reward.",
+          "sentenceStructures": "Do: Use active voice.",
+          "narrative": "Do: Focus on action over introspection."
+        }
+      ],
+      "thematic": "Moral: The quest object is secured.",
+      "moral": "The acquired asset symbolizes the achievement of the journey's goal.",
+      "meta": "Do: Keep the plot moving."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 54,
+      "vocabulary": "If an entity was in an altered state, describe their reversion to a normative form.",
+      "thematic": "Moral: Restoration is a key part of the reward.",
+      "sentenceStructure/poeticStructures": "State the transformation plainly and with simple, positive adjectives.",
+      "Current step of Heroes journey": "The Resolution: Restoration",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use functional adjectives.",
+          "sentenceStructures": "Do: Keep sentences simple and declarative.",
+          "narrative": "Do: State magical transformations plainly and quickly."
+        }
+      ],
+      "thematic": "Moral: The protagonist's actions heal others and restore their true forms.",
+      "moral": "External appearances are corrected to reflect internal truth.",
+      "meta": "Don't: Describe the internal physical sensations of transforming."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 55,
+      "vocabulary": "Use a stock phrase to describe the celebratory emotion.",
+      "thematic": "Moral: The successful completion of the quest brings joy to the virtuous characters.",
+      "sentenceStructure/poeticStructures": "Use a simple sentence to describe the collective emotion.",
+      "Current step of Heroes journey": "The Resolution: Celebration",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use stock phrases.",
+          "sentenceStructures": "Do: Use simple sentences predominantly.",
+          "narrative": "Do: Indicate basic emotional states directly."
+        }
+      ],
+      "thematic": "Moral: Virtue is rewarded with happiness and recognition.",
+      "moral": "The community celebrates the restoration of order.",
+      "meta": "Do: Report events without overt emotional colouring from the narrator."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 56,
+      "vocabulary": "State the official reward using concrete, archetypal terms.",
+      "thematic": "Political Aspects: Marriage and land are the ultimate rewards, signifying a change in social status.",
+      "sentenceStructure/poeticStructures": "Use a simple, declarative sentence.",
+      "Current step of Heroes journey": "The Resolution: The Ultimate Boon",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use concrete nouns.",
+          "sentenceStructures": "Do: Keep clauses short and clear.",
+          "narrative": "Do: Conclude events decisively."
+        }
+      ],
+      "thematic": "Moral: The protagonist's worth is recognized, and they are integrated into the highest level of society.",
+      "moral": "End stories with a clear restoration of order, often through marriage and inheritance.",
+      "meta": "Don't: Question the right of the authority figure to dispense such rewards."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 57,
+      "vocabulary": "Describe the protagonist's return to their original world simply.",
+      "thematic": "Moral: The protagonist brings the acquired asset or new status back, completing the cycle.",
+      "sentenceStructure/poeticStructures": "Start with a conjunction and describe the journey back.",
+      "Current step of Heroes journey": "The Return: The Journey Home",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use simple language.",
+          "sentenceStructures": "Do: Use a simple sentence.",
+          "narrative": "Do: Describe journeys simply."
+        }
+      ],
+      "thematic": "Moral: The protagonist is transformed by their journey and is no longer the same person who left.",
+      "moral": "The return is as important as the quest itself.",
+      "meta": "Do: Keep the plot linear."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 58,
+      "vocabulary": "Reveal the actions of any deceptive entities.",
+      "thematic": "Moral: Truth is revealed upon the true protagonist's return.",
+      "sentenceStructure/poeticStructures": "Use a non-human entity or a supernatural object to reveal the truth.",
+      "Current step of Heroes journey": "The Return: Justice",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Give non-human entities human-like speech if they are revealing truth.",
+          "sentenceStructures": "Do: Use direct dialogue to expose the antagonist.",
+          "narrative": "Do: Resolution where virtue is rewarded and vice punished."
+        }
+      ],
+      "thematic": "Moral: Deceit cannot be maintained in the face of truth.",
+      "moral": "The wicked are exposed and cannot escape justice.",
+      "meta": "Don't: Allow for ambiguity. The truth is absolute."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 59,
+      "vocabulary": "Describe the consequences for the deceptive entities bluntly and fittingly.",
+      "thematic": "Moral: Consequences should be poetically just and physically direct.",
+      "sentenceStructure/poeticStructures": "Use a simple sentence to state the consequence without moralizing.",
+      "Current step of Heroes journey": "The Return: The Punishment",
+      "writingRules": [
+        {
+          "choiceOfWords": "Don't: shy away from harsh consequences.",
+          "sentenceStructures": "Do: Use simple, declarative sentences.",
+          "narrative": "Don't: Forgive villains easily; punishment is usually permanent or fatal."
+        }
+      ],
+      "thematic": "Moral: Do not question the justice of the consequences, even if severe.",
+      "moral": "Order is fully restored by purging deceptive or antagonistic elements.",
+      "meta": "Don't: Inject personal opinions into the narration."
+    },
+    {
+      "Sentence (leave empty)": "",
+      "Sentence Number": 60,
+      "vocabulary": "Use a formulaic narrative closing.",
+      "thematic": "Moral: The story ends in a state of permanent, earned equilibrium.",
+      "sentenceStructure/poeticStructures": "Use a classic closing phrase.",
+      "Current step of Heroes journey": "The Return: New Equilibrium",
+      "writingRules": [
+        {
+          "choiceOfWords": "Do: Use a stock phrase for the ending.",
+          "sentenceStructures": "Do: Keep it simple and final.",
+          "narrative": "Do: Use formulaic closings."
+        }
+      ],
+      "thematic": "Moral: The resolution is absolute and final.",
+      "moral": "The new order established by the protagonist is a stable and positive one.",
+      "meta": "Don't: Use ambiguous endings. Resolutions are typically clear."
+    }
+  ]
+}
